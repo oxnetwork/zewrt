@@ -1,33 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-# ==============================================================================
-#                      V2Ray Configuration Collector
-#
-#               Author: PlanAsli (Enhanced by @oxnet_ir)
-#               Version: 8.0.0 (Final - File Organization & More Subs)
-#
-#   Description:
-#   A highly advanced, asynchronous V2Ray configuration collector that uses a
-#   local GeoIP database, features a clean file structure, and gathers from an
-#   extensive list of sources.
-#
-# ==============================================================================
-#
-#   !!! IMPORTANT / بسیار مهم !!!
-#
-#   This script requires the 'geoip2' library to function correctly.
-#   Please install all required libraries before running.
-#
-#   این اسکریپت برای اجرا به کتابخانه 'geoip2' نیاز دارد.
-#   لطفا قبل از اجرا، تمام کتابخانه‌های مورد نیاز را نصب کنید.
-#
-#   RUN THIS COMMAND:
-#   pip install httpx[http2] beautifulsoup4 pydantic jdatetime aiofiles geoip2
-#
-# ==============================================================================
-
-
 import os
 import asyncio
 import json
@@ -56,10 +26,6 @@ except ImportError:
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 from pydantic import BaseModel, Field, model_validator
-
-# ------------------------------------------------------------------------------
-# --- FILENAME: core/config.py ---
-# ------------------------------------------------------------------------------
 
 class AppConfig:
     """Holds all application configuration settings."""
