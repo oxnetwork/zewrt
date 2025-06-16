@@ -1,34 +1,41 @@
-
 name: V2Ray Config Collector
+
 on:
-  push:
-    branches:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
-  build:
-    runs-on: ubuntu-latest  
+  collect_configs:
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-      - name: Set up Python
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install httpx[http2] beautifulsoup4 pydantic jdatetime aiofiles geoip2
-      - name: Run V2Ray Collector
-        run: python main.py
-      - name: Commit and push changes
+
+      - name: Run script
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
+          python main.py
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "action@github.com"
+          git add -A
           if ! git diff --staged --quiet; then
-            git commit -m "📊 Update V2Ray configs - $(date)"
+            git commit -m "CHORE: Update V2Ray configs"
             git push
           else
             echo "No changes to commit."
