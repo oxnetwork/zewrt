@@ -235,5 +235,5 @@ geosite:apple-ads
 <hr>
 
 <p align="center">
-
+  ساخته شده با ❤️ برای آزادی اینترنت
 </p>
