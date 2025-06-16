@@ -35,7 +35,7 @@ class AppConfig:
     """Holds all application configuration settings."""
     BASE_DIR = Path(__file__).parent
     DATA_DIR = BASE_DIR / "v2ray_data"  # New directory for all data/log files
-    OUTPUT_DIR = BASE_DIR / "output"
+    OUTPUT_DIR = BASE_DIR / "sub"
     
     DIRS = {
         "splitted": OUTPUT_DIR / "splitted",
