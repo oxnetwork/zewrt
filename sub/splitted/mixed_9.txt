@@ -1,6 +1,14 @@
-trojan://ph9496ku-efvh-flqf-r15s-nueegwwfsrke@127.0.0.1:1080?security=tls&type=tcp#LATEST UPDATE 📆 1404-KHORDAD-27 ⏰ 01:19
-trojan://eyeq0ikm-q7df-7ev9-uix3-b8s48tn0f5vc@127.0.0.1:2080?security=tls&type=tcp#✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀
-trojan://nh188qmh-prg8-xgso-qgxt-0l0abv153rt7@127.0.0.1:3080?security=tls&type=tcp#✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀
+trojan://af19vvkr-r6mp-p85x-cmfj-rl2plz7gosi2@127.0.0.1:1080?security=tls&type=tcp#LATEST UPDATE 📆 1404-KHORDAD-27 ⏰ 02:00
+trojan://pp2hecdr-c84h-7nh5-2chz-8rlg7f5z60nq@127.0.0.1:2080?security=tls&type=tcp#✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀
+trojan://lxj4u09a-6bkv-iwfh-co3r-dx1f2kiyqpkb@127.0.0.1:3080?security=tls&type=tcp#✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀
+vless://1c919932-248e-4ad0-92d4-53b69bc6590b@hon5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇭🇰 HK-hon5.vpntype.dev:443
+vless://671735aa-64e9-404b-a0a0-cfd9f20d5332@hon5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇭🇰 HK-hon5.vpntype.dev:443
+vless://28a3261b-2dbf-43c3-aa9b-0f276f8432ab@lon5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇬🇧 GB-lon5.vpntype.dev:443
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.133.208:59483?type=grpc&security=auto&fp=chrome#🔓 VL-GRPC-AUTO 🇺🇸 US-157.230.133.208:59483
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.227.63.189:59483?type=grpc&security=auto&fp=chrome#🔓 VL-GRPC-AUTO 🇺🇸 US-64.227.63.189:59483
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.184.133:59483?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇺🇸 US-178.128.184.133:59483
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.239.19:59483?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇺🇸 US-157.245.239.19:59483
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.177.193:59483?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇺🇸 US-104.248.177.193:59483
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.22.140.66:59483?type=grpc&security=none&fp=chrome#🔓 VL-GRPC-NTLS 🇺🇸 US-165.22.140.66:59483
 vless://96a5564f-eeff-4c3e-b8ce-6002426586d1@fra5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇩🇪 DE-fra5.vpntype.dev:443
 vless://527d06c5-c0ce-4e43-ecd4-0864d3671874@65.109.221.64:23227?type=ws&security=none#🔓 VL-WS-NTLS 🇫🇮 FI-65.109.221.64:23227
@@ -168,7 +176,6 @@ vless://62c75403-1e6c-489a-b4f5-38731ecf098e@hajlab.ucdavis.edu:80?type=ws&secur
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.70.44.195:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#🔒 VL-WS-TLS 🇩🇪 DE-3.70.44.195:22222
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.88.176:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#🔒 VL-WS-TLS 🇫🇷 FR-13.39.88.176:22222
 vless://2c98c5f1-7c01-4e8f-9224-0d6e49c7da24@151.101.64.155:80?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.64.155:80
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.153.2:443?type=ws&security=tls&path=/Telegram@proxy_mtm/?ed=2560&sni=vlee.amclubs.nyc.mn&fp=randomized#🔒 VL-WS-TLS 🏳️ XX-162.159.153.2:443
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.116.81:59483?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇺🇸 US-167.71.116.81:59483
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.127.26:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#🔒 VL-WS-TLS 🇫🇷 FR-52.47.127.26:22222
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.177.87.205:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#🔒 VL-WS-TLS 🇬🇧 GB-35.177.87.205:22222
@@ -1161,7 +1168,6 @@ vless://mosiv2----mosiv2@parspack.com:8880?type=ws&security=none&path=/MOSiV2--M
 vless://2fb29953-6618-4fe2-a208-f17cf5ebac44@151.101.2.216:80?type=ws&security=none&path=/TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.2.216:80
 vless://072f4db4-d89d-420d-9d9e-045ed8d5c9cc@172.67.214.21:443?type=ws&security=tls&path=/uDLWPKXENxF2ulPWRIwOavJd&sni=10e.191268.xyz&fp=chrome#🔒 VL-WS-TLS 🏳️ XX-172.67.214.21:443
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.89.141.36:59483?type=grpc&security=auto&fp=chrome#🔓 VL-GRPC-AUTO 🇺🇸 US-159.89.141.36:59483
-vless://14f2ab34-a48e-4d99-900c-a24bfa261aa2@141.11.103.212:4001?type=tcp&security=none#🔓 VL-TCP-NTLS 🇳🇱 NL-141.11.103.212:4001
 vless://73161602-9d83-44f0-be12-a47b4a9c4d9a@151.101.64.155:80?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.64.155:80
 vless://fea0fe51-b113-4dfe-90d8-cf89ad85fe5e@sin5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇸🇬 SG-sin5.vpntype.dev:443
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.167.149:59483?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇺🇸 US-157.230.167.149:59483
@@ -1299,7 +1305,6 @@ vless://40799aed-328a-49ab-9108-49e5eda8857f@108.162.195.157:443?type=ws&securit
 vless://13c3e723-355f-483a-9f15-bef65ba96391@104.17.148.22:80?type=ws&security=none&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-104.17.148.22:80
 vless://b5a4406e-dfa8-401d-b7b9-3f2fbb007c24@104.18.8.74:443?type=ws&security=tls&path=/admin&sni=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&fp=random#🔒 VL-WS-TLS 🏳️ XX-104.18.8.74:443
 vless://c009a273-b5d4-4d85-a19f-eef25a81693d@fastaly.dollardoon.com:80?type=ws&security=none&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-fastaly.dollardoon.com:80
-vless://e3b5f729-efe0-412f-9893-08d8ccad628f@104.17.148.22:2095?type=httpupgrade&security=none&path=/?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-104.17.148.22:2095
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.22.116.33:2095?type=ws&security=none#🔓 VL-WS-NTLS 🇬🇧 GB-31.22.116.33:2095
 vless://3c2868f5-3b97-4a15-88c7-1972a9ea8aee@172.67.202.125:443?type=ws&security=tls&path=/@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_@one_shop_official_?ed=2048&sni=cdnfast.lunarmc.ir.&fp=chrome#🔒 VL-WS-TLS 🏳️ XX-172.67.202.125:443
 vless://29cc1dba-ff51-4c99-a07e-29daec222ddc@172.67.73.163:80?type=ws&security=none&path=/?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-172.67.73.163:80
@@ -2358,7 +2363,7 @@ vless://53423c65-91b7-4274-82be-2602e3f3fa5d@www.speedtest.net:2052?type=ws&secu
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.111.9:59483?type=grpc&security=auto&fp=chrome#🔓 VL-GRPC-AUTO 🇺🇸 US-167.99.111.9:59483
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.223.194:59483?type=grpc&security=auto&fp=chrome#🔓 VL-GRPC-AUTO 🇺🇸 US-167.172.223.194:59483
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.168.222:59483?type=grpc&security=auto&fp=chrome#🔓 VL-GRPC-AUTO 🇺🇸 US-157.230.168.222:59483
-vless://beca86b4-1a33-7c3b-a2a0-d3022a1440de@darkshield.offl1ne.com:2086?type=httpupgrade&security=none&path=/egram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-darkshield.offl1ne.com:2086
+vless://beca86b4-1a33-7c3b-a2a0-d3022a1440de@darkshield.offl1ne.com:2086?type=httpupgrade&security=none&path=/egram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🇿🇦 ZA-darkshield.offl1ne.com:2086
 vless://2287f5e4-714e-4631-8d29-650d90173b38@tgju.org:80?type=ws&security=none&path=/?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-tgju.org:80
 vless://d0b88e62-b3da-41c6-b744-002229b0836c@tgju.org:80?type=ws&security=none&path=/?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-tgju.org:80
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.37.246:59483?type=grpc&security=auto&fp=chrome#🔓 VL-GRPC-AUTO 🇺🇸 US-64.225.37.246:59483
@@ -2433,7 +2438,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?type=grpc&securit
 vless://7f38f325-10ba-4366-a754-7a778653938a@142.93.231.14:18829?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇳🇱 NL-142.93.231.14:18829
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638816358623170764.athens-shledrc-acca.info:8880?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇱🇹 LT-638816358623170764.athens-shledrc-acca.info:8880
 vless://fd5c3c74-fabe-468c-a97f-e3cb555442bc@uk.ir.iranigamepars.ir:443?type=grpc&security=tls&sni=uk.ir.iranigamepars.ir#🔒 VL-GRPC-TLS 🏳️ XX-uk.ir.iranigamepars.ir:443
-vless://93cf17d3-2ffd-486b-9ea8-31ead0086137@s.sarzamiiinahang.ir:2087?type=grpc&security=tls&sni=s.sarzamiiinahang.ir&fp=chrome#🔒 VL-GRPC-TLS 🏳️ XX-s.sarzamiiinahang.ir:2087
+vless://93cf17d3-2ffd-486b-9ea8-31ead0086137@s.sarzamiiinahang.ir:2087?type=grpc&security=tls&sni=s.sarzamiiinahang.ir&fp=chrome#🔒 VL-GRPC-TLS 🇩🇪 DE-s.sarzamiiinahang.ir:2087
 vless://59a846f5-4aba-4dd6-b89d-1244acd247c1@www.zula.ir:8880?type=ws&security=none&path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&fp=randomized#🔓 VL-WS-NTLS 🏳️ XX-www.zula.ir:8880
 vless://ed37ff5d-e19f-49a6-b32f-8165af757495@173.245.59.132:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-173.245.59.132:80
 vless://4b270bff-0f7e-428e-9fab-a4d96c068e8b@website.acveo.ir:8080?type=httpupgrade&security=none&path=/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-website.acveo.ir:8080
@@ -2576,7 +2581,7 @@ vless://d44d89f5-e726-4479-b3ab-d3cf51a286d7@104.17.148.22:8880?type=ws&security
 vless://b741ac99-d130-4626-a972-220a7f826ce9@www.speedtest.net:2052?type=ws&security=none&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-www.speedtest.net:2052
 vless://776464d3-4d78-4825-bfb9-cf8fa377d479@www.speedtest.net:80?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-www.speedtest.net:80
 vless://ff0b1d17-1cf7-411f-be01-c76861cdecc7@www.speedtest.net:80?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-www.speedtest.net:80
-vless://00b91c86-78b2-76b5-8664-25fbcd00c724@darkshield.offl1ne.com:2086?type=httpupgrade&security=none&path=/egram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-darkshield.offl1ne.com:2086
+vless://00b91c86-78b2-76b5-8664-25fbcd00c724@darkshield.offl1ne.com:2086?type=httpupgrade&security=none&path=/egram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🇿🇦 ZA-darkshield.offl1ne.com:2086
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.22.170.158:59483?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇺🇸 US-165.22.170.158:59483
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.27.246:59483?type=grpc&security=auto&fp=chrome#🔓 VL-GRPC-AUTO 🇺🇸 US-165.227.27.246:59483
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638822414354206802.dezful-shledrc-acbs.info:8880?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇫🇷 FR-638822414354206802.dezful-shledrc-acbs.info:8880
@@ -2593,7 +2598,7 @@ vless://4132069a-fa63-4e23-86a3-d2350f66d8a4@104.16.157.108:8080?type=httpupgrad
 vless://260a2ade-1825-4c5f-8039-94d15b0be119@website.acveo.ir:8080?type=httpupgrade&security=none&path=/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-website.acveo.ir:8080
 vless://5fb982aa-c10a-4230-989a-c1b5664d9737@176.9.243.164:600?type=tcp&security=tls&sni=marzban.negintel.xyz#🔒 VL-TCP-TLS 🇩🇪 DE-176.9.243.164:600
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh33v5.cinema33.shop:8880?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇺🇸 US-pqh33v5.cinema33.shop:8880
-vless://09123053-aa01-4233-b67b-49f613d4cb5d@bahbah.khoreshtsabzi.ir:1287?type=tcp&security=none#🔓 VL-TCP-NTLS 🇫🇮 FI-bahbah.khoreshtsabzi.ir:1287
+vless://09123053-aa01-4233-b67b-49f613d4cb5d@bahbah.khoreshtsabzi.ir:1287?type=tcp&security=none#🔓 VL-TCP-NTLS 🏳️ XX-bahbah.khoreshtsabzi.ir:1287
 vless://1865a948-c6da-45f7-b39e-6a365bbaafc0@parspack.com:8880?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2048&fp=randomized#🔓 VL-WS-NTLS 🏳️ XX-parspack.com:8880
 vless://db62e5bd-aa34-4d9c-b740-1dcdc2a4aca2@162.159.20.126:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-162.159.20.126:80
 vless://1865a948-c6da-45f7-b39e-6a365bbaafc0@151.101.3.8:80?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.3.8:80
@@ -2729,7 +2734,7 @@ vless://ef68afb7-a2f9-4737-8db7-948b4d1a2d72@lon5.vpntype.dev:443?type=tcp&secur
 vless://e7cd8b22-4b4e-4436-80b6-a8e091f1de17@68.183.178.106:14798?type=ws&security=none&path=/FREE By Tharuwa (@z_z_z_zz_z) 0767597317#🔓 VL-WS-NTLS 🇸🇬 SG-68.183.178.106:14798
 vless://162938e9-20de-4938-a66e-8864f8136e0c@151.101.194.133:80?type=ws&security=none&path=/?ed=2056#🔓 VL-WS-NTLS 🇺🇸 US-151.101.194.133:80
 vless://2127b978-c320-4d31-8045-dfb9a643fd54@104.19.54.50:8080?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-104.19.54.50:8080
-vless://0870a931-b121-1278-f010-b140a958a300@cyber.supercyberpower.com:443?type=ws&security=tls&path=/&sni=ital.supercyberpower.com&fp=chrome#🔒 VL-WS-TLS 🇨🇾 CY-cyber.supercyberpower.com:443
+vless://0870a931-b121-1278-f010-b140a958a300@cyber.supercyberpower.com:443?type=ws&security=tls&path=/&sni=ital.supercyberpower.com&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-cyber.supercyberpower.com:443
 vless://d5b9a986-d898-47d5-b796-0034ad964b3f@tel5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇮🇱 IL-tel5.vpntype.dev:443
 vless://09747c66-0d01-4e13-9ef8-d97133035b36@www.speedtest.net:2052?type=ws&security=none&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-www.speedtest.net:2052
 vless://f1e2b609-8c1f-4455-a6df-0ce2dbff9eb9@134.209.82.20:443?type=tcp&security=tls&sni=Ne1.tak30zanjan.ir&fp=chrome&flow=xtls-rprx-vision-udp443#🔒 VL-TCP-TLS 🇳🇱 NL-134.209.82.20:443
@@ -3235,7 +3240,6 @@ vless://%37%62%66%37%63%61%38%37%2d%63%35%36%35%2d%34%63%31%63%2d%62%63%64%34%2d
 vless://COD_VPN@v2raxx-channel.cataba.ir:6666?type=grpc&security=none#🔓 VL-GRPC-NTLS 🏳️ XX-v2raxx-channel.cataba.ir:6666
 vless://a0ebb3dd-f52f-483e-bd1c-0081f5e86518@142.93.34.125:600?type=tcp&security=tls&sni=marzban.negintel.xyz#🔒 VL-TCP-TLS 🇬🇧 GB-142.93.34.125:600
 vless://COD_VPN@v2raxx-channel.cataba.ir:2053?type=ws&security=none&path=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#🔓 VL-WS-NTLS 🏳️ XX-v2raxx-channel.cataba.ir:2053
-vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@151.101.66.133:443?type=ws&security=tls&sni=live.989bull.com&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.66.133:443
 vless://0fc7a92d-4a9a-48f1-a602-3bfccf0144b2@lon5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇬🇧 GB-lon5.vpntype.dev:443
 vless://a0ebb3dd-f52f-483e-bd1c-0081f5e86518@95.164.46.153:600?type=tcp&security=tls&sni=marzban.negintel.xyz#🔒 VL-TCP-TLS 🇮🇹 IT-95.164.46.153:600
 vless://be21e25f-5919-4e6b-b443-bfa45273de5d@218.51.125.182:14220?type=ws&security=tls&path=/?ed=2560&sni=mikuyo.bpd67081tsq.ddns-ip.net&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-218.51.125.182:14220
@@ -3511,7 +3515,7 @@ vless://24c43cf1-dc7d-4776-9d1e-587c24d5daca@hajlab.ucdavis.edu:80?type=ws&secur
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.147.179:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔒 VL-WS-TLS 🇫🇷 FR-13.37.147.179:22224
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@134.209.50.213:59483?type=grpc&security=auto&fp=chrome#🔓 VL-GRPC-AUTO 🇺🇸 US-134.209.50.213:59483
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@142.93.22.144:59483?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇺🇸 US-142.93.22.144:59483
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@djfdd.nexavps.ir:8880?type=httpupgrade&security=none&path=/#🔓 VL-HTTPUPGRADE-NTLS 🇺🇸 US-djfdd.nexavps.ir:8880
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@djfdd.nexavps.ir:8880?type=httpupgrade&security=none&path=/#🔓 VL-HTTPUPGRADE-NTLS 🇭🇰 HK-djfdd.nexavps.ir:8880
 vless://fdc78a0e-3e0c-4800-9b8a-2679a4a85c5f@104.17.147.22:2082?type=ws&security=none#🔓 VL-WS-NTLS 🏳️ XX-104.17.147.22:2082
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.197.220.107:59483?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇺🇸 US-138.197.220.107:59483
 vless://1f78aa56-6df6-4403-9c27-b620b2e7b662@104.17.147.22:8880?type=httpupgrade&security=none&path=/WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-104.17.147.22:8880
@@ -3693,7 +3697,7 @@ vless://8c8873fb-6e68-4359-8d67-092d399612c9@lyra.persia.my:26000?type=tcp&secur
 vless://dafcfc77-2e95-4caf-a6e7-80b8b5543a2f@hajlab.ucdavis.edu:80?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-hajlab.ucdavis.edu:80
 vless://8f0c5d68-2c91-41dc-942c-af2a22d3cc02@104.19.54.50:8080?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-104.19.54.50:8080
 vless://049eb547-9792-470f-8e2e-057afddac8c9@151.101.64.155:80?type=ws&security=none&path=/Telegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.64.155:80
-vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@djfdd.nexavps.ir:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔓 VL-HTTPUPGRADE-NTLS 🇺🇸 US-djfdd.nexavps.ir:8880
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@djfdd.nexavps.ir:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔓 VL-HTTPUPGRADE-NTLS 🇭🇰 HK-djfdd.nexavps.ir:8880
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@allthetropes.org:2096?type=ws&security=tls&path=/proxyip=robin.yaemiko.ggff.net&sni=verina.cantarella.dns-dynamic.net&fp=randomized#🔒 VL-WS-TLS 🏳️ XX-allthetropes.org:2096
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-238@185.146.173.39:8880?type=httpupgrade&security=none&path=/#🔓 VL-HTTPUPGRADE-NTLS 🇸🇪 SE-185.146.173.39:8880
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-238@zmaoz.faculty.ucdavis.edu:80?type=ws&security=none&path=/@Parsashonam?ed=2048&sni=Zmaoz.Faculty.Ucdavis.Edu.&fp=firefox#🔓 VL-WS-NTLS 🇺🇸 US-zmaoz.faculty.ucdavis.edu:80
@@ -3704,7 +3708,7 @@ vless://84ce5157-4867-4bea-8ae9-f1d7afe3b0ed@germany1.fastly80-2.hosting-ip.com:
 vless://84ce5157-4867-4bea-8ae9-f1d7afe3b0ed@lnservice.fastly80-2.hosting-ip.com:80?type=ws&security=none&path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048/?Join_Bade_Channel@JOKERRVPN#🔓 VL-WS-NTLS 🇺🇸 US-lnservice.fastly80-2.hosting-ip.com:80
 vless://e265d9b6-a091-45bb-896b-0b2b7c9a144c@www.speedtest.net:2095?type=httpupgrade&security=none&path=/?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-www.speedtest.net:2095
 vless://%74%65%6c%65%67%72%61%6d%2did-%41%72%56%32%72%61%796@151.101.64.155:80?type=ws&security=none&path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.64.155:80
-vless://80ab2473-c7c1-4936-9df4-870053f69f2d@dc1.hytext-man.monster:2082?type=httpupgrade&security=none&path=/?ed=2087#🔓 VL-HTTPUPGRADE-NTLS 🇩🇪 DE-dc1.hytext-man.monster:2082
+vless://80ab2473-c7c1-4936-9df4-870053f69f2d@dc1.hytext-man.monster:2082?type=httpupgrade&security=none&path=/?ed=2087#🔓 VL-HTTPUPGRADE-NTLS 🇭🇰 HK-dc1.hytext-man.monster:2082
 vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79%36@151.101.64.155:80?type=ws&security=none&path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.64.155:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@56.228.78.101:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔒 VL-WS-TLS 🇸🇪 SE-56.228.78.101:22224
 vless://0da15871-1315-402f-c595-7d5df377e091@tify-binex-join.espikernajafi.ir:2053?type=ws&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#🔓 VL-WS-NTLS 🇩🇪 DE-tify-binex-join.espikernajafi.ir:2053
@@ -3736,7 +3740,7 @@ vless://b3419257-b3f2-41bd-949c-a4ff4664e573@95.38.210.142:35022?type=tcp&securi
 vless://20aca85a-b654-4d88-9e2a-f3b035d0fef0@sin5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇸🇬 SG-sin5.vpntype.dev:443
 vless://4fb8b890-f2d7-4add-87e9-075e510fe39e@fastly-terrarium.com:80?type=xhttp&security=none&path=/@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20?ed=2048#🔓 VL-XHTTP-NTLS 🇺🇸 US-fastly-terrarium.com:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.160.33:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔒 VL-WS-TLS 🇫🇷 FR-13.36.160.33:22224
-vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@dc1.hytext-man.monster:2082?type=httpupgrade&security=none&path=/?ed=2087#🔓 VL-HTTPUPGRADE-NTLS 🇩🇪 DE-dc1.hytext-man.monster:2082
+vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@dc1.hytext-man.monster:2082?type=httpupgrade&security=none&path=/?ed=2087#🔓 VL-HTTPUPGRADE-NTLS 🇭🇰 HK-dc1.hytext-man.monster:2082
 vless://84905641-e5cc-459d-9f4b-2d11c4c73036@151.101.64.155:80?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.64.155:80
 vless://bbd3270a-0349-4449-8e3f-e795f2c8c54b@157.180.94.33:8880?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇫🇮 FI-157.180.94.33:8880
 vless://30e5a50b-e416-4e09-b7b5-772213dd121b@joinn.betterconnection.ir:8080?type=tcp&security=none#🔓 VL-TCP-NTLS 🇳🇱 NL-joinn.betterconnection.ir:8080
@@ -4085,7 +4089,7 @@ vless://29497db1-609c-4d98-970a-e3c27647a3dc@speedtest.net:80?type=xhttp&securit
 vless://6026aa39-1f7f-4053-bfb5-2c9da02d6efe@www.speedtest.net:8443?type=ws&security=tls&path=/telegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01?ed=2048&sni=aprtpok.musics-fa.ru&fp=chrome#🔒 VL-WS-TLS 🏳️ XX-www.speedtest.net:8443
 vless://d984caa3-c94f-4e47-bac8-7cd4c210fb7c@172.67.69.236:2096?type=ws&security=tls&path=/2096/@V2RayyNGVpn&sni=rEDzOnE.MirAcLehEaRTbIt.ICu&fp=randomized#🔒 VL-WS-TLS 🏳️ XX-172.67.69.236:2096
 vless://23260b54-9edf-46c3-9859-41c9e1c4597b@104.26.5.57:8080?type=httpupgrade&security=none&path=/TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN----TELEGRAM----MTMVPN?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-104.26.5.57:8080
-vless://62a22d95-60a9-4245-ac01-836f43c927c4@ir.lunarmc.ir:16799?type=tcp&security=none#🔓 VL-TCP-NTLS 🇮🇷 IR-ir.lunarmc.ir:16799
+vless://62a22d95-60a9-4245-ac01-836f43c927c4@ir.lunarmc.ir:16799?type=tcp&security=none#🔓 VL-TCP-NTLS 🏳️ XX-ir.lunarmc.ir:16799
 vless://23651a65-bef3-431a-b040-5e8c158a9867@95.38.38.226:27000?type=tcp&security=none#🔓 VL-TCP-NTLS 🇮🇷 IR-95.38.38.226:27000
 vless://588f094b-431b-422c-b80b-007945037072@aut03.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=aut03.abvpn.ru#🔒 VL-WS-TLS 🇦🇹 AT-aut03.abvpn.ru:443
 vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@151.101.2.228:80?type=ws&security=none&path=/olem/ws?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512#🔓 VL-WS-NTLS 🇺🇸 US-151.101.2.228:80
@@ -4197,7 +4201,7 @@ vless://0b193b9c-6ad3-41a2-83c0-d3de9b86b70e@172.67.204.84:8443?type=ws&security
 vless://b775ec56-b44d-473a-9e8e-99ef575d832a@104.21.64.1:80?type=ws&security=none&path=/?ed=2560#🔓 VL-WS-NTLS 🏳️ XX-104.21.64.1:80
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@104.17.148.22:443?type=ws&security=tls&path=/&sni=ppal03.mRs-otHO-rOLfsON.WOrkErS.DEv#🔒 VL-WS-TLS 🏳️ XX-104.17.148.22:443
 vless://ef9fd3c2-7b96-4feb-a17f-b0b45ad086a8@speedtest.net:80?type=xhttp&security=none&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#🔓 VL-XHTTP-NTLS 🇺🇸 US-speedtest.net:80
-vless://6ba6c3ee-3324-4649-a58c-2a5241944bdf@ir.lunarmc.ir:2020?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇮🇷 IR-ir.lunarmc.ir:2020
+vless://6ba6c3ee-3324-4649-a58c-2a5241944bdf@ir.lunarmc.ir:2020?type=grpc&security=none#🔓 VL-GRPC-NTLS 🏳️ XX-ir.lunarmc.ir:2020
 vless://c6fc409b-a743-4188-bda2-96f2f1447bcb@139.59.235.75:443?type=tcp&security=tls&sni=www.netflix.com&fp=chrome&flow=none#🔒 VL-TCP-TLS 🇸🇬 SG-139.59.235.75:443
 vless://V2RAXX----@v2raxx-channel.cataba.ir:6666?type=grpc&security=none#🔓 VL-GRPC-NTLS 🏳️ XX-v2raxx-channel.cataba.ir:6666
 vless://a781178c-83e2-42bf-8216-0804a0698b2b@support.zoom.us:8080?type=ws&security=none&path=/&flow=none#🔓 VL-WS-NTLS 🇺🇸 US-support.zoom.us:8080
@@ -4636,6 +4640,7 @@ vless://e6353513-7938-4bbb-aff3-d99e3ed821a9@www.speedtest.net:80?type=ws&securi
 vless://55591059-5802-4d2c-a5aa-7033d9f72346@194.182.79.41:48615?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.41:48615
 vless://1fd3b251-7b2b-46df-bbbe-72f17ef7a77b@194.182.79.143:36936?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.143:36936
 vless://8587f68d-a0f7-416b-af02-2c01374b98fe@194.182.79.113:26468?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.113:26468
+vless://f64aac0e-d26e-44c1-adce-5465908d6c69@194.182.79.216:52843?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.216:52843
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.202.67:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔒 VL-WS-TLS 🇫🇷 FR-35.181.202.67:22224
 vless://da064419-96e2-4ee4-b98d-f22ef1fe0a65@104.19.150.10:2086?type=httpupgrade&security=none&path=/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-104.19.150.10:2086
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.150.199:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔒 VL-WS-TLS 🇫🇷 FR-13.38.150.199:22224
@@ -4837,7 +4842,6 @@ vless://99f06cc6-a04a-4466-bb58-6b23173b2d0a@ns.cloudflare.com:2086?type=httpupg
 vless://77381b70-40b9-4148-9cbf-0bf127876b16@ns4.esfahansiman.com:443?type=ws&security=tls&path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config&sni=WWW.EsfahAnsimaN.infO.&fp=chrome#🔒 VL-WS-TLS 🇫🇮 FI-ns4.esfahansiman.com:443
 vless://%36%32%33%31%61%34%65%63%2d%36%62%31%38%2d%34%32%33%31%2d%39%31%32%63%2d%36%31%32%39%34%34%30%38%66%35%37%63@104.17.147.22:80?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-104.17.147.22:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.71.147.172:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔒 VL-WS-TLS 🇩🇪 DE-3.71.147.172:22224
-vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@172.67.204.84:8080?type=ws&security=none&path=/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-172.67.204.84:8080
 vless://e486066b-3308-4114-a9a6-5648750b071f@zmaoz.faculty.ucdavis.edu:80?type=ws&security=none&path=/olem/ws?ed=1024#🔓 VL-WS-NTLS 🇺🇸 US-zmaoz.faculty.ucdavis.edu:80
 vless://Parsashonam-248@185.146.173.39:8880?type=httpupgrade&security=none&path=/#🔓 VL-HTTPUPGRADE-NTLS 🇸🇪 SE-185.146.173.39:8880
 vless://c0b393c6-1371-4d2d-bd56-1d8dc71dcddd@hajlab.ucdavis.edu:80?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-hajlab.ucdavis.edu:80
@@ -5264,7 +5268,6 @@ vless://65ed425a-63ac-46ae-ba70-309f0b5d9034@server1.les88xz.ir:3070?type=tcp&se
 vless://e38adfab-baee-45f4-bbef-74120ca468d5@ams5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇳🇱 NL-ams5.vpntype.dev:443
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.125.217.104:8443?type=ws&security=tls&path=/TG@ShadowProxy66?ed=2560&sni=jj.wxgqlfx.cn&fp=random#🔒 VL-WS-TLS 🇷🇺 RU-185.125.217.104:8443
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_0156@www.speedtest.net:80?type=ws&security=none&path=/vless?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-www.speedtest.net:80
-vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.17.147.22:2095?type=ws&security=none&path=/901qf5SHefST0QYH#🔓 VL-WS-NTLS 🏳️ XX-104.17.147.22:2095
 vless://7cccefc2-6e9b-47bb-f30c-ea2d3cdc8593@151.101.194.228:80?type=ws&security=none&path=/olem/ws?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512#🔓 VL-WS-NTLS 🇺🇸 US-151.101.194.228:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.8.130:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔒 VL-WS-TLS 🇫🇷 FR-13.39.8.130:22224
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.197.19:8880?type=ws&security=none&path=/telegram🇨🇳 @pgkj666 /#🔓 VL-WS-NTLS 🇬🇧 GB-25.129.197.19:8880
@@ -5391,7 +5394,7 @@ vless://de908194-ccd4-48c4-9a11-fb7cf68d2581@speedtest.net:80?type=xhttp&securit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.8:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /#🔓 VL-WS-NTLS 🇬🇧 GB-91.193.58.8:8880
 vless://8d179f31-b033-43dc-8b24-fbf037c8ed0b@vpntv29293.erfantop.ir:192?type=tcp&security=none&path=/@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20#🔓 VL-TCP-NTLS 🏳️ XX-vpntv29293.erfantop.ir:192
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.45.57:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔒 VL-WS-TLS 🇫🇷 FR-13.36.45.57:22224
-vless://99727208-0086-43f9-f0ad-9e30f546b822@djfdd.nexavps.ir:8880?type=httpupgrade&security=none&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔓 VL-HTTPUPGRADE-NTLS 🇺🇸 US-djfdd.nexavps.ir:8880
+vless://99727208-0086-43f9-f0ad-9e30f546b822@djfdd.nexavps.ir:8880?type=httpupgrade&security=none&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#🔓 VL-HTTPUPGRADE-NTLS 🇭🇰 HK-djfdd.nexavps.ir:8880
 vless://5ad9af54-9869-4cf5-917e-0787018fb261@join.vpncustomize.cloud1.hosting-ip.com:80?type=ws&security=none&path=/telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE,telegram-@VPNCUSTOMIZE#🔓 VL-WS-NTLS 🏳️ XX-join.vpncustomize.cloud1.hosting-ip.com:80
 vless://d2017981-ba1f-49f0-872d-8eb072c30f07@www.speedtest.net:80?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-www.speedtest.net:80
 vless://898d17ab-8219-458d-bffb-b9a13a1a703c@151.101.64.155:80?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.64.155:80
@@ -5409,7 +5412,7 @@ vless://channel%40v2rayvpn_official@n1.cafedorehami.shop:80?type=grpc&security=n
 vless://c4791226-e053-420a-bca6-213e24135c1c@hon5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇭🇰 HK-hon5.vpntype.dev:443
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@198.46.215.183:50964?type=ws&security=tls&path=/?ed&sni=0229.patterdeng.pp.ua#🔒 VL-WS-TLS 🇺🇸 US-198.46.215.183:50964
 vless://07c846af-4106-4790-9f83-10994c9e03d4@ns4.esfahansiman.com:443?type=ws&security=tls&path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config&sni=WWW.pegAh-Esfahan.De.&fp=chrome#🔒 VL-WS-TLS 🇫🇮 FI-ns4.esfahansiman.com:443
-vless://ba336563-e0ad-451f-f10a-0dea85d9aae5@darkshield.offl1ne.com:2086?type=httpupgrade&security=none&path=/egram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-darkshield.offl1ne.com:2086
+vless://ba336563-e0ad-451f-f10a-0dea85d9aae5@darkshield.offl1ne.com:2086?type=httpupgrade&security=none&path=/egram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🇿🇦 ZA-darkshield.offl1ne.com:2086
 vless://d41c3a84-0dcc-45fd-8b8d-0552197ae314@151.101.194.219:80?type=ws&security=none&path=/olem/ws?ed=1024#🔓 VL-WS-NTLS 🇺🇸 US-151.101.194.219:80
 vless://%F0%9F%91%89BIA_CHANEL_JOKERRVPN%F0%9F%91%88@www.speedtest.net:8880?type=ws&security=none&path=/@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-www.speedtest.net:8880
 vless://8d179f31-b033-43dc-8b24-fbf037c8ed0b@vpntv203546.fastroot.ir:192?type=tcp&security=none&path=/@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20----@VPNTV20#🔓 VL-TCP-NTLS 🇩🇪 DE-vpntv203546.fastroot.ir:192
@@ -5478,7 +5481,7 @@ vless://7d910091-9504-4fe4-9d04-1e38de91ea90@zarin7i.alireza031.pw:43702?type=ws
 vless://91eb12a1-edb9-4add-849a-04c066e2a281@huffingtonpost.es:80?type=xhttp&security=none&path=/@vistav2ray?ed=2048#🔓 VL-XHTTP-NTLS 🇺🇸 US-huffingtonpost.es:80
 vless://91eb12a1-edb9-4add-849a-04c066e2a281@151.101.64.155:80?type=xhttp&security=none&path=/@vistav2ray?ed=2048#🔓 VL-XHTTP-NTLS 🇺🇸 US-151.101.64.155:80
 vless://8f97b063-afd3-4bf2-b251-dce7be4fb044@151.101.64.155:80?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.64.155:80
-vless://129704dc-e6a3-d9cb-7b12-69d75b616d7b@darkshield.offl1ne.com:2086?type=httpupgrade&security=none&path=/egram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-darkshield.offl1ne.com:2086
+vless://129704dc-e6a3-d9cb-7b12-69d75b616d7b@darkshield.offl1ne.com:2086?type=httpupgrade&security=none&path=/egram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🇿🇦 ZA-darkshield.offl1ne.com:2086
 vless://9d6f48e2-d4fd-4770-aad3-452e6f5a8d2f@tel5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇮🇱 IL-tel5.vpntype.dev:443
 vless://2988ad67-1810-4d82-85d0-74d6d4ef1cf8@104.16.155.10:443?type=ws&security=none&sni=me.4056860.xyz#🔓 VL-WS-NTLS 🏳️ XX-104.16.155.10:443
 vless://c624fc3e-5112-41d7-93f4-31f389dd96ba@ams5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇳🇱 NL-ams5.vpntype.dev:443
@@ -5540,7 +5543,7 @@ vless://c3ad2be9-a5a8-432a-b228-b036ec5d3ab0@104.22.62.1:443?type=ws&security=tl
 vless://f07c015a-98e1-497a-8937-355812270d52@www.speedtest.net:80?type=ws&security=none&path=/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-www.speedtest.net:80
 vless://dc8a7de0-e311-4675-bce9-656dada9751a@164.90.190.249:2053?type=grpc&security=tls&sni=qauuf.iran.ailreza.org.tr&fp=chrome#🔒 VL-GRPC-TLS 🇩🇪 DE-164.90.190.249:2053
 vless://c3ad2be9-a5a8-432a-b228-b036ec5d3ab0@104.18.0.191:443?type=ws&security=tls&path=/admin&sni=am.digikala-aparat-zula.com&fp=randomized#🔒 VL-WS-TLS 🏳️ XX-104.18.0.191:443
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@cdn.mcinet.xyz:8880?type=httpupgrade&security=none&path=/#🔓 VL-HTTPUPGRADE-NTLS 🇺🇸 US-cdn.mcinet.xyz:8880
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@cdn.mcinet.xyz:8880?type=httpupgrade&security=none&path=/#🔓 VL-HTTPUPGRADE-NTLS 🇷🇺 RU-cdn.mcinet.xyz:8880
 vless://BIA_CHANEL_JOKERRVPN@www.speedtest.net:8880?type=ws&security=none&path=/@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-www.speedtest.net:8880
 vless://1f293ef5-8a29-4928-9f6f-117bde9a0ac4@194.182.79.100:42438?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.100:42438
 vless://eb899be2-f306-468e-bb4d-1c43f7d49c00@zula.ir:2086?type=httpupgrade&security=none&path=/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-zula.ir:2086
@@ -5580,10 +5583,10 @@ vless://d3a258d0-877f-46e8-a68b-2891cbe58d07@104.24.196.20:2086?type=httpupgrade
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.137.27:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🔒 VL-WS-TLS 🇫🇷 FR-35.181.137.27:22224
 vless://4b270bff-0f7e-428e-9fab-a4d96c068e8b@104.21.48.1:8080?type=httpupgrade&security=none&path=/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-104.21.48.1:8080
 vless://7f7a2bb4-bac8-41c7-8b35-24a1fd78a0e8@104.17.147.22:80?type=ws&security=none&path=/-ViV2ry@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL-@V2RIRAN-TEL--@V2RIRAN-JOIN-@V2RIRAN-TEL--@V2RIRAN?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-104.17.147.22:80
-vless://2a3b707f-fa3c-4629-871f-62dfe3dc14ba@vip-82.f-sub.cfd:5969?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇮🇷 IR-vip-82.f-sub.cfd:5969
+vless://2a3b707f-fa3c-4629-871f-62dfe3dc14ba@vip-82.f-sub.cfd:5969?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇫🇮 FI-vip-82.f-sub.cfd:5969
 vless://f7fdfb56-043e-4a0c-ae63-a4243be5831e@104.21.112.1:8080?type=httpupgrade&security=none#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-104.21.112.1:8080
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@ipinfo.in:443?type=ws&security=tls&path=/azadnet-btq.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet-btq.pages.dev&fp=randomized#🔒 VL-WS-TLS 🏳️ XX-ipinfo.in:443
-vless://fac834ec-7ad6-48cb-9a52-0dbb9ab7498e@vip-82.f-sub.cfd:5969?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇮🇷 IR-vip-82.f-sub.cfd:5969
+vless://fac834ec-7ad6-48cb-9a52-0dbb9ab7498e@vip-82.f-sub.cfd:5969?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇫🇮 FI-vip-82.f-sub.cfd:5969
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_5068@104.16.2.226:443?type=ws&security=tls&path=/vless&sni=uk.v2vless.site&fp=firefox#🔒 VL-WS-TLS 🏳️ XX-104.16.2.226:443
 vless://8a4bb5a5-57dc-46cd-a561-5a999f655204@speedtest.net:80?type=xhttp&security=none&path=/@vistav2ray?ed=2048#🔓 VL-XHTTP-NTLS 🇺🇸 US-speedtest.net:80
 vless://6049f282-a607-495c-bd44-491f78e26b4b@104.21.32.1:8080?type=httpupgrade&security=none&path=/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-104.21.32.1:8080
@@ -5594,15 +5597,15 @@ vless://2118755b-d056-46aa-9349-b0a220dee1ed@104.17.147.22:443?type=xhttp&securi
 vless://973faeb3-2cdb-4533-bc62-faea7309cbcc@78.111.85.150:2053?type=tcp&security=none#🔓 VL-TCP-NTLS 🇳🇱 NL-78.111.85.150:2053
 vless://2a5acce7-f3e2-4755-8811-4a4250553986@104.26.15.85:80?type=ws&security=none&path=/?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-104.26.15.85:80
 vless://4b270bff-0f7e-428e-9fab-a4d96c068e8b@104.21.64.1:8080?type=httpupgrade&security=none&path=/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-104.21.64.1:8080
-vless://37960caf-f67b-4f4c-af9e-fd92baa3f506@vip-82.f-sub.cfd:5969?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇮🇷 IR-vip-82.f-sub.cfd:5969
+vless://37960caf-f67b-4f4c-af9e-fd92baa3f506@vip-82.f-sub.cfd:5969?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇫🇮 FI-vip-82.f-sub.cfd:5969
 vless://afa3cd54-f05d-4e0b-a4d6-9f046f5d1c05@vp.helsvptun.m2ring.sbs:6666?type=tcp&security=none#🔓 VL-TCP-NTLS 🇮🇷 IR-vp.helsvptun.m2ring.sbs:6666
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.6.155:80?type=ws&security=none&path=Telegram:@ShadowProxy66/?ed=2560#🔓 VL-WS-NTLS 🇳🇱 NL-45.131.6.155:80
 vless://c6e2bb44-dfab-404b-86a5-75b47c477e15@nv2.napsternet2.com:12012?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇮🇷 IR-nv2.napsternet2.com:12012
-vless://994eabdb-f1ad-4d42-b3d7-c7aebebb095c@vip-82.f-sub.cfd:5969?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇮🇷 IR-vip-82.f-sub.cfd:5969
+vless://994eabdb-f1ad-4d42-b3d7-c7aebebb095c@vip-82.f-sub.cfd:5969?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇫🇮 FI-vip-82.f-sub.cfd:5969
 vless://e153c6b8-d02c-4023-87e4-c5fa2643f2a8@arrow.ekala.top:38965?type=tcp&security=none#🔓 VL-TCP-NTLS 🇬🇧 GB-arrow.ekala.top:38965
 vless://b26318a8-2033-4fc2-b777-64a56c32677c@speedtest.net:80?type=xhttp&security=none&path=/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vist#🔓 VL-XHTTP-NTLS 🇺🇸 US-speedtest.net:80
 vless://7ee58835-5a08-48c1-b80e-9fbbb81f8432@151.101.130.228:80?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.130.228:80
-vless://ee1a7f09-5d15-4f1c-80d1-35e053b16a98@end.pcapps.ir:8855?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇮🇷 IR-end.pcapps.ir:8855
+vless://ee1a7f09-5d15-4f1c-80d1-35e053b16a98@end.pcapps.ir:8855?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇦🇪 AE-end.pcapps.ir:8855
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638822597953394465.hamedan-shledrc-acbs.info:8880?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇫🇷 FR-638822597953394465.hamedan-shledrc-acbs.info:8880
 vless://0e74189c-283b-7ef3-4a08-63e997da636b@ir.baziir.ir:1011?type=tcp&security=none&path=/?ed=1011#🔓 VL-TCP-NTLS 🇮🇷 IR-ir.baziir.ir:1011
 vless://9fb50931-7877-4c07-b602-e9a2366d4019@ams5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇳🇱 NL-ams5.vpntype.dev:443
@@ -5638,7 +5641,6 @@ vless://bacacab-caba-baca-cabd-acbcccababab@127.0.0.1:8080?type=tcp&security=tls
 vless://9c425a7e-0fa3-4eb4-9050-0a69ee555188@hon5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇭🇰 HK-hon5.vpntype.dev:443
 vless://80236d0b-58e0-45d3-b906-12232c23c411@amir.panel.hitixx.top:1000?type=ws&security=tls&path=/ws10&sni=amir.panel.hitixx.top&fp=chrome#🔒 VL-WS-TLS 🇮🇷 IR-amir.panel.hitixx.top:1000
 vless://bfddff78-c033-40ab-ef26-745a406240fc@151.101.64.155:80?type=ws&security=none&path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#🔓 VL-WS-NTLS 🇺🇸 US-151.101.64.155:80
-vless://5d71b518-9f52-414a-abf2-b806684233be@pic2.zarashop0.ir:2087?type=grpc&security=tls&sni=pic2.zarashop0.ir&fp=chrome#🔒 VL-GRPC-TLS 🇫🇮 FI-pic2.zarashop0.ir:2087
 vless://d474039f-5f6b-43ef-8b55-68ded6b8a3c3@104.26.15.85:80?type=ws&security=none&path=/?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-104.26.15.85:80
 vless://0d4ed7e4-8467-4e03-adcc-dc7b76d7a776@net7.amirkaj.link:2053?type=grpc&security=tls&sni=net9.amirkaj.link&fp=firefox#🔒 VL-GRPC-TLS 🇮🇷 IR-net7.amirkaj.link:2053
 vless://9de5b990-f0e8-4911-98d3-9dc32f42dd51@safar44.ucpubg.org:8080?type=tcp&security=none#🔓 VL-TCP-NTLS 🇮🇷 IR-safar44.ucpubg.org:8080
@@ -5651,7 +5653,7 @@ vless://268c3eaa-7768-4cfd-8b9d-10c755d6cfa1@gl.cccccccccccccccccccccccccccccccc
 vless://6fcf8763-d06e-4699-a0ee-b32aac49fe49@dearth302.placestores.top:12972?type=tcp&security=none#🔓 VL-TCP-NTLS 🇮🇷 IR-dearth302.placestores.top:12972
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638855440313811037.rasht-drc-tusaba.info:8880?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇺🇸 US-638855440313811037.rasht-drc-tusaba.info:8880
 vless://03e92910-34b1-4245-ac63-04a865f43cd5@3er4.4444916.xyz:443?type=ws&security=tls&path=/f7vKDX2UecxmlPhIJoo2wcE6Q&sni=3Er4.4444916.xYz&fp=chrome#🔒 VL-WS-TLS 🏳️ XX-3er4.4444916.xyz:443
-vless://d5a754a7-6593-48bf-bed2-a48308b42a33@vip-82.f-sub.cfd:5969?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇮🇷 IR-vip-82.f-sub.cfd:5969
+vless://d5a754a7-6593-48bf-bed2-a48308b42a33@vip-82.f-sub.cfd:5969?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇫🇮 FI-vip-82.f-sub.cfd:5969
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@dylan.ns.cloudflare.com:443?type=ws&security=tls&path=/?ed=2560&sni=yz.ylka.dpdns.org#🔒 VL-WS-TLS 🏳️ XX-dylan.ns.cloudflare.com:443
 vless://132825e5-b688-4640-ba6e-64eec9cf9620@ams5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇳🇱 NL-ams5.vpntype.dev:443
 vless://8d315f3e-b7db-4ae0-a7f5-600194783539@fra5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇩🇪 DE-fra5.vpntype.dev:443
@@ -5694,6 +5696,8 @@ vless://50437839-f3a7-46c6-87ea-27a56ad36dae@xoxo.i-missvezze.ir:29262?type=tcp&
 vless://7c30bf84-bd33-4b21-9abc-7f756ecf006b@104.21.64.1:8080?type=httpupgrade&security=none&path=/telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry?ed=2048#🔓 VL-HTTPUPGRADE-NTLS 🏳️ XX-104.21.64.1:8080
 vless://2d7094a1-4905-46a1-b0b6-d4181ce31194@fra5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-TLS 🇩🇪 DE-fra5.vpntype.dev:443
 vless://554d1654-9dce-4dba-b1df-211de6fe8087@serv3.gizangiz.ir:5779?type=tcp&security=none#🔓 VL-TCP-NTLS 🇩🇪 DE-serv3.gizangiz.ir:5779
+vless://db7d4b58-0aff-4408-a637-c72cd0f8a774@tn40.adamlinux.ir:8091?type=tcp&security=none#🔓 VL-TCP-NTLS 🇮🇷 IR-tn40.adamlinux.ir:8091
+vless://c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@de.crocodilserver.top:9005?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇮🇷 IR-de.crocodilserver.top:9005
 vless://c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@tr.crocodilserver.top:9007?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇮🇷 IR-tr.crocodilserver.top:9007
 vless://6b437afc-62b3-40ba-9112-ee667a783c3d@104.21.32.1:2053?type=ws&security=tls&path=/p0DlUJGg45mTN8Oi?ed=2560&sni=freE.BXXxcWs.WOrkERs.Dev&fp=randomized#🔒 VL-WS-TLS 🏳️ XX-104.21.32.1:2053
 vless://6b437afc-62b3-40ba-9112-ee667a783c3d@104.21.48.1:443?type=ws&security=tls&path=/WeExnU6ojcrcLb4r?ed=2560&sni=FREE.BxxXCwS.WORkerS.dEv&fp=randomized#🔒 VL-WS-TLS 🏳️ XX-104.21.48.1:443
@@ -6588,7 +6592,7 @@ vless://c02b43bf-9999-424e-b694-c7408cb6a772@syd5.vpntype.dev:443?type=tcp&secur
 vless://f70bd727-b5f0-4044-acf1-ad589959cc4d@178.128.48.152:443?type=tcp&security=tls&sni=bstream.kzhi.tech&fp=chrome#🔒 VL-TCP-TLS 🇸🇬 SG-178.128.48.152:443
 vless://593e9a81-52a9-4931-9d32-95ffc45ad0ee@free.server.techsonic.site:443?type=tcp&security=tls&sni=fbcdn.com&fp=chrome#🔒 VL-TCP-TLS 🇸🇬 SG-free.server.techsonic.site:443
 vless://94db96fb-b265-4a02-966e-213113535439@www.speedtest.net:80?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#🔓 VL-WS-NTLS 🏳️ XX-www.speedtest.net:80
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@pics.floorshoping22.com:2087?type=grpc&security=tls&sni=pics.floorshoping22.com&fp=chrome#🔒 VL-GRPC-TLS 🇫🇷 FR-pics.floorshoping22.com:2087
+vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@pics.floorshoping22.com:2087?type=grpc&security=tls&sni=pics.floorshoping22.com&fp=chrome#🔒 VL-GRPC-TLS 🇫🇮 FI-pics.floorshoping22.com:2087
 vless://18fdfdfe-e9e0-4ac7-b9a5-b05c03d08cd4@146.190.83.47:443?type=tcp&security=tls&sni=android.googleapis.com&fp=chrome&flow=none#🔒 VL-TCP-TLS 🇸🇬 SG-146.190.83.47:443
 vless://f0ef2b09-c5f8-4bc9-b58e-cce45052a2ef@104.26.15.85:80?type=ws&security=none#🔓 VL-WS-NTLS 🏳️ XX-104.26.15.85:80
 vless://0343e230-5132-4e98-844e-b42ad1a6a273@104.22.15.132:8443?type=ws&security=none&sni=nptian.xiaotianvpn.sbs#🔓 VL-WS-NTLS 🏳️ XX-104.22.15.132:8443
@@ -6812,6 +6816,7 @@ vless://440766d1-858f-4719-84f5-c2de6f6227ba@local.rogsoftwaregroup.com:443?type
 vless://b0286bc2-e17c-4c17-b0e6-d39c93f74937@104.16.155.10:443?type=ws&security=none&sni=ss-c6o.pages.dev#🔓 VL-WS-NTLS 🏳️ XX-104.16.155.10:443
 vless://3d870d2f-b217-4ed3-9588-7629cf6140ea@172.67.204.84:8880?type=ws&security=none&path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&fp=randomized#🔓 VL-WS-NTLS 🏳️ XX-172.67.204.84:8880
 vless://21ec8aa4-b509-4056-908f-960ef9126062@xoxo.i-missvezze.ir:29262?type=tcp&security=none#🔓 VL-TCP-NTLS 🇮🇷 IR-xoxo.i-missvezze.ir:29262
+vless://5438a51f-e993-4a4a-85dd-566130b491cf@tnlns3.bidaplay.ir:8081?type=ws&security=none&path=/#🔓 VL-WS-NTLS 🇮🇷 IR-tnlns3.bidaplay.ir:8081
 vless://6b437afc-62b3-40ba-9112-ee667a783c3d@104.21.16.1:2096?type=ws&security=tls&path=/nSPmz1KtiIWxkdcu?ed=2560&sni=FRee.bxXXCWS.WorkerS.dev&fp=randomized#🔒 VL-WS-TLS 🏳️ XX-104.21.16.1:2096
 vless://45dfe150-2ed0-4dca-98da-c207886a61f9@e1.filmmet.ir:17046?type=tcp&security=none#🔓 VL-TCP-NTLS 🇮🇷 IR-e1.filmmet.ir:17046
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.145.142:443?type=ws&security=tls&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&sni=kk033.ylks.link#🔒 VL-WS-TLS 🇱🇺 LU-188.42.145.142:443
@@ -6945,7 +6950,7 @@ vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?typ
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@kk033.ylks.link:2087?type=ws&security=tls&path=/youtube-&sni=kk033.ylks.link#🔒 VL-WS-TLS 🏳️ XX-kk033.ylks.link:2087
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@159.138.131.240:443?type=ws&security=tls&path=/proxyip=proxyip.tw.fxxk.dedyn.io&sni=xin033.ylks.link#🔒 VL-WS-TLS 🇭🇰 HK-159.138.131.240:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@www.ipget.net:2053?type=ws&security=tls&path=/blue&sni=jp033.ylks01.eu.org#🔒 VL-WS-TLS 🏳️ XX-www.ipget.net:2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@bestproxy.onecf.eu.org:80?type=ws&security=none&path=/blue&sni=hk033.ylks.link#🔓 VL-WS-NTLS 🇭🇰 HK-bestproxy.onecf.eu.org:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@bestproxy.onecf.eu.org:80?type=ws&security=none&path=/blue&sni=hk033.ylks.link#🔓 VL-WS-NTLS 🇳🇱 NL-bestproxy.onecf.eu.org:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@icook.hk:8443?type=ws&security=tls&path=/blue&sni=jp033.ylks01.eu.org#🔒 VL-WS-TLS 🏳️ XX-icook.hk:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.90:443?type=ws&security=tls&path=/blue&sni=kk033.ylks.link#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.90:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@www.gco.gov.qa:2053?type=ws&security=tls&path=/blue&sni=jp033.ylks01.eu.org#🔒 VL-WS-TLS 🏳️ XX-www.gco.gov.qa:2053
@@ -8733,4 +8738,8 @@ vless://3761c1e7-771b-48ba-9d5b-f214d882d2a9@104.26.14.148:443?type=ws&security=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.185.236:80?type=ws&security=none&path=/YtKILx047QURZ1rG?ed=2560&sni=VALIDBV3528.IR&fp=randomized#🔓 VL-WS-NTLS 🇺🇸 US-140.248.185.236:80
 vless://c2495ecb-3c27-4df3-812c-90648ee4307d@104.26.4.227:443?type=ws&security=tls&path=/&sni=mitsuri.thelastronin.cloudns.org&fp=random#🔒 VL-WS-TLS 🏳️ XX-104.26.4.227:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.84:443?type=ws&security=tls&path=/?ed=2048&sni=ak.ylks.xyz#🔒 VL-WS-TLS 🏳️ XX-188.114.96.84:443
-trojan://ji17fb9x-vnrs-x9tf-7jpo-vxl1c4eh6iwr@127.0.0.1:8080?security=tls&type=tcp#👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.198.92:443?type=ws&security=tls&path=/blue&sni=ll.ylks01.eu.org#🔒 VL-WS-TLS 🏳️ XX-108.162.198.92:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.52:443?type=ws&security=tls&path=/?ed=2048&sni=ak.ylks.xyz#🔒 VL-WS-TLS 🏳️ XX-188.114.96.52:443
+vless://243ff879-b317-4430-894e-767a131db2ca@104.16.180.136:80?type=ws&security=none&path=/vless#t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNpro?ed=2048&sni=tr1-vless.ctunnel.xyz#🔓 VL-WS-NTLS 🏳️ XX-104.16.180.136:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.233:443?type=ws&security=tls&path=/blue&sni=cg.ylks.xyz#🔒 VL-WS-TLS 🏳️ XX-188.114.96.233:443
+trojan://55icajmi-l7h2-fhhi-9s54-yy1pv3s9lvri@127.0.0.1:8080?security=tls&type=tcp#👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀
