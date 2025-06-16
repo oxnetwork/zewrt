@@ -27,11 +27,15 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 from pydantic import BaseModel, Field, model_validator
 
+# ------------------------------------------------------------------------------
+# --- FILENAME: core/config.py ---
+# ------------------------------------------------------------------------------
+
 class AppConfig:
     """Holds all application configuration settings."""
     BASE_DIR = Path(__file__).parent
-    DATA_DIR = BASE_DIR / "data"  # New directory for all data/log files
-    OUTPUT_DIR = BASE_DIR / "sub"
+    DATA_DIR = BASE_DIR / "v2ray_data"  # New directory for all data/log files
+    OUTPUT_DIR = BASE_DIR / "output"
     
     DIRS = {
         "splitted": OUTPUT_DIR / "splitted",
@@ -103,7 +107,7 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '�🇶',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
@@ -731,16 +735,16 @@ async def main():
             "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
             "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs.txt",
             "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
-            "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt"
-            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt"
-            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt"
-            "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/refs/heads/main/full/5ubscrpt10n.txt"
-            "https://raw.githubusercontent.com/skywrt/v2ray-configs/refs/heads/main/All_Configs_Sub.txt"
-            "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_Sub.txt"
-            "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/refs/heads/main/sublinks/mix.txt"
-            "https://raw.githubusercontent.com/GuoBing1989100/v2ray_configs/refs/heads/main/all.txt"
-            "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html"
-            "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/refs/heads/main/All-Configs.txt"
+            "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
+            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
+            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt",
+            "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n.txt", # Corrected link
+            "https://raw.githubusercontent.com/skywrt/v2ray-configs/main/All_Configs_Sub.txt", # Corrected link
+            "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt", # Corrected link
+            "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt", # Corrected link
+            "https://raw.githubusercontent.com/GuoBing1989100/v2ray_configs/main/all.txt", # Corrected link
+            "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/mix/sub.html", # Corrected link
+            "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt" # Corrected link
         ])
         with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f:
             json.dump(list(set(new_links)), f, indent=4)
