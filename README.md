@@ -22,43 +22,81 @@
 
 ### ⭐ ویژگی‌های کلیدی
 
-🤖 **جمع‌آوری هوشمند**: استخراج خودکار کانفیگ‌ها از بیش از 50 کانال تلگرام و منبع آنلاین  
-🌍 **تشخیص موقعیت جغرافیایی**: شناسایی دقیق کشور سرور با GeoIP پیشرفته  
-🏷️ **نام‌گذاری استاندارد**: فرمت یکپارچه مانند `🔒 VLESS-TCP-XTLS 🇺🇸 US-Los_Angeles-1.2.3.4:443`  
-📦 **دسته‌بندی پیشرفته**: تفکیک بر اساس پروتکل، نوع شبکه، کشور و کیفیت  
-⚡ **به‌روزرسانی realtime**: هر 30 دقیقه با GitHub Actions  
-🔄 **حذف تکراری**: الگوریتم پیشرفته برای حذف کانفیگ‌های مشابه  
+<div align="center">
+
+| 🎯 ویژگی | 📝 توضیحات |
+|---------|-----------|
+| 🤖 **جمع‌آوری هوشمند** | استخراج خودکار از بیش از 50 کانال تلگرام و منبع آنلاین |
+| 📦 **دسته‌بندی پیشرفته** | تفکیک بر اساس پروتکل، نوع شبکه، کشور و کیفیت |
+| ⚡ **به‌روزرسانی مداوم** | هر 30 دقیقه بروزرسانی می‌شود |
+| 🎯 **فیلترینگ هوشمند** | حذف کانفیگ‌های تکراری و غیرفعال |
+
+</div>  
 
 ### 📋 لینک‌های اشتراک
 
+<div align="center">
+
 #### 🌟 اشتراک‌های اصلی
+
+<table>
+<tr>
+<td align="center">
+<h4>📊 Base64 Subscription</h4>
+<a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/subscribe/base64.txt">
+<img src="https://img.shields.io/badge/Download-Base64-blue?style=for-the-badge&logo=download" alt="Base64"/>
+</a>
+</td>
+<td align="center">
+<h4>📄 Plain Text</h4>
+<a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/all_configs.txt">
+<img src="https://img.shields.io/badge/Download-PlainText-green?style=for-the-badge&logo=download" alt="Plain Text"/>
+</a>
+</td>
+</tr>
+</table>
+
+#### 🔐 دسته‌بندی پروتکل
+
+| پروتکل | لینک دانلود |
+|--------|-------------|
+| VLESS | [`📥 دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/protocols/vless.txt) |
+| VMess | [`📥 دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/protocols/vmess.txt) |
+| Trojan | [`📥 دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/protocols/trojan.txt) |
+| Shadowsocks | [`📥 دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/protocols/shadowsocks.txt) |
+
+#### 🌐 دسته‌بندی شبکه
+
+| نوع شبکه | لینک دانلود |
+|----------|-------------|
+| REALITY | [`📥 دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/networks/reality.txt) |
+| gRPC | [`📥 دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/networks/grpc.txt) |
+| WebSocket | [`📥 دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/networks/ws.txt) |
+| TCP | [`📥 دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/networks/tcp.txt) |
+
+</div>
+
+### 🔧 راهنمای استفاده
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[📋 کپی لینک] --> B[📱 باز کردن کلاینت]
+    B --> C[⚙️ تنظیمات اشتراک]
+    C --> D[➕ افزودن لینک]
+    D --> E[🔄 به‌روزرسانی]
+    E --> F[🎉 استفاده از کانفیگ‌ها]
 ```
-✅ همه کانفیگ‌ها (Base64): 
-https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/subscribe/base64.txt
 
-📝 همه کانفیگ‌ها (متن ساده):
-https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/all_configs.txt
-```
+**مراحل ساده:**
+1. یکی از لینک‌های بالا را **کپی** کنید 📋
+2. کلاینت V2Ray خود را باز کنید (v2rayNG, v2rayN, etc.) 📱
+3. به **تنظیمات اشتراک** بروید ⚙️
+4. لینک را **اضافه** کرده و **به‌روزرسانی** کنید ➕🔄
+5. از کانفیگ‌های **جدید** لذت ببرید! 🎉
 
-#### 🔐 بر اساس پروتکل
-- **VLESS**: `https://raw.githubusercontent.com/.../protocols/vless.txt`
-- **VMess**: `https://raw.githubusercontent.com/.../protocols/vmess.txt`
-- **Trojan**: `https://raw.githubusercontent.com/.../protocols/trojan.txt`
-- **Shadowsocks**: `https://raw.githubusercontent.com/.../protocols/shadowsocks.txt`
-
-#### 🌐 بر اساس نوع شبکه
-- **REALITY**: `https://raw.githubusercontent.com/.../networks/reality.txt`
-- **gRPC**: `https://raw.githubusercontent.com/.../networks/grpc.txt`
-- **WebSocket**: `https://raw.githubusercontent.com/.../networks/ws.txt`
-- **TCP**: `https://raw.githubusercontent.com/.../networks/tcp.txt`
-
-### 🔧 نحوه استفاده
-
-1. یکی از لینک‌های بالا را کپی کنید
-2. کلاینت V2Ray خود را باز کنید (v2rayNG, v2rayN, etc.)
-3. به تنظیمات اشتراک بروید
-4. لینک را اضافه کرده و به‌روزرسانی کنید
-5. از کانفیگ‌های جدید لذت ببرید! 🎉
+</div>
 
 ---
 
@@ -70,37 +108,72 @@ An intelligent, automated system for collecting, categorizing, and distributing 
 
 ### ⭐ Key Features
 
-🤖 **Smart Collection**: Automated extraction from 50+ Telegram channels and online sources  
-🌍 **Geo-Location Detection**: Precise server country identification using advanced GeoIP  
-🏷️ **Standardized Naming**: Unified format like `🔒 VLESS-TCP-XTLS 🇺🇸 US-Los_Angeles-1.2.3.4:443`  
-📦 **Advanced Categorization**: Classification by protocol, network type, country, and quality  
-⚡ **Real-time Updates**: Every 30 minutes via GitHub Actions  
-🔄 **Duplicate Removal**: Advanced algorithm for eliminating similar configurations  
+<div align="center">
+
+| 🎯 Feature | 📝 Description |
+|-----------|---------------|
+| 🤖 **Smart Collection** | Automated extraction from 50+ Telegram channels and online sources |
+| 📦 **Advanced Categorization** | Classification by protocol, network type, country, and quality |
+| ⚡ **Continuous Updates** | Updated every 30 minutes |
+| 🎯 **Smart Filtering** | Removal of duplicate and inactive configurations |
+
+</div>  
 
 ### 📋 Subscription Links
 
-#### 🌟 Main Subscriptions
-```
-✅ All Configs (Base64): 
-https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/subscribe/base64.txt
+<div align="center">
 
-📝 All Configs (Plain Text):
-https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/all_configs.txt
-```
+#### 🌟 Main Subscriptions
+
+<table>
+<tr>
+<td align="center">
+<h4>📊 Base64 Subscription</h4>
+<a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/subscribe/base64.txt">
+<img src="https://img.shields.io/badge/Download-Base64-blue?style=for-the-badge&logo=download" alt="Base64"/>
+</a>
+</td>
+<td align="center">
+<h4>📄 Plain Text</h4>
+<a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/all_configs.txt">
+<img src="https://img.shields.io/badge/Download-PlainText-green?style=for-the-badge&logo=download" alt="Plain Text"/>
+</a>
+</td>
+</tr>
+</table>
 
 #### 🔐 By Protocol
-- **VLESS**: `https://raw.githubusercontent.com/.../protocols/vless.txt`
-- **VMess**: `https://raw.githubusercontent.com/.../protocols/vmess.txt`
-- **Trojan**: `https://raw.githubusercontent.com/.../protocols/trojan.txt`
-- **Shadowsocks**: `https://raw.githubusercontent.com/.../protocols/shadowsocks.txt`
+
+| Protocol | Download Link |
+|----------|---------------|
+| VLESS | [`📥 Download`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/protocols/vless.txt) |
+| VMess | [`📥 Download`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/protocols/vmess.txt) |
+| Trojan | [`📥 Download`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/protocols/trojan.txt) |
+| Shadowsocks | [`📥 Download`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/protocols/shadowsocks.txt) |
+
+</div>
 
 ### 🔧 How to Use
 
-1. Copy one of the links above
-2. Open your V2Ray client (v2rayNG, v2rayN, etc.)
-3. Go to subscription settings
-4. Add the link and update
-5. Enjoy fresh configurations! 🎉
+<div align="center">
+
+```mermaid
+graph LR
+    A[📋 Copy Link] --> B[📱 Open Client]
+    B --> C[⚙️ Subscription Settings]
+    C --> D[➕ Add Link]
+    D --> E[🔄 Update]
+    E --> F[🎉 Use Configurations]
+```
+
+**Simple Steps:**
+1. **Copy** one of the links above 📋
+2. Open your V2Ray client (v2rayNG, v2rayN, etc.) 📱
+3. Go to **subscription settings** ⚙️
+4. **Add** the link and **update** ➕🔄
+5. Enjoy **fresh** configurations! 🎉
+
+</div>
 
 ---
 
@@ -112,12 +185,16 @@ https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/a
 
 ### ⭐ 核心特性
 
-🤖 **智能收集**: 从50+个Telegram频道和在线源自动提取  
-🌍 **地理位置检测**: 使用先进GeoIP精确识别服务器国家  
-🏷️ **标准化命名**: 统一格式如 `🔒 VLESS-TCP-XTLS 🇺🇸 US-Los_Angeles-1.2.3.4:443`  
-📦 **高级分类**: 按协议、网络类型、国家和质量分类  
-⚡ **实时更新**: 通过GitHub Actions每30分钟更新  
-🔄 **去重处理**: 先进算法消除相似配置  
+<div align="center">
+
+| 🎯 特性 | 📝 描述 |
+|-------|--------|
+| 🤖 **智能收集** | 从50+个Telegram频道和在线源自动提取 |
+| 📦 **高级分类** | 按协议、网络类型、国家和质量分类 |
+| ⚡ **持续更新** | 每30分钟更新一次 |
+| 🎯 **智能过滤** | 移除重复和无效配置 |
+
+</div>  
 
 ### 📋 订阅链接
 
@@ -148,12 +225,16 @@ https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/output/a
 
 ### ⭐ Ключевые особенности
 
-🤖 **Умный сбор**: Автоматическое извлечение из 50+ Telegram каналов и онлайн источников  
-🌍 **Определение геолокации**: Точная идентификация страны сервера с использованием продвинутого GeoIP  
-🏷️ **Стандартизированное именование**: Единый формат типа `🔒 VLESS-TCP-XTLS 🇺🇸 US-Los_Angeles-1.2.3.4:443`  
-📦 **Продвинутая категоризация**: Классификация по протоколу, типу сети, стране и качеству  
-⚡ **Обновления в реальном времени**: Каждые 30 минут через GitHub Actions  
-🔄 **Удаление дубликатов**: Продвинутый алгоритм для устранения похожих конфигураций  
+<div align="center">
+
+| 🎯 Особенность | 📝 Описание |
+|---------------|-------------|
+| 🤖 **Умный сбор** | Автоматическое извлечение из 50+ Telegram каналов и онлайн источников |
+| 📦 **Продвинутая категоризация** | Классификация по протоколу, типу сети, стране и качеству |
+| ⚡ **Непрерывные обновления** | Обновляется каждые 30 минут |
+| 🎯 **Умная фильтрация** | Удаление дублирующихся и неактивных конфигураций |
+
+</div>  
 
 ### 📋 Ссылки на подписки
 
