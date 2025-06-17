@@ -65,9 +65,9 @@ class AppConfig:
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
     ADD_SIGNATURES = True
-    ADV_SIGNATURE = "✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀"
-    DNT_SIGNATURE = "✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀"
-    DEV_SIGNATURE = "👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀"
+    ADV_SIGNATURE = "🤖 TELEGRAM-CHANNEL 🌟 FREE-VPN 💻 @OXNET_IR"
+    DNT_SIGNATURE = "🛡 SUPPORT-US"
+    DEV_SIGNATURE = "👨‍💻 DEVELOPED-BY Plan Asli 📌 PlanAsli"
 
 CONFIG = AppConfig()
 
@@ -107,7 +107,7 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦�',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
@@ -373,19 +373,26 @@ class TelegramScraper:
         
         for i, channel_results in enumerate(results):
             if isinstance(channel_results, dict):
-                logger.info(f"Scraped {sum(len(v) for v in channel_results.values())} configs from '{self.channels[i]}'")
+                successful_channels = sum(1 for res in results if isinstance(res, dict))
+                logger.info(f"Scraped {sum(len(v) for v in channel_results.values())} configs from '{self.channels[i]}' ({i+1}/{len(self.channels)}) | Success: {successful_channels}")
                 for config_type, configs in channel_results.items():
                     total_configs_by_type[config_type].extend(configs)
-        
+            elif isinstance(channel_results, Exception):
+                logger.error(f"Failed to scrape channel '{self.channels[i]}': {channel_results}")
+
         return total_configs_by_type
         
     async def _scrape_channel(self, channel: str) -> Optional[Dict[str, List[str]]]:
-        await asyncio.sleep(random.uniform(0.5, 1.5)) # Add random delay
+        await asyncio.sleep(random.uniform(1.0, 2.0)) # Increased random delay
         url = CONFIG.TELEGRAM_BASE_URL.format(channel)
         try:
             status, html = await AsyncHttpClient.get(url)
-            if status != 200: return None
-        except NetworkError: return None
+            if status != 200: 
+                logger.warning(f"Channel '{channel}' returned status {status}.")
+                return None
+        except NetworkError as e: 
+            logger.warning(f"Network error for channel '{channel}': {e}")
+            return None
         
         soup = BeautifulSoup(html, "html.parser")
         messages = soup.find_all("div", class_="tgme_widget_message")
@@ -396,12 +403,16 @@ class TelegramScraper:
         for msg in messages:
             time_tag = msg.find("time", class_="time")
             if time_tag and 'datetime' in time_tag.attrs:
-                if datetime.fromisoformat(time_tag['datetime']).astimezone(self.iran_tz) > self.since_datetime:
-                    text_div = msg.find("div", class_="tgme_widget_message_text")
-                    if text_div:
-                        found_configs = RawConfigCollector.find_all(text_div.get_text('\n', strip=True))
-                        for config_type, configs in found_configs.items():
-                            channel_configs[config_type].extend(configs)
+                try:
+                    message_dt = datetime.fromisoformat(time_tag['datetime']).astimezone(self.iran_tz)
+                    if message_dt > self.since_datetime:
+                        text_div = msg.find("div", class_="tgme_widget_message_text")
+                        if text_div:
+                            found_configs = RawConfigCollector.find_all(text_div.get_text('\n', strip=True))
+                            for config_type, configs in found_configs.items():
+                                channel_configs[config_type].extend(configs)
+                except (ValueError, TypeError):
+                    continue # Ignore messages with invalid datetime
         return channel_configs
 
 # ------------------------------------------------------------------------------
