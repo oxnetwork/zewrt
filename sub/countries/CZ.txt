@@ -1,6 +1,6 @@
-trojan://a8jvictq-zvff-j4rl-vyl5-pepwpp1rh9ev@127.0.0.1:1080?security=tls&type=tcp#LATEST UPDATE 📆 1404-KHORDAD-27 ⏰ 06:58
-trojan://dckgldaf-k8bp-10yu-ssc3-darfy9jonmor@127.0.0.1:2080?security=tls&type=tcp#✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀
-trojan://fz1sil3v-eqhc-7050-3a3l-lglllia8pv58@127.0.0.1:3080?security=tls&type=tcp#✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀
+trojan://82mo1v9t-okdd-glru-qqq9-4vu8zb3r0oyn@127.0.0.1:1080?security=tls&type=tcp#LATEST UPDATE 📆 1404-KHORDAD-27 ⏰ 07:39
+trojan://k80e6aoi-x1pw-9wm0-v44p-7cctyojyh5pr@127.0.0.1:2080?security=tls&type=tcp#✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀
+trojan://ly6mzyl9-5f8g-npd7-1egl-89fzhiwjvt80@127.0.0.1:3080?security=tls&type=tcp#✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🔓 SS-TCP-NTLS 🇨🇿 CZ-195.181.160.6:990
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@143.244.58.102:443#🔓 SS-TCP-NTLS 🇨🇿 CZ-143.244.58.102:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:51348#🔓 SS-TCP-NTLS 🇨🇿 CZ-195.123.246.15:51348
@@ -103,15 +103,16 @@ vless://e9a4e01b-8b9c-4e02-9ab2-a7a0e8b7f271@194.182.79.100:42438?type=grpc&secu
 vless://0d5bca05-01a6-4675-a4d9-19d74467a7b6@194.182.79.143:36936?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.143:36936
 vless://42ae80f7-764f-47d7-8c3c-9a3817210e91@194.182.79.41:48615?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.41:48615
 vless://157d0689-3f11-4937-8e48-78c09476c4f2@194.182.79.216:52843?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.216:52843
-vless://a097a80b-ce38-4699-88fa-9c2e5128b7f0@194.182.79.41:48615?type=tcp&security=none#🔓 VL-TCP-NTLS 🇨🇿 CZ-194.182.79.41:48615
 vless://d3a608d2-f233-40c2-922e-5d278ef869c7@194.182.79.100:42438?type=tcp&security=none#🔓 VL-TCP-NTLS 🇨🇿 CZ-194.182.79.100:42438
-vless://caf5778e-1b1d-426f-89af-1095565aed80@194.182.79.216:52843?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.216:52843
-vless://d9d7de85-cfb2-4ba8-9cf3-6354090cafa6@194.182.79.100:42438?type=tcp&security=none#🔓 VL-TCP-NTLS 🇨🇿 CZ-194.182.79.100:42438
 vless://b7469549-3b24-4f2f-b5e8-ff17dd547e01@194.182.79.143:36936?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.143:36936
+vless://caf5778e-1b1d-426f-89af-1095565aed80@194.182.79.216:52843?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.216:52843
+vless://a097a80b-ce38-4699-88fa-9c2e5128b7f0@194.182.79.41:48615?type=tcp&security=none#🔓 VL-TCP-NTLS 🇨🇿 CZ-194.182.79.41:48615
+vless://d9d7de85-cfb2-4ba8-9cf3-6354090cafa6@194.182.79.100:42438?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.100:42438
+vless://d3%61608d2-f233-40c2-922%65-5d278%65f869c7@194.182.79.100:42438?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.100:42438
 vless://%61097%6180b-c%6538-4699-88f%61-9c2%655128b7f0@194.182.79.41:48615?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.41:48615
 vless://c%61f5778%65-1b1d-426f-89%61f-1095565%61%65d80@194.182.79.216:52843?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.216:52843
-vless://d3%61608d2-f233-40c2-922%65-5d278%65f869c7@194.182.79.100:42438?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.100:42438
 vless://b7469549-3b24-4f2f-b5%658-ff17dd547%6501@194.182.79.143:36936?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-194.182.79.143:36936
+vless://3ce7d19b-6d03-414c-80b2-5f628cf98a55@cf-node-de-1.kcjb.org:443?type=ws&security=tls&path=/&sni=node-rm-fr-1.origan.us.kg#🔒 VL-WS-TLS 🇨🇿 CZ-cf-node-de-1.kcjb.org:443
 vless://40836595-f77d-4575-bcd9-3092f153f79e@80.211.203.158:25210?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-80.211.203.158:25210
 vless://58fd8427-b4af-4d2c-9088-786c687787e8@80.211.203.158:25210?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-80.211.203.158:25210
 vless://ca6ddb90-89a2-45f9-9705-6a8b521f0d59@80.211.203.158:25210?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇨🇿 CZ-80.211.203.158:25210
@@ -225,4 +226,4 @@ vless://042%65741f-%61%61c1-4%6524-990f-%61c3946252772@194.182.79.119:17958?type
 vless://3743e72f-a5f2-4b4f-a38e-7f7299a54028@194.182.84.53:443?type=grpc&security=reality&sni=wordpress.org&fp=randomized#🔒 VL-GRPC-RLT 🇨🇿 CZ-194.182.84.53:443
 vless://df3173df-eff6-4c33-8f81-6cb142e4a2cd@194.87.140.148:443?type=tcp&security=reality&sni=google.com&fp=chrome#🔒 VL-TCP-RLT 🇨🇿 CZ-194.87.140.148:443
 vless://61269d11-85fa-41b2-b21b-9734a4974ba4@op.a1duis.ir:1018?type=tcp&security=reality&sni=tgju.org&fp=chrome#🔒 VL-TCP-RLT 🇨🇿 CZ-op.a1duis.ir:1018
-trojan://8jesg9vi-uy2b-c7lj-81cr-5x519rmyq0ej@127.0.0.1:8080?security=tls&type=tcp#👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀
+trojan://fv8zmy9w-hsjo-adyy-eub9-dj26immfb9gb@127.0.0.1:8080?security=tls&type=tcp#👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀
