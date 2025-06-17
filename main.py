@@ -34,8 +34,8 @@ from pydantic import BaseModel, Field, model_validator
 class AppConfig:
     """Holds all application configuration settings."""
     BASE_DIR = Path(__file__).parent
-    DATA_DIR = BASE_DIR / "v2ray_data"  # New directory for all data/log files
-    OUTPUT_DIR = BASE_DIR / "sub"
+    DATA_DIR = BASE_DIR / "data"      # Renamed from v2ray_data
+    OUTPUT_DIR = BASE_DIR / "sub"       # Renamed from output
     
     DIRS = {
         "splitted": OUTPUT_DIR / "splitted",
@@ -48,12 +48,12 @@ class AppConfig:
     
     # All internal files are now inside DATA_DIR
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
-    SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_links.json"
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
     LOG_FILE = DATA_DIR / "v2ray_collector.log"
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     
-    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/telegram%20channels.json"
+    # Updated URL for Telegram channels list
+    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/data/telegram-channel.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
 
     HTTP_TIMEOUT = 25.0
@@ -76,7 +76,6 @@ CONFIG = AppConfig()
 
 def setup_logger():
     """Configures the root logger for the application."""
-    # Ensure data directory exists for the log file
     CONFIG.DATA_DIR.mkdir(exist_ok=True)
     
     logging.basicConfig(
@@ -110,7 +109,7 @@ COUNTRY_CODE_TO_FLAG = {
     'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
-    'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
+    'BN': '🇧�', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲',
     'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬',
@@ -404,34 +403,6 @@ class TelegramScraper:
         return channel_configs
 
 # ------------------------------------------------------------------------------
-# --- FILENAME: sources/subscription_fetcher.py ---
-# ------------------------------------------------------------------------------
-
-class SubscriptionFetcher:
-    def __init__(self, sub_links: List[str]): self.sub_links = sub_links
-
-    async def fetch_all(self) -> Dict[str, List[str]]:
-        tasks = [self._fetch_and_decode(link) for link in self.sub_links]
-        results = await asyncio.gather(*tasks, return_exceptions=True)
-        total_configs_by_type: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
-        
-        for content in results:
-            if isinstance(content, str):
-                found_configs = RawConfigCollector.find_all(content)
-                for config_type, configs in found_configs.items():
-                    total_configs_by_type[config_type].extend(configs)
-
-        logger.info(f"Fetched {sum(len(v) for v in total_configs_by_type.values())} total configs from {len(self.sub_links)} subscriptions.")
-        return total_configs_by_type
-
-    async def _fetch_and_decode(self, link: str) -> str:
-        try:
-            _, content = await AsyncHttpClient.get(link)
-            return base64.b64decode(content + '==').decode('utf-8')
-        except Exception:
-            return content
-
-# ------------------------------------------------------------------------------
 # --- FILENAME: storage/file_manager.py ---
 # ------------------------------------------------------------------------------
 
@@ -626,25 +597,18 @@ class V2RayCollectorApp:
         await self._load_state()
 
         tg_channels = await self._get_telegram_channels()
-        sub_links = await self.file_manager.read_json_file(self.config.SUBSCRIPTION_LINKS_FILE)
-        if not tg_channels and not sub_links:
-            logger.error("No sources found. Exiting.")
+        if not tg_channels:
+            logger.error("No Telegram channels found. Exiting.")
             return
 
         tg_scraper = TelegramScraper(tg_channels, self.last_update_time)
-        sub_fetcher = SubscriptionFetcher(sub_links)
-        tg_raw_configs, sub_raw_configs = await asyncio.gather(tg_scraper.scrape_all(), sub_fetcher.fetch_all())
+        raw_configs = await tg_scraper.scrape_all()
 
-        combined_raw_configs: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
-        for config_type in combined_raw_configs.keys():
-            combined_raw_configs[config_type].extend(tg_raw_configs.get(config_type, []))
-            combined_raw_configs[config_type].extend(sub_raw_configs.get(config_type, []))
-
-        if not any(combined_raw_configs.values()):
-            logger.info("No new configurations found. Exiting.")
+        if not any(raw_configs.values()):
+            logger.info("No new configurations found from Telegram channels. Exiting.")
             return
 
-        processor = ConfigProcessor(combined_raw_configs)
+        processor = ConfigProcessor(raw_configs)
         await processor.process()
         
         all_unique_configs = processor.get_all_unique_configs()
@@ -727,32 +691,19 @@ async def main():
     
     Geolocation.initialize()
 
-    # Create default subscription links file if it doesn't exist, with new links
-    if not CONFIG.SUBSCRIPTION_LINKS_FILE.exists():
-        new_links = [f"https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub{i}.txt" for i in range(1, 11)]
-        new_links.extend([
-            "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt",
-            "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-            "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs.txt",
-            "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
-            "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt",
-            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
-            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt",
-            "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n.txt", # Corrected link
-            "https://raw.githubusercontent.com/skywrt/v2ray-configs/main/All_Configs_Sub.txt", # Corrected link
-            "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt", # Corrected link
-            "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt", # Corrected link
-            "https://raw.githubusercontent.com/GuoBing1989100/v2ray_configs/main/all.txt", # Corrected link
-            "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/mix/sub.html", # Corrected link
-            "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt" # Corrected link
-        ])
-        with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f:
-            json.dump(list(set(new_links)), f, indent=4)
-
-    # Create default channels file if it doesn't exist
+    # Create default channels file if it doesn't exist from the remote URL
     if not CONFIG.TELEGRAM_CHANNELS_FILE.exists():
-         with open(CONFIG.TELEGRAM_CHANNELS_FILE, "w") as f:
-            json.dump(["PrivateVPNs", "V2rayNG_Fast", "frev2ray"], f, indent=4)
+         try:
+            status, content = await AsyncHttpClient.get(CONFIG.REMOTE_CHANNELS_URL)
+            if status == 200 and content:
+                channels = json.loads(content)
+                if isinstance(channels, list):
+                    async with aiofiles.open(CONFIG.TELEGRAM_CHANNELS_FILE, "w", encoding='utf-8') as f:
+                        await f.write(json.dumps(channels, indent=4))
+                    logger.info(f"Default telegram_channels.json created from remote source.")
+         except Exception as e:
+            logger.warning(f"Could not create default telegram channels file: {e}")
+
 
     app = V2RayCollectorApp()
     try:
