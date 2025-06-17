@@ -1,6 +1,6 @@
-trojan://3ktzxm9o-b7r6-zaqy-ji78-3o83x5q2bs5x@127.0.0.1:1080?security=tls&type=tcp#LATEST UPDATE 📆 1404-KHORDAD-27 ⏰ 12:14
-trojan://nnyhwnpn-s28q-xof1-39d3-f9dj3275i4zl@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 FREE-VPN 💻 @OXNET_IR
-trojan://nru423sv-uxe6-6dvr-x1ow-ezrqyay4saz7@127.0.0.1:3080?security=tls&type=tcp#🛡 SUPPORT-US
+trojan://byf4hodm-c8yg-ydjy-ynuo-sh2pxgw8sjk4@127.0.0.1:1080?security=tls&type=tcp#LATEST UPDATE 📆 1404-KHORDAD-27 ⏰ 12:32
+trojan://7cqbv278-ker5-u3i5-ycmc-kef7ob2dldzx@127.0.0.1:2080?security=tls&type=tcp#✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀
+trojan://hmaofzzx-9h42-95he-apzh-vjjhphp32rw5@127.0.0.1:3080?security=tls&type=tcp#✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#🔓 SS-TCP-NTLS 🇫🇮 FI-37.143.129.230:989
 ss://YWVzLTI1Ni1nY206R0NQTjdONEFSODZQOEZZUg@37.143.129.127:20031#🔓 SS-TCP-NTLS 🇫🇮 FI-37.143.129.127:20031
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaUY5OHhCTDJ2MWk@135.181.114.242:8478#🔓 SS-TCP-NTLS 🇫🇮 FI-135.181.114.242:8478
@@ -34,7 +34,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZDEzIFZNLUtDUC1OVExTIFx1ZDgzY1x1ZGRlYlx1
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZDEyIFZNLVRDUC1UTFMgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIEZJLWhyYS5hcHAtYnJvd3Nlci5vcmc6NDQzIiwiYWRkIjoiaHJhLmFwcC1icm93c2VyLm9yZyIsInBvcnQiOjQ0MywiaWQiOiI0M2VhZTUxMC1lMWJjLTQwMzYtZTkxOS04NmE2MjhmOTgzZWYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJocmEuYXBwLWJyb3dzZXIub3JnIiwidGxzIjoidGxzIiwic25pIjoiaHJhLmFwcC1icm93c2VyLm9yZyJ9
 vless://345a9f16-9f70-4a9e-822d-70f632b6b722@135.181.44.110:443?type=ws&security=tls&path=/&sni=ghbi.ir&fp=chrome#🔒 VL-WS-TLS 🇫🇮 FI-135.181.44.110:443
 vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?type=tcp&security=none#🔓 VL-TCP-NTLS 🇫🇮 FI-37.27.220.198:2001
-vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.80.139:8880?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇫🇮 FI-157.180.80.139:8880
+vless://2ba1d189-c42c-4b18-b262-f330552f8d16@65.109.219.206:56213?type=tcp&security=none#🔓 VL-TCP-NTLS 🇫🇮 FI-65.109.219.206:56213
 vless://fabdd668-900a-443f-bb38-d9df95c53f9d@157.180.41.190:1517?type=tcp&security=none#🔓 VL-TCP-NTLS 🇫🇮 FI-157.180.41.190:1517
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@150.241.96.165:443?type=ws&security=tls&path=telegram🇨🇳@wangcai2/?ed=2560&sni=0926.qiang2000.link#🔒 VL-WS-TLS 🇫🇮 FI-150.241.96.165:443
 vless://e1f692a1-5f51-4baf-b403-77f367601463@157.180.41.190:8722?type=tcp&security=none&path=/#🔓 VL-TCP-NTLS 🇫🇮 FI-157.180.41.190:8722
@@ -46,7 +46,7 @@ vless://bffceece-a818-45d2-ad04-eb819eec8f78@109.172.54.5:600?type=tcp&security=
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?type=raw&security=tls&sni=dedic.app-browser.org#🔒 VL-RAW-TLS 🇫🇮 FI-65.109.145.54:443
 vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@157.180.41.190:1520?type=tcp&security=none#🔓 VL-TCP-NTLS 🇫🇮 FI-157.180.41.190:1520
 vless://b2e125db-f0a3-4ae4-b883-e5874897fe27@109.172.54.5:3993?type=ws&security=tls&path=?ed=2084&sni=marzban.negintel.xyz&fp=chrome#🔒 VL-WS-TLS 🇫🇮 FI-109.172.54.5:3993
-vless://2ba1d189-c42c-4b18-b262-f330552f8d16@65.109.219.206:56213?type=tcp&security=none#🔓 VL-TCP-NTLS 🇫🇮 FI-65.109.219.206:56213
+vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.80.139:8880?type=grpc&security=none#🔓 VL-GRPC-NTLS 🇫🇮 FI-157.180.80.139:8880
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?type=raw&security=tls&sni=api.chandplus.com#🔒 VL-RAW-TLS 🇫🇮 FI-95.217.206.161:443
 vless://d2d622b2-66d0-4a89-a02f-40885ee01409@65.108.92.15:1010?type=tcp&security=tls&sni=refersion.com&fp=chrome#🔒 VL-TCP-TLS 🇫🇮 FI-65.108.92.15:1010
 vless://38b41ed4-5fe2-4868-8016-8df32dcaed78@157.180.95.180:2087?type=grpc&security=tls&sni=pic.zarashop0.ir&fp=chrome#🔒 VL-GRPC-TLS 🇫🇮 FI-157.180.95.180:2087
@@ -169,11 +169,11 @@ vless://e1f692a1-5f51-4baf-b403-77f367601463@157.180.41.190:1535?type=xhttp&secu
 vless://b5ee8f67-0f25-467b-aca4-01001f00d802@65.109.192.110:55953?type=tcp&security=reality#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.192.110:55953
 vless://turboo-server@fn.turbooserver.ir:8080?type=tcp&security=reality&sni=canva.com&fp=chrome#🔒 VL-TCP-RLT 🇫🇮 FI-fn.turbooserver.ir:8080
 vless://676efbf3-137c-47c3-8011-d032fba369cd@bermuda.jahanmataleb.ir:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome#🔒 VL-TCP-RLT 🇫🇮 FI-bermuda.jahanmataleb.ir:443
-vless://f063a706-decb-405a-9b7f-80de0356b6c7@157.180.30.213:41386?type=grpc&security=reality&sni=yahoo.com&fp=chrome#🔒 VL-GRPC-RLT 🇫🇮 FI-157.180.30.213:41386
-vless://ed8a84c1-6478-41fa-80c7-6d1cdcea809d@pa.hostirann.xyz:2089?type=tcp&security=reality&sni=refersion.com&fp=chrome#🔒 VL-TCP-RLT 🇫🇮 FI-pa.hostirann.xyz:2089
-vless://d76542c9-916e-41bb-ad0d-fa37971a8b2e@65.109.211.154:443?type=xhttp&security=reality&path=/@custom_config&sni=yahoo.com&fp=chrome#🔒 VL-XHTTP-RLT 🇫🇮 FI-65.109.211.154:443
 vless://6e18ff9e-ebc2-41c7-9d41-a7ee624cacd6@pa.hostirann.xyz:2089?type=tcp&security=reality&sni=refersion.com&fp=chrome#🔒 VL-TCP-RLT 🇫🇮 FI-pa.hostirann.xyz:2089
 vless://fbf0444d-3941-45ca-a1b2-54f58fc8c43c@65.109.176.100:442?type=tcp&security=reality&sni=www.cdn77.com&fp=chrome#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.176.100:442
-vless://76cbbc98-1adc-4017-9689-8a13969a90e3@pa.hostirann.xyz:2089?type=tcp&security=reality&sni=refersion.com&fp=chrome#🔒 VL-TCP-RLT 🇫🇮 FI-pa.hostirann.xyz:2089
+vless://d76542c9-916e-41bb-ad0d-fa37971a8b2e@65.109.211.154:443?type=xhttp&security=reality&path=/@custom_config&sni=yahoo.com&fp=chrome#🔒 VL-XHTTP-RLT 🇫🇮 FI-65.109.211.154:443
 vless://ae942900-cae6-425e-94b0-21f086e6d7b1@iran.mr-cloud.ir:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇫🇮 FI-iran.mr-cloud.ir:443
-trojan://8rxb56e9-clp1-c21q-6ne8-suz17v4s1d49@127.0.0.1:8080?security=tls&type=tcp#👨‍💻 DEVELOPED-BY Plan Asli 📌 PlanAsli
+vless://f063a706-decb-405a-9b7f-80de0356b6c7@157.180.30.213:41386?type=grpc&security=reality&sni=yahoo.com&fp=chrome#🔒 VL-GRPC-RLT 🇫🇮 FI-157.180.30.213:41386
+vless://76cbbc98-1adc-4017-9689-8a13969a90e3@pa.hostirann.xyz:2089?type=tcp&security=reality&sni=refersion.com&fp=chrome#🔒 VL-TCP-RLT 🇫🇮 FI-pa.hostirann.xyz:2089
+vless://ed8a84c1-6478-41fa-80c7-6d1cdcea809d@pa.hostirann.xyz:2089?type=tcp&security=reality&sni=refersion.com&fp=chrome#🔒 VL-TCP-RLT 🇫🇮 FI-pa.hostirann.xyz:2089
+trojan://iy0287t3-jw4c-a5ei-l644-lwpz61gyv9rw@127.0.0.1:8080?security=tls&type=tcp#👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀
