@@ -1,6 +1,6 @@
-trojan://2243cm6v-eci3-e0rf-l5vm-k04o1x6r6xi6@127.0.0.1:1080?security=tls&type=tcp#LATEST UPDATE 📆 1404-KHORDAD-27 ⏰ 09:01
-trojan://m2e0n67r-rzav-8vzy-egvl-v35nwtbov7ww@127.0.0.1:2080?security=tls&type=tcp#✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀
-trojan://9k8vwju0-hh7c-zei8-kmby-mlz1dzc3ynl4@127.0.0.1:3080?security=tls&type=tcp#✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀
+trojan://78qvgkhs-yf48-yttf-9qgx-u4rds9am2e16@127.0.0.1:1080?security=tls&type=tcp#LATEST UPDATE 📆 1404-KHORDAD-27 ⏰ 09:23
+trojan://bhb7gfwc-8ndd-fbi8-4jvh-n21gxvngpck6@127.0.0.1:2080?security=tls&type=tcp#✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀
+trojan://kqjf5ba2-p8mj-96mg-8eks-8n3xvwcxz7iw@127.0.0.1:3080?security=tls&type=tcp#✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#🔓 SS-TCP-NTLS 🇪🇪 EE-185.193.49.88:989
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#🔓 SS-TCP-NTLS 🇪🇪 EE-37.252.5.234:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#🔓 SS-TCP-NTLS 🇪🇪 EE-147.45.60.33:16356
@@ -51,11 +51,17 @@ vless://37208d52-8823-412d-944e-0a8ef08a5079@45.82.253.214:443?type=ws&security=
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@95.164.8.12:443?type=ws&security=tls&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&sni=xin033.ylks.link#🔒 VL-WS-TLS 🇪🇪 EE-95.164.8.12:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@94.131.15.61:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#🔒 VL-WS-TLS 🇪🇪 EE-94.131.15.61:443
 vless://world@5.181.23.116:7777?type=ws&security=none&path=/#🔓 VL-WS-NTLS 🇪🇪 EE-5.181.23.116:7777
+vless://I_Love__SSHMax_b716c16@0:0:0:0:0:ffff:05b5:1743:443?type=grpc&security=tls&sni=zula.ir#🔒 VL-GRPC-TLS 🇪🇪 EE-0:0:0:0:0:ffff:05b5:1743:443
 vless://4cd1bf48-c630-629e-bc93-ac271c919850@146.19.143.150:5234?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-146.19.143.150:5234
 vless://def9f760-61e8-2646-2a24-42973e96c041@146.19.143.150:4768?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-146.19.143.150:4768
 vless://d6fd3680-32f2-49b7-82a7-cdb3e7c60921@146.19.143.194:23455?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-146.19.143.194:23455
 vless://RzLDAo8bl56UoDcFFnTJO1@176.124.32.10:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-176.124.32.10:443
+vless://447a6e09-8ad3-8fa5-15cf-bb1be3bed80a@mlifaaehazarat.darkping.net:5234?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-mlifaaehazarat.darkping.net:5234
+vless://5a67b9fc-505b-7530-06ba-6527ed320c12@mlifaaehazarat.darkping.net:5234?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-mlifaaehazarat.darkping.net:5234
+vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@mlifaaehazarat.darkping.net:5234?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-mlifaaehazarat.darkping.net:5234
 vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@146.19.143.150:5234?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-146.19.143.150:5234
 vless://af50bdbf-1715-a461-cbb4-ebbea9ed338c@146.19.143.150:4768?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-146.19.143.150:4768
-vless://574d6d72-9c69-4a07-87cf-89465895d3dc@146.19.143.194:23455?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-146.19.143.194:23455
-trojan://ng0ekgj1-wdvh-ahtt-51me-t6zeu7py530s@127.0.0.1:8080?security=tls&type=tcp#👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀
+vless://632e71fd-b756-9543-468b-680e87bbfed5@mlifaaehazarat.darkping.net:4768?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-mlifaaehazarat.darkping.net:4768
+vless://def9f760-61e8-2646-2a24-42973e96c041@mlifaaehazarat.darkping.net:4768?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-mlifaaehazarat.darkping.net:4768
+vless://4cd1bf48-c630-629e-bc93-ac271c919850@mlifaaehazarat.darkping.net:5234?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision#🔒 VL-TCP-RLT 🇪🇪 EE-mlifaaehazarat.darkping.net:5234
+trojan://akvddyzv-oehu-5sal-u960-ezq6ozttgs5y@127.0.0.1:8080?security=tls&type=tcp#👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀
