@@ -60,14 +60,14 @@ class AppConfig:
     HTTP_MAX_REDIRECTS = 5
     HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"}
     # Reduced concurrency to avoid being rate-limited by Telegram
-    MAX_CONCURRENT_REQUESTS = 10
+    MAX_CONCURRENT_REQUESTS = 15
 
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
     ADD_SIGNATURES = True
-    ADV_SIGNATURE = "🤖 TELEGRAM-CHANNEL 🌟 FREE-VPN 💻 @OXNET_IR"
-    DNT_SIGNATURE = "🛡 SUPPORT-US"
-    DEV_SIGNATURE = "👨‍💻 DEVELOPED-BY Plan Asli 📌 PlanAsli"
+    ADV_SIGNATURE = "✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀"
+    DNT_SIGNATURE = "✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀"
+    DEV_SIGNATURE = "👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀"
 
 CONFIG = AppConfig()
 
@@ -367,23 +367,40 @@ class TelegramScraper:
         self.channels, self.since_datetime, self.iran_tz = channels, since_datetime, get_iran_timezone()
 
     async def scrape_all(self) -> Dict[str, List[str]]:
-        tasks = [self._scrape_channel(ch) for ch in self.channels]
-        results = await asyncio.gather(*tasks, return_exceptions=True)
         total_configs_by_type: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
         
-        for i, channel_results in enumerate(results):
-            if isinstance(channel_results, dict):
-                successful_channels = sum(1 for res in results if isinstance(res, dict))
-                logger.info(f"Scraped {sum(len(v) for v in channel_results.values())} configs from '{self.channels[i]}' ({i+1}/{len(self.channels)}) | Success: {successful_channels}")
-                for config_type, configs in channel_results.items():
-                    total_configs_by_type[config_type].extend(configs)
-            elif isinstance(channel_results, Exception):
-                logger.error(f"Failed to scrape channel '{self.channels[i]}': {channel_results}")
+        batch_size = 20  # Scrape 20 channels at a time
+        channel_batches = [self.channels[i:i + batch_size] for i in range(0, len(self.channels), batch_size)]
+        
+        total_channels = len(self.channels)
+        logger.info(f"Starting to scrape {total_channels} channels in {len(channel_batches)} batches.")
+
+        for i, batch in enumerate(channel_batches):
+            logger.info(f"Processing batch {i+1}/{len(channel_batches)}...")
+            tasks = [self._scrape_channel(ch) for ch in batch]
+            results = await asyncio.gather(*tasks, return_exceptions=True)
+            
+            successful_scrapes = 0
+            for j, channel_results in enumerate(results):
+                channel_name = batch[j]
+                if isinstance(channel_results, dict):
+                    successful_scrapes += 1
+                    for config_type, configs in channel_results.items():
+                        total_configs_by_type[config_type].extend(configs)
+                else:
+                    logger.warning(f"Failed to scrape channel '{channel_name}': {type(channel_results).__name__}")
+            
+            logger.info(f"Finished batch {i+1}/{len(channel_batches)}. Successful scrapes in this batch: {successful_scrapes}/{len(batch)}.")
+            
+            if i < len(channel_batches) - 1:
+                sleep_duration = random.uniform(5, 10)
+                logger.info(f"Cooling down for {sleep_duration:.2f} seconds before next batch...")
+                await asyncio.sleep(sleep_duration)
 
         return total_configs_by_type
         
     async def _scrape_channel(self, channel: str) -> Optional[Dict[str, List[str]]]:
-        await asyncio.sleep(random.uniform(1.0, 2.0)) # Increased random delay
+        await asyncio.sleep(random.uniform(0.5, 1.5)) # Add random delay
         url = CONFIG.TELEGRAM_BASE_URL.format(channel)
         try:
             status, html = await AsyncHttpClient.get(url)
