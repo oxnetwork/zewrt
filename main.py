@@ -59,7 +59,8 @@ class AppConfig:
     HTTP_TIMEOUT = 25.0
     HTTP_MAX_REDIRECTS = 5
     HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"}
-    MAX_CONCURRENT_REQUESTS = 50
+    # Reduced concurrency to avoid being rate-limited by Telegram
+    MAX_CONCURRENT_REQUESTS = 10
 
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
@@ -106,7 +107,7 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦�',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
@@ -379,6 +380,7 @@ class TelegramScraper:
         return total_configs_by_type
         
     async def _scrape_channel(self, channel: str) -> Optional[Dict[str, List[str]]]:
+        await asyncio.sleep(random.uniform(0.5, 1.5)) # Add random delay
         url = CONFIG.TELEGRAM_BASE_URL.format(channel)
         try:
             status, html = await AsyncHttpClient.get(url)
