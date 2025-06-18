@@ -62,12 +62,14 @@ class AppConfig:
 
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
+    # --- Feature Flags ---
+    ENABLE_LATENCY_TEST = False 
     ENABLE_IP_DEDUPLICATION = True 
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
-    DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies"
-    DEV_SIGNATURE = "</> Collector v17.0"
+    DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v17.0.1 @OXNET_IR"
 
 
 CONFIG = AppConfig()
@@ -109,7 +111,7 @@ class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
     'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
-    'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '�🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲',
@@ -697,10 +699,10 @@ class ConfigProcessor:
             sec = 'RLT' if config.source_type == 'reality' else (config.security.upper() if config.security != 'none' else 'NTLS')
             net = config.network.upper()
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
-            latency_str = f"{config.latency}ms" if config.latency is not None else ""
+            latency_str = f"┇ {config.latency}ms" if config.latency is not None else ""
             ip_address = Geolocation._ip_cache.get(config.host, config.host)
             
-            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {ip_address}"
+            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {ip_address}{latency_str}"
             config.remarks = new_remark.strip()
 
     def get_all_unique_configs(self) -> List[BaseConfig]:
@@ -866,6 +868,7 @@ async def main():
             "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt",
             "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/api/normal",
             "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt",
+            "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt",
             "https://raw.githubusercontent.com/jagger235711/V2rayCollector/main/results/mixed_tested.txt"
         ]
         with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f:
