@@ -65,9 +65,9 @@ class AppConfig:
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
     ADD_SIGNATURES = True
-    ADV_SIGNATURE = "� @OXNET_IR ◦ Free Internet Hub"
-    DNT_SIGNATURE = "💎 Premium-Grade Proxies ◦ Free Access"
-    DEV_SIGNATURE = "⚙️ Collector v12.0 ◦ by @OXNET_IR"
+    ADV_SIGNATURE = "「 @OXNET_IR ◦ Free Internet For All 」"
+    DNT_SIGNATURE = "「 Premium & Fast Proxies 」"
+    DEV_SIGNATURE = "「 Collector v13.0 ◦ Maintained by @OXNET_IR 」"
 
 CONFIG = AppConfig()
 
@@ -107,7 +107,7 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
+    'AD': '🇦�', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
@@ -633,7 +633,9 @@ class ConfigProcessor:
             sec = 'RLT' if config.source_type == 'reality' else (config.security.upper() if config.security != 'none' else 'NTLS')
             net = config.network.upper()
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
-            new_remark = f"{security_emoji} {proto}-{net}-{sec} {flag} {config.country}-{config.host}:{config.port}"
+            # Append a short unique ID from the config's UUID to prevent remark collisions
+            unique_id = config.uuid[:4]
+            new_remark = f"{security_emoji} {proto}-{net}-{sec} {flag} {config.country}-{unique_id} @OXNET_IR"
             config.remarks = new_remark
 
     def get_all_unique_configs(self) -> List[BaseConfig]:
