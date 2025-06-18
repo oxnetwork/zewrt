@@ -65,9 +65,9 @@ class AppConfig:
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
     ADD_SIGNATURES = True
-    ADV_SIGNATURE = "✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀"
-    DNT_SIGNATURE = "✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀"
-    DEV_SIGNATURE = "👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀"
+    ADV_SIGNATURE = "� @OXNET_IR ◦ Free Internet Hub"
+    DNT_SIGNATURE = "💎 Premium-Grade Proxies ◦ Free Access"
+    DEV_SIGNATURE = "⚙️ Collector v12.0 ◦ by @OXNET_IR"
 
 CONFIG = AppConfig()
 
@@ -107,7 +107,7 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦�', 'AQ': '🇦🇶',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
