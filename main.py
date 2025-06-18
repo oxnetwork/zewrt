@@ -66,10 +66,11 @@ class AppConfig:
     ENABLE_LATENCY_TEST = False 
     ENABLE_IP_DEDUPLICATION = True 
 
+    # --- Signatures (New Design) ---
     ADD_SIGNATURES = True
-    ADV_SIGNATURE = "🚀 Telegram Channel 🚀 @OXNET_IR"
-    DNT_SIGNATURE = "✅ Free Proxy ✅ @OXNET_IR"
-    DEV_SIGNATURE = "⚙️ Collector v15.0 ◦ Maintained by @OXNET_IR"
+    ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
+    DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies"
+    DEV_SIGNATURE = "</> Collector v16.0.0"
 
 
 CONFIG = AppConfig()
@@ -114,8 +115,8 @@ COUNTRY_CODE_TO_FLAG = {
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
-    'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '�🇱', 'CM': '🇨🇲',
-    'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
+    'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲',
+    'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '�🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬',
     'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
     'GA': '🇬🇦', 'GB': '🇬🇧', 'GD': '🇬🇩', 'GE': '🇬🇪', 'GF': '🇬🇫', 'GG': '🇬🇬', 'GH': '🇬🇭', 'GI': '🇬🇮', 'GL': '🇬🇱',
@@ -317,8 +318,14 @@ class V2RayParser:
     def _parse_vless(uri: str) -> Optional[VlessConfig]:
         try:
             parsed_url = urlparse(uri)
+            # Fix for Pydantic validation error: Ensure port is not None
+            port = parsed_url.port
+            if port is None:
+                logger.warning(f"Skipping VLESS config due to missing port: {uri[:60]}...")
+                return None
+
             params = parse_qs(parsed_url.query)
-            return VlessConfig(uuid=parsed_url.username, host=parsed_url.hostname, port=parsed_url.port, remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{parsed_url.port}", network=params.get('type', ['tcp'])[0], security=params.get('security', ['none'])[0], path=unquote(params.get('path', [None])[0]) if params.get('path') else None, sni=params.get('sni', [None])[0], fingerprint=params.get('fp', [None])[0], flow=params.get('flow', [None])[0])
+            return VlessConfig(uuid=parsed_url.username, host=parsed_url.hostname, port=port, remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{port}", network=params.get('type', ['tcp'])[0], security=params.get('security', ['none'])[0], path=unquote(params.get('path', [None])[0]) if params.get('path') else None, sni=params.get('sni', [None])[0], fingerprint=params.get('fp', [None])[0], flow=params.get('flow', [None])[0])
         except Exception as e:
             logger.warning(f"Could not parse VLESS link correctly: {uri[:60]}... | Error: {e}")
             return None
@@ -518,7 +525,7 @@ class FileManager:
     def _add_signatures(self, configs: List[BaseConfig]) -> List[str]:
         uris = [c.to_uri() for c in configs]
         now = jdatetime.datetime.now(get_iran_timezone())
-        update_str = now.strftime("LATEST UPDATE 📆 %Y-%B-%d ⏰ %H:%M").upper()
+        update_str = f"[ LAST UPDATE: {now.strftime('%Y-%m-%d | %H:%M')} ]"
         
         final_list = uris[:]
         final_list.insert(0, self._create_title_config(update_str, 1080))
@@ -691,16 +698,15 @@ class ConfigProcessor:
     def _format_config_remarks(self):
         logger.info("Formatting remarks for all unique configs...")
         for config in self.parsed_configs.values():
-            security_emoji = "🔒" if config.security in ["tls", "reality"] else "🔓"
-            proto_map = {'vmess': 'VM', 'vless': 'VL', 'trojan': 'TR', 'shadowsocks': 'SS'}
-            proto = proto_map.get(config.protocol, 'CFG')
+            proto_full_map = {'vmess': 'VMESS', 'vless': 'VLESS', 'trojan': 'TROJAN', 'shadowsocks': 'SHADOWSOCKS'}
+            proto_full = proto_full_map.get(config.protocol, 'CFG')
+            
             sec = 'RLT' if config.source_type == 'reality' else (config.security.upper() if config.security != 'none' else 'NTLS')
             net = config.network.upper()
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
-            latency_str = f"[{config.latency}ms] " if config.latency else ""
-            unique_id = config.uuid[:4]
-
-            new_remark = f"{latency_str}{security_emoji} {proto}-{net}-{sec} {flag} {config.country}-{unique_id} @OXNET_IR"
+            latency_str = f"{config.latency}ms" if config.latency is not None else "N/A"
+            
+            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {latency_str}"
             config.remarks = new_remark
 
     def get_all_unique_configs(self) -> List[BaseConfig]:
