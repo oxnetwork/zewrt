@@ -1,6 +1,6 @@
-trojan://2j4xh7ng-f4s1-3uyq-l4yw-skq7l80jyhpb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-19 | 02:23 ]
-trojan://t4y30hn4-zi8m-wp1t-ogkf-4mp6g34jmwdf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6wqosqqy-jcdn-zw6a-8p34-luxlzu9zl99v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://a3d0gga5-po05-5ln3-x916-fint22v5r34i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-19 | 03:01 ]
+trojan://jxok5wu8-98qw-6ean-bbsh-jg8al0uxf1b3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://blwxbzq4-j4yp-bhw7-14yu-g181jn2svkvo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS ┇ 92.38.163.53
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@185.153.151.164:40093#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS ┇ 185.153.151.164
 ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@92.223.105.40:50006#LU 🇱🇺 ┇ SHADOWSOCKS-TCP-NTLS ┇ 92.223.105.40
@@ -15,25 +15,25 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.145.63:8880?type=ws&security
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@45.12.139.44:2040?type=tcp&security=tls&sni=github.com&fp=chrome#LU 🇱🇺 ┇ VLESS-TCP-TLS ┇ 45.12.139.44
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.89.213:8880?type=ws&security=none#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.213
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.42.88.45:443?type=ws&security=tls&path=/&sni=CxNiMjJz.cAfUnEaR.InFo&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.88.45
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.89.222:8443?type=ws&security=tls&path=/&sni=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.89.222
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.88.213:8880?type=ws&security=none#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.88.213
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.89.30:8443?type=ws&security=tls&path=/&sni=NuWoLcZn28.qUiCkOrA.OrG&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.89.30
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.201:8880?type=ws&security=none&path=/Telegram@ShadowProxy66/?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.88.201
-vless://4cb39a2e-0aa0-43c4-bd94-5026c13e9ba3@95.85.95.85:443?type=tcp&security=none#LU 🇱🇺 ┇ VLESS-TCP-NTLS ┇ 95.85.95.85
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.145.20:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.145.20
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.89.24:8443?type=ws&security=tls&path=/&sni=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.89.24
-vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@188.42.89.71:443?type=ws&security=tls&path=/fJBvsL0uR2MtzRig&sni=mypHOtoGRAPICpIctUre.iR&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.89.71
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.237:8880?type=ws&security=none&path=Telegram@ShadowProxy66/?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.237
-vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@188.42.89.254:443?type=ws&security=tls&path=/fJBvsL0uR2MtzRig&sni=mypHOtoGRAPICpIctUre.iR#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.89.254
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.89.29:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.29
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.20:8880?type=ws&security=none&path=/#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.20
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.89.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.63
-vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@188.42.89.53:2086?type=ws&security=none&path=/@vpnAndroid2.@vpnAndroid2.@vpnAndroid2.@vpnAndroid2?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.53
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.20:8880?type=ws&security=none&sni=reedfree8mahsang2.redorg.ir#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.88.20
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.91:80?type=ws&security=none&path=Telegram:@vpnAndroid2/?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.91
-vless://52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?type=tcp&security=none#LU 🇱🇺 ┇ VLESS-TCP-NTLS ┇ 2.56.220.2
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.88.109:2096?type=ws&security=tls&path=/&sni=JpHzJdVn23.bLuEvIa.oRg&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.88.109
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.88.63:8880?type=ws&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net/&sni=jp.laoyoutiao.link#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.88.63
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.68:8880?type=ws&security=none&path=/#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.68
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.89.24:8443?type=ws&security=tls&path=/&sni=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.89.24
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@188.42.89.53:2086?type=ws&security=none&path=/@vpnAndroid2.@vpnAndroid2.@vpnAndroid2.@vpnAndroid2?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.53
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.89.222:8443?type=ws&security=tls&path=/&sni=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.89.222
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.89.30:8443?type=ws&security=tls&path=/&sni=NuWoLcZn28.qUiCkOrA.OrG&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.89.30
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.88.109:2096?type=ws&security=tls&path=/&sni=JpHzJdVn23.bLuEvIa.oRg&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.88.109
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@188.42.89.71:443?type=ws&security=tls&path=/fJBvsL0uR2MtzRig&sni=mypHOtoGRAPICpIctUre.iR&fp=chrome#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.89.71
+vless://52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?type=tcp&security=none#LU 🇱🇺 ┇ VLESS-TCP-NTLS ┇ 2.56.220.2
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.201:8880?type=ws&security=none&path=/Telegram@ShadowProxy66/?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.88.201
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.88.213:8880?type=ws&security=none#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.88.213
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.89.29:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.29
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.237:8880?type=ws&security=none&path=Telegram@ShadowProxy66/?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.237
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.145.20:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.145.20
+vless://4cb39a2e-0aa0-43c4-bd94-5026c13e9ba3@95.85.95.85:443?type=tcp&security=none#LU 🇱🇺 ┇ VLESS-TCP-NTLS ┇ 95.85.95.85
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.91:80?type=ws&security=none&path=Telegram:@vpnAndroid2/?ed=2560#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.91
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@188.42.89.254:443?type=ws&security=tls&path=/fJBvsL0uR2MtzRig&sni=mypHOtoGRAPICpIctUre.iR#LU 🇱🇺 ┇ VLESS-WS-TLS ┇ 188.42.89.254
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.20:8880?type=ws&security=none&path=/#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.89.20
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.20:8880?type=ws&security=none&sni=reedfree8mahsang2.redorg.ir#LU 🇱🇺 ┇ VLESS-WS-NTLS ┇ 188.42.88.20
 vless://1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?type=grpc&security=none#LU 🇱🇺 ┇ VLESS-GRPC-NTLS ┇ 45.136.117.8
-trojan://mumq1l7l-1rv0-kntc-zkyz-x826v1stqf4r@127.0.0.1:8080?security=tls&type=tcp#</> Collector v17.0.1 @OXNET_IR
+trojan://qimc3ymw-je15-lg0r-abx1-iwdmv8wfvw2p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v17.0.1 @OXNET_IR
