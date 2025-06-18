@@ -63,13 +63,13 @@ class AppConfig:
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
     # --- Feature Flags ---
-    ENABLE_LATENCY_TEST = False # (Beta) Set to True to enable latency testing. WARNING: This will significantly slow down the process.
-    ENABLE_IP_DEDUPLICATION = True # Set to True to remove configs with the same resolved IP.
+    ENABLE_LATENCY_TEST = False 
+    ENABLE_IP_DEDUPLICATION = True 
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "🚀 Telegram Channel 🚀 @OXNET_IR"
     DNT_SIGNATURE = "✅ Free Proxy ✅ @OXNET_IR"
-    DEV_SIGNATURE = "⚙️ Collector v14.0 ◦ Maintained by @OXNET_IR"
+    DEV_SIGNATURE = "⚙️ Collector v15.0 ◦ Maintained by @OXNET_IR"
 
 
 CONFIG = AppConfig()
@@ -110,11 +110,11 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦�', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
-    'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲',
+    'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '�🇱', 'CM': '🇨🇲',
     'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬',
     'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -863,7 +863,10 @@ async def main():
             "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
             "https://raw.githubusercontent.com/GuoBing1989100/v2ray_configs/main/all.txt",
             "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/mix/sub.html",
-            "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt"
+            "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt",
+            "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/api/normal",
+            "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt",
+            "https://raw.githubusercontent.com/jagger235711/V2rayCollector/main/results/mixed_tested.txt"
         ]
         with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f:
             json.dump(list(set(new_links)), f, indent=4)
