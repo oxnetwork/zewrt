@@ -34,8 +34,8 @@ from pydantic import BaseModel, Field, model_validator
 class AppConfig:
     """Holds all application configuration settings."""
     BASE_DIR = Path(__file__).parent
-    DATA_DIR = BASE_DIR / "data"      # Renamed from v2ray_data
-    OUTPUT_DIR = BASE_DIR / "sub"       # Renamed from output
+    DATA_DIR = BASE_DIR / "data"
+    OUTPUT_DIR = BASE_DIR / "sub"
     
     DIRS = {
         "splitted": OUTPUT_DIR / "splitted",
@@ -46,7 +46,6 @@ class AppConfig:
         "countries": OUTPUT_DIR / "countries",
     }
     
-    # All internal files are now inside DATA_DIR
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
     SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_links.json"
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
@@ -59,15 +58,19 @@ class AppConfig:
     HTTP_TIMEOUT = 25.0
     HTTP_MAX_REDIRECTS = 5
     HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"}
-    # Reduced concurrency to avoid being rate-limited by Telegram
     MAX_CONCURRENT_REQUESTS = 10
 
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
+    # --- Feature Flags ---
+    ENABLE_LATENCY_TEST = False # (Beta) Set to True to enable latency testing. WARNING: This will significantly slow down the process.
+    ENABLE_IP_DEDUPLICATION = True # Set to True to remove configs with the same resolved IP.
+
     ADD_SIGNATURES = True
-    ADV_SIGNATURE = "✨ TG CHANNEL ✨ 🚀 @OXNET_IR 🚀"
-    DNT_SIGNATURE = "✅ FREE PROXY ✅ 🚀 @OXNET_IR 🚀"
-    DEV_SIGNATURE = "👨‍💻 DEVELOPED BY 👨‍💻 🚀 @OXNET_IR 🚀"
+    ADV_SIGNATURE = "🚀 Telegram Channel 🚀 @OXNET_IR"
+    DNT_SIGNATURE = "✅ Free Proxy ✅ @OXNET_IR"
+    DEV_SIGNATURE = "⚙️ Collector v14.0 ◦ Maintained by @OXNET_IR"
+
 
 CONFIG = AppConfig()
 
@@ -107,7 +110,7 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦�', 'AQ': '🇦🇶',
+    'AD': '🇦🇩', 'AE': '🇦�', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
@@ -175,6 +178,7 @@ class BaseConfig(BaseModel):
     fingerprint: Optional[str] = None
     country: Optional[str] = Field("XX", exclude=True)
     source_type: str = Field("unknown", exclude=True)
+    latency: Optional[int] = Field(None, exclude=True)
 
     def get_deduplication_key(self) -> str:
         return f"{self.protocol}:{self.host}:{self.port}:{self.uuid}"
@@ -406,17 +410,16 @@ class TelegramScraper:
         """Scrapes a single channel with a retry mechanism for better stability."""
         for attempt in range(max_retries):
             try:
-                # Add a small random delay before each attempt to avoid simultaneous requests
                 await asyncio.sleep(random.uniform(0.5, 1.5)) 
                 url = CONFIG.TELEGRAM_BASE_URL.format(channel)
                 
                 status, html = await AsyncHttpClient.get(url)
                 if status == 200:
                     soup = BeautifulSoup(html, "html.parser")
-                    messages = soup.find_all("div", class_="tgme_widget_message", limit=10) # Limit to last 10 posts
+                    messages = soup.find_all("div", class_="tgme_widget_message", limit=10)
                     
                     if not messages:
-                        return {} # Return empty dict for channels with no messages found
+                        return {}
 
                     channel_configs: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
                     
@@ -432,7 +435,7 @@ class TelegramScraper:
                                         for config_type, configs in found_configs.items():
                                             channel_configs[config_type].extend(configs)
                             except (ValueError, TypeError):
-                                continue # Ignore messages with invalid datetime
+                                continue
                     return channel_configs
                 else:
                     logger.warning(f"[Attempt {attempt+1}/{max_retries}] Channel '{channel}' returned status {status}.")
@@ -443,11 +446,11 @@ class TelegramScraper:
                 logger.error(f"[Attempt {attempt+1}/{max_retries}] Unexpected error for channel '{channel}': {e}")
             
             if attempt < max_retries - 1:
-                sleep_duration = (attempt + 1) * 5  # Exponential backoff (5s, 10s, 15s)
+                sleep_duration = (attempt + 1) * 5
                 logger.info(f"Retrying channel '{channel}' after {sleep_duration} seconds...")
                 await asyncio.sleep(sleep_duration)
 
-        return None # Return None if all retries fail
+        return None
 
 
 # ------------------------------------------------------------------------------
@@ -606,9 +609,15 @@ class ConfigProcessor:
             key = config.get_deduplication_key()
             if key not in self.parsed_configs:
                 self.parsed_configs[key] = config
-        logger.info(f"Deduplication resulted in {len(self.parsed_configs)} unique configs.")
+        logger.info(f"Deduplication by URI resulted in {len(self.parsed_configs)} unique configs.")
         
         await self._resolve_countries()
+        if CONFIG.ENABLE_IP_DEDUPLICATION:
+            self._deduplicate_by_ip()
+
+        if CONFIG.ENABLE_LATENCY_TEST:
+            await self._test_latencies()
+
         self._format_config_remarks()
 
     async def _resolve_countries(self):
@@ -624,6 +633,61 @@ class ConfigProcessor:
         resolved_count = sum(1 for c in self.parsed_configs.values() if c.country != "XX")
         logger.info(f"Successfully assigned countries to {resolved_count} configs.")
 
+    def _deduplicate_by_ip(self):
+        """Removes configs that resolve to the same IP, keeping only the first one."""
+        logger.info("Deduplicating configs based on resolved IP address...")
+        unique_ips: Dict[str, BaseConfig] = {}
+        for config in self.parsed_configs.values():
+            ip = Geolocation._ip_cache.get(config.host)
+            if ip and ip not in unique_ips:
+                unique_ips[ip] = config
+        
+        removed_count = len(self.parsed_configs) - len(unique_ips)
+        self.parsed_configs = {cfg.get_deduplication_key(): cfg for cfg in unique_ips.values()}
+        logger.info(f"IP-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} configs remaining.")
+
+    async def _test_latencies(self):
+        """(Beta) Tests the latency of each server."""
+        logger.info("Starting latency testing for unique configs (this might take a while)...")
+        tasks = []
+        for config in self.parsed_configs.values():
+            tasks.append(self._test_single_latency(config))
+        
+        await asyncio.gather(*tasks)
+        
+        # Sort configs by latency (best to worst)
+        sorted_configs = sorted(self.parsed_configs.values(), key=lambda c: c.latency or 9999)
+        self.parsed_configs = {c.get_deduplication_key(): c for c in sorted_configs}
+        logger.info("Latency testing complete.")
+
+    async def _test_single_latency(self, config: BaseConfig) -> None:
+        """Helper to test latency for one config."""
+        try:
+            ip = await Geolocation.get_ip(config.host)
+            if not ip:
+                return
+            
+            start_time = asyncio.get_event_loop().time()
+            # Try to open a connection with a timeout
+            reader, writer = await asyncio.wait_for(
+                asyncio.open_connection(ip, config.port),
+                timeout=2.0
+            )
+            end_time = asyncio.get_event_loop().time()
+            writer.close()
+            await writer.wait_closed()
+            
+            # Latency in milliseconds
+            config.latency = int((end_time - start_time) * 1000)
+            logger.debug(f"Latency for {config.host}:{config.port} is {config.latency}ms")
+            
+        except (asyncio.TimeoutError, ConnectionRefusedError, OSError):
+            config.latency = None # Mark as failed
+            logger.debug(f"Latency test failed for {config.host}:{config.port}")
+        except Exception:
+            config.latency = None
+            logger.debug(f"Latency test had an unexpected error for {config.host}:{config.port}")
+
     def _format_config_remarks(self):
         logger.info("Formatting remarks for all unique configs...")
         for config in self.parsed_configs.values():
@@ -633,7 +697,10 @@ class ConfigProcessor:
             sec = 'RLT' if config.source_type == 'reality' else (config.security.upper() if config.security != 'none' else 'NTLS')
             net = config.network.upper()
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
-            new_remark = f"{security_emoji} {proto}-{net}-{sec} {flag} {config.country}-{config.host}:{config.port}"
+            latency_str = f"[{config.latency}ms] " if config.latency else ""
+            unique_id = config.uuid[:4]
+
+            new_remark = f"{latency_str}{security_emoji} {proto}-{net}-{sec} {flag} {config.country}-{unique_id} @OXNET_IR"
             config.remarks = new_remark
 
     def get_all_unique_configs(self) -> List[BaseConfig]:
