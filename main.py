@@ -60,7 +60,7 @@ class AppConfig:
     HTTP_MAX_REDIRECTS = 5
     HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"}
     # Reduced concurrency to avoid being rate-limited by Telegram
-    MAX_CONCURRENT_REQUESTS = 15
+    MAX_CONCURRENT_REQUESTS = 10
 
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
@@ -107,7 +107,7 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦�', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
@@ -369,7 +369,7 @@ class TelegramScraper:
     async def scrape_all(self) -> Dict[str, List[str]]:
         total_configs_by_type: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
         
-        batch_size = 20  # Scrape 20 channels at a time
+        batch_size = 20
         channel_batches = [self.channels[i:i + batch_size] for i in range(0, len(self.channels), batch_size)]
         
         total_channels = len(self.channels)
@@ -377,7 +377,7 @@ class TelegramScraper:
 
         for i, batch in enumerate(channel_batches):
             logger.info(f"Processing batch {i+1}/{len(channel_batches)}...")
-            tasks = [self._scrape_channel(ch) for ch in batch]
+            tasks = [self._scrape_channel_with_retry(ch) for ch in batch]
             results = await asyncio.gather(*tasks, return_exceptions=True)
             
             successful_scrapes = 0
@@ -385,10 +385,13 @@ class TelegramScraper:
                 channel_name = batch[j]
                 if isinstance(channel_results, dict):
                     successful_scrapes += 1
+                    configs_found = sum(len(v) for v in channel_results.values())
+                    if configs_found > 0:
+                        logger.info(f"Scraped {configs_found} configs from '{channel_name}'")
                     for config_type, configs in channel_results.items():
                         total_configs_by_type[config_type].extend(configs)
                 else:
-                    logger.warning(f"Failed to scrape channel '{channel_name}': {type(channel_results).__name__}")
+                    logger.warning(f"Failed to scrape channel '{channel_name}' after multiple retries.")
             
             logger.info(f"Finished batch {i+1}/{len(channel_batches)}. Successful scrapes in this batch: {successful_scrapes}/{len(batch)}.")
             
@@ -399,38 +402,53 @@ class TelegramScraper:
 
         return total_configs_by_type
         
-    async def _scrape_channel(self, channel: str) -> Optional[Dict[str, List[str]]]:
-        await asyncio.sleep(random.uniform(0.5, 1.5)) # Add random delay
-        url = CONFIG.TELEGRAM_BASE_URL.format(channel)
-        try:
-            status, html = await AsyncHttpClient.get(url)
-            if status != 200: 
-                logger.warning(f"Channel '{channel}' returned status {status}.")
-                return None
-        except NetworkError as e: 
-            logger.warning(f"Network error for channel '{channel}': {e}")
-            return None
-        
-        soup = BeautifulSoup(html, "html.parser")
-        messages = soup.find_all("div", class_="tgme_widget_message")
-        if not messages: return None
-        
-        channel_configs: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
-        
-        for msg in messages:
-            time_tag = msg.find("time", class_="time")
-            if time_tag and 'datetime' in time_tag.attrs:
-                try:
-                    message_dt = datetime.fromisoformat(time_tag['datetime']).astimezone(self.iran_tz)
-                    if message_dt > self.since_datetime:
-                        text_div = msg.find("div", class_="tgme_widget_message_text")
-                        if text_div:
-                            found_configs = RawConfigCollector.find_all(text_div.get_text('\n', strip=True))
-                            for config_type, configs in found_configs.items():
-                                channel_configs[config_type].extend(configs)
-                except (ValueError, TypeError):
-                    continue # Ignore messages with invalid datetime
-        return channel_configs
+    async def _scrape_channel_with_retry(self, channel: str, max_retries: int = 3) -> Optional[Dict[str, List[str]]]:
+        """Scrapes a single channel with a retry mechanism for better stability."""
+        for attempt in range(max_retries):
+            try:
+                # Add a small random delay before each attempt to avoid simultaneous requests
+                await asyncio.sleep(random.uniform(0.5, 1.5)) 
+                url = CONFIG.TELEGRAM_BASE_URL.format(channel)
+                
+                status, html = await AsyncHttpClient.get(url)
+                if status == 200:
+                    soup = BeautifulSoup(html, "html.parser")
+                    messages = soup.find_all("div", class_="tgme_widget_message", limit=10) # Limit to last 10 posts
+                    
+                    if not messages:
+                        return {} # Return empty dict for channels with no messages found
+
+                    channel_configs: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
+                    
+                    for msg in messages:
+                        time_tag = msg.find("time", class_="time")
+                        if time_tag and 'datetime' in time_tag.attrs:
+                            try:
+                                message_dt = datetime.fromisoformat(time_tag['datetime']).astimezone(self.iran_tz)
+                                if message_dt > self.since_datetime:
+                                    text_div = msg.find("div", class_="tgme_widget_message_text")
+                                    if text_div:
+                                        found_configs = RawConfigCollector.find_all(text_div.get_text('\n', strip=True))
+                                        for config_type, configs in found_configs.items():
+                                            channel_configs[config_type].extend(configs)
+                            except (ValueError, TypeError):
+                                continue # Ignore messages with invalid datetime
+                    return channel_configs
+                else:
+                    logger.warning(f"[Attempt {attempt+1}/{max_retries}] Channel '{channel}' returned status {status}.")
+
+            except NetworkError as e: 
+                logger.warning(f"[Attempt {attempt+1}/{max_retries}] Network error for channel '{channel}': {e}")
+            except Exception as e:
+                logger.error(f"[Attempt {attempt+1}/{max_retries}] Unexpected error for channel '{channel}': {e}")
+            
+            if attempt < max_retries - 1:
+                sleep_duration = (attempt + 1) * 5  # Exponential backoff (5s, 10s, 15s)
+                logger.info(f"Retrying channel '{channel}' after {sleep_duration} seconds...")
+                await asyncio.sleep(sleep_duration)
+
+        return None # Return None if all retries fail
+
 
 # ------------------------------------------------------------------------------
 # --- FILENAME: sources/subscription_fetcher.py ---
