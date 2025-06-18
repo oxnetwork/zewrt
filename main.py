@@ -62,15 +62,12 @@ class AppConfig:
 
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
-    # --- Feature Flags ---
-    ENABLE_LATENCY_TEST = False 
     ENABLE_IP_DEDUPLICATION = True 
 
-    # --- Signatures (New Design) ---
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies"
-    DEV_SIGNATURE = "</> Collector v16.0.0"
+    DEV_SIGNATURE = "</> Collector v17.0"
 
 
 CONFIG = AppConfig()
@@ -116,7 +113,7 @@ COUNTRY_CODE_TO_FLAG = {
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲',
-    'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '�🇾', 'CZ': '🇨🇿',
+    'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬',
     'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
     'GA': '🇬🇦', 'GB': '🇬🇧', 'GD': '🇬🇩', 'GE': '🇬🇪', 'GF': '🇬🇫', 'GG': '🇬🇬', 'GH': '🇬🇭', 'GI': '🇬🇮', 'GL': '🇬🇱',
@@ -218,9 +215,11 @@ class VmessConfig(BaseConfig):
 class VlessConfig(BaseConfig):
     protocol: str = 'vless'
     flow: Optional[str] = None
+    pbk: Optional[str] = None
+    sid: Optional[str] = None
 
     def to_uri(self) -> str:
-        params = {'type': self.network, 'security': self.security, 'path': self.path, 'sni': self.sni, 'fp': self.fingerprint, 'flow': self.flow}
+        params = {'type': self.network, 'security': self.security, 'path': self.path, 'sni': self.sni, 'fp': self.fingerprint, 'flow': self.flow, 'pbk': self.pbk, 'sid': self.sid}
         query_string = '&'.join([f"{k}={v}" for k, v in params.items() if v is not None and v != ""])
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"vless://{self.uuid}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
@@ -318,14 +317,13 @@ class V2RayParser:
     def _parse_vless(uri: str) -> Optional[VlessConfig]:
         try:
             parsed_url = urlparse(uri)
-            # Fix for Pydantic validation error: Ensure port is not None
             port = parsed_url.port
             if port is None:
                 logger.warning(f"Skipping VLESS config due to missing port: {uri[:60]}...")
                 return None
 
             params = parse_qs(parsed_url.query)
-            return VlessConfig(uuid=parsed_url.username, host=parsed_url.hostname, port=port, remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{port}", network=params.get('type', ['tcp'])[0], security=params.get('security', ['none'])[0], path=unquote(params.get('path', [None])[0]) if params.get('path') else None, sni=params.get('sni', [None])[0], fingerprint=params.get('fp', [None])[0], flow=params.get('flow', [None])[0])
+            return VlessConfig(uuid=parsed_url.username, host=parsed_url.hostname, port=port, remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{port}", network=params.get('type', ['tcp'])[0], security=params.get('security', ['none'])[0], path=unquote(params.get('path', [None])[0]) if params.get('path') else None, sni=params.get('sni', [None])[0], fingerprint=params.get('fp', [None])[0], flow=params.get('flow', [None])[0], pbk=params.get('pbk', [None])[0], sid=params.get('sid', [None])[0])
         except Exception as e:
             logger.warning(f"Could not parse VLESS link correctly: {uri[:60]}... | Error: {e}")
             return None
@@ -524,7 +522,7 @@ class FileManager:
 
     def _add_signatures(self, configs: List[BaseConfig]) -> List[str]:
         uris = [c.to_uri() for c in configs]
-        now = jdatetime.datetime.now(get_iran_timezone())
+        now = datetime.now(get_iran_timezone())
         update_str = f"[ LAST UPDATE: {now.strftime('%Y-%m-%d | %H:%M')} ]"
         
         final_list = uris[:]
@@ -675,21 +673,16 @@ class ConfigProcessor:
                 return
             
             start_time = asyncio.get_event_loop().time()
-            # Try to open a connection with a timeout
-            reader, writer = await asyncio.wait_for(
-                asyncio.open_connection(ip, config.port),
-                timeout=2.0
-            )
+            reader, writer = await asyncio.wait_for(asyncio.open_connection(ip, config.port), timeout=2.0)
             end_time = asyncio.get_event_loop().time()
             writer.close()
             await writer.wait_closed()
             
-            # Latency in milliseconds
             config.latency = int((end_time - start_time) * 1000)
             logger.debug(f"Latency for {config.host}:{config.port} is {config.latency}ms")
             
         except (asyncio.TimeoutError, ConnectionRefusedError, OSError):
-            config.latency = None # Mark as failed
+            config.latency = None
             logger.debug(f"Latency test failed for {config.host}:{config.port}")
         except Exception:
             config.latency = None
@@ -704,10 +697,11 @@ class ConfigProcessor:
             sec = 'RLT' if config.source_type == 'reality' else (config.security.upper() if config.security != 'none' else 'NTLS')
             net = config.network.upper()
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
-            latency_str = f"{config.latency}ms" if config.latency is not None else "N/A"
+            latency_str = f"{config.latency}ms" if config.latency is not None else ""
+            ip_address = Geolocation._ip_cache.get(config.host, config.host)
             
-            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {latency_str}"
-            config.remarks = new_remark
+            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {ip_address}"
+            config.remarks = new_remark.strip()
 
     def get_all_unique_configs(self) -> List[BaseConfig]:
         return list(self.parsed_configs.values())
