@@ -1,6 +1,6 @@
-trojan://jy0pxech-i070-j6bt-0yiu-t2stu9g25vi9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-20 | 21:22 ]
-trojan://5bcc3um7-97zo-9651-kkb3-c1v1hezayumw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://30ez8d6a-nmmv-zp8n-29w9-95jbba9n4eh8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lvflkbrv-z90d-gfri-xdio-3a73ab4yb6sx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-20 | 22:13 ]
+trojan://az7hr12r-g8u6-6k78-xll9-dn675wcbp10a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pb75j0f7-v5jt-fvi9-3pso-zgqjho2so0ta@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 37.252.5.234
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 185.193.49.88
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.234
@@ -10,6 +10,7 @@ trojan://bpb-trojan@37.252.5.75:443?sni=skwygx.top&peer=skwygx.top&security=tls#
 vmess://eyJ2IjoiMiIsInBzIjoiRUUgXHVkODNjXHVkZGVhXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyAxNzYuMTEyLjE0Ni4xOTAiLCJhZGQiOiIxNzYuMTEyLjE0Ni4xOTAiLCJwb3J0Ijo4MCwiaWQiOiJmOTI0N2RmNC0wMmQ1LTRiMzEtYWNjNS00MDIyNjUyYzU5NTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.99:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.99
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.89:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.110.89
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.80.110.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.110.247
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.80.108.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.108.247
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.159.247.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 185.159.247.247
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.36:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.36
@@ -17,24 +18,23 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@45.80.110.75:8880?type=ws&security=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.108.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.108.63
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.110.20:8880?type=ws&security=none&path=/&sni=reedfree8mahsang2.redorg.ir#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.110.20
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@45.80.108.253:443?type=ws&security=tls&path=/?ed=2048&sni=mmdserver.us.kg#EE 🇪🇪 ┇ VLESS-WS-TLS ┇ 45.80.108.253
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.91:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.110.91
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.80.110.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.110.247
-vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@45.80.108.206:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.206
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.159.247.213:8880?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 185.159.247.213
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.108.213:8880?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.108.213
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.110.63
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.78:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.78
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.108.213:8880?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.108.213
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.159.247.213:8880?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 185.159.247.213
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.8:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.110.8
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.110.29
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.159.247.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 185.159.247.63
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.91:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.110.91
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.110.128:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#EE 🇪🇪 ┇ VLESS-GRPC-TLS ┇ 45.80.110.128
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.160:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.160
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@45.80.108.206:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.206
+vless://5a67b9fc-505b-7530-06ba-6527ed320c12@146.19.143.150:5234?type=tcp&security=tls&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision-udp443#EE 🇪🇪 ┇ VLESS-TCP-TLS ┇ 146.19.143.150
+vless://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@109.206.241.155:443?type=ws&security=tls&path=/wp-admin&sni=cdn.getasa.ir&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS ┇ 109.206.241.155
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.117:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.117
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.213:8880?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.110.213
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.190:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.190
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.110.63
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.159.247.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 185.159.247.29
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.14:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.110.14
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.62:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.110.62
-vless://5a67b9fc-505b-7530-06ba-6527ed320c12@146.19.143.150:5234?type=tcp&security=tls&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision-udp443#EE 🇪🇪 ┇ VLESS-TCP-TLS ┇ 146.19.143.150
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.117:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.117
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.160:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.160
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.213:8880?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.110.213
-vless://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@109.206.241.155:443?type=ws&security=tls&path=/wp-admin&sni=cdn.getasa.ir&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS ┇ 109.206.241.155
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.159.247.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 185.159.247.63
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 45.80.110.29
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.110.128:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#EE 🇪🇪 ┇ VLESS-GRPC-TLS ┇ 45.80.110.128
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.159.247.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 185.159.247.29
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.190:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 45.80.108.190
-trojan://3ngs2lb1-3qya-17xk-7y5q-ks9zcma92etx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v17.0.1 @OXNET_IR
+trojan://lfkyemv8-xjov-7h81-eibr-rfblgdwe6nvk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v17.0.1 @OXNET_IR
