@@ -27,9 +27,6 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 from pydantic import BaseModel, Field, model_validator
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: core/config.py ---
-# ------------------------------------------------------------------------------
 
 class AppConfig:
     """Holds all application configuration settings."""
@@ -74,9 +71,6 @@ class AppConfig:
 
 CONFIG = AppConfig()
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: core/logger.py ---
-# ------------------------------------------------------------------------------
 
 def setup_logger():
     """Configures the root logger for the application."""
@@ -96,21 +90,15 @@ def setup_logger():
 
 logger = setup_logger()
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: core/exceptions.py ---
-# ------------------------------------------------------------------------------
 
 class V2RayCollectorException(Exception): pass
 class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: utils/helpers.py ---
-# ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
     'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
-    'AR': '🇦�', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲',
@@ -159,9 +147,7 @@ def is_ip_address(address: str) -> bool:
     except ValueError:
         return False
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: models/v2ray.py ---
-# ------------------------------------------------------------------------------
+
 
 class BaseConfig(BaseModel):
     model_config = {'str_strip_whitespace': True}
@@ -252,9 +238,7 @@ class ShadowsocksConfig(BaseConfig):
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"ss://{encoded_user_info}@{self.host}:{self.port}{remarks_encoded}"
         
-# ------------------------------------------------------------------------------
-# --- FILENAME: network/http_client.py ---
-# ------------------------------------------------------------------------------
+
 
 class AsyncHttpClient:
     _client: Optional[httpx.AsyncClient] = None
@@ -286,9 +270,7 @@ class AsyncHttpClient:
             logger.warning(f"HTTP status error for {url}: {e.response.status_code}")
             return e.response.status_code, e.response.text
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: processing/parser.py ---
-# ------------------------------------------------------------------------------
+
 
 class V2RayParser:
     @staticmethod
@@ -357,9 +339,7 @@ class V2RayParser:
             logger.warning(f"Could not parse Shadowsocks link: {uri[:60]}... | Error: {e}")
             return None
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: sources/raw_collector.py ---
-# ------------------------------------------------------------------------------
+
 
 class RawConfigCollector:
     PATTERNS = {"ss": r"(?<![\w-])(ss://[^\s<>#]+)", "trojan": r"(?<![\w-])(trojan://[^\s<>#]+)", "vmess": r"(?<![\w-])(vmess://[^\s<>#]+)", "vless": r"(?<![\w-])(vless://(?:(?!=reality)[^\s<>#])+(?=[\s<>#]))", "reality": r"(?<![\w-])(vless://[^\s<>#]+?security=reality[^\s<>#]*)"}
@@ -374,9 +354,7 @@ class RawConfigCollector:
                 all_matches[name] = cleaned_matches
         return all_matches
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: sources/telegram_scraper.py ---
-# ------------------------------------------------------------------------------
+
 
 class TelegramScraper:
     def __init__(self, channels: List[str], since_datetime: datetime):
@@ -465,9 +443,7 @@ class TelegramScraper:
         return None
 
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: sources/subscription_fetcher.py ---
-# ------------------------------------------------------------------------------
+
 
 class SubscriptionFetcher:
     def __init__(self, sub_links: List[str]): self.sub_links = sub_links
@@ -493,9 +469,7 @@ class SubscriptionFetcher:
         except Exception:
             return content
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: storage/file_manager.py ---
-# ------------------------------------------------------------------------------
+
 
 class FileManager:
     def __init__(self, config: AppConfig):
@@ -542,9 +516,7 @@ class FileManager:
     def _create_title_config(self, title: str, port: int) -> str:
         return f"trojan://{generate_random_uuid_string()}@127.0.0.1:{port}?security=tls&type=tcp#{unquote(title)}"
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: processing/processor.py ---
-# ------------------------------------------------------------------------------
+
 
 class Geolocation:
     _reader: Optional[geoip2.database.Reader] = None
@@ -729,9 +701,7 @@ class ConfigProcessor:
                 categories["countries"].setdefault(config.country, []).append(config)
         return categories
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: main.py ---
-# ------------------------------------------------------------------------------
+
 
 class V2RayCollectorApp:
     def __init__(self):
