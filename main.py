@@ -27,6 +27,9 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
 from pydantic import BaseModel, Field, model_validator
 
+# ------------------------------------------------------------------------------
+# --- FILENAME: core/config.py ---
+# ------------------------------------------------------------------------------
 
 class AppConfig:
     """Holds all application configuration settings."""
@@ -43,10 +46,10 @@ class AppConfig:
         "countries": OUTPUT_DIR / "countries",
     }
     
-    # All internal files are now inside DATA_DIR
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
     SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_links.json"
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
+    TELEGRAM_REPORT_FILE = DATA_DIR / "telegram_report.log" # New report file
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     
     REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/data/telegram-channel.json"
@@ -60,17 +63,20 @@ class AppConfig:
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
     # --- Feature Flags ---
-    ENABLE_LATENCY_TEST = False 
+    ENABLE_SUBSCRIPTION_FETCHING = False # Set to True to re-enable subscription link fetching
     ENABLE_IP_DEDUPLICATION = True 
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v18.1.0 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v19.0 @OXNET_IR"
 
 
 CONFIG = AppConfig()
 
+# ------------------------------------------------------------------------------
+# --- FILENAME: core/logger.py ---
+# ------------------------------------------------------------------------------
 
 def setup_logger():
     """Configures the root logger for the application."""
@@ -78,10 +84,10 @@ def setup_logger():
     
     logging.basicConfig(
         level=logging.INFO,
-        format='%(asctime)s - %(levelname)-8s - %(name)-15s - %(message)s',
+        format='%(asctime)s - %(levelname)-8s - %(message)s',
         datefmt='%Y-%m-%d %H:%M:%S',
         handlers=[
-            logging.StreamHandler() # Log only to console
+            logging.StreamHandler()
         ]
     )
     logging.getLogger("httpx").setLevel(logging.WARNING)
@@ -90,14 +96,20 @@ def setup_logger():
 
 logger = setup_logger()
 
+# ------------------------------------------------------------------------------
+# --- FILENAME: core/exceptions.py ---
+# ------------------------------------------------------------------------------
 
 class V2RayCollectorException(Exception): pass
 class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
+# ------------------------------------------------------------------------------
+# --- FILENAME: utils/helpers.py ---
+# ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '�🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
@@ -147,7 +159,9 @@ def is_ip_address(address: str) -> bool:
     except ValueError:
         return False
 
-
+# ------------------------------------------------------------------------------
+# --- FILENAME: models/v2ray.py ---
+# ------------------------------------------------------------------------------
 
 class BaseConfig(BaseModel):
     model_config = {'str_strip_whitespace': True}
@@ -238,7 +252,9 @@ class ShadowsocksConfig(BaseConfig):
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"ss://{encoded_user_info}@{self.host}:{self.port}{remarks_encoded}"
         
-
+# ------------------------------------------------------------------------------
+# --- FILENAME: network/http_client.py ---
+# ------------------------------------------------------------------------------
 
 class AsyncHttpClient:
     _client: Optional[httpx.AsyncClient] = None
@@ -270,7 +286,9 @@ class AsyncHttpClient:
             logger.warning(f"HTTP status error for {url}: {e.response.status_code}")
             return e.response.status_code, e.response.text
 
-
+# ------------------------------------------------------------------------------
+# --- FILENAME: processing/parser.py ---
+# ------------------------------------------------------------------------------
 
 class V2RayParser:
     @staticmethod
@@ -303,7 +321,6 @@ class V2RayParser:
             parsed_url = urlparse(uri)
             port = parsed_url.port
             if port is None:
-                # Handle IPv6-mapped IPv4 addresses like ::ffff:156.238.18.136:8880
                 match = re.search(r":(\d+)$", parsed_url.netloc)
                 if match:
                     port = int(match.group(1))
@@ -339,7 +356,9 @@ class V2RayParser:
             logger.warning(f"Could not parse Shadowsocks link: {uri[:60]}... | Error: {e}")
             return None
 
-
+# ------------------------------------------------------------------------------
+# --- FILENAME: sources/raw_collector.py ---
+# ------------------------------------------------------------------------------
 
 class RawConfigCollector:
     PATTERNS = {"ss": r"(?<![\w-])(ss://[^\s<>#]+)", "trojan": r"(?<![\w-])(trojan://[^\s<>#]+)", "vmess": r"(?<![\w-])(vmess://[^\s<>#]+)", "vless": r"(?<![\w-])(vless://(?:(?!=reality)[^\s<>#])+(?=[\s<>#]))", "reality": r"(?<![\w-])(vless://[^\s<>#]+?security=reality[^\s<>#]*)"}
@@ -354,13 +373,15 @@ class RawConfigCollector:
                 all_matches[name] = cleaned_matches
         return all_matches
 
-
+# ------------------------------------------------------------------------------
+# --- FILENAME: sources/telegram_scraper.py ---
+# ------------------------------------------------------------------------------
 
 class TelegramScraper:
     def __init__(self, channels: List[str], since_datetime: datetime):
         self.channels, self.since_datetime, self.iran_tz = channels, since_datetime, get_iran_timezone()
 
-    async def scrape_all(self) -> Dict[str, List[str]]:
+    async def scrape_all(self) -> Tuple[Dict[str, List[str]], List[str]]:
         total_configs_by_type: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
         
         batch_size = 20
@@ -368,33 +389,60 @@ class TelegramScraper:
         
         total_channels = len(self.channels)
         logger.info(f"Starting to scrape {total_channels} channels in {len(channel_batches)} batches.")
+        
+        successful_channels: List[Tuple[str, int]] = []
+        failed_channels: List[str] = []
 
         for i, batch in enumerate(channel_batches):
             logger.info(f"Processing batch {i+1}/{len(channel_batches)}...")
             tasks = [self._scrape_channel_with_retry(ch) for ch in batch]
             results = await asyncio.gather(*tasks, return_exceptions=True)
             
-            successful_scrapes = 0
             for j, channel_results in enumerate(results):
                 channel_name = batch[j]
                 if isinstance(channel_results, dict):
-                    successful_scrapes += 1
                     configs_found = sum(len(v) for v in channel_results.values())
                     if configs_found > 0:
-                        logger.info(f"Scraped {configs_found} configs from '{channel_name}'")
-                    for config_type, configs in channel_results.items():
-                        total_configs_by_type[config_type].extend(configs)
+                        successful_channels.append((channel_name, configs_found))
+                        for config_type, configs in channel_results.items():
+                            total_configs_by_type[config_type].extend(configs)
                 else:
+                    failed_channels.append(channel_name)
                     logger.warning(f"Failed to scrape channel '{channel_name}' after multiple retries.")
             
-            logger.info(f"Finished batch {i+1}/{len(channel_batches)}. Successful scrapes in this batch: {successful_scrapes}/{len(batch)}.")
+            logger.info(f"Finished batch {i+1}/{len(channel_batches)}. Success: {len(successful_channels)}, Failed: {len(failed_channels)}")
             
             if i < len(channel_batches) - 1:
                 sleep_duration = random.uniform(5, 10)
                 logger.info(f"Cooling down for {sleep_duration:.2f} seconds before next batch...")
                 await asyncio.sleep(sleep_duration)
 
-        return total_configs_by_type
+        await self._write_scrape_report(successful_channels, failed_channels)
+        return total_configs_by_type, failed_channels
+
+    async def _write_scrape_report(self, successful: List[Tuple[str, int]], failed: List[str]):
+        """Writes a summary of the scraping process to a report file."""
+        now = datetime.now(get_iran_timezone())
+        report_str = f"--- Telegram Scrape Report ---\n"
+        report_str += f"Timestamp: {now.strftime('%Y-%m-%d %H:%M:%S')}\n"
+        report_str += f"Total Channels: {len(self.channels)}\n"
+        report_str += f"Successful Scrapes: {len(successful)}\n"
+        report_str += f"Failed Scrapes: {len(failed)}\n\n"
+        
+        report_str += "--- Channels with Found Configs ---\n"
+        for channel, count in sorted(successful, key=lambda item: item[1], reverse=True):
+            report_str += f"{channel}: {count} configs\n"
+        
+        report_str += "\n--- Failed Channels ---\n"
+        for channel in sorted(failed):
+            report_str += f"{channel}\n"
+            
+        try:
+            async with aiofiles.open(CONFIG.TELEGRAM_REPORT_FILE, "w", encoding='utf-8') as f:
+                await f.write(report_str)
+            logger.info(f"Telegram scrape report saved to '{CONFIG.TELEGRAM_REPORT_FILE}'.")
+        except IOError as e:
+            logger.error(f"Could not write to Telegram report file: {e}")
         
     async def _scrape_channel_with_retry(self, channel: str, max_retries: int = 3) -> Optional[Dict[str, List[str]]]:
         """Scrapes a single channel with a retry mechanism for better stability."""
@@ -443,7 +491,9 @@ class TelegramScraper:
         return None
 
 
-
+# ------------------------------------------------------------------------------
+# --- FILENAME: sources/subscription_fetcher.py ---
+# ------------------------------------------------------------------------------
 
 class SubscriptionFetcher:
     def __init__(self, sub_links: List[str]): self.sub_links = sub_links
@@ -469,7 +519,9 @@ class SubscriptionFetcher:
         except Exception:
             return content
 
-
+# ------------------------------------------------------------------------------
+# --- FILENAME: storage/file_manager.py ---
+# ------------------------------------------------------------------------------
 
 class FileManager:
     def __init__(self, config: AppConfig):
@@ -516,7 +568,9 @@ class FileManager:
     def _create_title_config(self, title: str, port: int) -> str:
         return f"trojan://{generate_random_uuid_string()}@127.0.0.1:{port}?security=tls&type=tcp#{unquote(title)}"
 
-
+# ------------------------------------------------------------------------------
+# --- FILENAME: processing/processor.py ---
+# ------------------------------------------------------------------------------
 
 class Geolocation:
     _reader: Optional[geoip2.database.Reader] = None
@@ -701,7 +755,9 @@ class ConfigProcessor:
                 categories["countries"].setdefault(config.country, []).append(config)
         return categories
 
-
+# ------------------------------------------------------------------------------
+# --- FILENAME: main.py ---
+# ------------------------------------------------------------------------------
 
 class V2RayCollectorApp:
     def __init__(self):
