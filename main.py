@@ -50,6 +50,7 @@ class AppConfig:
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
     SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_links.json"
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
+    LOG_FILE = DATA_DIR / "v2ray_collector.log"
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     
     REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/data/telegram-channel.json"
@@ -69,7 +70,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v18.0.0 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v18.0.1 @OXNET_IR"
 
 
 CONFIG = AppConfig()
@@ -109,7 +110,7 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦�', 'AO': '🇦🇴', 'AQ': '🇦🇶',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
@@ -190,7 +191,7 @@ class VmessConfig(BaseConfig):
     source_type: str = 'vmess'
     ps: str
     add: str
-    v: str = "2"
+    v: Any = "2"
     aid: int = 0
     scy: str = 'auto'
     net: str
@@ -204,6 +205,7 @@ class VmessConfig(BaseConfig):
         values['uuid'] = values.get('id', '')
         values['network'] = values.get('net', 'tcp')
         values['security'] = values.get('tls') or 'none'
+        values['v'] = str(values.get('v', '2')) # Coerce 'v' to string
         return values
 
     def to_uri(self) -> str:
@@ -320,8 +322,13 @@ class V2RayParser:
             parsed_url = urlparse(uri)
             port = parsed_url.port
             if port is None:
-                logger.warning(f"Skipping VLESS config due to missing port: {uri[:60]}...")
-                return None
+                # Handle IPv6-mapped IPv4 addresses like ::ffff:156.238.18.136:8880
+                match = re.search(r":(\d+)$", parsed_url.netloc)
+                if match:
+                    port = int(match.group(1))
+                else:
+                    logger.warning(f"Skipping VLESS config due to missing port: {uri[:60]}...")
+                    return None
 
             params = parse_qs(parsed_url.query)
             return VlessConfig(uuid=parsed_url.username, host=parsed_url.hostname, port=port, remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{port}", network=params.get('type', ['tcp'])[0], security=params.get('security', ['none'])[0], path=unquote(params.get('path', [None])[0]) if params.get('path') else None, sni=params.get('sni', [None])[0], fingerprint=params.get('fp', [None])[0], flow=params.get('flow', [None])[0], pbk=params.get('pbk', [None])[0], sid=params.get('sid', [None])[0])
