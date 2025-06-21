@@ -1,19 +1,20 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-06-21 20:22:49
+Timestamp: 2025-06-21 20:35:54
 Total Channels: 1147
-Successful Scrapes: 10
+Successful Scrapes: 11
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
+Hope_Net: 18 configs
 configv2raye: 14 configs
+hope_net: 11 configs
 configshubplus: 10 configs
 v2raych: 10 configs
-proxy_mtproto_vpns_free: 9 configs
-v2rayfree: 7 configs
-v2ray_configs_pool: 6 configs
-hope_net: 3 configs
+proxy_mtproto_vpns_free: 7 configs
+v2rayfree: 5 configs
 vpn_ioss: 3 configs
-Hope_Net: 3 configs
 vpn_ioss: 3 configs
+ip_cf_config: 2 configs
+vpnplusee_free: 2 configs
 
 --- Failed Channels ---
