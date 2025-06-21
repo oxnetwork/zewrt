@@ -69,7 +69,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v19.0 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v19.0.0 @OXNET_IR"
 
 
 CONFIG = AppConfig()
@@ -84,10 +84,10 @@ def setup_logger():
     
     logging.basicConfig(
         level=logging.INFO,
-        format='%(asctime)s - %(levelname)-8s - %(message)s',
+        format='%(asctime)s - %(levelname)-8s - %(name)-15s - %(message)s',
         datefmt='%Y-%m-%d %H:%M:%S',
         handlers=[
-            logging.StreamHandler()
+            logging.StreamHandler() # Log only to console
         ]
     )
     logging.getLogger("httpx").setLevel(logging.WARNING)
@@ -109,7 +109,7 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '�🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
     'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
@@ -204,7 +204,7 @@ class VmessConfig(BaseConfig):
         values['uuid'] = values.get('id', '')
         values['network'] = values.get('net', 'tcp')
         values['security'] = values.get('tls') or 'none'
-        values['v'] = str(values.get('v', '2')) # Coerce 'v' to string
+        values['v'] = str(values.get('v', '2'))
         return values
 
     def to_uri(self) -> str:
@@ -410,7 +410,7 @@ class TelegramScraper:
                     failed_channels.append(channel_name)
                     logger.warning(f"Failed to scrape channel '{channel_name}' after multiple retries.")
             
-            logger.info(f"Finished batch {i+1}/{len(channel_batches)}. Success: {len(successful_channels)}, Failed: {len(failed_channels)}")
+            logger.info(f"Finished batch {i+1}/{len(channel_batches)}. Successes in this batch: {len(successful_channels)}, Failures: {len(failed_channels)}")
             
             if i < len(channel_batches) - 1:
                 sleep_duration = random.uniform(5, 10)
