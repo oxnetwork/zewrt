@@ -50,7 +50,6 @@ class AppConfig:
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
     SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_links.json"
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
-    LOG_FILE = DATA_DIR / "v2ray_collector.log"
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     
     REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/data/telegram-channel.json"
@@ -70,7 +69,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v18.0.1 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v18.1.0 @OXNET_IR"
 
 
 CONFIG = AppConfig()
@@ -111,7 +110,7 @@ class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
     'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
-    'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AR': '🇦�', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
     'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲',
@@ -874,8 +873,11 @@ async def main():
             "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt",
             "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/api/normal",
             "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt",
+            "https://raw.githubusercontent.com/jagger235711/V2rayCollector/main/results/mixed_tested.txt",
             "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt",
-            "https://raw.githubusercontent.com/jagger235711/V2rayCollector/main/results/mixed_tested.txt"
+            "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt",
+            "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-trojan-ss-configs/main/sub/Iran/config.txt",
+            "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt"
         ]
         with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f:
             json.dump(list(set(new_links)), f, indent=4)
