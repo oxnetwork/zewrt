@@ -1,6 +1,6 @@
-trojan://wkq0xn6k-k7z8-ckte-qls4-i2ebc606thca@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-22 | 01:20 ]
-trojan://1ohjgct1-96py-07wl-57bx-0rl6cynh5nu6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://848n679u-ujbl-gp5i-n7q0-jx2nib159i2i@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3urj8f3c-ywm0-584p-9cu8-5ntjmfj93utr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-22 | 01:32 ]
+trojan://wys7rc3b-auss-brop-0eyv-kjhd7r8dfmki@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9o353nma-24z6-4wrv-fdmt-ilnccg9drrfx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
 trojan://Aimer@154.197.64.164:2053?sni=epcca.ambercc.filegear-sg.me&peer=epcca.ambercc.filegear-sg.me&security=tls#SC 🇸🇨 ┇ TROJAN-TCP-TLS ┇ 154.197.64.164
 trojan://Aimer@154.197.64.189:2087?sni=epccn.ambercc.filegear-sg.me&peer=epccn.ambercc.filegear-sg.me&security=tls#SC 🇸🇨 ┇ TROJAN-TCP-TLS ┇ 154.197.64.189
 trojan://Aimer@154.197.64.155:2053?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#SC 🇸🇨 ┇ TROJAN-TCP-TLS ┇ 154.197.64.155
@@ -21,18 +21,16 @@ trojan://Aimer@154.197.64.104:8443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.a
 trojan://Aimer@154.197.64.67:443?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#SC 🇸🇨 ┇ TROJAN-TCP-TLS ┇ 154.197.64.67
 trojan://Aimer@154.197.64.240:8443?sni=epccu.ambercc.filegear-sg.me&peer=epccu.ambercc.filegear-sg.me&security=tls#SC 🇸🇨 ┇ TROJAN-TCP-TLS ┇ 154.197.64.240
 vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1UTFMgXHUyNTA3IDE1Ni4yNDUuOC4xNDQiLCJhZGQiOiIxNTYuMjQ1LjguMTQ0IiwicG9ydCI6NDQzLCJpZCI6IjYzYjRiODI5LTdmMDEtNGUyNi1iMDM3LWYwNGIxZjA5ODc2NSIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9wYXRoLzE2OTA5NzM0Nzg5ODYiLCJ0bHMiOiJ0bHMifQ
-vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.163:443?type=grpc&security=tls&sni=iryiccyne.wwtraveler.com&fp=chrome#SC 🇸🇨 ┇ VLESS-GRPC-TLS ┇ 154.197.64.163
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.64.144:8880?type=httpupgrade&security=none&path=/#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.64.144
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.75.6:8880?type=httpupgrade&security=none&path=/#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.75.6
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@154.194.0.251:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.194.0.251
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@154.197.64.251:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.64.251
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.83.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 156.243.83.63
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.75.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.75.29
-vless://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#SC 🇸🇨 ┇ VLESS-TCP-TLS ┇ 178.20.215.10
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.194.0.63
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.64.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.64.29
 vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#SC 🇸🇨 ┇ VLESS-TCP-TLS ┇ 146.19.90.10
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.64.159:8880?type=httpupgrade&security=none&path=/#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.64.159
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.83.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 156.243.83.63
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@156.243.83.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 156.243.83.247
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.197.64.21:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.64.21
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.64.141:8880?type=httpupgrade&security=none&path=/#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.64.141
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.64.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.64.29
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.64.144:8880?type=httpupgrade&security=none&path=/#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.64.144
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.75.213:8880?type=ws&security=none#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.75.213
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.64.20:8880?type=ws&security=none&path=/?ed=2560#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.64.20
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.79:443?type=grpc&security=tls&sni=iryiccyne.wwtraveler.com&fp=chrome#SC 🇸🇨 ┇ VLESS-GRPC-TLS ┇ 154.197.64.79
@@ -40,16 +38,18 @@ vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.197.64.52:8880?type=httpupgrade
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.75.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.75.63
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@154.197.88.251:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.88.251
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.64.213:8880?type=ws&security=none#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.64.213
-vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.197.64.21:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.64.21
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.64.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.64.63
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.75.106:8880?type=httpupgrade&security=none&path=/#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.75.106
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.197.64.43:443?type=grpc&security=tls&sni=pqh24v3.hiddendom.shop#SC 🇸🇨 ┇ VLESS-GRPC-TLS ┇ 154.197.64.43
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.75.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.197.75.29
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.75.6:8880?type=httpupgrade&security=none&path=/#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.75.6
+vless://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#SC 🇸🇨 ┇ VLESS-TCP-TLS ┇ 178.20.215.10
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.64.108:8880?type=httpupgrade&security=none&path=/#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.64.108
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.64.159:8880?type=httpupgrade&security=none&path=/#SC 🇸🇨 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 154.197.64.159
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@156.243.83.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 156.243.83.247
+vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.163:443?type=grpc&security=tls&sni=iryiccyne.wwtraveler.com&fp=chrome#SC 🇸🇨 ┇ VLESS-GRPC-TLS ┇ 154.197.64.163
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.194.0.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.194.0.247
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.194.0.63
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.83.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 156.243.83.29
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.83.213:8880?type=ws&security=none&sni=jp.laoyoutiao.link#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 156.243.83.213
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.213:8880?type=ws&security=none#SC 🇸🇨 ┇ VLESS-WS-NTLS ┇ 154.194.0.213
 vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?type=tcp&security=reality&sni=www.apple.com.cn&fp=chrome&flow=xtls-rprx-vision&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd#SC 🇸🇨 ┇ VLESS-TCP-RLT ┇ 154.85.18.233
-trojan://urp7l61t-ronz-223l-syqf-ux9s4ydxbzs4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v21.0.0 @OXNET_IR
+trojan://cv0ppuz9-wn5l-ez79-bmmj-i57nu1553kqh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v21.0.0 @OXNET_IR
