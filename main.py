@@ -64,7 +64,7 @@ class AppConfig:
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
     # --- Feature Flags ---
-    ENABLE_SUBSCRIPTION_FETCHING = True # Set to True to re-enable subscription link fetching
+    ENABLE_SUBSCRIPTION_FETCHING = False # Set to True to re-enable subscription link fetching
     ENABLE_IP_DEDUPLICATION = True 
     ENABLE_LATENCY_TEST = False 
 
