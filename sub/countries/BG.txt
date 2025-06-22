@@ -1,6 +1,6 @@
-trojan://bk4a1p5m-e6bd-6rlo-5nc8-lclr9y9re51d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-22 | 09:01 ]
-trojan://nrzt5p6j-j677-rv6w-6rep-bcy1knv9j7yk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://toov4bh4-qrme-boc9-c2ur-lgiyw1rprp5t@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fzaofd0t-bsew-m02h-3xkd-5thyq31o54wi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-22 | 09:23 ]
+trojan://byz9tuw8-swgm-oekn-akkn-awc7oqgqlrkt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kyvefm4v-9841-j97g-8fnm-3e9184xqxms4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@213.183.63.221:9001#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS ┇ 213.183.63.221
 ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@213.183.63.218:9079#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS ┇ 213.183.63.218
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@213.183.63.217:9094#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS ┇ 213.183.63.217
@@ -21,25 +21,25 @@ vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@147.78.140.148:2087?type=ws&securit
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@147.78.140.58:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.58
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.25:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.25
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@147.78.140.93:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.93
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.20:8880?type=ws&security=none&path=/&sni=us.laoyoutiao.link#BG 🇧🇬 ┇ VLESS-WS-NTLS ┇ 147.78.140.20
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.232.170.240:443?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed&sni=0926.qiang2000.link#BG 🇧🇬 ┇ VLESS-WS-TLS ┇ 185.232.170.240
-vless://99727208-0086-43f9-f0ad-9e30f546b822@147.78.140.209:8880?type=httpupgrade&security=none&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.209
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.24:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.24
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096?type=ws&security=tls&path=/&sni=ScGiYaSk.rOcKsToNeY.InFo&fp=chrome#BG 🇧🇬 ┇ VLESS-WS-TLS ┇ 147.78.140.159
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.213:8880?type=ws&security=none#BG 🇧🇬 ┇ VLESS-WS-NTLS ┇ 147.78.140.213
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.98:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.98
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@147.78.140.120:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.120
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#BG 🇧🇬 ┇ VLESS-WS-NTLS ┇ 147.78.140.63
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.109:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.109
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.112:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.112
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#BG 🇧🇬 ┇ VLESS-WS-NTLS ┇ 147.78.140.29
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@147.78.140.120:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.120
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.78.140.85:80?type=tcp&security=none&path=/re5IzbZ9IZZMddtw?ed=2560#BG 🇧🇬 ┇ VLESS-TCP-NTLS ┇ 147.78.140.85
+vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.255:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.255
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.37:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.37
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096?type=ws&security=tls&path=/&sni=ScGiYaSk.rOcKsToNeY.InFo&fp=chrome#BG 🇧🇬 ┇ VLESS-WS-TLS ┇ 147.78.140.159
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.175:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.175
+vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.109:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.109
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.130:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.130
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.44:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.44
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.175:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.175
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.173:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.173
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.255:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.255
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.112:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.112
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@147.78.140.11:2096?type=ws&security=tls&path=/&sni=LhCgBjGr29.vElTrIxS.OrG&fp=chrome#BG 🇧🇬 ┇ VLESS-WS-TLS ┇ 147.78.140.11
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.37:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.37
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.20:8880?type=ws&security=none&path=/&sni=us.laoyoutiao.link#BG 🇧🇬 ┇ VLESS-WS-NTLS ┇ 147.78.140.20
+vless://99727208-0086-43f9-f0ad-9e30f546b822@147.78.140.209:8880?type=httpupgrade&security=none&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.209
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.98:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.98
+vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.24:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.24
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#BG 🇧🇬 ┇ VLESS-WS-NTLS ┇ 147.78.140.63
+vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.173:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS ┇ 147.78.140.173
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.213:8880?type=ws&security=none#BG 🇧🇬 ┇ VLESS-WS-NTLS ┇ 147.78.140.213
 vless://41f84081-f7d0-5444-9b92-1edcedddc51c@85.158.108.33:443?type=grpc&security=reality&sni=fauxid.com&fp=chrome&pbk=1nNTQrZmWpNvvl8_DjAHomTBLs15hjLqgVSw13wKyjo#BG 🇧🇬 ┇ VLESS-GRPC-RLT ┇ 85.158.108.33
-trojan://zduw1hkk-l1qu-8jo0-ftx3-74fjcdpqupty@127.0.0.1:8080?security=tls&type=tcp#</> Collector v21.0.0 @OXNET_IR
+trojan://k9p3e34u-gmiv-0j4p-svnu-4123f0lemf9k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v21.0.0 @OXNET_IR
