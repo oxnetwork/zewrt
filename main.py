@@ -59,18 +59,19 @@ class AppConfig:
     HTTP_MAX_REDIRECTS = 5
     HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"}
     MAX_CONCURRENT_REQUESTS = 10
-    TELEGRAM_SCRAPE_DEPTH = 5 # Number of pages to scrape per channel
+    TELEGRAM_SCRAPE_DEPTH = 5 
 
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
     # --- Feature Flags ---
-    ENABLE_SUBSCRIPTION_FETCHING = True
+    ENABLE_SUBSCRIPTION_FETCHING = True # Set to True to re-enable subscription link fetching
     ENABLE_IP_DEDUPLICATION = True 
+    ENABLE_LATENCY_TEST = False 
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v21.0.0 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v22.0.0 @OXNET_IR"
 
 
 CONFIG = AppConfig()
@@ -110,7 +111,7 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '�🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -859,7 +860,28 @@ async def main():
             "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt",
             "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt",
             "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-trojan-ss-configs/main/sub/Iran/config.txt",
-            "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt"
+            "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt",
+            "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt",
+            "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
+            "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
+            "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
+            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
+            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
+            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess",
+            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan",
+            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
+            "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
+            "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
+            "https://mrpooya.top/SuperApi/BE.php",
+            "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
+            "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
+            "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
+            "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
+            "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
+            "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
+            "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
+            "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
+            "https://mrpooya.top/SuperApi/V7pRO.php"
         ]
         with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f:
             json.dump(list(set(new_links)), f, indent=4)
