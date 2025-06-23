@@ -1,7 +1,7 @@
-trojan://jt6lp8vn-4xsz-3u5q-57i1-maqbl1zf3fqb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-23 | 18:41 ]
-trojan://kc0yvavp-uhi5-w83l-l9d7-defidr51z0nk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h9bmqqqm-v6ub-z5sf-ncul-u8oeiidomk5p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a7sacs4u-veir-cixd-aeg8-cbuf5m3nea7o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://g33qnm1w-6n86-x84m-dyb9-g8tl7eu2rxqu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-23 | 19:11 ]
+trojan://1pm2hu1f-g0jk-xtp6-dlhq-833zyz0o8u91@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o7yh8zhs-hkmd-s2cr-jxrq-abcg3nq6a2a5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ynrclxs5-yaz8-beio-3ox4-pv8s7tm9n8h5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@172.105.180.227:8080#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.180.227
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 45.79.238.129
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMTA1LjI1NS40IiwiYWRkIjoiMTcyLjEwNS4yNTUuNCIsInBvcnQiOjQ0MywiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9jaGF0IiwidGxzIjoidGxzIn0
@@ -11,41 +11,41 @@ vless://3b29dfdf-1bbe-4c14-beaa-932b650d6c0b@82.115.16.170:2053?type=grpc&securi
 ss://YWVzLTI1Ni1nY206REJMVzVHUlM3TkVUUFpSUQ@103.75.119.144:20021#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 103.75.119.144
 trojan://123456@192.65.217.53:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 192.65.217.53
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@103.169.142.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.251
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?type=ws&security=none&path=/?ed=2560#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.20
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.65.217.29:8880?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 192.65.217.29
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.65.217.20:8880?type=ws&security=none&path=/&sni=reedfree8mahsang2.redorg.ir#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 192.65.217.20
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.169.142.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.254
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.129:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.129
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@103.169.142.221:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.221
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880?type=tcp&security=none&path=/?ed=2560#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 103.169.142.20
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.137:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.137
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.169.142.213:8880?type=ws&security=none#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.213
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.80:8880?type=ws&security=none&path=/Channel id: @ShadowProxy66?ed=2560#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.80
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.169.142.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.63
+vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@103.169.142.0:443?type=ws&security=tls&path=/proxyip=nami.shorekeeper.ir&sni=taochan.ssyyllpphhaachan.ip-ddns.com&fp=random#AU 🇦🇺 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 103.169.142.0
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.61:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.61
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.163:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.163
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.65.217.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 192.65.217.63
+vless://293dbd19-eaec-43f0-dcde-2944af021dd4@103.169.142.46:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.46
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.95:80?type=ws&security=none&path=/re5IzbZ9IZZMddtw?ed=2560#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.95
+vless://99727208-0086-43f9-f0ad-9e30f546b822@103.169.142.224:8880?type=httpupgrade&security=none&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.224
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.65.217.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 192.65.217.254
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.131:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.131
+vless://99727208-0086-43f9-f0ad-9e30f546b822@103.169.142.23:8880?type=httpupgrade&security=none&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.23
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.243:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.243
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@192.65.217.0:2087?type=grpc&security=tls&sni=a2.flcode.ir#AU 🇦🇺 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 192.65.217.0
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.77:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.77
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.65.217.213:8880?type=ws&security=none#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 192.65.217.213
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.61:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.61
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.169.142.29:8880?type=ws&security=none&path=/&sni=hk.laoyoutiao.link#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.29
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.131:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.131
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.137:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.137
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.169.142.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.254
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.65.217.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 192.65.217.254
-vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@103.169.142.0:443?type=ws&security=tls&path=/proxyip=nami.shorekeeper.ir&sni=taochan.ssyyllpphhaachan.ip-ddns.com&fp=random#AU 🇦🇺 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 103.169.142.0
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@103.169.142.221:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.221
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.169.142.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.63
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.243:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.243
-vless://99727208-0086-43f9-f0ad-9e30f546b822@103.169.142.224:8880?type=httpupgrade&security=none&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.224
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.169.142.213:8880?type=ws&security=none#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.213
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.129:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.129
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.65.217.29:8880?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 192.65.217.29
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.95:80?type=ws&security=none&path=/re5IzbZ9IZZMddtw?ed=2560#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.95
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.65.217.20:8880?type=ws&security=none&path=/&sni=reedfree8mahsang2.redorg.ir#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 192.65.217.20
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.163:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.163
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.80:8880?type=ws&security=none&path=/Channel id: @ShadowProxy66?ed=2560#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.169.142.80
-vless://99727208-0086-43f9-f0ad-9e30f546b822@103.169.142.23:8880?type=httpupgrade&security=none&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.23
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.65.217.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 192.65.217.63
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.65.217.213:8880?type=ws&security=none#AU 🇦🇺 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 192.65.217.213
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.169.142.99:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.99
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@103.169.142.46:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 103.169.142.46
-vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDE1NC4yNi4xNTMuMTYxIiwiYWRkIjoiMTU0LjI2LjE1My4xNjEiLCJwb3J0IjoyMTc1OSwiaWQiOiJlNWYxNmZhZC1mOWMzLTQ1MmItOGU3MS1iYzk1MDRlMjlmYzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDE1NC4yNi4xNTMuMTczIiwiYWRkIjoiMTU0LjI2LjE1My4xNzMiLCJwb3J0IjoyODY4NiwiaWQiOiI2ZGY3ZDU2Zi00OTUzLTRhMTAtYmUyZS1hODhjYzlmOTRlNDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
+vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDE1NC4yNi4xNTMuMTYxIiwiYWRkIjoiMTU0LjI2LjE1My4xNjEiLCJwb3J0IjoyMTc1OSwiaWQiOiJlNWYxNmZhZC1mOWMzLTQ1MmItOGU3MS1iYzk1MDRlMjlmYzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNThMQnhXTFgzbnFXb1I0T3NvTWRy@170.64.135.248:20420#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 170.64.135.248
 trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?sni=$trxn.ballistics.top&peer=$trxn.ballistics.top&security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 170.64.130.150
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBESUdJVEFMT0NFQU4tQVNOIFx1MjUwNyAxNzAuNjQuMTI4LjkiLCJhZGQiOiIxNzAuNjQuMTI4LjkiLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 vless://35f591c6-0932-4c68-a831-4fe6ecf00b85@170.64.171.83:36402?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 170.64.171.83
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@143.244.62.106:989#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 143.244.62.106
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@185.167.116.253:9014#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 185.167.116.253
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@185.167.116.24:9097#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 185.167.116.24
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@143.244.62.106:989#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 143.244.62.106
 ss://YWVzLTI1Ni1nY206ZHBHakE0R2t6VjI4UVBEWXpFcDk0Y1Rl@180.149.228.179:49514#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Host Universal Pty Ltd ┇ 180.149.228.179
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkc0hxN0ptUkZoU2t2eHpDdU1GeQ@46.102.153.106:8389#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 46.102.153.106
 ss://Y2hhY2hhMjAtaWV0ZjpAb3Blbl92cG5z@20.211.112.115:2986#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.211.112.115
@@ -65,4 +65,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUcmVsbGlhbiBQdHkuIExpbWl0ZWQgXHUyNTA3IDEwMy4yMjQuMjEyLjIxMCIsImFkZCI6InYyLmtkYW5tbWdtYXN6Lnh5eiIsInBvcnQiOjQ0MywiaWQiOiJhZTBiMmI0YS00N2FjLTRkNzItYjAzYy01MjRmOTU5ZDVhMWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InYyLmtkYW5tbWdtYXN6Lnh5eiIsInBhdGgiOiIvemtzbmEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2Mi5rZGFubW1nbWFzei54eXoifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUcmVsbGlhbiBQdHkuIExpbWl0ZWQgXHUyNTA3IDEwMy4yMjQuMjEyLjIxMSIsImFkZCI6IjM0LjcyaW1nLnh5eiIsInBvcnQiOjQ0MywiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 vless://504d9da5-ea6d-429e-a4e5-76d6fe9bdc54@www.speedtest.com:2087?type=grpc&security=tls&sni=moji.xuii.sbs&fp=chrome#AU 🇦🇺 ┇ VLESS-GRPC-TLS - Trellian Pty. Limited ┇ 103.224.212.203
-trojan://3ujnsdkq-4rth-556x-fo01-lpkruoyplijy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v25.0.0 @OXNET_IR
+trojan://soszcyao-dyoc-6y2m-lemp-qgzc987w0idz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v25.0.0 @OXNET_IR
