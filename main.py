@@ -77,7 +77,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v24.0.1 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v24.1.0 @OXNET_IR"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -96,7 +96,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦�', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -624,7 +624,7 @@ class ConfigProcessor:
         self.parsed_configs = kept_configs
         console.log(f"IP-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} remaining.")
 
-    async def _test_ping_for_config(self, config: BaseConfig) -> Optional[int]:
+    async def _test_tcp_connection(self, config: BaseConfig) -> Optional[int]:
         ip = Geolocation._ip_cache.get(config.host)
         if not ip: return None
         
@@ -632,6 +632,12 @@ class ConfigProcessor:
             start_time = asyncio.get_event_loop().time()
             fut = asyncio.open_connection(ip, config.port)
             reader, writer = await asyncio.wait_for(fut, timeout=CONFIG.CONNECTIVITY_TEST_TIMEOUT)
+            
+            # More complete test: try to send and receive a tiny bit of data
+            writer.write(b"GET / HTTP/1.1\r\n\r\n")
+            await writer.drain()
+            await reader.read(1)
+
             end_time = asyncio.get_event_loop().time()
             writer.close()
             await writer.wait_closed()
@@ -652,14 +658,20 @@ class ConfigProcessor:
             TextColumn("[green]{task.completed}/{task.total} Tested"),
             console=console
         ) as progress:
-            tasks = [self._test_ping_for_config(config) for config in configs_to_test]
-            results = await asyncio.gather(*tasks)
-
-            task = progress.add_task("pinging", total=len(configs_to_test))
-            for i, (config, ping) in enumerate(zip(configs_to_test, results)):
-                if ping is not None:
-                    config.ping = ping
-                progress.update(task, advance=1)
+            tasks = [self._test_tcp_connection(config) for config in configs_to_test]
+            
+            ping_task = progress.add_task("pinging", total=len(configs_to_test))
+            for f in asyncio.as_completed(tasks):
+                result_ping = await f
+                # We need to find which config this result belongs to.
+                # This is inefficient, but necessary with as_completed.
+                for i, t in enumerate(tasks):
+                    if t is f:
+                        config = configs_to_test[i]
+                        if result_ping is not None:
+                            config.ping = result_ping
+                        break
+                progress.update(ping_task, advance=1)
         
         successful_count = sum(1 for c in configs_to_test if c.ping is not None)
         console.log(f"Connectivity test complete. {successful_count}/{len(configs_to_test)} configs responded.")
@@ -673,8 +685,9 @@ class ConfigProcessor:
             net = config.network.upper()
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
             ip_address = Geolocation._ip_cache.get(config.host, config.host)
-            ping_str = f"{config.ping}ms ┇ " if config.ping is not None else ""
-            new_remark = f"{ping_str}{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ @OXNET_IR"
+            
+            # Reverted naming format as requested
+            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {ip_address}"
             config.remarks = new_remark.strip()
 
     def get_all_unique_configs(self) -> List[BaseConfig]:
@@ -699,7 +712,7 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v24.0.1[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v24.1.0[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
