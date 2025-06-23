@@ -1,15 +1,6 @@
-trojan://63o8wftv-dwqh-4szf-7jpl-te6n6v48fa96@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-23 | 23:21 ]
-trojan://1d3wi683-tx1g-0128-poyi-fv0ldhuihekg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yqcbbk8m-navj-txbj-cky1-1e0ilobffjxr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hy80so30-qh2k-cqty-jzpu-evx7tvd96cgf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206am9pbmJlZGUtLVpFRE1PREVPTg@45.145.42.70:25367#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - dataforest GmbH ┇ 45.145.42.70
-vless://telegram-id-ArV2ray@193.46.81.67:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=a.mehpow.ir&fp=firefox#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 193.46.81.67
-vless://telegram-id-ArV2ray@193.46.81.83:443?type=ws&security=tls&path=/-ArV2ray@ArV2ray-TEL--@ArV2ray-TEL--@ArV2ray-TEL--@ArV2ray-JOIN-@ArV2ray-TEL--@ArV2ray-JOIN-@ArV2ray-TEL-@ArV2ray-TEL--@ArV2ray-JOIN-@ArV2ray-TEL--@ArV2ray-ArV2ray?ed=2048&sni=cd.mashti.icu&fp=firefox#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 193.46.81.83
-vless://telegram-ArV2ray@193.46.81.82:80?type=ws&security=none&path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry#DE 🇩🇪 ┇ VLESS-WS-NTLS - dataforest GmbH ┇ 193.46.81.82
+trojan://4gtcmn6j-s5lb-4bpg-84hl-yauqqbff4kfs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-23 | 23:25 ]
+trojan://go61cixz-emo1-u9zb-i84k-606x3jxpfesp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pkclzdqv-uino-w6jk-jjdu-egc20rt2e6ss@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://09y40lp0-1wdj-8es1-1b6u-g9626x22eirb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://telegram-id-ArV2ray@193.46.81.91:2041?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 193.46.81.91
-vless://8a197f79-29be-4241-a4e7-5c60bb9b0ecb@de.gomeow.online:18888?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=Y1J5jznG7vDc0hDNHTlJT246KvG3ZJZ1mTTnXkqd5Bk&sid=null#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 77.90.22.235
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOWFlYTczNi0zYjRkLTQ2NDQtYTk5OS1mZTM4ZWRmYWU5M2M@156.226.175.196:30001#SC 🇸🇨 ┇ SHADOWSOCKS-TCP-NTLS - dataforest GmbH ┇ 156.226.175.196
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNGE1OTRjNy01NTUxLTQyYTYtOTNiOC00NGNlYTNjNjIwMjQ@156.226.174.40:30004#SC 🇸🇨 ┇ SHADOWSOCKS-TCP-NTLS - dataforest GmbH ┇ 156.226.174.40
-trojan://04f8b43b-70b7-4b26-94b5-2486e86d9eb0@t32.emoyes.top:8446?sni=www.python.org&peer=www.python.org&security=tls#SC 🇸🇨 ┇ TROJAN-TCP-TLS - dataforest GmbH ┇ 156.226.174.186
-vmess://eyJ2IjoiMiIsInBzIjoiU0MgXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gZGF0YWZvcmVzdCBHbWJIIFx1MjUwNyAxNTYuMjI2LjE3NS42MiIsImFkZCI6ImRlMS5xaWFuZ2RvbmcueHl6IiwicG9ydCI6MTUzLCJpZCI6IjUyYzIyM2RkLWM2Y2MtM2EwYy1iODY1LTllNWUwZGRmZTEwYSIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSJ9
-trojan://sskjxxgi-6mx9-g1x7-k3u4-943f9k8831xb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v26.0.0 @OXNET_IR
+trojan://7kx0iq5v-ansl-5z27-m5mi-ga50ihj0kjc5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v26.0.0 @OXNET_IR
