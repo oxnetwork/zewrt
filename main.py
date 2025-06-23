@@ -47,6 +47,7 @@ class AppConfig:
         "networks": OUTPUT_DIR / "networks",
         "subscribe": OUTPUT_DIR / "subscribe",
         "countries": OUTPUT_DIR / "countries",
+        "datacenters": OUTPUT_DIR / "datacenters", # پوشه جدید برای دیتاسنترها
     }
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
@@ -54,9 +55,11 @@ class AppConfig:
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
     TELEGRAM_REPORT_FILE = DATA_DIR / "telegram_report.log"
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
+    GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb" # فایل دیتابیس ASN
 
     REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/data/telegram-channel.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
+    GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb" # لینک دانلود دیتابیس ASN
 
     HTTP_TIMEOUT = 25.0
     HTTP_MAX_REDIRECTS = 5
@@ -70,14 +73,14 @@ class AppConfig:
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
     
-    ENABLE_CONNECTIVITY_TEST = False # Test disabled by default for speed
+    ENABLE_CONNECTIVITY_TEST = False 
     CONNECTIVITY_TEST_TIMEOUT = 4
     MAX_CONNECTIVITY_TESTS = 250
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v24.2.0 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v25.0.0 @OXNET_IR"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -96,8 +99,8 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
-    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '�🇿', 'CA': '🇨🇦',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧�',
+    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
     'GA': '🇬🇦', 'GB': '🇬🇧', 'GD': '🇬🇩', 'GE': '🇬🇪', 'GF': '🇬🇫', 'GG': '🇬🇬', 'GH': '🇬🇭', 'GI': '🇬🇮', 'GL': '🇬🇱', 'GM': '🇬🇲', 'GN': '🇬🇳', 'GP': '🇬🇵', 'GQ': '🇬🇶', 'GR': '🇬🇷', 'GS': '🇬🇸', 'GT': '🇬🇹', 'GU': '🇬🇺', 'GW': '🇬🇼',
@@ -147,6 +150,7 @@ class BaseConfig(BaseModel):
     country: Optional[str] = Field("XX", exclude=True)
     source_type: str = Field("unknown", exclude=True)
     ping: Optional[int] = Field(None, exclude=True)
+    asn_org: Optional[str] = Field(None, exclude=True)
 
     def get_deduplication_key(self) -> str:
         return f"{self.protocol}:{self.host}:{self.port}:{self.uuid}"
@@ -525,16 +529,23 @@ class FileManager:
         return f"trojan://{generate_random_uuid_string()}@127.0.0.1:{port}?security=tls&type=tcp#{unquote(title)}"
 
 class Geolocation:
-    _reader: Optional[geoip2.database.Reader] = None
+    _country_reader: Optional[geoip2.database.Reader] = None
+    _asn_reader: Optional[geoip2.database.Reader] = None
     _ip_cache: Dict[str, Optional[str]] = {}
 
     @classmethod
     def initialize(cls):
-        if not CONFIG.GEOIP_DB_FILE.exists(): return
-        try:
-            cls._reader = geoip2.database.Reader(str(CONFIG.GEOIP_DB_FILE))
-        except Exception: 
-            cls._reader = None
+        if CONFIG.GEOIP_DB_FILE.exists():
+            try:
+                cls._country_reader = geoip2.database.Reader(str(CONFIG.GEOIP_DB_FILE))
+            except Exception: 
+                cls._country_reader = None
+        
+        if CONFIG.GEOIP_ASN_DB_FILE.exists():
+            try:
+                cls._asn_reader = geoip2.database.Reader(str(CONFIG.GEOIP_ASN_DB_FILE))
+            except Exception:
+                cls._asn_reader = None
 
     @classmethod
     async def get_ip(cls, hostname: str) -> Optional[str]:
@@ -554,16 +565,26 @@ class Geolocation:
 
     @classmethod
     def get_country_from_ip(cls, ip: str) -> str:
-        if cls._reader is None or ip is None: return "XX"
+        if cls._country_reader is None or ip is None: return "XX"
         try:
-            response = cls._reader.country(ip)
+            response = cls._country_reader.country(ip)
             return response.country.iso_code or "XX"
         except (geoip2.errors.AddressNotFoundError, Exception):
             return "XX"
+    
+    @classmethod
+    def get_asn_from_ip(cls, ip: str) -> Optional[str]:
+        if cls._asn_reader is None or ip is None: return None
+        try:
+            response = cls._asn_reader.asn(ip)
+            return response.autonomous_system_organization
+        except (geoip2.errors.AddressNotFoundError, Exception):
+            return None
 
     @classmethod
     def close(cls):
-        if cls._reader: cls._reader.close()
+        if cls._country_reader: cls._country_reader.close()
+        if cls._asn_reader: cls._asn_reader.close()
 
 class ConfigProcessor:
     def __init__(self, raw_configs_by_type: Dict[str, List[str]]):
@@ -588,7 +609,7 @@ class ConfigProcessor:
                 self.parsed_configs[key] = config
         console.log(f"Deduplication by URI resulted in {len(self.parsed_configs)} unique configs.")
 
-        await self._resolve_countries()
+        await self._resolve_geo_info()
         if CONFIG.ENABLE_IP_DEDUPLICATION:
             self._deduplicate_by_ip()
 
@@ -600,17 +621,20 @@ class ConfigProcessor:
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: item[1].ping if item[1].ping is not None else 9999))
         else:
-            self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: item[1].country))
+            # مرتب‌سازی بر اساس کشور و سپس نام دیتاسنتر
+            self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: (item[1].country, item[1].asn_org or "")))
 
 
-    async def _resolve_countries(self):
+    async def _resolve_geo_info(self):
         unique_hosts = list({c.host for c in self.parsed_configs.values()})
-        console.log(f"Resolving IPs for {len(unique_hosts)} unique hosts...")
+        console.log(f"Resolving geo-information for {len(unique_hosts)} unique hosts...")
         await asyncio.gather(*[Geolocation.get_ip(host) for host in unique_hosts])
         
         for config in self.parsed_configs.values():
             ip_address = Geolocation._ip_cache.get(config.host)
-            config.country = Geolocation.get_country_from_ip(ip_address) if ip_address else "XX"
+            if ip_address:
+                config.country = Geolocation.get_country_from_ip(ip_address)
+                config.asn_org = Geolocation.get_asn_from_ip(ip_address)
 
     def _deduplicate_by_ip(self):
         unique_ips: Dict[str, BaseConfig] = {}
@@ -661,16 +685,12 @@ class ConfigProcessor:
             TextColumn("[green]{task.completed}/{task.total} Tested"),
             console=console
         ) as progress:
-            tasks = [self._test_tcp_connection(config) for config in configs_to_test]
-            
+            tasks = {asyncio.create_task(self._test_tcp_connection(config)): config for config in configs_to_test}
             ping_task = progress.add_task("pinging", total=len(configs_to_test))
-            for i, f in enumerate(asyncio.as_completed(tasks)):
-                result_ping = await f
-                # Since as_completed does not guarantee order, we must find the original config.
-                # A more efficient way would be to pass the config along with the task.
-                # For now, this works but has performance implications on very large lists.
-                original_task_index = tasks.index(f._coro)
-                config = configs_to_test[original_task_index]
+
+            for task in asyncio.as_completed(tasks):
+                config = tasks[task]
+                result_ping = await task
                 if result_ping is not None:
                     config.ping = result_ping
                 progress.update(ping_task, advance=1)
@@ -688,7 +708,8 @@ class ConfigProcessor:
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
             ip_address = Geolocation._ip_cache.get(config.host, config.host)
             
-            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {ip_address}"
+            asn_str = f" - {config.asn_org}" if config.asn_org else ""
+            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec}{asn_str} ┇ {ip_address}"
             config.remarks = new_remark.strip()
 
     def get_all_unique_configs(self) -> List[BaseConfig]:
@@ -696,14 +717,23 @@ class ConfigProcessor:
 
     def categorize(self) -> Dict[str, Dict[str, List[BaseConfig]]]:
         configs = self.get_all_unique_configs()
-        categories: Dict[str, Dict[str, List[BaseConfig]]] = { "protocols": {}, "networks": {}, "security": {}, "countries": {} }
+        categories: Dict[str, Dict[str, List[BaseConfig]]] = { 
+            "protocols": {}, "networks": {}, "security": {}, "countries": {}, "datacenters": {} 
+        }
         for config in configs:
             if config.source_type == 'reality': categories["networks"].setdefault('reality', []).append(config)
             else:
                 categories["protocols"].setdefault(config.protocol, []).append(config)
                 categories["networks"].setdefault(config.network, []).append(config)
                 if config.security not in ['none', 'reality']: categories["security"].setdefault(config.security, []).append(config)
+            
             if config.country and config.country != "XX": categories["countries"].setdefault(config.country, []).append(config)
+            
+            if config.asn_org:
+                # Sanitize ASN name for filename
+                sanitized_asn = re.sub(r'[\\/*?:"<>|]', "", config.asn_org).replace(" ", "_")
+                categories["datacenters"].setdefault(sanitized_asn, []).append(config)
+                
         return categories
 
 class V2RayCollectorApp:
@@ -713,7 +743,7 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v24.2.0[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v25.0.0[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -785,6 +815,7 @@ class V2RayCollectorApp:
         all_configs = processor.get_all_unique_configs()
         protocol_counts = Counter(c.protocol for c in all_configs)
         country_counts = Counter(c.country for c in all_configs if c.country and c.country != 'XX')
+        asn_counts = Counter(c.asn_org for c in all_configs if c.asn_org)
 
         summary_table = Table(title="📊 Final Collection Report 📊", title_style="bold magenta", show_header=False)
         summary_table.add_column("Key", style="cyan")
@@ -812,23 +843,35 @@ class V2RayCollectorApp:
             flag = COUNTRY_CODE_TO_FLAG.get(country_code, '🏳️')
             country_table.add_row(flag, country_code, str(count))
 
+        asn_table = Table(title="🏢 Top 5 Datacenters", title_style="bold blue")
+        asn_table.add_column("Datacenter", style="cyan")
+        asn_table.add_column("Count", style="bold green")
+        for asn, count in asn_counts.most_common(5):
+            asn_table.add_row(asn, str(count))
+
         console.print(proto_table)
         console.print(country_table)
+        console.print(asn_table)
         
+async def _download_db_if_needed(url: str, file_path: Path):
+    if not file_path.exists():
+        console.log(f"[yellow]{file_path.name} not found, downloading...[/yellow]")
+        try:
+            async with httpx.AsyncClient() as client:
+                response = await client.get(url, follow_redirects=True, timeout=120.0)
+                response.raise_for_status()
+                async with aiofiles.open(file_path, "wb") as f:
+                    await f.write(response.content)
+                console.log(f"[green]{file_path.name} downloaded successfully.[/green]")
+        except Exception as e:
+            console.log(f"[bold red]Failed to download {file_path.name}: {e}.[/bold red]")
+
+
 async def main():
     CONFIG.DATA_DIR.mkdir(exist_ok=True)
 
-    if not CONFIG.GEOIP_DB_FILE.exists():
-        console.log("[yellow]GeoLite2-Country.mmdb not found, downloading...[/yellow]")
-        try:
-            async with httpx.AsyncClient() as client:
-                response = await client.get(CONFIG.GEOIP_DB_URL, follow_redirects=True, timeout=120.0)
-                response.raise_for_status()
-                async with aiofiles.open(CONFIG.GEOIP_DB_FILE, "wb") as f:
-                    await f.write(response.content)
-                console.log("[green]GeoLite2-Country.mmdb downloaded successfully.[/green]")
-        except Exception as e:
-            console.log(f"[bold red]Failed to download GeoLite2 database: {e}.[/bold red]")
+    await _download_db_if_needed(CONFIG.GEOIP_DB_URL, CONFIG.GEOIP_DB_FILE)
+    await _download_db_if_needed(CONFIG.GEOIP_ASN_DB_URL, CONFIG.GEOIP_ASN_DB_FILE)
 
     Geolocation.initialize()
 
