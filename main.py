@@ -14,7 +14,6 @@ from urllib.parse import urlparse, parse_qs, unquote
 import ipaddress
 from collections import Counter
 
-# Third-party libraries
 import httpx
 import aiofiles
 import jdatetime
@@ -26,17 +25,9 @@ except ImportError:
 
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
-from pydantic import BaseModel, Field, model_validator
-
-# ------------------------------------------------------------------------------
-# --- FILENAME: core/config.py ---
-# ------------------------------------------------------------------------------
+from pydantic import BaseModel, Field, model_validator, ValidationError
 
 class AppConfig:
-    """
-    Holds all application configuration settings.
-    این کلاس تمام تنظیمات برنامه را نگهداری می‌کند.
-    """
     BASE_DIR = Path(__file__).parent
     DATA_DIR = BASE_DIR / "data"
     OUTPUT_DIR = BASE_DIR / "sub"
@@ -64,44 +55,31 @@ class AppConfig:
     HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"}
     MAX_CONCURRENT_REQUESTS = 10
     
-    # --- Telegram Scraper Settings ---
-    # تنظیمات مربوط به جمع‌آوری از تلگرام
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
-    TELEGRAM_SCRAPE_DEPTH = 5
-    TELEGRAM_MESSAGE_LIMIT = 30 # NEW: Increased message fetch limit | جدید: افزایش محدودیت دریافت پیام‌ها
+    TELEGRAM_MESSAGE_LIMIT = 50 
+    TELEGRAM_IGNORE_LAST_UPDATE = False
 
-    # --- Feature Flags & New Settings ---
-    # فلگ‌های ویژگی‌ها و تنظیمات جدید
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
-    ENABLE_LATENCY_TEST = True          # NEW: Enable latency testing | جدید: فعال‌سازی تست سرعت
-    LATENCY_TIMEOUT = 5                 # NEW: Timeout for each latency test in seconds | جدید: مهلت زمان تست پینگ
-    MAX_LATENCY_TESTS = 150             # NEW: Max configs to test for latency | جدید: حداکثر تعداد کانفیگ برای تست سرعت
+    ENABLE_LATENCY_TEST = True
+    LATENCY_TIMEOUT = 5
+    MAX_LATENCY_TESTS = 150
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v23.0.0 @OXNET_IR"
-    CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」" # NEW: Add your custom signature here | جدید: امضای دلخواه خود را اینجا اضافه کنید
-
+    DEV_SIGNATURE = "</> Collector v23.1.0 @OXNET_IR"
+    CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: core/logger.py ---
-# ------------------------------------------------------------------------------
-
 def setup_logger():
-    """Configures the root logger for the application."""
     CONFIG.DATA_DIR.mkdir(exist_ok=True)
-
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(levelname)-8s - %(name)-15s - %(message)s',
         datefmt='%Y-%m-%d %H:%M:%S',
-        handlers=[
-            logging.StreamHandler()
-        ]
+        handlers=[logging.StreamHandler()]
     )
     logging.getLogger("httpx").setLevel(logging.WARNING)
     logging.getLogger("geoip2").setLevel(logging.WARNING)
@@ -109,21 +87,13 @@ def setup_logger():
 
 logger = setup_logger()
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: core/exceptions.py ---
-# ------------------------------------------------------------------------------
-
 class V2RayCollectorException(Exception): pass
 class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: utils/helpers.py ---
-# ------------------------------------------------------------------------------
-
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
-    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨�',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '�🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
     'GA': '🇬🇦', 'GB': '🇬🇧', 'GD': '🇬🇩', 'GE': '🇬🇪', 'GF': '🇬🇫', 'GG': '🇬🇬', 'GH': '🇬🇭', 'GI': '🇬🇮', 'GL': '🇬🇱', 'GM': '🇬🇲', 'GN': '🇬🇳', 'GP': '🇬🇵', 'GQ': '🇬🇶', 'GR': '🇬🇷', 'GS': '🇬🇸', 'GT': '🇬🇹', 'GU': '🇬🇺', 'GW': '🇬🇼',
@@ -157,10 +127,6 @@ def is_ip_address(address: str) -> bool:
         return True
     except ValueError:
         return False
-
-# ------------------------------------------------------------------------------
-# --- FILENAME: models/v2ray.py ---
-# ------------------------------------------------------------------------------
 
 class BaseConfig(BaseModel):
     model_config = {'str_strip_whitespace': True}
@@ -251,10 +217,6 @@ class ShadowsocksConfig(BaseConfig):
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"ss://{encoded_user_info}@{self.host}:{self.port}{remarks_encoded}"
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: network/http_client.py ---
-# ------------------------------------------------------------------------------
-
 class AsyncHttpClient:
     _client: Optional[httpx.AsyncClient] = None
 
@@ -285,14 +247,13 @@ class AsyncHttpClient:
             logger.warning(f"HTTP status error for {url}: {e.response.status_code}")
             return e.response.status_code, e.response.text
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: processing/parser.py ---
-# ------------------------------------------------------------------------------
-
 class V2RayParser:
     @staticmethod
     def parse(uri: str, source_type: str = "unknown") -> Optional[BaseConfig]:
         uri = uri.strip()
+        if not uri:
+            return None
+            
         parsed_config: Optional[BaseConfig] = None
         try:
             if uri.startswith("vmess://"): parsed_config = V2RayParser._parse_vmess(uri)
@@ -303,8 +264,11 @@ class V2RayParser:
             if parsed_config:
                 parsed_config.source_type = source_type
             return parsed_config
+        except (ValidationError, ParsingError) as e:
+            logger.debug(f"Validation/Parsing error for URI: {uri[:60]}... | Error: {e}")
+            return None
         except Exception as e:
-            logger.error(f"Failed to parse URI: {uri[:60]}... | Error: {e}")
+            logger.error(f"Generic failure to parse URI: {uri[:60]}... | Error: {e}")
             return None
 
     @staticmethod
@@ -318,24 +282,33 @@ class V2RayParser:
     def _parse_vless(uri: str) -> Optional[VlessConfig]:
         try:
             parsed_url = urlparse(uri)
-            port = parsed_url.port
-            if port is None:
-                match = re.search(r":(\d+)$", parsed_url.netloc)
-                if match:
-                    port = int(match.group(1))
-                else:
-                    logger.warning(f"Skipping VLESS config due to missing port: {uri[:60]}...")
-                    return None
+            if not parsed_url.hostname or not parsed_url.port:
+                raise ParsingError(f"Missing hostname or port in VLESS URI.")
 
             params = parse_qs(parsed_url.query)
-            return VlessConfig(uuid=parsed_url.username, host=parsed_url.hostname, port=port, remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{port}", network=params.get('type', ['tcp'])[0], security=params.get('security', ['none'])[0], path=unquote(params.get('path', [None])[0]) if params.get('path') else None, sni=params.get('sni', [None])[0], fingerprint=params.get('fp', [None])[0], flow=params.get('flow', [None])[0], pbk=params.get('pbk', [None])[0], sid=params.get('sid', [None])[0])
-        except Exception as e:
-            logger.warning(f"Could not parse VLESS link correctly: {uri[:60]}... | Error: {e}")
-            return None
+            return VlessConfig(
+                uuid=parsed_url.username, 
+                host=parsed_url.hostname, 
+                port=parsed_url.port, 
+                remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{parsed_url.port}",
+                network=params.get('type', ['tcp'])[0], 
+                security=params.get('security', ['none'])[0], 
+                path=unquote(params.get('path', [None])[0]) if params.get('path') else None, 
+                sni=params.get('sni', [None])[0], 
+                fingerprint=params.get('fp', [None])[0], 
+                flow=params.get('flow', [None])[0], 
+                pbk=params.get('pbk', [None])[0], 
+                sid=params.get('sid', [None])[0]
+            )
+        except (ValueError, TypeError) as e:
+            raise ParsingError(f"Could not parse VLESS link correctly: {uri[:60]}... | Error: {e}") from e
+
 
     @staticmethod
     def _parse_trojan(uri: str) -> Optional[TrojanConfig]:
         parsed_url = urlparse(uri)
+        if not parsed_url.hostname or not parsed_url.port:
+            raise ParsingError(f"Missing hostname or port in Trojan URI.")
         params = parse_qs(parsed_url.query)
         return TrojanConfig(uuid=parsed_url.username, host=parsed_url.hostname, port=parsed_url.port, remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{parsed_url.port}", security=params.get('security', ['tls'])[0], sni=params.get('sni', [None])[0], network='tcp')
 
@@ -344,20 +317,25 @@ class V2RayParser:
         try:
             main_part, remarks_part = (uri[len("ss://"):].split('#', 1) + [''])[:2]
             remarks = unquote(remarks_part) if remarks_part else ''
+            
+            if '@' not in main_part:
+                raise ParsingError("Invalid SS URI format: missing '@'.")
+                
             user_info_part, host_port_part = main_part.split('@', 1)
             decoded_user_info = base64.b64decode(user_info_part + '==').decode('utf-8')
+            
+            if ':' not in decoded_user_info or ':' not in host_port_part:
+                raise ParsingError("Invalid SS URI format: missing method/password or host/port separator.")
+                
             method, password = decoded_user_info.split(':', 1)
             host, port_str = host_port_part.rsplit(':', 1)
+            
             if host.startswith('[') and host.endswith(']'): host = host[1:-1]
             if not remarks: remarks = f"{host}:{port_str}"
+            
             return ShadowsocksConfig(host=host, port=int(port_str), remarks=remarks, method=method, password=password)
         except Exception as e:
-            logger.warning(f"Could not parse Shadowsocks link: {uri[:60]}... | Error: {e}")
-            return None
-
-# ------------------------------------------------------------------------------
-# --- FILENAME: sources/raw_collector.py ---
-# ------------------------------------------------------------------------------
+            raise ParsingError(f"Could not parse Shadowsocks link: {uri[:60]}... | Error: {e}") from e
 
 class RawConfigCollector:
     PATTERNS = {"ss": r"(?<![\w-])(ss://[^\s<>#]+)", "trojan": r"(?<![\w-])(trojan://[^\s<>#]+)", "vmess": r"(?<![\w-])(vmess://[^\s<>#]+)", "vless": r"(?<![\w-])(vless://(?:(?!=reality)[^\s<>#])+(?=[\s<>#]))", "reality": r"(?<![\w-])(vless://[^\s<>#]+?security=reality[^\s<>#]*)"}
@@ -371,10 +349,6 @@ class RawConfigCollector:
             if cleaned_matches:
                 all_matches[name] = cleaned_matches
         return all_matches
-
-# ------------------------------------------------------------------------------
-# --- FILENAME: sources/telegram_scraper.py ---
-# ------------------------------------------------------------------------------
 
 class TelegramScraper:
     def __init__(self, channels: List[str], since_datetime: datetime):
@@ -413,9 +387,8 @@ class TelegramScraper:
             failure_count = len(results) - success_count
             logger.info(f"Finished batch {i+1}/{len(channel_batches)}. Successes in this batch: {success_count}, Failures: {failure_count}")
 
-
             if i < len(channel_batches) - 1:
-                sleep_duration = random.uniform(5, 10)
+                sleep_duration = random.uniform(3, 7)
                 logger.info(f"Cooling down for {sleep_duration:.2f} seconds before next batch...")
                 await asyncio.sleep(sleep_duration)
 
@@ -423,7 +396,6 @@ class TelegramScraper:
         return total_configs_by_type, failed_channels
 
     async def _write_scrape_report(self, successful: List[Tuple[str, int]], failed: List[str]):
-        """Writes a summary of the scraping process to a report file."""
         now = datetime.now(get_iran_timezone())
         report_str = f"--- Telegram Scrape Report ---\n"
         report_str += f"Timestamp: {now.strftime('%Y-%m-%d %H:%M:%S')}\n"
@@ -447,16 +419,14 @@ class TelegramScraper:
             logger.error(f"Could not write to Telegram report file: {e}")
 
     async def _scrape_channel_with_retry(self, channel: str, max_retries: int = 3) -> Optional[Dict[str, List[str]]]:
-        """Scrapes a single channel with a retry mechanism for better stability."""
         for attempt in range(max_retries):
             try:
-                await asyncio.sleep(random.uniform(0.5, 1.5))
+                await asyncio.sleep(random.uniform(1.0, 2.5))
                 url = CONFIG.TELEGRAM_BASE_URL.format(channel)
 
                 status, html = await AsyncHttpClient.get(url)
                 if status == 200:
                     soup = BeautifulSoup(html, "html.parser")
-                    # Use the configurable message limit
                     messages = soup.find_all("div", class_="tgme_widget_message", limit=CONFIG.TELEGRAM_MESSAGE_LIMIT)
 
                     if not messages:
@@ -469,7 +439,7 @@ class TelegramScraper:
                         if time_tag and 'datetime' in time_tag.attrs:
                             try:
                                 message_dt = datetime.fromisoformat(time_tag['datetime']).astimezone(self.iran_tz)
-                                if message_dt > self.since_datetime:
+                                if CONFIG.TELEGRAM_IGNORE_LAST_UPDATE or message_dt > self.since_datetime:
                                     text_div = msg.find("div", class_="tgme_widget_message_text")
                                     if text_div:
                                         found_configs = RawConfigCollector.find_all(text_div.get_text('\n', strip=True))
@@ -487,16 +457,11 @@ class TelegramScraper:
                 logger.error(f"[Attempt {attempt+1}/{max_retries}] Unexpected error for channel '{channel}': {e}")
 
             if attempt < max_retries - 1:
-                sleep_duration = (attempt + 1) * 5
+                sleep_duration = (attempt + 1) * 4
                 logger.info(f"Retrying channel '{channel}' after {sleep_duration} seconds...")
                 await asyncio.sleep(sleep_duration)
 
         return None
-
-
-# ------------------------------------------------------------------------------
-# --- FILENAME: sources/subscription_fetcher.py ---
-# ------------------------------------------------------------------------------
 
 class SubscriptionFetcher:
     def __init__(self, sub_links: List[str]): self.sub_links = sub_links
@@ -518,21 +483,14 @@ class SubscriptionFetcher:
     async def _fetch_and_decode(self, link: str) -> str:
         try:
             _, content = await AsyncHttpClient.get(link)
-            # Try decoding, if it fails, assume it's plain text
             try:
                 decoded_content = base64.b64decode(content + '==').decode('utf-8')
                 return decoded_content
             except Exception:
                 return content
         except Exception:
-             # If fetching fails, return empty string
             logger.error(f"Failed to fetch or decode subscription link: {link}")
             return ""
-
-
-# ------------------------------------------------------------------------------
-# --- FILENAME: storage/file_manager.py ---
-# ------------------------------------------------------------------------------
 
 class FileManager:
     def __init__(self, config: AppConfig):
@@ -573,16 +531,12 @@ class FileManager:
         final_list.insert(0, self._create_title_config(update_str, 1080))
         final_list.insert(1, self._create_title_config(CONFIG.ADV_SIGNATURE, 2080))
         final_list.insert(2, self._create_title_config(CONFIG.DNT_SIGNATURE, 3080))
-        final_list.insert(3, self._create_title_config(CONFIG.CUSTOM_SIGNATURE, 4080)) # NEW: Added custom signature
+        final_list.insert(3, self._create_title_config(CONFIG.CUSTOM_SIGNATURE, 4080))
         final_list.append(self._create_title_config(CONFIG.DEV_SIGNATURE, 8080))
         return final_list
 
     def _create_title_config(self, title: str, port: int) -> str:
         return f"trojan://{generate_random_uuid_string()}@127.0.0.1:{port}?security=tls&type=tcp#{unquote(title)}"
-
-# ------------------------------------------------------------------------------
-# --- FILENAME: processing/processor.py ---
-# ------------------------------------------------------------------------------
 
 class Geolocation:
     _reader: Optional[geoip2.database.Reader] = None
@@ -590,7 +544,6 @@ class Geolocation:
 
     @classmethod
     def initialize(cls):
-        """Initializes the GeoIP database reader."""
         if not CONFIG.GEOIP_DB_FILE.exists():
             logger.error(f"GeoIP database not found at '{CONFIG.GEOIP_DB_FILE}'. Country detection will be skipped.")
             return
@@ -603,7 +556,6 @@ class Geolocation:
 
     @classmethod
     async def get_ip(cls, hostname: str) -> Optional[str]:
-        """Resolves a hostname to an IP address asynchronously, with caching."""
         if hostname in cls._ip_cache:
             return cls._ip_cache[hostname]
         if is_ip_address(hostname):
@@ -622,7 +574,6 @@ class Geolocation:
 
     @classmethod
     def get_country_from_ip(cls, ip: str) -> str:
-        """Looks up the country code for a given IP address."""
         if cls._reader is None or ip is None:
             return "XX"
         try:
@@ -671,10 +622,8 @@ class ConfigProcessor:
             
         self._format_config_remarks()
         
-        # NEW: Sort configs by latency (best first) | جدید: مرتب‌سازی بر اساس سرعت
         if CONFIG.ENABLE_LATENCY_TEST:
             self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: item[1].latency if item[1].latency is not None else 9999))
-
 
     async def _resolve_countries(self):
         unique_hosts = list({c.host for c in self.parsed_configs.values()})
@@ -690,7 +639,6 @@ class ConfigProcessor:
         logger.info(f"Successfully assigned countries to {resolved_count} configs.")
 
     def _deduplicate_by_ip(self):
-        """Removes configs that resolve to the same IP, keeping only the first one."""
         logger.info("Deduplicating configs based on resolved IP address...")
         unique_ips: Dict[str, BaseConfig] = {}
         kept_configs: Dict[str, BaseConfig] = {}
@@ -701,7 +649,7 @@ class ConfigProcessor:
                 if ip not in unique_ips:
                     unique_ips[ip] = config
                     kept_configs[key] = config
-            else: # Keep configs whose hosts couldn't be resolved
+            else:
                 kept_configs[key] = config
 
         removed_count = len(self.parsed_configs) - len(kept_configs)
@@ -709,17 +657,12 @@ class ConfigProcessor:
         logger.info(f"IP-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} configs remaining.")
 
     async def _test_latency_for_config(self, config: BaseConfig) -> Optional[int]:
-        """
-        NEW: Tests latency for a single config.
-        جدید: این تابع سرعت یک کانفیگ را تست می‌کند.
-        """
         ip = Geolocation._ip_cache.get(config.host)
         if not ip:
             return None
         
         try:
             start_time = asyncio.get_event_loop().time()
-            # Set a timeout for the connection attempt
             fut = asyncio.open_connection(ip, config.port)
             reader, writer = await asyncio.wait_for(fut, timeout=CONFIG.LATENCY_TIMEOUT)
             
@@ -727,7 +670,6 @@ class ConfigProcessor:
             writer.close()
             await writer.wait_closed()
             
-            # Latency in milliseconds
             latency = int((end_time - start_time) * 1000)
             return latency
         except (asyncio.TimeoutError, ConnectionRefusedError, OSError) as e:
@@ -737,12 +679,7 @@ class ConfigProcessor:
             logger.error(f"Unexpected error during latency test for {ip}:{config.port}: {e}")
             return None
 
-
     async def _test_latency(self):
-        """
-        NEW: Runs latency tests on a subset of configs.
-        جدید: این تابع تست سرعت را روی تعدادی از کانفیگ‌ها اجرا می‌کند.
-        """
         logger.info("Starting latency testing for available configs...")
         configs_to_test = list(self.parsed_configs.values())
         if len(configs_to_test) > CONFIG.MAX_LATENCY_TESTS:
@@ -754,16 +691,13 @@ class ConfigProcessor:
         tasks = [self._test_latency_for_config(config) for config in configs_to_test]
         results = await asyncio.gather(*tasks)
 
-        tested_count = 0
         successful_count = 0
         for config, latency in zip(configs_to_test, results):
-            tested_count +=1
             if latency is not None:
                 config.latency = latency
                 successful_count +=1
 
         logger.info(f"Latency testing complete. {successful_count}/{len(configs_to_test)} configs responded successfully.")
-
 
     def _format_config_remarks(self):
         logger.info("Formatting remarks for all unique configs...")
@@ -776,7 +710,6 @@ class ConfigProcessor:
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
             ip_address = Geolocation._ip_cache.get(config.host, config.host)
             
-            # NEW: Add latency to remarks if available | جدید: افزودن سرعت به نام کانفیگ
             latency_str = f"{config.latency}ms ┇ " if config.latency is not None else ""
 
             new_remark = f"{latency_str}{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {ip_address}"
@@ -801,10 +734,6 @@ class ConfigProcessor:
                 categories["countries"].setdefault(config.country, []).append(config)
         return categories
 
-# ------------------------------------------------------------------------------
-# --- FILENAME: main.py ---
-# ------------------------------------------------------------------------------
-
 class V2RayCollectorApp:
     def __init__(self):
         self.config = CONFIG
@@ -826,14 +755,12 @@ class V2RayCollectorApp:
             tg_scraper = TelegramScraper(tg_channels, self.last_update_time)
             tasks_to_run.append(tg_scraper.scrape_all())
         else:
-            # Provide a compatible empty result if no channels
             tasks_to_run.append(asyncio.sleep(0, result=({}, []))) 
 
         if sub_links and CONFIG.ENABLE_SUBSCRIPTION_FETCHING:
             sub_fetcher = SubscriptionFetcher(sub_links)
             tasks_to_run.append(sub_fetcher.fetch_all())
         else:
-            # Provide a compatible empty result if no subs
             tasks_to_run.append(asyncio.sleep(0, result={}))
 
         if not tasks_to_run:
@@ -869,7 +796,6 @@ class V2RayCollectorApp:
         await self._save_results(all_unique_configs, categories)
         await self._save_state()
         
-        # NEW: Print final summary report | جدید: نمایش گزارش نهایی
         self._print_summary_report(processor)
         
         logger.info("Collection and processing complete.")
@@ -925,10 +851,6 @@ class V2RayCollectorApp:
         logger.info(f"All files have been saved.")
 
     def _print_summary_report(self, processor: ConfigProcessor):
-        """
-        NEW: Prints a detailed summary of the collection process.
-        جدید: این تابع یک گزارش کامل از فرآیند جمع‌آوری چاپ می‌کند.
-        """
         all_configs = processor.get_all_unique_configs()
         
         protocol_counts = Counter(c.protocol for c in all_configs)
@@ -958,12 +880,9 @@ class V2RayCollectorApp:
             
         print("=" * 60)
         
-# --- Main Execution ---
 async def main():
-    # Ensure the main data directory exists
     CONFIG.DATA_DIR.mkdir(exist_ok=True)
 
-    # Download GeoIP database if it doesn't exist
     if not CONFIG.GEOIP_DB_FILE.exists():
         logger.info("GeoLite2-Country.mmdb not found, downloading...")
         try:
@@ -978,7 +897,6 @@ async def main():
 
     Geolocation.initialize()
 
-    # Create default subscription links file if it doesn't exist, with new links
     if not CONFIG.SUBSCRIPTION_LINKS_FILE.exists():
         new_links = [
             "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed",
@@ -1007,7 +925,6 @@ async def main():
         with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f:
             json.dump(list(set(new_links)), f, indent=4)
 
-    # Create default channels file if it doesn't exist from the remote URL
     if not CONFIG.TELEGRAM_CHANNELS_FILE.exists():
          try:
             status, content = await AsyncHttpClient.get(CONFIG.REMOTE_CHANNELS_URL)
@@ -1019,7 +936,6 @@ async def main():
                     logger.info(f"Default telegram_channels.json created from remote source.")
          except Exception as e:
             logger.warning(f"Could not create default telegram channels file: {e}")
-
 
     app = V2RayCollectorApp()
     try:
