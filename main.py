@@ -47,7 +47,7 @@ class AppConfig:
         "networks": OUTPUT_DIR / "networks",
         "subscribe": OUTPUT_DIR / "subscribe",
         "countries": OUTPUT_DIR / "countries",
-        "datacenters": OUTPUT_DIR / "datacenters", # پوشه جدید برای دیتاسنترها
+        "datacenters": OUTPUT_DIR / "datacenters",
     }
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
@@ -55,11 +55,11 @@ class AppConfig:
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
     TELEGRAM_REPORT_FILE = DATA_DIR / "telegram_report.log"
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
-    GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb" # فایل دیتابیس ASN
+    GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
     REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/data/telegram-channel.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
-    GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb" # لینک دانلود دیتابیس ASN
+    GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 
     HTTP_TIMEOUT = 25.0
     HTTP_MAX_REDIRECTS = 5
@@ -69,6 +69,7 @@ class AppConfig:
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
     TELEGRAM_MESSAGE_LIMIT = 50
     TELEGRAM_IGNORE_LAST_UPDATE = True
+    MAX_CONFIGS_PER_CHANNEL = 30 
 
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
@@ -80,7 +81,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v25.0.0 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v26.0.0 @OXNET_IR"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -99,7 +100,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧�',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '�🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -433,7 +434,13 @@ class TelegramScraper:
                     if not messages: return {}
 
                     channel_configs: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
+                    configs_count_in_channel = 0
+                    
                     for msg in messages:
+                        # اعمال محدودیت برای هر کانال
+                        if configs_count_in_channel >= CONFIG.MAX_CONFIGS_PER_CHANNEL:
+                            break
+
                         time_tag = msg.find("time", class_="time")
                         if time_tag and 'datetime' in time_tag.attrs:
                             try:
@@ -443,7 +450,15 @@ class TelegramScraper:
                                     if text_div:
                                         found_configs = RawConfigCollector.find_all(text_div.get_text('\n', strip=True))
                                         for config_type, configs in found_configs.items():
-                                            channel_configs[config_type].extend(configs)
+                                            remaining_slots = CONFIG.MAX_CONFIGS_PER_CHANNEL - configs_count_in_channel
+                                            if remaining_slots <= 0: break
+                                            
+                                            configs_to_add = configs[:remaining_slots]
+                                            channel_configs[config_type].extend(configs_to_add)
+                                            configs_count_in_channel += len(configs_to_add)
+                                        
+                                        if configs_count_in_channel >= CONFIG.MAX_CONFIGS_PER_CHANNEL:
+                                            break
                             except (ValueError, TypeError): continue
                     return channel_configs
             except (NetworkError, Exception):
@@ -621,7 +636,6 @@ class ConfigProcessor:
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: item[1].ping if item[1].ping is not None else 9999))
         else:
-            # مرتب‌سازی بر اساس کشور و سپس نام دیتاسنتر
             self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: (item[1].country, item[1].asn_org or "")))
 
 
@@ -661,7 +675,7 @@ class ConfigProcessor:
             fut = asyncio.open_connection(ip, config.port)
             reader, writer = await asyncio.wait_for(fut, timeout=CONFIG.CONNECTIVITY_TEST_TIMEOUT)
             
-            writer.write(b"\x01") # Send a single byte
+            writer.write(b"\x01") 
             await writer.drain()
             await reader.read(1)
 
@@ -706,7 +720,7 @@ class ConfigProcessor:
             sec = 'RLT' if config.source_type == 'reality' else (config.security.upper() if config.security != 'none' else 'NTLS')
             net = config.network.upper()
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
-            ip_address = Geolocation._ip_cache.get(config.host, config.host)
+            ip_address = Geolocation._ip_cache.get(config.host, "N/A")
             
             asn_str = f" - {config.asn_org}" if config.asn_org else ""
             new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec}{asn_str} ┇ {ip_address}"
@@ -730,8 +744,7 @@ class ConfigProcessor:
             if config.country and config.country != "XX": categories["countries"].setdefault(config.country, []).append(config)
             
             if config.asn_org:
-                # Sanitize ASN name for filename
-                sanitized_asn = re.sub(r'[\\/*?:"<>|]', "", config.asn_org).replace(" ", "_")
+                sanitized_asn = re.sub(r'[\\/*?:"<>|]', "", config.asn_org).replace(" ", "_").replace(",", "")
                 categories["datacenters"].setdefault(sanitized_asn, []).append(config)
                 
         return categories
@@ -743,7 +756,7 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v25.0.0[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v26.0.0[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
