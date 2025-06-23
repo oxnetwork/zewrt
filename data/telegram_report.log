@@ -1,18 +1,18 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-06-23 20:46:28
+Timestamp: 2025-06-23 21:13:48
 Total Channels: 74
 Successful Scrapes: 53
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-configx2ray: 30 configs
-meli_proxyy: 30 configs
-shadowproxy66: 30 configs
-tehranargo: 30 configs
-WedBaZtel: 30 configs
-wedbaztel: 30 configs
-xixv2ray: 30 configs
-sockss_http: 29 configs
+shadowproxy66: 57 configs
+WedBaZtel: 47 configs
+wedbaztel: 47 configs
+configx2ray: 46 configs
+meli_proxyy: 44 configs
+xixv2ray: 41 configs
+tehranargo: 34 configs
+sockss_http: 30 configs
 ghalagyann: 26 configs
 expressvpn_420: 25 configs
 azarbayjab1: 23 configs
@@ -26,12 +26,11 @@ summertimeus: 19 configs
 arv2ray: 16 configs
 blueshekan: 16 configs
 bored_vpn: 16 configs
+meliconfing: 16 configs
 befreewithus: 15 configs
 itenvpn: 15 configs
-DALTON_PING: 14 configs
-dalton_ping: 14 configs
-meliconfing: 14 configs
-v2ray_configs_pool: 14 configs
+DALTON_PING: 13 configs
+dalton_ping: 13 configs
 freakconfig: 13 configs
 masterserver1: 13 configs
 xpnteam: 12 configs
@@ -39,16 +38,17 @@ abelimo: 10 configs
 lexernet: 10 configs
 spikevpn: 10 configs
 vpnpacket: 10 configs
+v2ray_configs_pool: 9 configs
 vlees_v2rayng: 9 configs
 confingv2raayng: 8 configs
 vistav2ray: 8 configs
 vmessorg: 8 configs
+PASARGAD_V2rayNG: 7 configs
 v2rayng_1378: 7 configs
 fnet00: 6 configs
 mdvpnsec: 6 configs
 freev2rng: 5 configs
 lightning6: 5 configs
-PASARGAD_V2rayNG: 5 configs
 v2ray_god: 5 configs
 v2raymelliii: 5 configs
 capoit: 4 configs
