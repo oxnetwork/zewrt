@@ -36,7 +36,7 @@ jobs:
           git add -A
           if ! git diff --staged --quiet; then
             git commit -m "CHORE: Update V2Ray configs"
-            git push
+            git push --force
           else
             echo "No changes to commit."
           fi
