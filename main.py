@@ -49,7 +49,7 @@ class AppConfig:
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
     SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_links.json"
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
-    TELEGRAM_REPORT_FILE = DATA_DIR / "telegram_report.log" 
+    LOG_FILE = DATA_DIR / "v2ray_collector.log"
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     
     REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/data/telegram-channel.json"
@@ -59,19 +59,17 @@ class AppConfig:
     HTTP_MAX_REDIRECTS = 5
     HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"}
     MAX_CONCURRENT_REQUESTS = 10
-    TELEGRAM_SCRAPE_DEPTH = 5 
 
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
 
     # --- Feature Flags ---
-    ENABLE_SUBSCRIPTION_FETCHING = False # Set to True to re-enable subscription link fetching
-    ENABLE_IP_DEDUPLICATION = True 
     ENABLE_LATENCY_TEST = False 
+    ENABLE_IP_DEDUPLICATION = True 
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v22.0.0 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v17.0.1 @OXNET_IR"
 
 
 CONFIG = AppConfig()
@@ -89,6 +87,7 @@ def setup_logger():
         format='%(asctime)s - %(levelname)-8s - %(name)-15s - %(message)s',
         datefmt='%Y-%m-%d %H:%M:%S',
         handlers=[
+            logging.FileHandler(CONFIG.LOG_FILE, mode='w', encoding='utf-8'),
             logging.StreamHandler()
         ]
     )
@@ -111,20 +110,34 @@ class NetworkError(V2RayCollectorException): pass
 # ------------------------------------------------------------------------------
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
-    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
-    'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
-    'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
-    'GA': '🇬🇦', 'GB': '🇬🇧', 'GD': '🇬🇩', 'GE': '🇬🇪', 'GF': '🇬🇫', 'GG': '🇬🇬', 'GH': '🇬🇭', 'GI': '🇬🇮', 'GL': '🇬🇱', 'GM': '🇬🇲', 'GN': '🇬🇳', 'GP': '🇬🇵', 'GQ': '🇬🇶', 'GR': '🇬🇷', 'GS': '🇬🇸', 'GT': '🇬🇹', 'GU': '🇬🇺', 'GW': '🇬🇼',
-    'GY': '🇬🇾', 'HK': '🇭🇰', 'HN': '🇭🇳', 'HR': '🇭🇷', 'HT': '🇭🇹', 'HU': '🇭🇺', 'ID': '🇮🇩', 'IE': '🇮🇪', 'IL': '🇮🇱', 'IM': '🇮🇲', 'IN': '🇮🇳', 'IO': '🇮🇴', 'IQ': '🇮🇶', 'IR': '🇮🇷', 'IS': '🇮🇸', 'IT': '🇮🇹', 'JE': '🇯🇪', 'JM': '🇯🇲',
-    'JO': '🇯🇴', 'JP': '🇯🇵', 'KE': '🇰🇪', 'KG': '🇰🇬', 'KH': '🇰🇭', 'KI': '🇰🇮', 'KM': '🇰🇲', 'KN': '🇰🇳', 'KP': '🇰🇵', 'KR': '🇰🇷', 'KW': '🇰🇼', 'KY': '🇰🇾', 'KZ': '🇰🇿', 'LA': '🇱🇦', 'LB': '🇱🇧', 'LC': '🇱🇨', 'LI': '🇱🇮', 'LK': '🇱🇰',
-    'LR': '🇱🇷', 'LS': '🇱🇸', 'LT': '🇱🇹', 'LU': '🇱🇺', 'LV': '🇱🇻', 'LY': '🇱🇾', 'MA': '🇲🇦', 'MC': '🇲🇨', 'MD': '🇲🇩', 'ME': '🇲🇪', 'MF': '🇲🇫', 'MG': '🇲🇬', 'MH': '🇲🇭', 'MK': '🇲🇰', 'ML': '🇲🇱', 'MM': '🇲🇲', 'MN': '🇲🇳', 'MO': '🇲🇴',
-    'MP': '🇲🇵', 'MQ': '🇲🇶', 'MR': '🇲🇷', 'MS': '🇲🇸', 'MT': '🇲🇹', 'MU': '🇲🇺', 'MV': '🇲🇻', 'MW': '🇲🇼', 'MX': '🇲🇽', 'MY': '🇲🇾', 'MZ': '🇲🇿', 'NA': '🇳🇦', 'NC': '🇳🇨', 'NE': '🇳🇪', 'NF': '🇳🇫', 'NG': '🇳🇬', 'NI': '🇳🇮', 'NL': '🇳🇱',
-    'NO': '🇳🇴', 'NP': '🇳🇵', 'NR': '🇳🇷', 'NU': '🇳🇺', 'NZ': '🇳🇿', 'OM': '🇴🇲', 'PA': '🇵🇦', 'PE': '🇵🇪', 'PF': '🇵🇫', 'PG': '🇵🇬', 'PH': '🇵🇭', 'PK': '🇵🇰', 'PL': '🇵🇱', 'PM': '🇵🇲', 'PN': '🇵🇳', 'PR': '🇵🇷', 'PS': '🇵🇸', 'PT': '🇵🇹',
-    'PW': '🇵🇼', 'PY': '🇵🇾', 'QA': '🇶🇦', 'RE': '🇷🇪', 'RO': '🇷🇴', 'RS': '🇷🇸', 'RU': '🇷🇺', 'RW': '🇷🇼', 'SA': '🇸🇦', 'SB': '🇸🇧', 'SC': '🇸🇨', 'SD': '🇸🇩', 'SE': '🇸🇪', 'SG': '🇸🇬', 'SH': '🇸🇭', 'SI': '🇸🇮', 'SJ': '🇸🇯', 'SK': '🇸🇰',
-    'SL': '🇸🇱', 'SM': '🇸🇲', 'SN': '🇸🇳', 'SO': '🇸🇴', 'SR': '🇸🇷', 'SS': '🇸🇸', 'ST': '🇸🇹', 'SV': '🇸🇻', 'SX': '🇸🇽', 'SY': '🇸🇾', 'SZ': '🇸🇿', 'TC': '🇹🇨', 'TD': '🇹🇩', 'TF': '🇹🇫', 'TG': '🇹🇬', 'TH': '🇹🇭', 'TJ': '🇹🇯', 'TK': '🇹🇰',
-    'TL': '🇹🇱', 'TM': '🇹🇲', 'TN': '🇹🇳', 'TO': '🇹🇴', 'TR': '🇹🇷', 'TT': '🇹🇹', 'TV': '🇹🇻', 'TW': '🇹🇼', 'TZ': '🇹🇿', 'UA': '🇺🇦', 'UG': '🇺🇬', 'US': '🇺🇸', 'UY': '🇺🇾', 'UZ': '🇺🇿', 'VA': '🇻🇦', 'VC': '🇻🇨', 'VE': '🇻🇪', 'VG': '🇻🇬',
-    'VI': '🇻🇮', 'VN': '🇻🇳', 'VU': '🇻🇺', 'WF': '🇼🇫', 'WS': '🇼🇸', 'YE': '🇾🇪', 'YT': '🇾🇹', 'ZA': '🇿🇦', 'ZM': '🇿🇲', 'ZW': '🇿🇼', 'XX': '🏳️'
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶',
+    'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '�🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲',
+    'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
+    'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲',
+    'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
+    'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬',
+    'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
+    'GA': '🇬🇦', 'GB': '🇬🇧', 'GD': '🇬🇩', 'GE': '🇬🇪', 'GF': '🇬🇫', 'GG': '🇬🇬', 'GH': '🇬🇭', 'GI': '🇬🇮', 'GL': '🇬🇱',
+    'GM': '🇬🇲', 'GN': '🇬🇳', 'GP': '🇬🇵', 'GQ': '🇬🇶', 'GR': '🇬🇷', 'GS': '🇬🇸', 'GT': '🇬🇹', 'GU': '🇬🇺', 'GW': '🇬🇼',
+    'GY': '🇬🇾', 'HK': '🇭🇰', 'HN': '🇭🇳', 'HR': '🇭🇷', 'HT': '🇭🇹', 'HU': '🇭🇺', 'ID': '🇮🇩', 'IE': '🇮🇪', 'IL': '🇮🇱',
+    'IM': '🇮🇲', 'IN': '🇮🇳', 'IO': '🇮🇴', 'IQ': '🇮🇶', 'IR': '🇮🇷', 'IS': '🇮🇸', 'IT': '🇮🇹', 'JE': '🇯🇪', 'JM': '🇯🇲',
+    'JO': '🇯🇴', 'JP': '🇯🇵', 'KE': '🇰🇪', 'KG': '🇰🇬', 'KH': '🇰🇭', 'KI': '🇰🇮', 'KM': '🇰🇲', 'KN': '🇰🇳', 'KP': '🇰🇵',
+    'KR': '🇰🇷', 'KW': '🇰🇼', 'KY': '🇰🇾', 'KZ': '🇰🇿', 'LA': '🇱🇦', 'LB': '🇱🇧', 'LC': '🇱🇨', 'LI': '🇱🇮', 'LK': '🇱🇰',
+    'LR': '🇱🇷', 'LS': '🇱🇸', 'LT': '🇱🇹', 'LU': '🇱🇺', 'LV': '🇱🇻', 'LY': '🇱🇾', 'MA': '🇲🇦', 'MC': '🇲🇨', 'MD': '🇲🇩',
+    'ME': '🇲🇪', 'MF': '🇲🇫', 'MG': '🇲🇬', 'MH': '🇲🇭', 'MK': '🇲🇰', 'ML': '🇲🇱', 'MM': '🇲🇲', 'MN': '🇲🇳', 'MO': '🇲🇴',
+    'MP': '🇲🇵', 'MQ': '🇲🇶', 'MR': '🇲🇷', 'MS': '🇲🇸', 'MT': '🇲🇹', 'MU': '🇲🇺', 'MV': '🇲🇻', 'MW': '🇲🇼', 'MX': '🇲🇽',
+    'MY': '🇲🇾', 'MZ': '🇲🇿', 'NA': '🇳🇦', 'NC': '🇳🇨', 'NE': '🇳🇪', 'NF': '🇳🇫', 'NG': '🇳🇬', 'NI': '🇳🇮', 'NL': '🇳🇱',
+    'NO': '🇳🇴', 'NP': '🇳🇵', 'NR': '🇳🇷', 'NU': '🇳🇺', 'NZ': '🇳🇿', 'OM': '🇴🇲', 'PA': '🇵🇦', 'PE': '🇵🇪', 'PF': '🇵🇫',
+    'PG': '🇵🇬', 'PH': '🇵🇭', 'PK': '🇵🇰', 'PL': '🇵🇱', 'PM': '🇵🇲', 'PN': '🇵🇳', 'PR': '🇵🇷', 'PS': '🇵🇸', 'PT': '🇵🇹',
+    'PW': '🇵🇼', 'PY': '🇵🇾', 'QA': '🇶🇦', 'RE': '🇷🇪', 'RO': '🇷🇴', 'RS': '🇷🇸', 'RU': '🇷🇺', 'RW': '🇷🇼', 'SA': '🇸🇦',
+    'SB': '🇸🇧', 'SC': '🇸🇨', 'SD': '🇸🇩', 'SE': '🇸🇪', 'SG': '🇸🇬', 'SH': '🇸🇭', 'SI': '🇸🇮', 'SJ': '🇸🇯', 'SK': '🇸🇰',
+    'SL': '🇸🇱', 'SM': '🇸🇲', 'SN': '🇸🇳', 'SO': '🇸🇴', 'SR': '🇸🇷', 'SS': '🇸🇸', 'ST': '🇸🇹', 'SV': '🇸🇻', 'SX': '🇸🇽',
+    'SY': '🇸🇾', 'SZ': '🇸🇿', 'TC': '🇹🇨', 'TD': '🇹🇩', 'TF': '🇹🇫', 'TG': '🇹🇬', 'TH': '🇹🇭', 'TJ': '🇹🇯', 'TK': '🇹🇰',
+    'TL': '🇹🇱', 'TM': '🇹🇲', 'TN': '🇹🇳', 'TO': '🇹🇴', 'TR': '🇹🇷', 'TT': '🇹🇹', 'TV': '🇹🇻', 'TW': '🇹🇼', 'TZ': '🇹🇿',
+    'UA': '🇺🇦', 'UG': '🇺🇬', 'US': '🇺🇸', 'UY': '🇺🇾', 'UZ': '🇺🇿', 'VA': '🇻🇦', 'VC': '🇻🇨', 'VE': '🇻🇪', 'VG': '🇻🇬',
+    'VI': '🇻🇮', 'VN': '🇻🇳', 'VU': '🇻🇺', 'WF': '🇼🇫', 'WS': '🇼🇸', 'YE': '🇾🇪', 'YT': '🇾🇹', 'ZA': '🇿🇦', 'ZM': '🇿🇲',
+    'ZW': '🇿🇼', 'XX': '🏳️'
 }
 
 def is_valid_base64(s: str) -> bool:
@@ -178,7 +191,7 @@ class VmessConfig(BaseConfig):
     source_type: str = 'vmess'
     ps: str
     add: str
-    v: Any = "2"
+    v: str = "2"
     aid: int = 0
     scy: str = 'auto'
     net: str
@@ -192,7 +205,6 @@ class VmessConfig(BaseConfig):
         values['uuid'] = values.get('id', '')
         values['network'] = values.get('net', 'tcp')
         values['security'] = values.get('tls') or 'none'
-        values['v'] = str(values.get('v', '2'))
         return values
 
     def to_uri(self) -> str:
@@ -309,12 +321,8 @@ class V2RayParser:
             parsed_url = urlparse(uri)
             port = parsed_url.port
             if port is None:
-                match = re.search(r":(\d+)$", parsed_url.netloc)
-                if match:
-                    port = int(match.group(1))
-                else:
-                    logger.warning(f"Skipping VLESS config due to missing port: {uri[:60]}...")
-                    return None
+                logger.warning(f"Skipping VLESS config due to missing port: {uri[:60]}...")
+                return None
 
             params = parse_qs(parsed_url.query)
             return VlessConfig(uuid=parsed_url.username, host=parsed_url.hostname, port=port, remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{port}", network=params.get('type', ['tcp'])[0], security=params.get('security', ['none'])[0], path=unquote(params.get('path', [None])[0]) if params.get('path') else None, sni=params.get('sni', [None])[0], fingerprint=params.get('fp', [None])[0], flow=params.get('flow', [None])[0], pbk=params.get('pbk', [None])[0], sid=params.get('sid', [None])[0])
@@ -369,7 +377,7 @@ class TelegramScraper:
     def __init__(self, channels: List[str], since_datetime: datetime):
         self.channels, self.since_datetime, self.iran_tz = channels, since_datetime, get_iran_timezone()
 
-    async def scrape_all(self) -> Tuple[Dict[str, List[str]], List[str]]:
+    async def scrape_all(self) -> Dict[str, List[str]]:
         total_configs_by_type: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
         
         batch_size = 20
@@ -377,60 +385,33 @@ class TelegramScraper:
         
         total_channels = len(self.channels)
         logger.info(f"Starting to scrape {total_channels} channels in {len(channel_batches)} batches.")
-        
-        successful_channels: List[Tuple[str, int]] = []
-        failed_channels: List[str] = []
 
         for i, batch in enumerate(channel_batches):
             logger.info(f"Processing batch {i+1}/{len(channel_batches)}...")
             tasks = [self._scrape_channel_with_retry(ch) for ch in batch]
             results = await asyncio.gather(*tasks, return_exceptions=True)
             
+            successful_scrapes = 0
             for j, channel_results in enumerate(results):
                 channel_name = batch[j]
                 if isinstance(channel_results, dict):
+                    successful_scrapes += 1
                     configs_found = sum(len(v) for v in channel_results.values())
                     if configs_found > 0:
-                        successful_channels.append((channel_name, configs_found))
-                        for config_type, configs in channel_results.items():
-                            total_configs_by_type[config_type].extend(configs)
+                        logger.info(f"Scraped {configs_found} configs from '{channel_name}'")
+                    for config_type, configs in channel_results.items():
+                        total_configs_by_type[config_type].extend(configs)
                 else:
-                    failed_channels.append(channel_name)
                     logger.warning(f"Failed to scrape channel '{channel_name}' after multiple retries.")
             
-            logger.info(f"Finished batch {i+1}/{len(channel_batches)}. Successes in this batch: {len(successful_channels)}, Failures: {len(failed_channels)}")
+            logger.info(f"Finished batch {i+1}/{len(channel_batches)}. Successful scrapes in this batch: {successful_scrapes}/{len(batch)}.")
             
             if i < len(channel_batches) - 1:
                 sleep_duration = random.uniform(5, 10)
                 logger.info(f"Cooling down for {sleep_duration:.2f} seconds before next batch...")
                 await asyncio.sleep(sleep_duration)
 
-        await self._write_scrape_report(successful_channels, failed_channels)
-        return total_configs_by_type, failed_channels
-
-    async def _write_scrape_report(self, successful: List[Tuple[str, int]], failed: List[str]):
-        """Writes a summary of the scraping process to a report file."""
-        now = datetime.now(get_iran_timezone())
-        report_str = f"--- Telegram Scrape Report ---\n"
-        report_str += f"Timestamp: {now.strftime('%Y-%m-%d %H:%M:%S')}\n"
-        report_str += f"Total Channels: {len(self.channels)}\n"
-        report_str += f"Successful Scrapes: {len(successful)}\n"
-        report_str += f"Failed Scrapes: {len(failed)}\n\n"
-        
-        report_str += "--- Channels with Found Configs ---\n"
-        for channel, count in sorted(successful, key=lambda item: item[1], reverse=True):
-            report_str += f"{channel}: {count} configs\n"
-        
-        report_str += "\n--- Failed Channels ---\n"
-        for channel in sorted(failed):
-            report_str += f"{channel}\n"
-            
-        try:
-            async with aiofiles.open(CONFIG.TELEGRAM_REPORT_FILE, "w", encoding='utf-8') as f:
-                await f.write(report_str)
-            logger.info(f"Telegram scrape report saved to '{CONFIG.TELEGRAM_REPORT_FILE}'.")
-        except IOError as e:
-            logger.error(f"Could not write to Telegram report file: {e}")
+        return total_configs_by_type
         
     async def _scrape_channel_with_retry(self, channel: str, max_retries: int = 3) -> Optional[Dict[str, List[str]]]:
         """Scrapes a single channel with a retry mechanism for better stability."""
@@ -641,6 +622,9 @@ class ConfigProcessor:
         if CONFIG.ENABLE_IP_DEDUPLICATION:
             self._deduplicate_by_ip()
 
+        if CONFIG.ENABLE_LATENCY_TEST:
+            await self._test_latencies()
+
         self._format_config_remarks()
 
     async def _resolve_countries(self):
@@ -669,6 +653,43 @@ class ConfigProcessor:
         self.parsed_configs = {cfg.get_deduplication_key(): cfg for cfg in unique_ips.values()}
         logger.info(f"IP-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} configs remaining.")
 
+    async def _test_latencies(self):
+        """(Beta) Tests the latency of each server."""
+        logger.info("Starting latency testing for unique configs (this might take a while)...")
+        tasks = []
+        for config in self.parsed_configs.values():
+            tasks.append(self._test_single_latency(config))
+        
+        await asyncio.gather(*tasks)
+        
+        # Sort configs by latency (best to worst)
+        sorted_configs = sorted(self.parsed_configs.values(), key=lambda c: c.latency or 9999)
+        self.parsed_configs = {c.get_deduplication_key(): c for c in sorted_configs}
+        logger.info("Latency testing complete.")
+
+    async def _test_single_latency(self, config: BaseConfig) -> None:
+        """Helper to test latency for one config."""
+        try:
+            ip = await Geolocation.get_ip(config.host)
+            if not ip:
+                return
+            
+            start_time = asyncio.get_event_loop().time()
+            reader, writer = await asyncio.wait_for(asyncio.open_connection(ip, config.port), timeout=2.0)
+            end_time = asyncio.get_event_loop().time()
+            writer.close()
+            await writer.wait_closed()
+            
+            config.latency = int((end_time - start_time) * 1000)
+            logger.debug(f"Latency for {config.host}:{config.port} is {config.latency}ms")
+            
+        except (asyncio.TimeoutError, ConnectionRefusedError, OSError):
+            config.latency = None
+            logger.debug(f"Latency test failed for {config.host}:{config.port}")
+        except Exception:
+            config.latency = None
+            logger.debug(f"Latency test had an unexpected error for {config.host}:{config.port}")
+
     def _format_config_remarks(self):
         logger.info("Formatting remarks for all unique configs...")
         for config in self.parsed_configs.values():
@@ -678,9 +699,10 @@ class ConfigProcessor:
             sec = 'RLT' if config.source_type == 'reality' else (config.security.upper() if config.security != 'none' else 'NTLS')
             net = config.network.upper()
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
+            latency_str = f"┇ {config.latency}ms" if config.latency is not None else ""
             ip_address = Geolocation._ip_cache.get(config.host, config.host)
             
-            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {ip_address}"
+            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {ip_address}{latency_str}"
             config.remarks = new_remark.strip()
 
     def get_all_unique_configs(self) -> List[BaseConfig]:
@@ -722,27 +744,17 @@ class V2RayCollectorApp:
         tg_channels = await self._get_telegram_channels()
         sub_links = await self.file_manager.read_json_file(self.config.SUBSCRIPTION_LINKS_FILE)
 
-        tasks_to_run = []
-        if tg_channels:
-            tg_scraper = TelegramScraper(tg_channels, self.last_update_time)
-            tasks_to_run.append(tg_scraper.scrape_all())
-        else:
-            tasks_to_run.append(asyncio.sleep(0, result=({}, []))) 
-
-        if sub_links and CONFIG.ENABLE_SUBSCRIPTION_FETCHING:
-            sub_fetcher = SubscriptionFetcher(sub_links)
-            tasks_to_run.append(sub_fetcher.fetch_all())
-        else:
-            tasks_to_run.append(asyncio.sleep(0, result={}))
-
-        if not tasks_to_run:
-            logger.error("No sources (Telegram channels or subscriptions) to process. Exiting.")
+        if not tg_channels and not sub_links:
+            logger.error("No sources (Telegram channels or subscriptions) found. Exiting.")
             return
 
-        results = await asyncio.gather(*tasks_to_run)
+        tg_scraper = TelegramScraper(tg_channels, self.last_update_time)
+        sub_fetcher = SubscriptionFetcher(sub_links)
         
-        tg_raw_configs = results[0][0] if tg_channels else {}
-        sub_raw_configs = results[1] if sub_links and CONFIG.ENABLE_SUBSCRIPTION_FETCHING else {}
+        tg_raw_configs, sub_raw_configs = await asyncio.gather(
+            tg_scraper.scrape_all(),
+            sub_fetcher.fetch_all()
+        )
 
         combined_raw_configs: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
         for config_type in combined_raw_configs.keys():
@@ -856,32 +868,8 @@ async def main():
             "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt",
             "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/api/normal",
             "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt",
-            "https://raw.githubusercontent.com/jagger235711/V2rayCollector/main/results/mixed_tested.txt",
             "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt",
-            "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt",
-            "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-trojan-ss-configs/main/sub/Iran/config.txt",
-            "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt",
-            "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt",
-            "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
-            "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-            "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
-            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
-            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
-            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess",
-            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan",
-            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
-            "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
-            "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
-            "https://mrpooya.top/SuperApi/BE.php",
-            "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
-            "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
-            "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
-            "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
-            "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
-            "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
-            "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
-            "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
-            "https://mrpooya.top/SuperApi/V7pRO.php"
+            "https://raw.githubusercontent.com/jagger235711/V2rayCollector/main/results/mixed_tested.txt"
         ]
         with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f:
             json.dump(list(set(new_links)), f, indent=4)
