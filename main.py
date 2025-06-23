@@ -70,14 +70,14 @@ class AppConfig:
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
     
-    ENABLE_CONNECTIVITY_TEST = True # BETA Feature
+    ENABLE_CONNECTIVITY_TEST = False # Test disabled by default for speed
     CONNECTIVITY_TEST_TIMEOUT = 4
     MAX_CONNECTIVITY_TESTS = 250
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v24.1.0 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v24.2.0 @OXNET_IR"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -97,7 +97,7 @@ class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
     'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
-    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
+    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '�🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
     'GA': '🇬🇦', 'GB': '🇬🇧', 'GD': '🇬🇩', 'GE': '🇬🇪', 'GF': '🇬🇫', 'GG': '🇬🇬', 'GH': '🇬🇭', 'GI': '🇬🇮', 'GL': '🇬🇱', 'GM': '🇬🇲', 'GN': '🇬🇳', 'GP': '🇬🇵', 'GQ': '🇬🇶', 'GR': '🇬🇷', 'GS': '🇬🇸', 'GT': '🇬🇹', 'GU': '🇬🇺', 'GW': '🇬🇼',
@@ -597,7 +597,11 @@ class ConfigProcessor:
             
         self._format_config_remarks()
         
-        self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: item[1].ping if item[1].ping is not None else 9999))
+        if CONFIG.ENABLE_CONNECTIVITY_TEST:
+            self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: item[1].ping if item[1].ping is not None else 9999))
+        else:
+            self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: item[1].country))
+
 
     async def _resolve_countries(self):
         unique_hosts = list({c.host for c in self.parsed_configs.values()})
@@ -633,8 +637,7 @@ class ConfigProcessor:
             fut = asyncio.open_connection(ip, config.port)
             reader, writer = await asyncio.wait_for(fut, timeout=CONFIG.CONNECTIVITY_TEST_TIMEOUT)
             
-            # More complete test: try to send and receive a tiny bit of data
-            writer.write(b"GET / HTTP/1.1\r\n\r\n")
+            writer.write(b"\x01") # Send a single byte
             await writer.drain()
             await reader.read(1)
 
@@ -661,16 +664,15 @@ class ConfigProcessor:
             tasks = [self._test_tcp_connection(config) for config in configs_to_test]
             
             ping_task = progress.add_task("pinging", total=len(configs_to_test))
-            for f in asyncio.as_completed(tasks):
+            for i, f in enumerate(asyncio.as_completed(tasks)):
                 result_ping = await f
-                # We need to find which config this result belongs to.
-                # This is inefficient, but necessary with as_completed.
-                for i, t in enumerate(tasks):
-                    if t is f:
-                        config = configs_to_test[i]
-                        if result_ping is not None:
-                            config.ping = result_ping
-                        break
+                # Since as_completed does not guarantee order, we must find the original config.
+                # A more efficient way would be to pass the config along with the task.
+                # For now, this works but has performance implications on very large lists.
+                original_task_index = tasks.index(f._coro)
+                config = configs_to_test[original_task_index]
+                if result_ping is not None:
+                    config.ping = result_ping
                 progress.update(ping_task, advance=1)
         
         successful_count = sum(1 for c in configs_to_test if c.ping is not None)
@@ -686,7 +688,6 @@ class ConfigProcessor:
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
             ip_address = Geolocation._ip_cache.get(config.host, config.host)
             
-            # Reverted naming format as requested
             new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec} ┇ {ip_address}"
             config.remarks = new_remark.strip()
 
@@ -712,7 +713,7 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v24.1.0[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v24.2.0[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
