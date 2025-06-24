@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-06-24 06:37:45
+Timestamp: 2025-06-24 07:33:36
 Total Channels: 91
-Successful Scrapes: 66
+Successful Scrapes: 67
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -11,22 +11,24 @@ GalaxyMVPN: 65 configs
 Greenvpn2: 56 configs
 WedBaZtel: 46 configs
 Tweety_Proxy: 38 configs
+tehranargo: 37 configs
 config_dooni: 34 configs
 sockss_http: 29 configs
-ghalagyann: 26 configs
+ghalagyann: 28 configs
 expressvpn_420: 25 configs
 azarbayjab1: 23 configs
+vpnandroid2: 22 configs
 Movie_Centrall: 22 configs
+befreewithus: 20 configs
 ConfigsHubPlus: 20 configs
 cybersoldiersst: 20 configs
 Farah_VPN: 20 configs
 meli_proxyy: 20 configs
-vpnandroid2: 20 configs
+BeFreeWithUs: 20 configs
 vpnod: 20 configs
-befreewithus: 19 configs
 evay_vpn: 19 configs
+v2ray_configs_pool: 19 configs
 ZibaNabz: 19 configs
-BeFreeWithUs: 19 configs
 itenvpn: 18 configs
 summertimeus: 17 configs
 arv2ray: 16 configs
@@ -40,15 +42,14 @@ meliconfing: 14 configs
 freakconfig: 13 configs
 masterserver1: 13 configs
 v2ra_config: 13 configs
-confingv2raayng: 12 configs
 nufilter: 12 configs
-v2ray_configs_pool: 12 configs
 vpnkanfik: 12 configs
 Subify_ir: 11 configs
 vpnpacket: 10 configs
 vlees_v2rayng: 9 configs
 abelimo: 8 configs
 am20094: 8 configs
+confingv2raayng: 8 configs
 spikevpn: 8 configs
 freenet_melli: 8 configs
 v2rayng_1378: 7 configs
@@ -56,16 +57,16 @@ vistav2ray: 7 configs
 capoit: 6 configs
 fnet00: 6 configs
 mdvpnsec: 6 configs
+skivpn: 6 configs
 v2raymelliii: 6 configs
 PASARGAD_V2rayNG: 5 configs
 v2ray_god: 5 configs
 freev2rng: 4 configs
 lightning6: 4 configs
 v2ngfast: 4 configs
-tehranargo: 3 configs
+DALTON_PING: 3 configs
+dalton_ping: 3 configs
 colsvpn: 2 configs
-DALTON_PING: 2 configs
-dalton_ping: 2 configs
 mcv2rayng: 2 configs
 vmessorg: 2 configs
 waveconnection: 2 configs
