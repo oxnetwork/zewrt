@@ -1,7 +1,7 @@
-trojan://jl0nhc2w-j459-3y7y-dahx-0nixc5ttcpli@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-24 | 12:20 ]
-trojan://vwupc0ws-alqx-fplo-wly1-i6m13hoyvdwc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wichrfjf-xzgm-hwpi-0o34-pjqnifkujayr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zgop8p0h-fd2c-o8ox-8xt4-qwb0o6bgpidq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://u06qi0wu-jtv5-k9jj-onov-yj7wk5u8snfn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-24 | 12:50 ]
+trojan://8rqqhmqp-qh45-5shc-e1ah-60ged7d9orxd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kd5v2wr7-0xen-n822-5jw8-upthze2lkmcm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d1mwy7xa-gy7n-cbo6-mjma-rr84mbit95wu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 67.220.95.102
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.80:8090#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 67.220.95.80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.18:2087?type=ws&security=tls&path=/?ed=2560&sni=edmz.ambercc.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 108.165.152.18
@@ -12,15 +12,15 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@66.81.247.83:80?type=ws&security=no
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha2NIVnQ5YlBoOERDazZqTUt6NjJq@198.211.104.229:60573#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 198.211.104.229
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.211.169:59483?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - DIGITALOCEAN-ASN ┇ 206.189.211.169
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.69.179:59483?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - DIGITALOCEAN-ASN ┇ 178.128.69.179
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjMuOCIsImFkZCI6Inh2b24uZmFzdC5ob3N0aW5nLWlwLmNvbSIsInBvcnQiOjgwLCJpZCI6IjM5ZGJlODNhLTNkYWMtNDNlNy04YzE0LTk3MjcwNzQ5ZjQyMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InhodHRwIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzP2VkPTIwNDgifQ
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gRkFTVExZIFx1MjUwNyAxNTEuMTAxLjMuOCIsImFkZCI6ImZhc3QudjJzdWIub25saW5lIiwicG9ydCI6ODAsImlkIjoiZGIzMDRkY2UtNDk5Yi00NmE0LWE3ODItYTdkMDMxOTk1NTFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoieGh0dHAiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.2.219
-vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?type=xhttp&security=none&path=/@BeFreeWithUs?ed=2048#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.66.219
 vless://telegram-id-ArV2ray12@151.101.64.155:80?type=ws&security=none&path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed=2048#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.64.155
 vless://5%652%61%61%618d-b7b5-499c-b65d-8c7%65594f7993@151.101.0.155:80?type=xhttp&security=none&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.0.155
 vless://6739db%651-c%619b-4735-9%65d3-41867754594b@151.101.192.155:80?type=xhttp&security=none&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.192.155
 vless://252456af-eeaf-41a4-f4f2-d18a2d234301@151.101.130.219:80?type=ws&security=none&path=/olem/ws?ed=1024#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.130.219
 vless://a6cd3631-4457-48da-bace-76c5e0bfa331@lightning6.12speedtest.store:80?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.64.156
 vless://Parsashonam@151.101.2.216:80?type=xhttp&security=none&path=/Parsashonam?ed=2048#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.2.216
+vless://64b58515-5ab7-43dd-8517-049e03db19e6@1414team2.persianclouding.ir:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FASTLY ┇ 151.101.66.219
 vless://33a22f3f-6073-4b3b-b550-b8610597b159@151.101.2.165:80?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.2.165
 vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?type=ws&security=none&path=/olem/ws?ed=1024#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.30.228
 vless://42b6ddbc-dde5-4ca5-b346-93e8d24e3e53@151.101.2.133:80?type=ws&security=none&path=/@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps?ed=2048#US 🇺🇸 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.2.133
@@ -29,4 +29,4 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.8:443?type=tcp&security=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.170
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 45.82.251.149
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.0.54.63:8880?type=ws&security=none&path=/Telegram@V2ray_Alpha&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.63
-trojan://t8nfdto0-dp0c-s3p5-nb8y-rloki03e215w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v26.0.0 @OXNET_IR
+trojan://78y9ql5j-lcu4-ijm1-q1zb-p319yv146byd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v26.0.0 @OXNET_IR
