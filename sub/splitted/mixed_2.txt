@@ -1,12 +1,12 @@
-trojan://5tgv59wb-xtny-8z0b-qzjy-a1hg7s5dwlw7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-24 | 09:16 ]
-trojan://vxkwupf3-xwts-j96h-yfjc-rqtnme8n7d2m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://q1s4nlfu-5p7a-olrs-5y1l-mh05mfjhiigj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r49p6tp5-bpn1-o254-qcky-afe3s0uk1tj4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2djh9qh3-xyt5-qzeg-4glw-2ie7wo027j1c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-24 | 09:57 ]
+trojan://k60o20gu-pboi-ehwf-yeut-6egmfn2aehip@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://77a50ni9-5v27-619g-idwu-cgf407bu26vg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dp31pwpl-o702-atl3-9xan-cq4dlsm1w428@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://f8bc4ba8-4af6-4f0a-8e68-2d736200203f@135.181.152.144:443?type=tcp&security=reality&sni=debian.org&fp=chrome&flow=xtls-rprx-vision&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk#FI 🇫🇮 ┇ VLESS-TCP-RLT - Hetzner Online GmbH ┇ 135.181.152.144
 vless://29b198d6-25e1-4c15-9b53-feacf78ac3d0@65.109.203.8:14787?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=---rivmiDN3OHmQHOpowqKDVft8FWrl4BqZ_gyImCR4&sid=be31134d#FI 🇫🇮 ┇ VLESS-GRPC-RLT - Hetzner Online GmbH ┇ 65.109.203.8
 trojan://telegram-id-directvpn@13.36.101.183:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.36.101.183
 trojan://telegram-id-directvpn@15.236.162.49:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.162.49
 vless://57a95e4e-0cce-4bf9-e205-18e91bf32871@62.60.156.205:443?type=ws&security=tls&path=/?ed=2560&sni=nl2.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro&fp=randomized#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.156.205
-vless://57a95e4e-0cce-4bf9-e205-18e91bf32871@all.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro:443?type=ws&security=tls&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2560&sni=nl2.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro&fp=randomized#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.156.57
 vless://4dad6029-a008-4d3d-a98d-80fa9d997f37@amirpanel1.ckoutddhlursfjojxjw.com:36571?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.91.140
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.158.171.141
 ss://YWVzLTI1Ni1nY206N2NiZDAzZWEtMDBkNC00M2ViLWI0ZTItMWI0ZjIyNzVkNmI1@51.178.41.178:8443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - OVH SAS ┇ 51.178.41.178
@@ -22,15 +22,14 @@ vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?type=ws&securi
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?type=httpupgrade&security=none&path=/#GB 🇬🇧 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 102.177.189.1
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?type=grpc&security=tls&sni=pqh23v5.hiddendom.shop#GB 🇬🇧 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 94.247.142.103
 vless://2843fb92-b3c6-4d77-8e02-095eb68ef48c@11020011m2.mrpixanos.ir:52234?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 129.212.160.55
-vless://24b7004a-71ff-460f-8e5a-a677249c8d8a@fast.ly.hostws.oracletel.com:80?type=ws&security=none&path=/www.oraclevpn.com.live.skornorth.com.zula.iR?ed=2048#GB 🇬🇧 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.73.57
 vless://f8bc4ba8-4af6-4f0a-8e68-2d736200203f@31.220.111.160:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk#GB 🇬🇧 ┇ VLESS-TCP-RLT - Hostinger International Limited ┇ 31.220.111.160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.187.123:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 74.177.187.123
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@4.158.118.226:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.158.118.226
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@4.159.35.230:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.159.35.230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.208.211:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 74.177.208.211
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@telegram.vpncustomize.vpncustomize.reziazaran.ir:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.158.118.216
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 131.145.44.214
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 172.187.105.211
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@FreakConfig.usecharge.ir:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 131.145.44.214
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 172.187.105.211
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9WSCBTQVMgXHUyNTA3IDUxLjM4LjY0LjIwOSIsImFkZCI6IjUxLjM4LjY0LjIwOSIsInBvcnQiOjQ0MDIzLCJpZCI6IjdkYTQ1N2RhLWVkMGYtNDM3ZC1jODFkLTZjMzU4ODViYmVhMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTg4NGU0ODkxNTc0OTFm@151.240.110.214:11252#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 151.240.110.214
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 151.240.110.212
@@ -38,4 +37,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNWM0NDZiNzc1OTMxZDI4@151.240.110.215:11254#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YWI0ZjIxOTc4N2Q2NzJi@151.240.110.213:11248#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 151.240.110.213
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgNDMuMTk5LjI0LjI0NyIsImFkZCI6IjQzLjE5OS4yNC4yNDciLCJwb3J0IjozMDAwLCJpZCI6ImNjMTAxZmYxLTM0NTItNDFjMy04OWZlLWMyYTVhMjBkYzZkYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:46668?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Nearoute Limited. ┇ 45.146.232.173
-trojan://nyhfykdv-7o2g-vk8g-4hkt-qm3uej1vbpp6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v26.0.0 @OXNET_IR
+trojan://telegram-id-v2rayvpnchannel@54.247.181.26:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.247.181.26
+trojan://ttfang@166.0.244.206:2053?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - MS HARVIL MEDIA ┇ 166.0.244.206
+trojan://mwoca8ku-v2ik-yz8d-yujj-kis1vn8dcys9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v26.0.0 @OXNET_IR

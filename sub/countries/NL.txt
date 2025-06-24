@@ -1,7 +1,7 @@
-trojan://w791p2p1-5dp7-rldr-svhc-n69n6g1cb1mm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-24 | 09:16 ]
-trojan://z88d04de-9zw5-hovo-fhck-jyrblzmg2qoa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mw1ta75h-wt06-9yja-rtwv-0ofv7k27oa3c@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qjcr80at-h53r-aw26-2w7e-4s5d65eafrka@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://rxzehvgk-8lku-6n4u-tz5k-moezh3v7494z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-24 | 09:57 ]
+trojan://czzcrkez-ae6l-8cd4-zitf-ty47gqadk9p0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9v50124c-x0ke-ibff-5kss-855uakvam4pb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://h9ug7sni-zrag-v0nl-tj33-0650chwlmdr2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@45.32.233.201:63000?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.32.233.201
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.5.226:80?type=ws&security=none#NL 🇳🇱 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 45.131.5.226
 vless://6c227b79-e458-489f-929a-b62bfcf6ae05@161.35.145.185:8080?type=tcp&security=reality&fp=chrome&pbk=rSn2i8Us1y47-kSVBx_h-WQ2axKWM3DkdG6MWn171lk&sid=b704436534f7e3cc#NL 🇳🇱 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 161.35.145.185
@@ -9,9 +9,10 @@ vless://fde86c85-6d4d-420b-bfde-47687763517e@night.dl.darinips.com:443?type=tcp&
 vless://fde86c85-6d4d-420b-bfde-47687763517e@146.185.165.11:443?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY#NL 🇳🇱 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 146.185.165.11
 vless://570f00ba-af38-44b9-955c-86f8272e0d3a@134.209.90.68:8440?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#NL 🇳🇱 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 134.209.90.68
 vless://TELEGRAM-NUFiLTER@89.34.230.225:58967?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fomo Crew Fzco ┇ 89.34.230.225
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 103.104.247.49
 vless://1e7e2325-b256-4843-b2dc-09cbf0a1d144@109.207.171.150:8443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 109.207.171.150
 vless://0cfebfbf-5dfb-430f-918f-6805c9f38b13@185.234.247.110:80?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.234.247.110
 vless://a943a9e0-792e-4efe-af1e-54751a44fef8@95.164.17.75:443?type=grpc&security=reality&sni=ftp.debian.org&fp=firefox&pbk=pasVbAjcNpjQvgsHBN_WKxQPXwNdXsI4nXYC1usoV0s&sid=df#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Pq Hosting Plus S.r.l. ┇ 95.164.17.75
 vless://telegram-id-ArV2ray@84.32.102.152:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#NL 🇳🇱 ┇ VLESS-GRPC-RLT - UAB Cherry Servers ┇ 84.32.102.152
 vless://telegram-id-ArV2ray2@84.32.101.93:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#NL 🇳🇱 ┇ VLESS-GRPC-RLT - UAB Cherry Servers ┇ 84.32.101.93
-trojan://u9rs6yxy-16rb-3y2s-rgby-kyuk3zsyenbz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v26.0.0 @OXNET_IR
+trojan://cmbk51u5-e0sa-o340-y1jx-deer5mbacm8d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v26.0.0 @OXNET_IR
