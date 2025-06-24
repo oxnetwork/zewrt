@@ -1,7 +1,7 @@
-trojan://5n3a3fzb-bf71-6dd0-uup7-s8gqoe9e1ooo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-24 | 10:23 ]
-trojan://4huu5tj1-hpf5-962o-homm-j5yk3fiyligp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c0c1oxrr-1kgg-1ug5-bnxs-9h15wdr3kx6y@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7ujj9lyh-loxd-tbzs-oa5d-wjwzyalgtbbm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://oqvyd6s8-kg3n-0waf-t358-d6pwg28jf2ks@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-24 | 10:48 ]
+trojan://x85arilw-hyqm-kffz-qok3-aztp4jvu3lgp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qeafbg8d-98lb-bz1e-rhsi-9m880hbfekmp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7dri7jfr-7tvl-jyx7-w1ph-xboczxif94nl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0adfd6b8-baac-4a91-88dc-7f2bdb4274c8@a2.aliranjbar.top:53758?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS ┇ 217.60.38.198
 vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS ┇ 217.60.38.40
 vless://d89b753c-aeef-4fab-9c31-744397572941@217.60.36.198:14961?type=ws&security=none&path=/VPNPacket#AE 🇦🇪 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 217.60.36.198
@@ -16,27 +16,26 @@ vless://fa-7076832873-1750069405490582@62.60.239.225:21207?type=tcp&security=rea
 vless://fbddfda5-cf1f-4bf4-acbc-a60555541beb@46.102.157.79:58105?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Hohl IT e.U. ┇ 46.102.157.79
 vless://24b7004a-71ff-460f-8e5a-a677249c8d8a@fast.ly.hostws.oracletel.com:80?type=ws&security=none&path=/www.oraclevpn.com.live.skornorth.com.zula.iR?ed=2048#BG 🇧🇬 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.0.204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#BO 🇧🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.93.173.218
+vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@23.227.39.154:2053?type=ws&security=tls&path=/wss37193&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com#CA 🇨🇦 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 23.227.39.154
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9WSCBTQVMgXHUyNTA3IDUxLjc5Ljg2LjE4MiIsImFkZCI6IjUxLjc5Ljg2LjE4MiIsInBvcnQiOjQyNjEwLCJpZCI6ImUwOTU3Y2E2LWY2MTMtNDAxNy1mZjNjLWVmZmQxZGE4ODcxYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuODMuNDgiLCJhZGQiOiI5OS4xOTkuODMuNDgiLCJwb3J0IjozMzY3OCwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-ss://YWVzLTI1Ni1nY206dGVMeGc2NW00djB6UVBwU09N@ha.jp.2.0tk8a3a1q4t94dler.com:20659#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Hangzhou Alibaba Advertising Co.,Ltd. ┇ 120.55.77.32
+ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc@120.232.206.57:30018#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Mobile Communications Group Co., Ltd. ┇ 120.232.206.57
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@193.33.87.247:8880?type=ws&security=none&path=/Telegram@V2ray_Alpha&sni=ex.sue.x10.mx#CY 🇨🇾 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 193.33.87.247
 trojan://telegram-id-directvpn@63.176.196.109:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 63.176.196.109
-vless://833dea48-f3a4-4409-e61b-e1342ea4011c@45.63.117.125:23966?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.63.117.125
 trojan://NISHIKUITAN111@89.116.46.33:443?sni=zb.ylks.xyz&peer=zb.ylks.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 89.116.46.33
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.80.111.55:80?type=ws&security=none&path=Telegram:@AZARBAYJAB1/?ed=2560#DE 🇩🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 45.80.111.55
-trojan://6gZh2JbfhQ@104.248.18.1:1935?sni=x1-germany-digitalocean-v2.devefun.org&peer=x1-germany-digitalocean-v2.devefun.org&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 104.248.18.1
 vless://f2bcfdd0-71f7-46ba-96fb-a859cd356d34@85.133.218.156:2053?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 85.133.218.156
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@194.87.71.228:2222#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 194.87.71.228
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRcU13YTJJSmZ2RG9tazE1aUVCckZx@94.159.96.245:11902#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - H2nexus Ltd ┇ 94.159.96.245
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Hetzner Online GmbH ┇ 78.46.226.140
 vless://cb44febd-3f3a-4a9a-ac99-e69f6f5a2b3d@78.47.31.142:20351?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 78.47.31.142
-vless://d569b044-0dbb-496a-8d28-a3f14a003e73@91.99.99.20:52914?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.99.20
 vless://9fdb03a7-f46d-4b75-f386-adae42abcbfc@91.99.165.192:80?type=ws&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80#DE 🇩🇪 ┇ VLESS-WS-NTLS - Hetzner Online GmbH ┇ 91.99.165.192
+vless://d569b044-0dbb-496a-8d28-a3f14a003e73@91.99.99.20:52914?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.99.20
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.150.156
 vless://953d71f0-9241-4903-95b4-cce61e90015e@91.99.148.251:5969?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 91.99.148.251
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.157:3184?type=grpc&security=reality&sni=www.chess.com&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Hetzner Online GmbH ┇ 91.99.150.157
 vless://27565e8b-1c00-4a06-9aff-6df4838ce858@91.107.181.182:26528?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Hetzner Online GmbH ┇ 91.107.181.182
-vless://08052317-7036-4906-b7da-19934f8fe6e6@s1.donyayedigitali.pics:2323?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#DE 🇩🇪 ┇ VLESS-TCP-RLT - Hetzner Online GmbH ┇ 5.75.222.203
+vless://08052317-7036-4906-b7da-19934f8fe6e6@s1.donyayedigitali.pics:2323?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#DE 🇩🇪 ┇ VLESS-TCP-RLT - Hetzner Online GmbH ┇ 5.75.221.215
 vless://telegram-id-ArV2ray@193.46.81.91:2041?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 193.46.81.91
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 45.154.206.192
-trojan://6qdt206s-hv1y-j0ki-cjen-iqecd1wn64pn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v26.0.0 @OXNET_IR
+trojan://j4t2q1jt-30ay-kftv-is3n-v4xp89ykh4gr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v26.0.0 @OXNET_IR
