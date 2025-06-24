@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-06-24 17:03:20
+Timestamp: 2025-06-24 17:48:21
 Total Channels: 91
-Successful Scrapes: 67
+Successful Scrapes: 68
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -11,32 +11,32 @@ ShadowProxy66: 65 configs
 GalaxyMVPN: 65 configs
 tehranargo: 42 configs
 ghalagyann: 36 configs
+configx2ray: 35 configs
 Greenvpn2: 35 configs
+ConfigX2ray: 35 configs
 config_dooni: 35 configs
-configx2ray: 31 configs
-ConfigX2ray: 31 configs
-befreewithus: 30 configs
-BeFreeWithUs: 30 configs
+befreewithus: 32 configs
+BeFreeWithUs: 32 configs
 Tweety_Proxy: 27 configs
 vpnandroid2: 26 configs
+expressvpn_420: 25 configs
 ZibaNabz: 25 configs
-expressvpn_420: 24 configs
+sockss_http: 24 configs
 azarbayjab1: 23 configs
-sockss_http: 23 configs
 ConfigsHubPlus: 20 configs
 cybersoldiersst: 20 configs
 Farah_VPN: 20 configs
 vpnod: 20 configs
 evay_vpn: 19 configs
 summertimeus: 19 configs
+v2ra_config: 19 configs
 itenvpn: 18 configs
-v2ra_config: 18 configs
 arv2ray: 16 configs
 blueshekan: 16 configs
+v2ray_configs_pool: 16 configs
 bored_vpn: 15 configs
-lexernet: 15 configs
-v2ray_configs_pool: 15 configs
 PRIMESOBI: 15 configs
+lexernet: 14 configs
 masterserver1: 13 configs
 Subify_ir: 13 configs
 DALTON_PING: 12 configs
@@ -47,14 +47,14 @@ vlees_v2rayng: 9 configs
 vpnpacket: 9 configs
 freenet_melli: 9 configs
 Movie_Centrall: 9 configs
-am20094: 8 configs
 freakconfig: 8 configs
+skivpn: 8 configs
 spikevpn: 8 configs
+am20094: 7 configs
 v2rayng_1378: 7 configs
 vistav2ray: 7 configs
 fnet00: 6 configs
 mdvpnsec: 6 configs
-skivpn: 6 configs
 v2raymelliii: 6 configs
 capoit: 5 configs
 v2ray_god: 5 configs
@@ -65,12 +65,13 @@ v2ngfast: 4 configs
 abelimo: 3 configs
 confingv2raayng: 3 configs
 meli_proxyy: 3 configs
+vmessorg: 3 configs
 colsvpn: 2 configs
+mcv2rayng: 2 configs
 proxystore11: 2 configs
-vmessorg: 2 configs
 antimeli: 1 configs
 isvvpn: 1 configs
-mcv2rayng: 1 configs
+jokerrvpn: 1 configs
 waveconnection: 1 configs
 
 --- Failed Channels ---
