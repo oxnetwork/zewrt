@@ -1,10 +1,10 @@
-trojan://d78ff39o-5jdl-y3ik-x7bq-yfol198ne57m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-25 | 23:58 ]
-trojan://y9l4voy5-8g3m-mu5z-xlmb-b49bynme0qeu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bi5hotw3-q7n2-z9i4-lqxs-sc76cqcya6ve@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fhw3d20j-u6h5-wn0z-a9of-oihdz964p6vc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://baqhui05-h60d-wt1j-93u9-rtvctmzw2nok@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-26 | 00:22 ]
+trojan://kdmnak41-slwb-l1oe-cokb-ksx37k7z4j8a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://utbc41x2-qm4r-vu7v-9xk7-z3j4ng8wt7yx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tabubcxi-7m1k-kucf-memf-iyod4zqk2zqq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.152
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.168
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw@89.221.224.166:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.166
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg@is3.opensocks.site:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.166
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakV3Wm1aaw@89.221.224.94:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.94
 trojan://c1087fe2-457d-366e-9d03-303133bf5b65@89.221.224.50:38860?sni=is-gy.115cloud.link&peer=is-gy.115cloud.link&security=tls#IS 🇮🇸 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.50
 trojan://9696beb2-67dc-48a4-a696-75b7ac71c5c1@0:0:0:0:0:ffff:59dd:e05e:443?sni=zula.ir&peer=zula.ir&security=tls#IS 🇮🇸 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:59dd:e05e
@@ -12,5 +12,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSVMgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSVMgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgODkuMjIxLjIyNC45MiIsImFkZCI6Ijg5LjIyMS4yMjQuOTIiLCJwb3J0Ijo4MCwiaWQiOiIzZjk0NjFhYy01MWRjLTQxMTQtOTg4Zi1mNjVmNzI2MGVkZjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6ImlzMi54djJyYXkubmV0IiwicGF0aCI6Ii92bWVzcyIsInNuaSI6ImlzMi54djJyYXkubmV0In0
 vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?type=grpc&security=none#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.69
 vless://e04fd6e4-d570-4bf0-9bd7-c7f7f830e521@91.194.161.15:80?type=ws&security=none&path=/vless#IS 🇮🇸 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.15
-vless://I_Love__SSHMax_d97dcef@0:0:0:0:0:ffff:59dd:e00b:443?type=grpc&security=tls&sni=zula.ir#IS 🇮🇸 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:59dd:e00b
-trojan://2hx3hloa-1idc-kq50-v0b1-p1ffsboiluz8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://ce9n5n44-6g1g-x3nb-9dwu-2ps3xhcyc621@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
