@@ -1,15 +1,15 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-06-25 20:47:30
+Timestamp: 2025-06-25 21:14:24
 Total Channels: 91
-Successful Scrapes: 64
+Successful Scrapes: 65
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 shadowproxy66: 65 configs
 WedBaZtel: 65 configs
 ShadowProxy66: 65 configs
-configx2ray: 51 configs
-ConfigX2ray: 51 configs
+configx2ray: 52 configs
+ConfigX2ray: 52 configs
 meli_proxyy: 48 configs
 config_dooni: 43 configs
 vpnandroid2: 40 configs
@@ -21,9 +21,9 @@ lexernet: 27 configs
 azarbayjab1: 26 configs
 expressvpn_420: 25 configs
 Greenvpn2: 23 configs
+ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
 blueshekan: 19 configs
-ConfigsHubPlus: 19 configs
 evay_vpn: 19 configs
 sockss_http: 18 configs
 itenvpn: 17 configs
@@ -31,10 +31,9 @@ v2ray_configs_pool: 17 configs
 arv2ray: 16 configs
 cybersoldiersst: 16 configs
 vpnkanfik: 16 configs
-DALTON_PING: 15 configs
-dalton_ping: 15 configs
-skivpn: 15 configs
 vpnod: 15 configs
+DALTON_PING: 14 configs
+dalton_ping: 14 configs
 PRIMESOBI: 14 configs
 capoit: 13 configs
 masterserver1: 13 configs
@@ -42,6 +41,7 @@ vlees_v2rayng: 13 configs
 bored_vpn: 12 configs
 ZibaNabz: 12 configs
 Tweety_Proxy: 12 configs
+skivpn: 11 configs
 summertimeus: 11 configs
 am20094: 10 configs
 fnet00: 9 configs
@@ -67,6 +67,7 @@ antimeli: 1 configs
 isvvpn: 1 configs
 jokerrvpn: 1 configs
 mcv2rayng: 1 configs
+meliconfing: 1 configs
 v2rayyngvpn: 1 configs
 v2ra_config: 1 configs
 
