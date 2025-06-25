@@ -69,7 +69,7 @@ class AppConfig:
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
     TELEGRAM_MESSAGE_LIMIT = 50
     TELEGRAM_IGNORE_LAST_UPDATE = True
-    MAX_CONFIGS_PER_CHANNEL = 65 
+    MAX_CONFIGS_PER_CHANNEL = 30 
 
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
@@ -81,7 +81,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v26.0.0 @OXNET_IR"
+    DEV_SIGNATURE = "</> Collector v27.0.0 @OXNET_IR"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -100,7 +100,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '�🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -437,7 +437,6 @@ class TelegramScraper:
                     configs_count_in_channel = 0
                     
                     for msg in messages:
-                        # اعمال محدودیت برای هر کانال
                         if configs_count_in_channel >= CONFIG.MAX_CONFIGS_PER_CHANNEL:
                             break
 
@@ -734,17 +733,32 @@ class ConfigProcessor:
         categories: Dict[str, Dict[str, List[BaseConfig]]] = { 
             "protocols": {}, "networks": {}, "security": {}, "countries": {}, "datacenters": {} 
         }
+        
+        valid_networks = {'tcp', 'ws', 'grpc', 'h2', 'quic', 'reality'}
+
         for config in configs:
-            if config.source_type == 'reality': categories["networks"].setdefault('reality', []).append(config)
-            else:
-                categories["protocols"].setdefault(config.protocol, []).append(config)
+            # Protocols
+            categories["protocols"].setdefault(config.protocol, []).append(config)
+            
+            # Networks
+            if config.network in valid_networks:
                 categories["networks"].setdefault(config.network, []).append(config)
-                if config.security not in ['none', 'reality']: categories["security"].setdefault(config.security, []).append(config)
+
+            # Security
+            if config.security == 'tls':
+                categories["security"].setdefault('tls', []).append(config)
+            elif config.security == 'xtls':
+                categories["security"].setdefault('xtls', []).append(config)
+            elif config.security == 'none':
+                categories["security"].setdefault('nontls', []).append(config)
+
+            # Countries
+            if config.country and config.country != "XX":
+                categories["countries"].setdefault(config.country, []).append(config)
             
-            if config.country and config.country != "XX": categories["countries"].setdefault(config.country, []).append(config)
-            
+            # Datacenters
             if config.asn_org:
-                sanitized_asn = re.sub(r'[\\/*?:"<>|]', "", config.asn_org).replace(" ", "_").replace(",", "")
+                sanitized_asn = re.sub(r'[\\/*?:"<>|,]', "", config.asn_org).replace(" ", "_")
                 categories["datacenters"].setdefault(sanitized_asn, []).append(config)
                 
         return categories
@@ -756,7 +770,7 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v26.0.0[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v27.0.0[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -804,6 +818,11 @@ class V2RayCollectorApp:
                 await f.write(datetime.now(get_iran_timezone()).isoformat())
         except IOError: pass
 
+    def _sanitize_filename(self, name: str) -> str:
+        # پاک‌سازی نام فایل از کاراکترهای نامعتبر
+        name = re.sub(r'[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF\U0001F680-\U0001F6FF\U0001F700-\U0001F77F\U0001F780-\U0001F7FF\U0001F800-\U0001F8FF\U0001F900-\U0001F9FF\U0001FA00-\U0001FA6F\U0001FA70-\U0001FAFF\U00002702-\U000027B0\U00002620-\U0000262F\U00002300-\U000023FF\U00002B50]', '', name)
+        return re.sub(r'[\\/*?:"<>|,]', "", name).replace(" ", "_")
+
     async def _save_results(self, all_configs: List[BaseConfig], categories: Dict[str, Any]):
         console.log("Saving categorized configurations...")
         save_tasks: List[Coroutine] = []
@@ -813,10 +832,12 @@ class V2RayCollectorApp:
         for cat_name, cat_items in categories.items():
             for item_name, configs in cat_items.items():
                 if configs:
-                    path = self.config.DIRS[cat_name] / f"{item_name}.txt"
+                    sanitized_name = self._sanitize_filename(item_name)
+                    path = self.config.DIRS[cat_name] / f"{sanitized_name}.txt"
                     save_tasks.append(self.file_manager.write_configs_to_file(path, configs, base64_encode=False))
             
-        chunk_size = math.ceil(len(all_configs) / 10) if all_configs else 0
+        # تغییر تعداد فایل‌های میکس به ۲۰
+        chunk_size = math.ceil(len(all_configs) / 20) if all_configs else 0
         if chunk_size > 0:
             for i, chunk in enumerate([all_configs[i:i + chunk_size] for i in range(0, len(all_configs), chunk_size)]):
                 path = self.config.DIRS["splitted"] / f"mixed_{i+1}.txt"
