@@ -1,7 +1,7 @@
-trojan://2ykx1noq-yy0u-es0c-m44n-9ae5nnl9qfqp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-26 | 20:54 ]
-trojan://51cjjlrk-zudg-y1mn-b0y6-2h3z8ws6ho5j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xlg8ace7-4nfl-016x-w62f-y6q3i815xajt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5zlld88a-k1vy-fdcu-4u9k-dtv9ate0ii0x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qda62fmo-vlwi-ygj9-unvl-zghy50nr6yo1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-26 | 21:21 ]
+trojan://3fpe7g8k-ot9u-2loy-yu0y-9tp9u8qgo3bi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://f3tab5bf-61jj-lp6n-sj3u-goqpb63ocyqn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gk2j2qte-nuzn-1who-3rjc-jvu5t8tb0ftc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.107.233.230:2376#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 172.107.233.230
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.107.233.234:8090#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 172.107.233.234
 trojan://your_password@aws-es-madrid-1.f1rocketnode.com:443?sni=aws-es-madrid-1.f1rocketnode.com&peer=aws-es-madrid-1.f1rocketnode.com&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.100.226.86
@@ -106,10 +106,10 @@ vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgMTc2LjEyMC43NC4xNDIiLCJhZGQiOiIxNzYuMTIwLjc0LjE0MiIsInBvcnQiOjQ0MywiaWQiOiI3NTY5NWY1YS1iNmFmLTQ0ZjQtOTk4My1hZTI1MGI1M2ZmOWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vless://ec5867ce-4e91-5bcc-bcdc-fea4d6b312a8@176.120.74.36:8880?type=grpc&security=none&sni=vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com.vpnandroid2.com#ES 🇪🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 176.120.74.36
 vless://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?type=grpc&security=none#ES 🇪🇸 ┇ VLESS-GRPC-NTLS - Regxa Company for Information Technology Ltd ┇ 83.147.18.200
-vless://d9dbea61-3aaa-4466-8997-568dd159853e@83.147.18.150:443?type=tcp&security=reality&sni=snapp.ir&fp=chrome&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&sid=0126b9#ES 🇪🇸 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 83.147.18.150
+vless://18a70b59-777a-4ad2-9a57-14f742e7ab76@83.147.18.150:443?type=tcp&security=reality#ES 🇪🇸 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 83.147.18.150
 trojan://3828095943467868160@194.62.99.56:443?sni=main-bee.dolphin109.quest&peer=main-bee.dolphin109.quest&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - UpCloud Ltd ┇ 194.62.99.56
 trojan://3767107462583558144@194.62.96.160:443?sni=subtle-seahorse.treefrog761.one&peer=subtle-seahorse.treefrog761.one&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - UpCloud Ltd ┇ 194.62.96.160
 vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@tel.vpncustomize.reziazaran.ir:37823?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 23.90.188.126
 vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@23.90.188.66:37823?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 23.90.188.66
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@78.138.9.229:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#ES 🇪🇸 ┇ VLESS-WS-TLS - servinga GmbH ┇ 78.138.9.229
-trojan://rlb5quos-ar1a-9mly-54ej-3h6oabgzrbe0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://1qtla63a-rme0-fc6r-nhiz-lfdz8ah9ht8s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
