@@ -1,8 +1,8 @@
-trojan://fx2zzszb-fv23-u1xh-rlnb-nz2fn7vhfsh6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-26 | 13:58 ]
-trojan://ix1upayo-qzke-8llq-0i7g-trybi7gx39ce@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3q5043tu-9zuf-fssq-md97-wf7aknr7sxpc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xs1j9iyk-aje9-pedj-sswj-1rahu9hn0bgp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206YmZlMjRlOGQtYmI2YS00ZmU3LTk3Y2UtMjI4ZWM0NDJkMWI2@152.53.64.227:45602#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.64.227
+trojan://txrqptgm-s18y-1oqn-uy2y-03j4gautxhws@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-26 | 14:25 ]
+trojan://xnsj59tn-htze-oeyt-p195-9cc72ipaayd8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z94rag2r-qkck-3g2u-k1ek-w1mk1rf7bstr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6fawb7dq-07uc-qhd0-ro7l-mhf79qxhhw8p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTEyOC1nY206YmZlMjRlOGQtYmI2YS00ZmU3LTk3Y2UtMjI4ZWM0NDJkMWI2@152.53.64.227:45595#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.64.227
 vless://c6763909-34f1-4b80-9522-f70d930e90e6@152.53.231.109:56701?type=tcp&security=tls&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision-udp443#AT 🇦🇹 ┇ VLESS-TCP-TLS - netcup GmbH ┇ 152.53.231.109
 vless://9f8cd09e-8a6e-4800-97fb-57070d45125e@152.53.224.247:52133?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.224.247
 vless://2a8e6c01-49d3-4023-9955-1dd8ef2acd6c@152.53.91.37:19290?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.91.37
@@ -10,7 +10,7 @@ vless://1e3b70d6-02f1-4307-ba55-9266ab4c53f4@152.53.230.194:20821?type=tcp&secur
 vless://b5779651-874b-464c-8a05-02616e6833c1@194.55.13.118:51212?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 194.55.13.118
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.53.13.241:2003?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#DE 🇩🇪 ┇ VLESS-WS-TLS - netcup GmbH ┇ 152.53.13.241
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@202.61.193.248:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#DE 🇩🇪 ┇ VLESS-WS-TLS - netcup GmbH ┇ 202.61.193.248
-vless://25dc4687-1fcf-4380-b633-b88a2afe9781@37.120.167.155:4444?type=grpc&security=reality&sni=nobitex.ir&fp=firefox&pbk=XiW81p0vPWFZYd7YtQMBh3T9GNaO6F7BfHqxsGmHLkM&sid=4b#DE 🇩🇪 ┇ VLESS-GRPC-RLT - netcup GmbH ┇ 37.120.167.155
 vless://09a88f8d-f9b6-4985-95ac-fe889f07cac7@91.132.144.134:443?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 91.132.144.134
+vless://7a3ba820-45a0-4e89-a7fd-705490b1c6c6@37.120.167.155:443?type=xhttp&security=reality&path=/&sni=nobitex.ir&fp=firefox&pbk=VA4JOM8nUh1NHGMoeNNTWHnp4tAA2wG2hauNSUTLHxk&sid=4a25#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - netcup GmbH ┇ 37.120.167.155
 vless://c5f665de-e820-44d0-abf4-d23aa2d6f977@93.177.65.104:51688?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=KZ8OnDaJyDfaF9iwzXYuFdo796yoIy6fIh5JmdJ5fAs&sid=12ea6200#DE 🇩🇪 ┇ VLESS-TCP-RLT - netcup GmbH ┇ 93.177.65.104
-trojan://r86s63yw-gbxp-x9fw-itth-ms9ne4gjbmea@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://51igyczi-9553-lyyh-x8r2-2p2k55uzxwlk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
