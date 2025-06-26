@@ -1,18 +1,16 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-06-26 07:32:39
+Timestamp: 2025-06-26 08:21:24
 Total Channels: 91
 Successful Scrapes: 63
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 befreewithus: 30 configs
-configx2ray: 30 configs
 meli_proxyy: 30 configs
 shadowproxy66: 30 configs
 vpnandroid2: 30 configs
 WedBaZtel: 30 configs
 ShadowProxy66: 30 configs
-ConfigX2ray: 30 configs
 config_dooni: 30 configs
 BeFreeWithUs: 30 configs
 tehranargo: 28 configs
@@ -25,7 +23,9 @@ ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
 evay_vpn: 19 configs
 blueshekan: 18 configs
+configx2ray: 18 configs
 itenvpn: 18 configs
+ConfigX2ray: 18 configs
 vpnkanfik: 17 configs
 arv2ray: 16 configs
 cybersoldiersst: 16 configs
@@ -33,7 +33,6 @@ skivpn: 15 configs
 sockss_http: 15 configs
 v2rayng_1378: 15 configs
 lexernet: 14 configs
-v2ray_configs_pool: 14 configs
 vlees_v2rayng: 14 configs
 PRIMESOBI: 14 configs
 capoit: 13 configs
@@ -52,13 +51,14 @@ Subify_ir: 9 configs
 abelimo: 8 configs
 spikevpn: 8 configs
 am20094: 7 configs
+v2ray_configs_pool: 7 configs
 vmessorg: 7 configs
 mdvpnsec: 6 configs
 v2raymelliii: 6 configs
+confingv2raayng: 5 configs
 v2ray_god: 5 configs
 freakconfig: 4 configs
 v2ngfast: 4 configs
-confingv2raayng: 3 configs
 proxystore11: 3 configs
 antimeli: 2 configs
 colsvpn: 2 configs
