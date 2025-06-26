@@ -1,10 +1,10 @@
-trojan://g649rmap-bv13-mm3o-exlr-n3t5lmfp5dgv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-26 | 08:29 ]
-trojan://8jjhn6v2-tfvs-bfot-xg5z-in2s73tvmkkz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qqq21fgl-zl1j-k6pe-u3mj-3ecj5tsdwlvq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y2q2fkq5-kq4j-fhq9-mfs7-q1a8yzf9xcvv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jalo8cpa-ni4c-vwv1-dh42-n21o9ptqvc8r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-26 | 08:56 ]
+trojan://i7kohj22-haez-rlki-vykl-fnhf45o0ztif@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iw4zp1v9-81pl-2ddv-dyho-avwvzipvl009@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wkgl63ey-3hrn-kkzb-av2e-garwbqlkv132@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 212.113.106.243
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdUNzUE5oZlludGpFOVU0QnhrcEpw@212.113.106.76:29149#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 212.113.106.76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OEw1N2FzakZpa0hFb0kzZFhkUG9M@62.60.239.203:1090#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 62.60.239.203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 212.113.106.243
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBBZXphIEludGVybmF0aW9uYWwgTHRkIFx1MjUwNyA0NS4xMzguNzQuMTczIiwiYWRkIjoiNDUuMTM4Ljc0LjE3MyIsInBvcnQiOjEzNzAwLCJpZCI6IjZkZGYzMDQ5LWFjZWEtNDdhMy04OTljLTg2MmU2ZTlkNWQwZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJUZWxlZ3JhbUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpIn0
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 193.233.232.176
 vless://84177428-a0a1-4993-8565-1097262698ae@213.176.94.9:27860?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 213.176.94.9
@@ -50,6 +50,7 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.29:443?sni=icecream.955
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.58:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.58
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQb3JzY2hlIEluZm9ybWF0aWsgR2VzZWxsc2NoYWZ0IG0uYi5IIFx1MjUwNyAyMTIuMTgzLjg4LjI0IiwiYWRkIjoiMjEyLjE4My44OC4yNCIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQb3JzY2hlIEluZm9ybWF0aWsgR2VzZWxsc2NoYWZ0IG0uYi5IIFx1MjUwNyAyMTIuMTgzLjg4Ljc3IiwiYWRkIjoiMjEyLjE4My44OC43NyIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwMjI1ODVhLTg2YTctNDIzMS1iM2EwLWVlZGExNGY3N2Y0ZC44ZjE4MjM3Yy04ZTVmLTRmZmItYTQzNC0xYjI5NDhjODdiZTMuZGRuc2ZyZWUuY29tIiwicGF0aCI6Ii9vYmRpaS5jZmQ6NDQzL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6IjIwMjI1ODVhLTg2YTctNDIzMS1iM2EwLWVlZGExNGY3N2Y0ZC44ZjE4MjM3Yy04ZTVmLTRmZmItYTQzNC0xYjI5NDhjODdiZTMuZGRuc2ZyZWUuY29tIn0
+vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.16:443?type=ws&security=tls&path=/?ed=2560&sni=nv.bgm2024.dpdns.org#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.16
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.43:443?type=ws&security=tls&path=/?ed=2560&sni=vb.bgm2024.dpdns.org#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.43
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@212.183.88.254:8880?type=ws&security=none&path=/Telegram🇨🇳#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.254
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@212.183.88.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.251
@@ -61,7 +62,6 @@ vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.26:443?type=ws&security=
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.186:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.186
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.84:2086?type=ws&security=none&path=/#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.84
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.46:443?type=ws&security=none&sni=0229.patterdeng.pp.ua#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.46
-vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.16:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.16
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?type=ws&security=none&path=/?ed=2560fp=chrome#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.20
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.109:443?type=ws&security=tls&path=/?ed=2560&sni=in.youlingkais.filegear-sg.me#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.109
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.249:443?type=ws&security=none&sni=nl.ylka.dpdns.org#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.249
@@ -86,13 +86,13 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@212.183.88.144:80?type=ws&security=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.242:443?type=ws&security=tls&path=/blue&sni=dw.ylks.xyz#AT 🇦🇹 ┇ VLESS-WS-TLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.242
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@212.183.88.154:80?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed#AT 🇦🇹 ┇ VLESS-WS-NTLS - Porsche Informatik Gesellschaft m.b.H ┇ 212.183.88.154
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 5.181.21.194
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.36.192
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.9.144
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA@95.164.36.59:8388#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.36.59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U09taU1BU2IydUxBY1MwejhmdkNJ@95.164.36.192:64751#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.36.192
 trojan://e733ae52-7964-401b-8cc9-3cc2115d0040@176.120.65.14:443?security=tls#AT 🇦🇹 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 176.120.65.14
 ss://YWVzLTEyOC1nY206YmZlMjRlOGQtYmI2YS00ZmU3LTk3Y2UtMjI4ZWM0NDJkMWI2@152.53.64.227:45602#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - netcup GmbH ┇ 152.53.64.227
 vless://c6763909-34f1-4b80-9522-f70d930e90e6@152.53.231.109:56701?type=tcp&security=tls&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision-udp443#AT 🇦🇹 ┇ VLESS-TCP-TLS - netcup GmbH ┇ 152.53.231.109
 vless://9f8cd09e-8a6e-4800-97fb-57070d45125e@152.53.224.247:52133?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.224.247
 vless://2a8e6c01-49d3-4023-9955-1dd8ef2acd6c@152.53.91.37:19290?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.91.37
 vless://1e3b70d6-02f1-4307-ba55-9266ab4c53f4@152.53.230.194:20821?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - netcup GmbH ┇ 152.53.230.194
-trojan://4ptv4chb-hgk0-rsnc-4qlh-u53lr2esjy2s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://520de9oq-wwwe-lbju-smiw-53h3ui12glwr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
