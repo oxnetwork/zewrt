@@ -1,7 +1,7 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-06-27 20:17:18
+Timestamp: 2025-06-27 20:46:03
 Total Channels: 91
-Successful Scrapes: 61
+Successful Scrapes: 60
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
@@ -12,16 +12,14 @@ ghalagyann: 30 configs
 lexernet: 30 configs
 meli_proxyy: 30 configs
 shadowproxy66: 30 configs
-skivpn: 30 configs
 tehranargo: 30 configs
 vmessorg: 30 configs
 vpnandroid2: 30 configs
 ShadowProxy66: 30 configs
 config_dooni: 30 configs
 BeFreeWithUs: 30 configs
-configx2ray: 29 configs
-ConfigX2ray: 29 configs
 Greenvpn2: 28 configs
+skivpn: 25 configs
 azarbayjab1: 23 configs
 ZibaNabz: 23 configs
 vlees_v2rayng: 22 configs
@@ -30,23 +28,25 @@ vpnkanfik: 21 configs
 ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
 evay_vpn: 19 configs
-v2ray_configs_pool: 19 configs
 blueshekan: 18 configs
 sockss_http: 18 configs
 v2rayng_1378: 18 configs
 vistav2ray: 17 configs
 arv2ray: 16 configs
 cybersoldiersst: 16 configs
-itenvpn: 15 configs
 summertimeus: 14 configs
+itenvpn: 13 configs
 masterserver1: 13 configs
 spikevpn: 12 configs
 vpnpacket: 12 configs
 Tweety_Proxy: 12 configs
 confingv2raayng: 11 configs
+v2ray_configs_pool: 10 configs
 bored_vpn: 9 configs
+configx2ray: 9 configs
 DALTON_PING: 9 configs
 dalton_ping: 9 configs
+ConfigX2ray: 9 configs
 Subify_ir: 9 configs
 PRIMESOBI: 9 configs
 antimeli: 6 configs
@@ -57,7 +57,6 @@ v2ray_god: 5 configs
 v2raymelliii: 5 configs
 v2ngfast: 4 configs
 freakconfig: 3 configs
-abelimo: 2 configs
 capoit: 2 configs
 colsvpn: 2 configs
 jokerrvpn: 2 configs
