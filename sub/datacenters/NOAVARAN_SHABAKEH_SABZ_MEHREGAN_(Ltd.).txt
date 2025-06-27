@@ -1,7 +1,7 @@
-trojan://04dejzk2-2bc2-um9y-yxfc-y6fw238cnk3c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 00:53 ]
-trojan://mrns4ubd-zabw-z5vn-y0qs-pkhijocwd1uj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b5koowfn-z4g2-b8wr-41tf-xzlqpusgcbq0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ax5d8kq2-omtj-f7vd-n6oc-wdl7v7m21203@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://kf9o4xu4-sak4-wxd9-0pqa-fdk2dxz8cc78@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 01:17 ]
+trojan://fetczvym-4krr-umpt-z2fj-zpgfj358q6tv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q1l1bqwh-6oeg-9iq5-5yhj-0jhaxdlmjz4q@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://knc7afy3-zx0u-7u0f-3o5x-vhhwpyjkymgo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 45.138.135.155
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5PQVZBUkFOIFNIQUJBS0VIIFNBQlogTUVIUkVHQU4gKEx0ZC4pIFx1MjUwNyA2Mi42MC4yMDQuMTQ5IiwiYWRkIjoiNjIuNjAuMjA0LjE0OSIsInBvcnQiOjU5NDQwLCJpZCI6IjdmYzNjNzkwLTg4MzAtNDhkZC05YjBjLWM5NTQzMDFkMzczYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5PQVZBUkFOIFNIQUJBS0VIIFNBQlogTUVIUkVHQU4gKEx0ZC4pIFx1MjUwNyA1LjE0NC4xMzIuMTQwIiwiYWRkIjoiNS4xNDQuMTMyLjE0MCIsInBvcnQiOjEyMjEsImlkIjoiY2E3OTdiYTItMTNiMi00NzNiLTkwY2UtYzQ1NWFmOTM1M2UxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
@@ -33,17 +33,17 @@ vless://39420bb7-5535-48fc-c56c-5c98c6eafce8@185.208.77.113:11140?type=ws&securi
 vless://46677716-490d-4a51-8a68-c44090505da3@62.60.204.139:4009?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.204.139
 vless://8582e686-c209-4bfc-95ae-37ff0e20dd77@62.60.164.192:927?type=ws&security=none&path=/Poshtiban#IR 🇮🇷 ┇ VLESS-WS-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.164.192
 vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@62.60.204.74:51996?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.204.74
-vless://3c1bda8a-f2a2-4d55-8f6b-70949be10663@185.83.113.177:443?type=tcp&security=tls&sni=t9.morgoon.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.113.177
 vless://95984f4e-0733-4430-a937-f630cb2fb113@ak111.amirak.cfd:25679?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.214.62
 vless://7b238953-b0bf-4a9a-cecc-5739c395303b@62.60.164.163:16619?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.164.163
 vless://fc2270be-3d4e-4c30-b8f3-ea3844091b0c@1f.startrich.site:2086?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.114.63
-vless://1a7104a1-fcf1-4b31-9b47-3eab42cef30f@hostinger-1.tnabisibizip.ir:6030?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.114.17
+vless://1a7104a1-fcf1-4b31-9b47-3eab42cef30f@hostinger-1.tnabisibizip.ir:6030?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.114.10
 vless://6cc03cd6-918d-4604-9b6c-581cc4663a27@us10.newmew.site:2086?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.204.150
 vless://f8a995f7-2862-4f53-985d-3cca55d09ea2@nt.franker.shop:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.114.179
+vless://3c1bda8a-f2a2-4d55-8f6b-70949be10663@185.83.113.177:443?type=tcp&security=tls&sni=t9.morgoon.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.83.113.177
 vless://61678f98-85e3-40b6-a9ff-cbb685a33f09@62.60.204.212:13034?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.204.212
 vless://5eb636d1-f1da-4875-af76-3db836f0aaf9@3vv.fastv2.com:22073?type=ws&security=tls&path=/#IR 🇮🇷 ┇ VLESS-WS-TLS - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 185.208.78.147
 vless://078ff9a4-3841-4047-b614-6529b19cf59f@62.60.210.120:443?type=tcp&security=reality&sni=cdn01.irantechsoftwares.com&fp=random&flow=xtls-rprx-vision&pbk=iGKunF680EUDy-6nhdD4uCKhOWOCblf78iUFkJcvY0c&sid=a110#IR 🇮🇷 ┇ VLESS-TCP-RLT - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.210.120
 vless://078ff9a4-3841-4047-b614-6529b19cf59f@62.60.210.151:443?type=tcp&security=reality&sni=cdn01.irantechsoftwares.com&fp=random&flow=xtls-rprx-vision&pbk=iGKunF680EUDy-6nhdD4uCKhOWOCblf78iUFkJcvY0c&sid=a110#IR 🇮🇷 ┇ VLESS-TCP-RLT - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.210.151
 vless://078ff9a4-3841-4047-b614-6529b19cf59f@62.60.210.23:443?type=tcp&security=reality&sni=cdn01.irantechsoftwares.com&fp=random&flow=xtls-rprx-vision&pbk=iGKunF680EUDy-6nhdD4uCKhOWOCblf78iUFkJcvY0c&sid=a110#IR 🇮🇷 ┇ VLESS-TCP-RLT - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.210.23
 vless://078ff9a4-3841-4047-b614-6529b19cf59f@62.60.210.75:443?type=tcp&security=reality&sni=cdn01.irantechsoftwares.com&fp=random&flow=xtls-rprx-vision&pbk=iGKunF680EUDy-6nhdD4uCKhOWOCblf78iUFkJcvY0c&sid=a110#IR 🇮🇷 ┇ VLESS-TCP-RLT - NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.) ┇ 62.60.210.75
-trojan://g2levqpb-pro4-z6hj-iruw-gglqhhn5izyj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://hp31dkjm-6pg0-apns-f3o9-gn555a271g5a@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0

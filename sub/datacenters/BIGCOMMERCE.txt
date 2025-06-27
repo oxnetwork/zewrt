@@ -1,7 +1,7 @@
-trojan://3mrlu2fm-gkhb-18b6-vcfe-hhmjs2l9jqef@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 00:53 ]
-trojan://xw5vy0tq-hfe7-ce45-s397-uoj5v6ry0jql@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fcjazexe-a83m-b5c4-du0d-h1k2l2wt9t7e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hm0dbq0f-okad-7bts-xdbj-uva6nz9sbuvr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://lheduet5-333a-te3s-f0we-8r7v9ilogw68@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 01:17 ]
+trojan://1nynflne-9phv-6clf-pyfp-5ff5etg8stap@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wmns9aod-z96n-8339-2uhi-1flk63zj6ts2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d55679u5-rbdt-kce7-5v6j-xpuu95dvqpuy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@192.200.160.169:2096?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - BIGCOMMERCE ┇ 192.200.160.169
 trojan://Aimer@192.200.160.15:8443?sni=epccs.ambercc.filegear-sg.me&peer=epccs.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - BIGCOMMERCE ┇ 192.200.160.15
 trojan://Aimer@192.200.160.109:8443?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - BIGCOMMERCE ┇ 192.200.160.109
@@ -16,7 +16,11 @@ vless://cb8ba2f8-9541-419e-bf21-795111e5f551@byte.te1450.ir:8880?type=httpupgrad
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.200.160.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.254
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@192.200.160.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.247
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@192.200.160.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.251
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@63.141.128.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.63
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@63.141.128.63:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - BIGCOMMERCE ┇ 63.141.128.63
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.200.160.29:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - BIGCOMMERCE ┇ 192.200.160.29
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@63.141.128.247:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - BIGCOMMERCE ┇ 63.141.128.247
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@63.141.128.29:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - BIGCOMMERCE ┇ 63.141.128.29
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@63.141.128.251:8880?type=ws&security=false&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - BIGCOMMERCE ┇ 63.141.128.251
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@192.200.160.0:2087?type=grpc&security=tls&sni=a2.flcode.ir#US 🇺🇸 ┇ VLESS-GRPC-TLS - BIGCOMMERCE ┇ 192.200.160.0
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.94:443?type=ws&security=tls&path=/?ed=2560&sni=in.youlingkais.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.94
 vless://5d2e4955-9ac0-42a1-945d-695f40470ad7@192.200.160.188:8443?type=grpc&security=tls&sni=crm.iranigamebaz.ir&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - BIGCOMMERCE ┇ 192.200.160.188
@@ -33,11 +37,9 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.122:443?type=ws&security
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.200.160.119:443?type=ws&security=none&sni=sv.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.119
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.93:443?type=ws&security=none&sni=nl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.93
 vless://1131eaed-e009-4b7c-918d-8a3f1cf09280@63.141.128.27:443?type=ws&security=none&sni=vless.drsam.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.27
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.200.160.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.29
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.100:443?type=ws&security=tls&path=/?ed=2560&sni=in.youlingkais.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.100
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.96:443?type=ws&security=none&sni=vz.bgm2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.96
 vless://7b32d76e-9157-47ef-9cb5-9e71bd9d3be1@63.141.128.76:443?type=ws&security=none&sni=v2-150.pages.dev#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.76
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@63.141.128.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.29
 vless://55520747-311e-4015-83ce-be46e2060ce3@192.200.160.14:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 192.200.160.14
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.67:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.67
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.218:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.218
@@ -46,8 +48,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?type=ws&securit
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.140:443?type=ws&security=tls&path=/?ed=2560&sni=nv.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.140
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.209:443?type=ws&security=tls&path=/ss.vs2024.us.kg&sni=fs.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.209
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.136:443?type=ws&security=none&sni=sl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.136
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@63.141.128.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.251
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@63.141.128.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.247
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.163:443?type=ws&security=tls&path=/ss.vs2024.us.kg&sni=hs.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.163
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.241:443?type=ws&security=tls&path=/?ed=2560&sni=il.ylkszy.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 63.141.128.241
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@63.141.128.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.213
@@ -81,4 +81,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.168:443?type=ws&securit
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.101:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=ad.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - BIGCOMMERCE ┇ 192.200.160.101
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@63.141.128.13:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.13
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@192.200.160.13:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.13
-trojan://y8v77eok-l9wy-3x4r-9t2q-53479q9bi9js@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://ctsfyw95-h000-o3eu-94bb-k1jzj1b5o2yq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
