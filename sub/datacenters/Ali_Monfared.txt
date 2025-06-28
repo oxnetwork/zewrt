@@ -1,7 +1,7 @@
-trojan://5i80wh9v-bd0w-n8ho-b0pb-eh0wao0i95jr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 11:59 ]
-trojan://d871f1gs-4ke6-0pu9-ljee-0io0ilpl429z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kutpnx63-ymbj-filt-j4ip-jwltdywhbnig@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ug8mbxfr-ggdi-ikas-vwjb-0r4cnu18k5jl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6v97hove-ns4r-desh-284o-zsru68sdegmq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 12:24 ]
+trojan://1w0tupv5-fcmn-vtuv-dzca-39tbyq4qtke5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://f51ewce3-gdt0-rtyr-gssb-ojmpcjlcigbx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mv4lla1g-vbjo-jjwu-u1pw-et74ic7eow4m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsaSBNb25mYXJlZCBcdTI1MDcgMTg4LjIxMi45Ny4yMDIiLCJhZGQiOiIxODguMjEyLjk3LjIwMiIsInBvcnQiOjIwMjAsImlkIjoiNWMyNzBlYjEtZTE4ZC00MDIwLTk0OWQtMTdlMTg0NDVkYWM1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsaSBNb25mYXJlZCBcdTI1MDcgMTg4LjIxMi45Ny4xODgiLCJhZGQiOiIxODguMjEyLjk3LjE4OCIsInBvcnQiOjIwMDIxLCJpZCI6IjBjNGEwODQ1LTIwN2MtNDczYS1iY2NlLWZhZjk2YzgyM2U1YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsaSBNb25mYXJlZCBcdTI1MDcgMjEyLjIzLjIxNC4yMSIsImFkZCI6IjIxMi4yMy4yMTQuMjEiLCJwb3J0IjoyMDAxNywiaWQiOiI3YzgzMjZlYi00MjUwLTRmNzctOGUxZi0wMjEwYTY5ZTlhZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
@@ -32,4 +32,5 @@ vless://01546a66-9978-472d-a59c-b43d3e450695@188.212.97.28:31313?type=ws&securit
 vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 188.212.97.71
 vless://afa3cd54-f05d-4e0b-a4d6-9f046f5d1c05@vp.helsvptun.m2ring.sbs:6666?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 212.23.214.236
 vless://67525da1-a606-4725-98f3-513c13904d9d@h.hafman.lol:11928?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ali Monfared ┇ 185.124.175.92
-trojan://zdqcero7-b0m8-yx9f-5l30-v1ae5oqu4w8m@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+vless://c574224c-91db-21a7-e5b4-88d2db08ea1a@relay.iran-speed.ir:2052?type=ws&security=none&path=/websocket?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Ali Monfared ┇ 188.212.97.75
+trojan://ujbtjoo0-gwse-8tnb-lf71-uzlgxzsdv7s0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
