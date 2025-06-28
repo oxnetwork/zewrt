@@ -1,7 +1,7 @@
-trojan://el80rxvl-ux4q-5spe-3qvg-5mcw9avudl14@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 14:53 ]
-trojan://2sbi09k0-oqim-t483-2a3h-bzg36oyyz6ee@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h5m7yzt9-h4ba-sevr-ne2q-4j63cv4sqi8g@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://emay9mnw-teb0-u91z-q84z-6stbmgbss94w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ngm1ij5r-9bhr-ll8s-ymno-wl0g8sr87lrv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 15:16 ]
+trojan://yu6q3lwb-s1ai-j7rg-i1xq-6nvvhvykafoo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xuzbq2jt-xp02-08ie-z9f1-l8meff832mmt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kc3vygs4-g8pe-zlih-mnwd-beg0wmiyebv0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.107.233.230:2376#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 172.107.233.230
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.107.233.234:8090#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 172.107.233.234
 trojan://your_password@aws-es-madrid-1.f1rocketnode.com:443?sni=aws-es-madrid-1.f1rocketnode.com&peer=aws-es-madrid-1.f1rocketnode.com&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.100.226.86
@@ -38,7 +38,6 @@ vless://428287e2-0a51-42d5-89a5-d07f5f10a481@109.234.211.227:8080?type=httpupgra
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.251.80.13:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 185.251.80.13
 trojan://bpb-trojan@185.238.228.6:443?sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&peer=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 185.238.228.6
 vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDbG91ZGZsYXJlIExvbmRvbiwgTExDIFx1MjUwNyAxODUuMjM4LjIyOC4xOTYiLCJhZGQiOiIxODUuMjM4LjIyOC4xOTYiLCJwb3J0Ijo0NDMsImlkIjoiNDAyMTk5ZDItMmU3Zi00OGMyLWM2NmMtZTVjZjBlMWE5N2U5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb2QyLm1lbG8tZXp0aWMuc2hvcCIsInBhdGgiOiIvQG1lbG92MnJheSIsInRscyI6InRscyIsInNuaSI6ImdvZDIubWVsby1lenRpYy5zaG9wIn0
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.238.228.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#ES 🇪🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.238.228.63
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.238.228.213:8880?type=ws&security=none#ES 🇪🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.238.228.213
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.83.63:8880?type=ws&security=none&path=/Telegram&sni=jp.laoyoutiao.link#ES 🇪🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.251.83.63
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.82.254:8880?type=ws&security=none&path=/Telegram🇨🇳#ES 🇪🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.251.82.254
@@ -53,6 +52,7 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.251.83.13:8880?type=ws&security
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.251.83.251:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#ES 🇪🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.251.83.251
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.251.82.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#ES 🇪🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.251.82.3
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.238.228.247:8880?type=ws&security=none&path=/Telegram&sni=ex.sue.x10.mx#ES 🇪🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.238.228.247
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.238.228.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#ES 🇪🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.238.228.63
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.238.228.254:8880?type=ws&security=none&path=/#ES 🇪🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.238.228.254
 vless://780161d1-a345-45d4-96fb-c2c4b88bf151@185.238.228.33:443?type=ws&security=tls&path=/&sni=dd.gevom47953.workers.dev&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 185.238.228.33
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.238.228.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#ES 🇪🇸 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.238.228.13
@@ -99,7 +99,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@176.97.72.18:443?type=ws&security=tls&path=/?ed=2560&sni=ld.ylks.us.kg#ES 🇪🇸 ┇ VLESS-WS-TLS - M247 Europe SRL ┇ 176.97.72.18
 vless://6ac64b61-fe63-42cd-8b12-f4f3c2f024f1@68.221.170.69:8443?type=tcp&security=reality&sni=apple.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#ES 🇪🇸 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 68.221.170.69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGIzNGFkNy0zZjFlLTRhNzktYjA3OC0yZTU2MzIxZTRmZGU@216.107.21.231:158#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - MODMC-11194-AS ┇ 216.107.21.231
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@5.188.181.201:9014#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 5.188.181.201
+ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw@5.188.181.201:9029#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 5.188.181.201
 vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1lbGJpa29tYXMgVUFCIFx1MjUwNyA1LjE4OC4xODMuMTAiLCJhZGQiOiI1LjE4OC4xODMuMTAiLCJwb3J0Ijo0Mzk3NiwiaWQiOiJjN2M3MjUxNS00ZDlhLTRlZmEtY2M4NC1mZDc5OWQzNzhhMTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 trojan://utF6JLQd2x@141.227.128.69:1935?sni=x1es-ovh.devefun.net&peer=x1es-ovh.devefun.net&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 141.227.128.69
 vless://3b0ab43c-0e04-4891-931c-165cdf2be9c8@141.227.128.175:2030?type=grpc&security=tls&sni=refersion.com&fp=chrome#ES 🇪🇸 ┇ VLESS-GRPC-TLS - OVH SAS ┇ 141.227.128.175
@@ -117,4 +117,4 @@ trojan://3767107462583558144@194.62.96.160:443?sni=subtle-seahorse.treefrog761.o
 vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@tel.vpncustomize.reziazaran.ir:37823?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 23.90.188.126
 vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@23.90.188.66:37823?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 23.90.188.66
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@78.138.9.229:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#ES 🇪🇸 ┇ VLESS-WS-TLS - servinga GmbH ┇ 78.138.9.229
-trojan://pwsywla7-b4yu-tdb8-aytd-4nzkr19a2599@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://tpx3snp8-if06-pzi8-xed2-29hgscsztixn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
