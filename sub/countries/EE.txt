@@ -1,7 +1,7 @@
-trojan://oc6zruog-6yas-5hsz-avtb-b8d0l738oxx5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 23:56 ]
-trojan://3erwxssj-g4w2-v7ch-hv7f-6tfi2stqpbab@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tl5evl5g-8nip-6z7r-araz-ixsmvs3co1cu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vhhez1sf-oleh-2pqv-9wq9-bzzbq1sqhek0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0ljc2f31-r0yi-x3ly-r7dx-574afyknebg1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-29 | 00:19 ]
+trojan://x5bet0ob-t5c0-xqyo-9wow-jmadqo2esyul@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hoybbksp-szj6-x5lj-agdm-gdcwev8n7175@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yh00tx31-rx5o-z03s-2ouk-rmri5ymtone9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 147.45.60.33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOeHNIUnNlVFNuRGxHZElJNkQyaDdn@147.45.60.102:52392#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 147.45.60.102
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.234
@@ -12,6 +12,7 @@ vless://37208d52-8823-412d-944e-0a8ef08a5079@ee01.abvpn.ru:443?type=ws&security=
 vless://37208d52-8823-412d-944e-0a8ef08a5079@ee02.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=ee02.abvpn.ru&fp=chrome#EE 🇪🇪 ┇ VLESS-WS-TLS ┇ 45.82.253.214
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@95.164.8.12:443?type=ws&security=tls&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&sni=xin033.ylks.link#EE 🇪🇪 ┇ VLESS-WS-TLS ┇ 95.164.8.12
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@94.131.15.61:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#EE 🇪🇪 ┇ VLESS-WS-TLS ┇ 94.131.15.61
+vless://world@5.181.23.116:7777?type=ws&security=none&path=/#EE 🇪🇪 ┇ VLESS-WS-NTLS ┇ 5.181.23.116
 vless://I_Love__SSHMax_b716c16@0:0:0:0:0:ffff:05b5:1743:443?type=grpc&security=tls&sni=zula.ir#EE 🇪🇪 ┇ VLESS-GRPC-TLS ┇ 0:0:0:0:0:ffff:05b5:1743
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
 trojan://bpb-trojan@37.252.5.75:443?sni=skwygx.top&peer=skwygx.top&security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - Aktsiaselts WaveCom ┇ 37.252.5.75
@@ -63,4 +64,4 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@45.80.110.13:8880?type=ws&security=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ@185.215.186.65:8388#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.215.186.65
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.155
-trojan://k3kw9wq3-pe1u-os92-e1gh-drmzzz4etwx1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://xs7phgez-tw1o-m7y6-g2ea-glltlorr245h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
