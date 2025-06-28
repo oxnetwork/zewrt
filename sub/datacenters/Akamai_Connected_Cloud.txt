@@ -1,9 +1,9 @@
-trojan://3178cgts-simw-33cf-di18-5loy6wbmpmb5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 08:00 ]
-trojan://wwl5n6bp-xlsl-no9z-6h33-fslgakmaizmw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9wa549su-cnxa-6w4v-tj3y-pr0q8aw518a2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://174hoecx-i4kd-rqxa-i05z-i2i3y5as1fld@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://y9ghp09g-zowl-b0uy-h0cx-tmhpjg07240f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 08:27 ]
+trojan://58dd97uz-7i1r-w5me-xv17-ploillxiae86@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mpfmset9-d23g-spd3-ywjb-9nbzz3yfdmvn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q0xbin8p-d33e-k5ex-kumx-qwm2w5pvuxvc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 45.79.238.129
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.105.180.227:6679#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.180.227
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@172.105.180.227:8080#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.180.227
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.176.149:5601#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.176.149
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMTA1LjI1NS40IiwiYWRkIjoiMTcyLjEwNS4yNTUuNCIsInBvcnQiOjQ0MywiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9jaGF0IiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMTA1LjE3Mi4yMDkiLCJhZGQiOiIxNzIuMTA1LjE3Mi4yMDkiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
@@ -25,11 +25,11 @@ vless://ca-s45.n4-fatvpn.top@172.105.98.97:10595?type=tcp&security=reality&sni=n
 vless://c7140bee-4ad1-478e-915c-6c84385b6e10@172.105.24.62:12692?type=grpc&security=reality&path=grpc&sni=updates.cdn-apple.com&fp=chrome&pbk=3E4WFEEt-5-j9SPbS8_xTRfMEdXnGn-1Y2FgrjdX7hw&sid=6ba85179e30d4fc2#CA 🇨🇦 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.105.24.62
 vless://6c76b834-2a71-4100-8497-8f2176dbdc50@139.177.195.128:18252?type=grpc&security=reality&path=grpc&sni=addons.mozilla.org&fp=chrome&pbk=YfXP916ol7Wq1Xijw7p8k_T8pYp0eSjZSqVKW68QhX8&sid=6ba85179e30d4fc2#CA 🇨🇦 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 139.177.195.128
 vless://e9d7bc83-a7e7-4897-aafd-3d5531a98181@172.105.25.227:15143?type=grpc&security=reality&path=grpc&sni=player.live-video.net&fp=chrome&pbk=Eq1re4UyQztu7dZWWq7PFIbPSIVc27eZVEGqjgrNx3o&sid=6ba85179e30d4fc2#CA 🇨🇦 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.105.25.227
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.244.165:8090#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.244.165
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.244.165:3306#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.244.165
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@139.162.130.101:6679#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.130.101
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.162.132.116:8881#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.132.116
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.162.139.42:7307#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.139.42
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.251.193:8090#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.251.193
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.162.132.116:8881#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.132.116
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@139.162.130.101:6679#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.130.101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowcjkxQWoxTWVGUlN2b3k2@series7.samanehha.co:443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.132.14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MjU3MjIxMTM2@172.105.247.246:38867#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.247.246
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU5EWTFOVEk1TkRNMQ@139.162.191.130:34708#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.191.130
@@ -60,17 +60,17 @@ vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWthbWFpIENvbm5lY3RlZCBDbG91ZCBcdTI1MDcgMTcyLjEwNS43NC4xMzQiLCJhZGQiOiIxNzIuMTA1Ljc0LjEzNCIsInBvcnQiOjM3ODY3LCJpZCI6IjQ2MjNmOTQ5LWUwZTQtNGQ0MC1kMTc3LTA0OWNhNmZkNzUxOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWthbWFpIENvbm5lY3RlZCBDbG91ZCBcdTI1MDcgMTcyLjEwNC4xNDYuOTMiLCJhZGQiOiIxNzIuMTA0LjE0Ni45MyIsInBvcnQiOjQ0MywiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9jaGF0In0
 vless://3c5f1408-32e5-46f4-be92-52f1ad58a490@172.105.70.177:48037?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Akamai Connected Cloud ┇ 172.105.70.177
-vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.236.220.243:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.236.220.243
-vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.236.213.248:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.236.213.248
-vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.238.109.80:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.238.109.80
 vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@85.90.245.81:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 85.90.245.81
-vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.104.150.189:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.104.150.189
 vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.236.195.104:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.236.195.104
 vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.236.213.115:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.236.213.115
 vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.236.194.145:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.236.194.145
+vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.236.213.248:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.236.213.248
 vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.236.205.212:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.236.205.212
+vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.236.220.243:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.236.220.243
+vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.238.109.80:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.238.109.80
 vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.236.212.94:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.236.212.94
 vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.236.220.210:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.236.220.210
+vless://1c11f976-28cd-46a7-bc59-f0f6e44fdef0@172.104.150.189:505?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=ymZddpZVGUI8QEbqbMDg9JAPaqyR94-5IXPhE8RHEAM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.104.150.189
 vless://369cba58-0f58-4a9c-b4b2-3b95222b004f@hazardgambil.techforgesec.ir:443?type=xhttp&security=reality&path=ws/?ed=443&sni=docker.com&fp=randomized&pbk=M5SrZwg5W406_83KgJwydPvsLiquKpvmMsoqP9jnjk8&sid=998f7e770f66b5c6#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Akamai Connected Cloud ┇ 172.236.214.80
 vless://387620fc-e932-4767-abeb-b16953c3b256@info876.novintecc.org:21338?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#ES 🇪🇸 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.233.123.142
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.232.38.127:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.232.38.127
@@ -100,8 +100,8 @@ vless://0580eeaa-4a52-4d87-8d76-d9d4799004cc@178.79.153.62:443?type=tcp&security
 vless://6235f653-f5ee-4824-878c-3fcc1e64b7f5@ennod.spsvps.com:2087?type=tcp&security=reality&sni=ame.spsvps.com&fp=chrome&pbk=HQdpA2sAkxUHghPtT8EUA1zPqkq_tz8ncwQM2zNkCS4&sid=b359bc5c70c21d55#GB 🇬🇧 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.236.23.240
 vless://3bf7e422-90af-4aef-a5a4-f8d6ccb31f8b@139.162.223.154:23894?type=grpc&security=reality&path=grpc&sni=aod.itunes.apple.com&fp=chrome&pbk=wdu8jIQ2puf71JEM2GKCdKnju013xU9ZCmLM42CHgkA&sid=6ba85179e30d4fc2#GB 🇬🇧 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 139.162.223.154
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@192.46.209.146:3306#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 192.46.209.146
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.39.228:5600#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.39.228
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.105.54.131:6697#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.54.131
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.105.39.228:3306#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.39.228
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@45.79.121.117:5601#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 45.79.121.117
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.104.206.165:3306#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.206.165
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.105.59.32:7306#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.105.59.32
@@ -171,7 +171,7 @@ vless://c5a1e9de-3c5c-4709-a321-e60a69bb8ca3@139.162.122.247:14344?type=tcp&secu
 vless://a7cee267-e760-4621-a60f-f640e76aa3de@172.105.226.160:21896?type=grpc&security=reality&path=grpc&sni=m.media-amazon.com&fp=chrome&pbk=-_QH1k5i2WFYVqVGyLZ0kDeZpPF8YcXw_XxDWtSoaxs&sid=6ba85179e30d4fc2#JP 🇯🇵 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.105.226.160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6V1E4YnVQNkxtUmJRR2FDb09KcjB1@172.233.56.110:50876#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.56.110
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@172.233.43.178:444?type=ws&security=tls&sni=vkk.wxgqlfx.cn&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 172.233.43.178
-vless://fb224824-0cef-4dde-829b-91ee0277bf06@alfa.subscrib.sbs:4246?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.235.190.240
+vless://fb224824-0cef-4dde-829b-91ee0277bf06@alfa.subscrib.sbs:4246?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.46.109
 vless://2aed2b4a-a0e2-4ab6-9c46-1de220f69715@al-4-1.aminv.ir:1002?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.33.247
 vless://c7f2ac91-c9ce-46c6-98f3-7204178e4b7c@172.233.57.232:443?type=grpc&security=reality&sni=tunnel.svnreallity.online&fp=chrome&pbk=d35k8hJ0aMt0SQ7DPprVNf6nm_QKabQsbfVmpg819lE&sid=3fdec952#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.233.57.232
 ss://YWVzLTI1Ni1nY206YzM5NDg4YjUtZWRiOC00NWJjLTlkY2UtM2I5MWEwOTZlYmVj@172.232.132.71:442#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.232.132.71
@@ -179,10 +179,10 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6MzE4YWMyNDEtOTQyYy00NGJhLTkxN2EtYjBlMjUyMTliNzZm@17
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3Mi4yMzIuMTQ4LjU2IiwiYWRkIjoiMTcyLjIzMi4xNDguNTYiLCJwb3J0Ijo4NDQyLCJpZCI6ImVjZTc3YzUyLTMzMGUtNDgwNS1iOGY1LTcwNDU2M2YxM2FjOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3Mi4yMzIuMTU3LjE5OSIsImFkZCI6IjE3Mi4yMzIuMTU3LjE5OSIsInBvcnQiOjIwODIsImlkIjoiNjY4ODcyNTktNzA3YS00MTFhLTk1NTItMzA0YTBkMjc4MDIyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@172.232.157.252:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#SE 🇸🇪 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 172.232.157.252
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@172.104.50.106:8009#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.50.106
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.162.58.13:8119#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.58.13
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.162.58.13:3389#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.58.13
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.162.24.50:8888#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.24.50
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.104.44.88:6679#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.44.88
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@172.104.50.106:8009#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.50.106
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ@139.162.5.19:8099#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.5.19
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ@139.162.41.174:8099#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.41.174
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODk4ODM2OTU1@172.104.187.45:31711#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.104.187.45
@@ -241,10 +241,10 @@ ss://YWVzLTI1Ni1nY206ODhneTU2aDk@104.237.154.158:864#US 🇺🇸 ┇ SHADOWSOCKS
 ss://YWVzLTI1Ni1jZmI6OWQ2Y2NlYWEzNzNiZjJjOGFjYjIyZTYwYjZhNThiZTY@45.33.93.207:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 45.33.93.207
 ss://YWVzLTI1Ni1jZmI6OWQ2Y2NlYWEzNzNiZjJjOGFjYjIyZTYwYjZhNThiZTY@45.79.79.37:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 45.79.79.37
 ss://YWVzLTI1Ni1jZmI6OWQ2Y2NlYWEzNzNiZjJjOGFjYjIyZTYwYjZhNThiZTY@45.33.88.190:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 45.33.88.190
-trojan://430b6895-2e0f-4716-9410-e1339d0f9af6@uk01.clashzone.xyz:54122?sni=filimo.com&peer=filimo.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.233.219.49
+trojan://430b6895-2e0f-4716-9410-e1339d0f9af6@uk01.clashzone.xyz:54122?sni=filimo.com&peer=filimo.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.233.219.123
+trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:3052?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.233.219.49
 trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?sni=gstatic.com&peer=gstatic.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 66.228.55.178
 trojan://3ad41c7b-b772-3f96-9986-66d1a2b79820cmynw@45.79.73.131:443?sni=kaizen-us-14.cmy-dns.com&peer=kaizen-us-14.cmy-dns.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 45.79.73.131
-trojan://3ddbffcb-bdbb-49c0-a7fe-5c3b0c58e9be@pqawssg1.aiopen.cfd:443?sni=18-140-66-207.nhost.00cdn.com&peer=18-140-66-207.nhost.00cdn.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.233.219.123
 trojan://tune7jerky7HAYRICK@45.79.19.196:443?sni=ap-northeast-1.openssl3.com&peer=ap-northeast-1.openssl3.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 45.79.19.196
 trojan://tune7jerky7HAYRICK@96.126.123.244:443?sni=ap-northeast-1.openssl3.com&peer=ap-northeast-1.openssl3.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 96.126.123.244
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170.187.134.190:8443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 170.187.134.190
@@ -296,10 +296,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWthbWFpIENvbm5lY3RlZCBDbG91ZCBcdTI1MDcgNDUuMzMuMzIuMjM4IiwiYWRkIjoidXMyLmdtZG5zLm5ldCIsInBvcnQiOjQ0MywiaWQiOiI2MmY2OTNlMC1mM2Y3LTExZWEtOTNhMi1kNWE3NDE0NThiOGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWthbWFpIENvbm5lY3RlZCBDbG91ZCBcdTI1MDcgMTM5LjE0NC4xNzIuNzgiLCJhZGQiOiIxMzkuMTQ0LjE3Mi43OCIsInBvcnQiOjIwODYsImlkIjoiMWFiOTFmMTgtNjE2OC00Y2I2LWM5Y2EtMmMzYzcxNThmZTRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UUlVFIC0gQWthbWFpIENvbm5lY3RlZCBDbG91ZCBcdTI1MDcgMTczLjI1NS4yNDUuNDciLCJhZGQiOiIxNzMuMjU1LjI0NS40NyIsInBvcnQiOjQ0MywiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9jaGF0IiwidGxzIjoidHJ1ZSJ9
-vless://d05596ed-288b-4708-9a01-b01635f4c91d@tf1.basevip1.best:4911?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 45.33.2.79
 vless://748292a0-ac0f-4d55-a460-40bea786f17f@172.235.48.81:10001?type=tcp&security=tls&sni=yahoo.com&fp=firefox#US 🇺🇸 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.235.48.81
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@139.144.202.90:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 139.144.202.90
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@74.207.225.147:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 74.207.225.147
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.232.23.86:587?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 172.232.23.86
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.174.160:80?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.233.174.160
-trojan://5fzi9i2l-unk4-nnue-2wx2-27ypr0q5unwt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://chackmzx-at20-2ci1-xl59-t5quqot3qwvo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
