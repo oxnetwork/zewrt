@@ -1,7 +1,7 @@
-trojan://1mjxuy4s-xm3c-godr-3pwp-m5bfuexqgchm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 20:52 ]
-trojan://ga2suvuw-h6t5-uyyi-ru5d-7dbxzn1dzw6v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pfcco90e-kwc8-on51-9fhv-jr0m2totbd0y@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u3hck5nh-gima-5zs6-4wk8-xllbhmkl2ohb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mzrkyhvj-xqmb-72d9-llpj-8plxwvkfn03n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 21:19 ]
+trojan://akvwcex2-yo7z-zthv-58ef-3q98748tszfx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://b6dksrfe-zyx5-5g2u-3qet-ygskiei3czss@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zvhkerox-f01n-yv16-owwu-8r43nifzopqa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443?type=tcp&security=reality&sni=www.samsung.com&fp=firefox&pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&sid=e1f576c5#AL 🇦🇱 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 78.159.131.160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGVURMdU5QZTczSWFScTN5T3piUXlZ@45.129.185.97:4443#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.129.185.97
 vless://e14b4a6b-0c62-4551-a952-b3eff4b973de@194.156.103.86:2096?type=grpc&security=none#AM 🇦🇲 ┇ VLESS-GRPC-NTLS - Global Connectivity Solutions Llp ┇ 194.156.103.86
@@ -32,9 +32,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVT
 vless://abb2d75f-e5f1-4db8-98f6-048dfb0eed94@77.110.107.95:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=OzfC9K0wCrfVT_PpIUGfDFTTxiCetmx7gG6E4RARNw0&sid=7409f4913a0eba93#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 77.110.107.95
 vless://4a55b918-f497-41c7-848d-3fcae63e667f@147.45.178.92:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 147.45.178.92
 vless://b4f3c864-3241-4abe-884e-adffcbbc5ffa@93.152.217.107:443?type=tcp&security=reality&sni=mirror.yandex.ru&fp=chrome&pbk=4cRb3ILdLNx0QJFnIff-Wt-eRGpKemQx_3ULJ31xd2A&sid=9a367ebe#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 93.152.217.107
-vless://04b89bc4-bb37-4cd9-8c0d-b3896f546a98@85.208.139.222:1633?type=tcp&security=reality&sni=stackoverflow.com&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 85.208.139.222
 vless://Channel--SRCVPN--@77.110.107.170:2050?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=FrFgwroo7aYMQ42V_6KsspiSfKDjMU_f25LdLKO_G1g&sid=7f817f94232c26#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Global Connectivity Solutions Llp ┇ 77.110.107.170
 vless://Channel--SRCVPN--@fox1-ov.com:2070?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=FrFgwroo7aYMQ42V_6KsspiSfKDjMU_f25LdLKO_G1g&sid=7f817f94232c26#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Global Connectivity Solutions Llp ┇ 85.208.139.105
+vless://04b89bc4-bb37-4cd9-8c0d-b3896f546a98@85.208.139.222:1633?type=tcp&security=reality&sni=stackoverflow.com&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 85.208.139.222
 vless://d4008461-be09-43b4-bc77-8a6d55fe84d0@185.161.251.211:1633?type=tcp&security=reality&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 185.161.251.211
 vless://e6732804-b149-4f6a-94ff-bc5f621a7cf9@194.87.71.73:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 194.87.71.73
 vless://1278ebc8-31b1-4ff0-8a1b-1c3502dc7526@85.208.139.32:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 85.208.139.32
@@ -43,7 +43,7 @@ vless://c15f4413-9011-4adc-ac26-9f2b2f83de6c@194.87.71.168:443?type=tcp&security
 trojan://Aimer@46.29.235.31:2053?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#DK 🇩🇰 ┇ TROJAN-TCP-TLS - Global Connectivity Solutions Llp ┇ 46.29.235.31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYXVsbkdVZkF5S0J4WnBBUlMwM21D@194.87.45.189:443#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 194.87.45.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxQVU2Tmd1cG9scU5kU0owRHgxbms3@185.42.163.45:25108#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.42.163.45
-vless://bffceece-a818-45d2-ad04-eb819eec8f78@109.172.54.5:600?type=tcp&security=tls&sni=marzban.negintel.xyz#FI 🇫🇮 ┇ VLESS-TCP-TLS - Global Connectivity Solutions Llp ┇ 109.172.54.5
+vless://b2e125db-f0a3-4ae4-b883-e5874897fe27@109.172.54.5:3993?type=ws&security=tls&path=?ed=2084&sni=marzban.negintel.xyz&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 109.172.54.5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVTFnZlVyZmlBSVMxeUU3UFc2a2NW@45.95.233.43:15867#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.95.233.43
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@45.95.233.8:2040?type=tcp&security=tls&sni=fr.ign.com&fp=chrome#FR 🇫🇷 ┇ VLESS-TCP-TLS - Global Connectivity Solutions Llp ┇ 45.95.233.8
 vless://34ec142b-eaae-4ff1-944f-c07c0b8081fe@sf1.tabrizopt.ru:56624?type=xhttp&security=none&path=/newgame?ed=2048#FR 🇫🇷 ┇ VLESS-XHTTP-NTLS - Global Connectivity Solutions Llp ┇ 109.172.55.11
@@ -108,8 +108,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMG8yaEU0ZUx1UjJ3d3lGYW8wbHNK@185.39.204.12:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZHpXdWhlbUpWVnNwSHd6Q3NaZWpm@83.217.9.39:7317#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMHpjOFY2VWkyWWY4SjlIREdZQ0hI@62.133.63.21:65262#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFZtcTl1MWNkTEk@83.217.9.4:443#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowa011QWVJbFNxbG1FcEY3eVBkTVZj@62.60.233.240:55548#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.60.233.240
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@83.217.9.76:989#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.76
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowa011QWVJbFNxbG1FcEY3eVBkTVZj@62.60.233.240:55548#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.60.233.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUDNKTjk4QzZFT1I@62.60.233.21:443#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.60.233.21
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIEdsb2JhbCBDb25uZWN0aXZpdHkgU29sdXRpb25zIExscCBcdTI1MDcgMTg1LjM5LjIwNC4xMTciLCJhZGQiOiJ0cjIudnBuamFudGl0LmNvbSIsInBvcnQiOjEwMDAwLCJpZCI6ImFkZDViZWZhLTNmOGYtMTFlZC04M2UyLWNiYTQ0MDE5MmFmMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3ZwbmphbnRpdCIsInRscyI6ImZhbHNlIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIEdsb2JhbCBDb25uZWN0aXZpdHkgU29sdXRpb25zIExscCBcdTI1MDcgODMuMjE3LjkuNzAiLCJhZGQiOiJ0cjEudnBuamFudGl0LmNvbSIsInBvcnQiOjEwMDAwLCJpZCI6Ijg0NWQyNzcwLTNmOGYtMTFlZC04ZDVkLThmNjI2MmU1MDcxOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3ZwbmphbnRpdCIsInRscyI6ImZhbHNlIn0
@@ -134,4 +134,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0S3NMQXN3TE1xMUMwTDhJY1h0cGR2@212.18.104.228
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZUFtWDVPVm43dHgySzl6WFNkWERQ@92.118.112.92:13299#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 92.118.112.92
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNE16RW1rUUoyeF9fMXV2R21OdERR@212.18.104.242:5555#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 212.18.104.242
 vless://abb2d75f-e5f1-4db8-98f6-048dfb0eed94@89.185.80.193:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=OzfC9K0wCrfVT_PpIUGfDFTTxiCetmx7gG6E4RARNw0&sid=7409f4913a0eba93#US 🇺🇸 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 89.185.80.193
-trojan://ppbgkej7-qcx3-p5gj-2f5c-jjyz9sc4p5up@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://cx9wllza-m2d8-5dsh-pfaw-vloy3q3r6wve@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0

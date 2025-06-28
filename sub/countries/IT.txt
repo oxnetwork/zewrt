@@ -1,7 +1,7 @@
-trojan://b9u7bvxr-vbwb-k4j3-ddk7-4g124xzh0ort@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 20:52 ]
-trojan://pupn3ogt-wlq4-p2cm-o9u2-i4x8z2flnifa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s0bsi6rt-0ijh-ct9r-v61m-wzvy5g41jy7o@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://taoy82xh-nthq-de3o-3vig-6joxj97upyn1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://nd9hcuhr-ijf6-mgbr-mdyb-3bdgxb3slg7d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 21:19 ]
+trojan://4g77ttl3-ring-4ne9-1il7-5leoltm0p7i1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://aycqh3to-pawn-otzl-kyf2-ed6twqkoc8dq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5umdx87a-x5hs-ab3j-2s03-mnfwt9qcu81a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgXHUyNTA3IDEwOS4xMjIuMjA4LjIwNSIsImFkZCI6IjEwOS4xMjIuMjA4LjIwNSIsInBvcnQiOjQ4Mzc3LCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoiYXV0byJ9
 trojan://your_password@15.160.138.221:443?sni=aws-it-milan-1.f1rocketnode.com&peer=aws-it-milan-1.f1rocketnode.com&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.160.138.221
 trojan://121d5d3e-6237-4536-ab68-bf8405abadfc@15.161.104.142:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.161.104.142
@@ -36,9 +36,9 @@ trojan://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?sni=mci.ir&peer
 vless://710aab57-66d5-4426-8b54-8c4cb6940e89@146.75.55.82:80?type=ws&security=none&path=/download?ed=2560#IT 🇮🇹 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.55.82
 vless://78f80c31-ff76-4bca-b43c-c991a9168f11@151.101.241.19:80?type=xhttp&security=none&path=/?ed=2560#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.19
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@151.101.242.133:80?type=ws&security=none#IT 🇮🇹 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.242.133
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvM01EZzRabVZtWXkxaU1ETmhMVFJqTVRZdFlUVm1aQzFpTTJGaFpqRTVZek15TkdJ@hncu.donghui.tech:27100#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Fastweb ┇ 93.46.8.90
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
+vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFzdHdlYiBcdTI1MDcgOTMuNDYuOC45MCIsImFkZCI6ImRhdGEtaGstdjIuc2h3amZrdy5jbiIsInBvcnQiOjUwMjA1LCJpZCI6ImIxNDc4ZTI0LTQ5MTYtM2FiZS04ZjE3LTE1OTMxMDEyZWNiZSIsImFpZCI6MSwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4In0
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
 trojan://Aimer@87.120.237.36:81?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 87.120.237.36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 147.45.51.30
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdsb2JhbCBDb25uZWN0aXZpdHkgU29sdXRpb25zIExscCBcdTI1MDcgMTQ3LjQ1LjUxLjE2IiwiYWRkIjoiMTQ3LjQ1LjUxLjE2IiwicG9ydCI6MjA5OCwiaWQiOiI4Mzg3NjIyMi02NGE0LTQ5MTItYWExOC1iN2Q5ZDM0OTU5ZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
@@ -54,7 +54,6 @@ vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?type=grpc&secur
 vless://28148cc8-53ab-4a30-9264-34046701c44f@103.241.66.93:40449?type=grpc&security=reality&sni=cdn.discordapp.com&fp=firefox&pbk=ExwFp27TufWSgoDiVL-xTUfjzRqWM-kMPyb-IBTpwi8&sid=b203#IT 🇮🇹 ┇ VLESS-GRPC-RLT - KAMATERA ┇ 103.241.66.93
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.117:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.117
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@82.102.26.92:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 82.102.26.92
-vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDIxNy4xMzguMTk3LjE3MSIsImFkZCI6IjIxNy4xMzguMTk3LjE3MSIsInBvcnQiOjQ0MywiaWQiOiI0MzVjOTc4ZS0yZjQ4LTQxOTQtOGQwNC0zOGNjNzlhMjQ0MjEiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiZHRscyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE0yNDcgRXVyb3BlIFNSTCBcdTI1MDcgMTQwLjk5LjIxLjE5IiwiYWRkIjoiMTQwLjk5LjIxLjE5IiwicG9ydCI6Mjk0NDksImlkIjoiYTg5MmE3ZDMtYzJjZi00NzFiLWFmMmYtNjU4ZWIxNTAzMWY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDIxNy4xMzguMTk3LjE3MiIsImFkZCI6IjIxNy4xMzguMTk3LjE3MiIsInBvcnQiOjQ0MywiaWQiOiI0MzVjOTc4ZS0yZjQ4LTQxOTQtOGQwNC0zOGNjNzlhMjQ0MjEiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcGF0aC8yMjAxMjgwNzExMDAiLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTTI0NyBFdXJvcGUgU1JMIFx1MjUwNyAyMTcuMTM4LjE5Ny4xNzQiLCJhZGQiOiIyMTcuMTM4LjE5Ny4xNzQiLCJwb3J0Ijo0NDMsImlkIjoiNDM1Yzk3OGUtMmY0OC00MTk0LThkMDQtMzhjYzc5YTI0NDIxIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMDUxMTExMjMwOTEwIn0
@@ -95,4 +94,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#IT 🇮🇹 ┇ SH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 95.141.37.111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@158.58.173.240:806#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 158.58.173.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprcFpXaGs1cjFSTFQ@149.86.105.76:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Tecno General S.r.l ┇ 149.86.105.76
-trojan://c8cacgmd-9u5b-61v9-jfdi-lyol79mlicdb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://onekrm8j-bpua-as4v-ez6n-0d29s8e1cwdo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
