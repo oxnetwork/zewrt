@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-06-29 00:46:13
+Timestamp: 2025-06-29 01:10:21
 Total Channels: 91
 Successful Scrapes: 62
 Failed Scrapes: 0
@@ -30,7 +30,6 @@ ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
 lexernet: 20 configs
 evay_vpn: 19 configs
-v2ray_configs_pool: 19 configs
 Tweety_Proxy: 19 configs
 blueshekan: 18 configs
 vmessorg: 18 configs
@@ -46,6 +45,7 @@ itenvpn: 13 configs
 masterserver1: 13 configs
 DALTON_PING: 12 configs
 dalton_ping: 12 configs
+v2ray_configs_pool: 12 configs
 vpnpacket: 12 configs
 confingv2raayng: 10 configs
 freenet_melli: 9 configs
@@ -55,9 +55,9 @@ mdvpnsec: 6 configs
 capoit: 5 configs
 fnet00: 5 configs
 v2ray_god: 5 configs
+antimeli: 4 configs
 v2ngfast: 4 configs
 v2raymelliii: 4 configs
-antimeli: 3 configs
 nufilter: 3 configs
 proxystore11: 3 configs
 colsvpn: 2 configs
