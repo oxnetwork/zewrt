@@ -1,7 +1,7 @@
-trojan://392n1kmk-5x1i-m6g4-vdn6-1jgpxh5l2kjj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 12:57 ]
-trojan://il5ftueh-e0kr-avgi-6pup-p0p9u678vyoq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7jonjtis-x7p9-gwo2-3ua3-t1wnwdi76ebl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pd65mtvz-khy8-gaxh-cy8b-n9j0zmz39gcf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3760fxym-f7kd-vtkq-dm1a-hsz19kufn24u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-28 | 13:20 ]
+trojan://css7xgvh-4s22-l97y-r8gi-k5tor44g1c3w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://os5pvoy8-rt95-6sen-a5kv-sf7ecfcywsad@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7soq7hd1-n5fb-6sn8-0whk-7ngrckpf8lpw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6ba20a61-9ca7-4f9e-ac38-95f63c888a95@31.169.126.111:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#BG 🇧🇬 ┇ VLESS-TCP-RLT - Baykov Ilya Sergeevich ┇ 31.169.126.111
 vless://03d84c96-8591-49dc-a55e-331ce4855b64@185.203.119.81:80?type=xhttp&security=none&path=/#BG 🇧🇬 ┇ VLESS-XHTTP-NTLS - Belcloud LTD ┇ 185.203.119.81
 trojan://bpb-trojan@91.227.77.87:443?sni=skwygx.top&peer=skwygx.top&security=tls#BG 🇧🇬 ┇ TROJAN-TCP-TLS - BlueVPS OU ┇ 91.227.77.87
@@ -43,8 +43,8 @@ vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.116:8880?type=httpupgrad
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@147.78.140.44:8880?type=httpupgrade&security=none&path=/#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 147.78.140.44
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@147.78.140.24:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#BG 🇧🇬 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 147.78.140.24
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@147.78.140.148:2087?type=ws&security=tls&path=/&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&fp=chrome#BG 🇧🇬 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 147.78.140.148
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@147.78.140.3:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=Telegram-channel-WangCai2#BG 🇧🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 147.78.140.3
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@147.78.140.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#BG 🇧🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 147.78.140.13
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@147.78.140.3:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=Telegram-channel-WangCai2#BG 🇧🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 147.78.140.3
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.193:2096?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#BG 🇧🇬 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 147.78.140.193
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#BG 🇧🇬 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 147.78.140.5
 vless://24b7004a-71ff-460f-8e5a-a677249c8d8a@146.75.0.204:80?type=ws&security=none#BG 🇧🇬 ┇ VLESS-WS-NTLS - FASTLY ┇ 146.75.0.204
@@ -69,4 +69,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkb3hMVlpYd3RvT0JxOWRaTHU1Zmxn@31.13.208.122:23#BG 🇧🇬 ┇ SHADOWSOCKS-TCP-NTLS - Play2go International Limited ┇ 31.13.208.122
 vless://42becf37-2d79-46d8-88fe-31cb8b45ead3@146.19.80.27:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#BG 🇧🇬 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 146.19.80.27
 vless://0870a931-b121-1278-f010-b140a958a300@ustmyn.projectyuz.com:8572?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=wwGp0z3xZVoNxnAd7lcvN14cCs5Ye_JxRfGY4nqXkXo&sid=81c7e2cabf#BG 🇧🇬 ┇ VLESS-TCP-RLT - RoyaleHosting BV ┇ 46.233.45.156
-trojan://p1y6oq2u-6qm1-tnfy-53vs-avams4dphqla@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://h766e1rv-tq27-6vpl-f0j8-33zfumfrbxqr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
