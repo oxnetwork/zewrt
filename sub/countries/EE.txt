@@ -1,7 +1,7 @@
-trojan://y0fxrj03-moot-20my-0j2i-24lrkctllpoa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-29 | 10:29 ]
-trojan://m7vek9de-ssti-rjg7-4e8q-k5u7k5bejfeo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gywiot6k-3gfp-objj-fy5q-uk3w0dcwe1d1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ebrpjmva-ehak-r52w-ed5o-zv309rgirplz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pf501q0i-97gt-jp8c-qsfi-zarbsskv3qad@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-29 | 10:54 ]
+trojan://unpl8p17-l9me-7md7-k0h3-rfb8mfh43cf9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4bot0gez-uyy8-sja8-dhnz-mm1w8wbv1otp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fsi8d748-c1cw-6eex-h8qr-1lzygj93k1id@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 147.45.60.33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOeHNIUnNlVFNuRGxHZElJNkQyaDdn@147.45.60.102:52392#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 147.45.60.102
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS ┇ 45.82.253.234
@@ -22,6 +22,7 @@ vless://RzLDAo8bl56UoDcFFnTJO1@176.124.32.10:443?type=tcp&security=reality&sni=w
 vless://d6fd3680-32f2-49b7-82a7-cdb3e7c60921@146.19.143.194:23455?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=zK6s0sgHJbBH2nc8nvFpeMux6FeRxvoNDdY13BGC2U4&sid=c8125f01#EE 🇪🇪 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 146.19.143.194
 trojan://bpb-trojan@45.80.110.224:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 45.80.110.224
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 45.80.110.29
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.159.247.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.159.247.13
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.159.247.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.159.247.3
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.159.247.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.159.247.29
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.80.110.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 45.80.110.247
@@ -44,7 +45,6 @@ vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.159.247.251:8880?type=ws&securi
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.159.247.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.159.247.63
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.99:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 45.80.108.99
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.110.91:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 45.80.110.91
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.159.247.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.159.247.13
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.159.247.213:8880?type=ws&security=none#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.159.247.213
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.160:8880?type=httpupgrade&security=none&path=/#EE 🇪🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 45.80.108.160
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.80.110.254:8880?type=ws&security=none&path=/Telegram🇨🇳#EE 🇪🇪 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 45.80.110.254
@@ -63,4 +63,4 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@45.80.110.13:8880?type=ws&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ@185.215.186.65:8388#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.215.186.65
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 185.193.49.88
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - RJ Network OU ┇ 188.214.36.155
-trojan://e569hwzf-7b0d-taoe-298r-989ig5m04zo6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://5v0v4uj9-aa6g-2mt9-ek3o-l6248j3kjrac@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
