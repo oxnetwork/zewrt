@@ -1,7 +1,7 @@
-trojan://hvjqv4sm-uvvk-8ly8-d8yv-frdeps2676sx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-30 | 12:29 ]
-trojan://2fes4hk6-qaou-nxkx-hked-tarilnw42adb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zwcmgz18-rvj4-h3zo-xqmd-qgd4clicdhjc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://evazsbky-r1lq-6ioe-5kjd-hb5n8z1dqfab@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2ttuz7of-qfk4-9iao-7lp7-q9rceg5quyhg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-30 | 13:00 ]
+trojan://qpq1pzr8-w2jo-wsd6-duki-vhwjfbcjvwuk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://758mrksq-aueb-oj6k-cd8h-0vpvqdh5x1l7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0njnwvxp-zf30-taff-o9ag-addw9rw8npqa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://oVD08NoPNY@193.151.128.70:443?security=none#IR 🇮🇷 ┇ TROJAN-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.128.70
 trojan://wfwVSy2j-3jdYx_YrVmEcg@85.198.15.132:8084?sni=ghost.pixeltbz.fun&peer=ghost.pixeltbz.fun&security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Asre Dadeha Asiatech ┇ 85.198.15.132
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjE0MS4xNTMiLCJhZGQiOiJoczIubXVsdGlwcm94eS5pbmZvIiwicG9ydCI6OTk3OSwiaWQiOiIyNmQ5ZGRkOS0xZTVkLTQ2ZmMtOGJhYS1hNzc0NzVjMjllNjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
@@ -26,6 +26,7 @@ vless://19e7cc11-be49-491b-aed5-5ee2d1118c08@85.198.10.163:17841?type=tcp&securi
 vless://b4f31041-f53a-4a86-8058-7771084888bf@85.198.22.93:38221?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.93
 vless://a99d9961-5950-45b9-aeda-08f76b135374@193.151.130.176:2087?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.130.176
 vless://7b9a615e-9597-44bc-a79f-be7119555023@193.151.133.249:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.133.249
+vless://08b2c9bf-75b9-456a-9ea3-1a757979d30f@193.151.132.16:8543?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.132.16
 vless://2ca68e0e-9a13-5a61-b27c-87ecb6e896cf@193.151.136.243:52111?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.136.243
 vless://cf1d29a2-926d-40eb-972e-6e11f7f28d57@193.151.138.149:2525?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.138.149
 vless://71ff6388-fbd5-462b-afbd-90630b13704f@85.198.8.233:35445?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.8.233
@@ -60,7 +61,6 @@ vless://12689adb-cf6c-4dd9-bcae-1414f21325e5@85.198.23.128:7031?type=tcp&securit
 vless://b639219b-2414-4a7c-bf43-6bee61b2080b@85.198.22.13:11540?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.13
 vless://b639219b-2414-4a7c-bf43-6bee61b2080b@193.151.136.8:11540?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.136.8
 vless://0cd1ac34-31c0-4e92-9e5a-49a384008027@193.151.128.85:5879?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.128.85
-vless://19cf51d7-7ec9-4cd4-a36d-90d3a760954d@193.151.132.16:8543?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.132.16
 vless://d569b044-0dbb-496a-8d28-a3f14a003e73@85.198.13.27:52914?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.13.27
 vless://950961e0-a930-41c4-b8be-696139a0cca6@193.151.137.175:36505?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.137.175
 vless://70cd1feb-8479-4e68-8b1f-a504238c688d@ipe.alighan.ir:2082?type=httpupgrade&security=none&path=/@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN?ed=2048#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Asre Dadeha Asiatech ┇ 85.198.10.206
@@ -74,4 +74,4 @@ vless://30a4ba32-1e37-45f7-9a76-6ac5139220f0@85.198.23.170:2095?type=tcp&securit
 vless://149eee11-9ae2-4231-aded-67618d9668d3@85.198.15.85:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.15.85
 vless://c8215bbd-e060-4bca-bcc0-d36f64c79b47@78.110.115.230:34791?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 78.110.115.230
 vless://9ae1b0cb-55ff-4431-afe2-6ceb1f09bffd@85.198.22.213:43070?type=grpc&security=reality&sni=canva.com&fp=chrome&pbk=OiZTCW0hsyA1ceau0Dl7XUw3vhcKAA7zJBeJy6wIOkY&sid=3ba60226#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Asre Dadeha Asiatech ┇ 85.198.22.213
-trojan://dc9i3ze6-0tu6-4fjr-3ix0-gh8f6ehgwrsc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://tp79dtmz-mrfy-24jy-p1xj-m4txbx4v6eb9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
