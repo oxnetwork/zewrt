@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-06-30 08:50:56
+Timestamp: 2025-06-30 09:16:23
 Total Channels: 91
 Successful Scrapes: 61
 Failed Scrapes: 0
@@ -44,13 +44,13 @@ itenvpn: 14 configs
 DALTON_PING: 13 configs
 dalton_ping: 13 configs
 masterserver1: 13 configs
-v2ray_configs_pool: 12 configs
 vlees_v2rayng: 12 configs
 vpnpacket: 12 configs
+v2ray_configs_pool: 11 configs
 freenet_melli: 11 configs
 Subify_ir: 9 configs
 am20094: 7 configs
-antimeli: 6 configs
+antimeli: 7 configs
 confingv2raayng: 5 configs
 fnet00: 5 configs
 mdvpnsec: 5 configs
