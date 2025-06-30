@@ -1,10 +1,10 @@
-trojan://en2tzwzn-myp9-qh1p-vu1s-23jm1ql9paf2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-30 | 11:21 ]
-trojan://p9ws3kgd-w1vt-9f5o-w2rs-mprcmh0v5lyn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6ls2608c-o4nd-1sle-flj0-cnbsz3njlttg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://89p63op2-r0rk-otwf-tf4a-ln8x4jtwkl3x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://uy5tac4w-lb80-0kxs-sank-km0gotbqxzgj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-30 | 12:02 ]
+trojan://dkvcdjek-9nox-peer-fq2r-idzvaoab9p3n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7w695kkl-v4vz-vehw-zq30-atk56n37lnte@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zkxw7kjf-vna7-3s62-zo9k-aqu7hr1xh1f2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@213.210.55.72:24443?type=ws&security=tls&path=/?ed&sni=miku.mikuru.ip-ddns.com#GB 🇬🇧 ┇ VLESS-WS-TLS - BAGE ┇ 213.210.55.72
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@213.218.255.99:40000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 213.218.255.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@89.213.150.45:40000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 89.213.150.45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@hk.fastsoonlink.com:40000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 213.218.255.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjhiNjI1Yy1lZmI4LTQ1Y2QtYjUwOS1jN2NjZWFiZTBjYzY@194.105.83.3:40003#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 194.105.83.3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@194.105.89.58:40003#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 194.105.89.58
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@103.219.193.17:40001#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 103.219.193.17
@@ -14,4 +14,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@sg2.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 23.150.33.14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@jp.tsapps.ru:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 23.150.33.47
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJBR0UgXHUyNTA3IDY4LjE2OC4yMC4xMDUiLCJhZGQiOiI2OC4xNjguMjAuMTA1IiwicG9ydCI6MTAwMCwiaWQiOiIzYmI1OWVkZC1iOWJkLTRmMzktZTg4Zi03ODY5NzQzYTU0YTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://jmkhejli-j4q6-y4tr-dp9g-m7w3yqcjznly@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://yetsuv4g-atpu-2hnu-hjz1-nzhd3wmem4tf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
