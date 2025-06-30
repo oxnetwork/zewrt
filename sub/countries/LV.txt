@@ -1,7 +1,7 @@
-trojan://3aft3fs1-z77o-aw2v-04ca-f2rm6ri2fonp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-30 | 15:19 ]
-trojan://2oes9ngo-0fuo-dhp5-7524-3juiyb8b7mmo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b3cliufk-v1sf-jjix-aecz-xi4rekr4q619@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tfqrfv6n-3rkc-lk1u-z9t3-08f5k3rf21tw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9inbywqp-d04i-bcwo-2oqu-qt3jr7vpt31u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-30 | 16:14 ]
+trojan://yho59l60-j9ev-l7pv-o4zk-p96ym3dc1ipt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ppp74405-hi6x-5a0c-svkp-vk7thznupeqr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6znm87kq-1bba-dvze-emg9-z6yz3qvbla2s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6308d45b-ace4-495f-87a2-d1f9aad7729d@194.58.34.91:2020?type=grpc&security=none#LV 🇱🇻 ┇ VLESS-GRPC-NTLS - ASNET ┇ 194.58.34.91
 vless://71075f29-256c-430e-93c7-42f432bc8abe@213.21.245.83:443?type=tcp&security=tls&sni=tgju.org&fp=chrome&flow=-udp443#LV 🇱🇻 ┇ VLESS-TCP-TLS - Amir Mohammad Masoudi ┇ 213.21.245.83
 vless://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.nl.ir.systemgamingirani.ir:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#LV 🇱🇻 ┇ VLESS-TCP-RLT - Amir Mohammad Masoudi ┇ 213.21.245.91
@@ -14,18 +14,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE@45.128.151.67:31348#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 45.128.151.67
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQaGlsRWhnS0pRNTQwTU5LN21Ob2lt@185.135.86.86:51348#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 185.135.86.86
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@185.135.86.173:9030#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 185.135.86.173
-vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?type=ws&security=none&sni=lv01.abvpn.ru#LV 🇱🇻 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 103.231.73.214
+vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?type=tcp&security=none&path=/websocket#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 103.231.73.214
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.217.232:990#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA RixHost ┇ 46.183.217.232
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 216.173.70.187
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbzdIN3BmbW1xMG54TVJUU0JZRGo3@5.34.209.50:58919#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 5.34.209.50
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZWxlZ3JhbV9yeXVrb2hr@5.34.210.33:6001#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 5.34.210.33
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 216.173.70.187
 trojan://3778399737045327872@188.253.22.10:443?sni=key-pangolin.treefrog761.one&peer=key-pangolin.treefrog761.one&security=tls#LV 🇱🇻 ┇ TROJAN-TCP-TLS - SIA VEESP ┇ 188.253.22.10
 trojan://Aimer@91.197.3.168:8443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#LV 🇱🇻 ┇ TROJAN-TCP-TLS - SIA VEESP ┇ 91.197.3.168
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@91.197.3.157:443?type=ws&security=tls&path=Telegram🇮🇷@ShadowProxy66/?ed=2560&sni=0926.qiang2000.link#LV 🇱🇻 ┇ VLESS-WS-TLS - SIA VEESP ┇ 91.197.3.157
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@94.158.219.203:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 94.158.219.203
-vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@216.173.70.95:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 216.173.70.95
-vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@195.135.254.59:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.254.59
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@5.34.210.175:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 5.34.210.175
+vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@195.135.254.59:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 195.135.254.59
+vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@216.173.70.95:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 216.173.70.95
 vless://0fa53d34-5f21-4d66-bb5f-6f37c2a8c4e1@62.192.174.205:443?type=tcp&security=reality&sni=lv.wikipedia.org&fp=firefox&flow=xtls-rprx-vision&pbk=Lb1Gi0VcVuytLf_gb846u7iKkHVywpG8IC9wdZslwUA&sid=102707ab31571a93#LV 🇱🇻 ┇ VLESS-TCP-RLT - Serva One Ltd ┇ 62.192.174.205
 vless://8c8873fb-6e68-4359-8d67-092d399612c9@lyra.persia.my:26000?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - Sia Nano IT ┇ 185.82.126.141
-trojan://x1vj6e6j-5dyl-s12u-ys1l-03o1l28bbg6g@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://vt0e12tf-exq3-h4y3-magj-jd3fdodfruz7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
