@@ -1,10 +1,14 @@
-trojan://x3q6pa6b-lzd3-1am2-qyxi-pkid0y3ws0eo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-30 | 09:24 ]
-trojan://q9udzhd4-w7bu-oihr-9c4z-65io7go0o1gs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://adtacxb2-lba5-2w2p-ofj6-ww4eufbggfwc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9op94p93-9neh-vt31-m1mb-2hrbpx0hrfc7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://254l8mqc-7i9n-uxc0-uaqd-4yhj46ftixnr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-30 | 10:05 ]
+trojan://wjv85zhl-kxnx-3cnx-rz81-xrz89hmdwmzx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://k21iy8iw-6gz0-lbx6-9l62-c7zkv693qs26@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ms8if5jl-yetw-rnxx-4vos-l98cde2optti@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@34.1.15.24:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#FR 🇫🇷 ┇ VLESS-WS-TLS - GOOGLE ┇ 34.1.15.24
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBHT09HTEUgXHUyNTA3IDM1LjIxNi4xMTMuNjAiLCJhZGQiOiIzNS4yMTYuMTEzLjYwIiwicG9ydCI6NDQ0NDUsImlkIjoiN2MyZTQ4NTgtZDQwMi00YzgzLWJlYmItMzYyYzJhY2EzM2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJsaWtlLmxvYy5jYyIsInBhdGgiOiI3YzJlNDg1OC1kNDAyLTRjODMtYmViYi0zNjJjMmFjYTMzZmUtdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsaWtlLmxvYy5jYyJ9
 ss://YWVzLTI1Ni1nY206ODg4ODg4ODg@8.8.8.8:8888#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GOOGLE ┇ 8.8.8.8
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.102:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 172.253.122.102
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.189.238:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.189.238
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.179.113:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.251.179.113
+vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.102:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 192.178.218.102
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.68.14:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.68.14
 vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.32.21:443?type=ws&security=tls&path=/ms138/&sni=gcdn.freenet-rd.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 216.239.32.21
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.163.100:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.251.163.100
@@ -20,7 +24,6 @@ vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.101:443?type=ws&security
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.139:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 192.178.218.139
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.115.139:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 172.253.115.139
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.102:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 172.253.63.102
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.102:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 172.253.122.102
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.214.142:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.251.214.142
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.163.113:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.251.163.113
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.138:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 192.178.218.138
@@ -38,7 +41,6 @@ vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.163.102:443?type=ws&securit
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.188.14:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.188.14
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.179.100:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.251.179.100
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.139:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 172.253.63.139
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.189.238:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.189.238
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.114.101:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.114.101
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.163.101:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.251.163.101
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.113:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 172.253.122.113
@@ -58,10 +60,8 @@ vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.46.174:443?type=ws&security
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.139:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 172.253.122.139
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.179.101:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.251.179.101
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.46.238:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.251.46.238
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.251.179.113:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.251.179.113
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.114.100:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.114.100
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.114.138:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.114.138
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.100:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 172.253.63.100
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.102:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 192.178.218.102
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.191.78:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.191.78
-trojan://voj793e1-7pdm-s09p-lp2w-52zzbclyxnzj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://wjfr785g-ednr-habr-4z2c-jkeoqjbcnx47@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
