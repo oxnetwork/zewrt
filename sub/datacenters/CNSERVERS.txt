@@ -1,7 +1,7 @@
-trojan://ia9ufgsx-bhsy-ulcs-onm6-1c9n26uzxomr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 00:55 ]
-trojan://2rw8lyxh-zjz9-iwmn-kjkk-8isgoett37kv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://exurfse6-pt7x-jqq1-tfyy-l10ulpr1z94f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l7b0sno4-i5u5-6d25-1hw5-8cgprerg4ule@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://38guxx4a-gt68-1rsn-yuot-7obgcogpe66o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 01:18 ]
+trojan://z17i1nig-8wyw-bhs1-xiia-q33i7y3jo2m8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://08ni5sb5-4fxm-azpy-bnf9-t8gvrmicxwz9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dy31uj2h-6idp-mba7-v032-g3dgc1fdxfgx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.103.245.125
 trojan://58236154-f8ba-42cd-91b0-88cff4634702@cn-hk-30.fnhffffe4.cc:50208?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.20.223.168
 trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@cn-hk-51.fnhffffe4.cc:50014?sni=telewebion.com&peer=telewebion.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 103.234.53.23
@@ -13,14 +13,13 @@ vless://7c4ba50c-b313-42df-bf33-0121082a4d0b@103.103.245.218:37730?type=tcp&secu
 vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy0tTlRMUyAtIENOU0VSVkVSUyBcdTI1MDcgMTYzLjUzLjI0Ni4yMzkiLCJhZGQiOiIxNjMuNTMuMjQ2LjIzOSIsInBvcnQiOjEwMDY1LCJpZCI6IjFmMzA4OTk2LTdmYTYtNDZhYy04NzAwLTdkNzY2ZWFlMDg0YiIsImFpZCI6MCwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIn0
 ss://YWVzLTI1Ni1nY206MGIxOTEwNzZkMThm@156.251.179.136:636#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - CNSERVERS ┇ 156.251.179.136
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODI5M2IyMDQ3MDc@156.251.179.238:58697#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - CNSERVERS ┇ 156.251.179.238
-trojan://e2afc128-ca51-39b6-897c-eb2649825df9@twb-zf.jiashumao.net:25888?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 162.209.175.122
-trojan://e2afc128-ca51-39b6-897c-eb2649825df9@yn-zf.jiashumao.net:40375?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 162.209.175.125
-trojan://Aimer@156.251.180.181:21698?sni=agepm.ambercc.filegear-sg.me&peer=agepm.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 156.251.180.181
+trojan://e2afc128-ca51-39b6-897c-eb2649825df9@twb-zf.jiashumao.net:25888?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 162.209.175.125
+trojan://Aimer@156.251.180.181:21698?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 156.251.180.181
+trojan://Aimer@193.9.46.181:50080?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 193.9.46.181
 trojan://Aimer@185.183.84.163:60022?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 185.183.84.163
+trojan://Aimer@185.201.226.117:46238?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 185.201.226.117
 trojan://Aimer@185.183.84.93:30001?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 185.183.84.93
 trojan://Aimer@45.12.88.145:8080?sni=epmf.ambercc.filegear-sg.me&peer=epmf.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 45.12.88.145
-trojan://Aimer@185.201.226.117:46238?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 185.201.226.117
-trojan://Aimer@193.9.46.181:50080?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 193.9.46.181
 trojan://Aimer@193.9.46.16:13333?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 193.9.46.16
 trojan://Aimer@212.103.62.244:19560?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 212.103.62.244
 trojan://2af31107-e577-4995-8247-e8a57855e90b@156.251.180.47:10012?sni=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&peer=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - CNSERVERS ┇ 156.251.180.47
@@ -47,7 +46,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENOU0VSVkVSUyBcdTI1MDcgMTcyLjI0Ny43Ni4xOTQiLCJhZGQiOiIxNzIuMjQ3Ljc2LjE5NCIsInBvcnQiOjEwMDAxLCJpZCI6IjZiYzlkMjBlLTYxNjAtNDkxMi04NWQ3LWNhNTJiZjc4OGY3NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENOU0VSVkVSUyBcdTI1MDcgMTcyLjI0Ny43Ni45MCIsImFkZCI6IjE3Mi4yNDcuNzYuOTAiLCJwb3J0IjoxMDAwMSwiaWQiOiIwMDUyZjUxOC01MWYwLTRlMjgtYjJiYS05N2JlY2QyNTBlMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENOU0VSVkVSUyBcdTI1MDcgMTcyLjI0Ny43Ni4xODAiLCJhZGQiOiIxNzIuMjQ3Ljc2LjE4MCIsInBvcnQiOjEwMDAxLCJpZCI6Ijg5NmZkMGE5LTI1MmYtNDU0Zi05NzMxLWJhYWFmNTBjNzk1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTlNFUlZFUlMgXHUyNTA3IDIzLjIyNC42OS4xNCIsImFkZCI6IjIzLjIyNC42OS4xNCIsInBvcnQiOjMwMDAzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJkdGxzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTlNFUlZFUlMgXHUyNTA3IDE3Mi4yNDcuMTQ4LjkzIiwiYWRkIjoiMTcyLjI0Ny4xNDguOTMiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3BhdGgvMTMzNTI3MTkwODE0IiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTlNFUlZFUlMgXHUyNTA3IDIzLjIyNS4xMjUuODYiLCJhZGQiOiIyMy4yMjUuMTI1Ljg2IiwicG9ydCI6NDQzLCJpZCI6IjhmYjkyMWMwLTU2NGQtNGQ1YS05YjEzLTM4NGMwMTgyMDEyNiIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9mb290ZXJzIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTlNFUlZFUlMgXHUyNTA3IDIzLjIyNS4xMjUuODQiLCJhZGQiOiIyMy4yMjUuMTI1Ljg0IiwicG9ydCI6NDQzLCJpZCI6IjhmYjkyMWMwLTU2NGQtNGQ1YS05YjEzLTM4NGMwMTgyMDEyNiIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9mb290ZXJzIiwidGxzIjoidGxzIn0
@@ -119,4 +117,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ05TRVJWRVJTIFx1MjUwNyAyMy4yMjUuOS4yMzQiLCJhZGQiOiIyMy4yMjUuOS4yMzQiLCJwb3J0Ijo0NDMsImlkIjoiZDllMWFhZTMtYmZlMS00ZmZkLTkwMTktMThlYjAzNDczMTM0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMjkyMDI2MDExMjA1In0
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@149.104.35.222:5010?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - CNSERVERS ┇ 149.104.35.222
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@149.104.35.37:5010?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - CNSERVERS ┇ 149.104.35.37
-trojan://sdil9quw-3xqb-gcye-zcpz-oze721pv96dl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://0ez7wh41-wn53-ofky-1weg-r8x3crpncc5b@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
