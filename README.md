@@ -104,7 +104,15 @@ Cutting-edge protocol for maximum privacy
 [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/reality.txt)
 
 </td>
-<td align="center"></td>
+<td align="center">
+
+**🌐 Mixed Configurations**
+```
+20 curated configs combining Vmess, Vless, Shadowsocks, Trojan, and Reality
+```
+[`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_1.txt)
+
+</td>
 </tr>
 </table>
 
@@ -161,7 +169,7 @@ Direct and reliable TCP connections
 
 ## 🚀 Quick Start
 
-1. **Choose a Protocol**: Select from Vmess, Vless, Shadowsocks, Trojan, or Reality based on your needs.
+1. **Choose a Protocol**: Select from Vmess, Vless, Shadowsocks, Trojan, Reality, or Mixed Configurations based on your needs.
 2. **Subscribe**: Use the provided [Subscription Links](#configuration-categories) to import configs into your V2Ray client.
 3. **Connect**: Configure your client with the subscription link and connect to the desired server.
 4. **Optimize**: Use our API to fetch location-optimized configurations for the best performance.
@@ -239,7 +247,7 @@ Access configurations from leading global providers:
 |---------|------|-------------------|---------|------|-------------------|
 | 🇦🇷 Argentina | AR | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AR.txt) | 🇧🇿 Belize | BZ | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BZ.txt) |
 | 🇧🇴 Bolivia | BO | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BO.txt) | 🇧🇷 Brazil | BR | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BR.txt) |
-| 🇨🇦 Canada | CA | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CA.txt) | 🇨🇱 Chile | CL | [`📡 Subscription Link`](https://raw.githubusercontent.com/ProjectX/configs-collector-v2ray/refs/heads/main/sub/countries/CL.txt) |
+| 🇨🇦 Canada | CA | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CA.txt) | 🇨🇱 Chile | CL | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CL.txt) |
 | 🇨🇴 Colombia | CO | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CO.txt) | 🇨🇷 Costa Rica | CR | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CR.txt) |
 | 🇪🇨 Ecuador | EC | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/EC.txt) | 🇬🇹 Guatemala | GT | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/GT.txt) |
 | 🇲🇽 Mexico | MX | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MX.txt) | 🇳🇮 Nicaragua | NI | [`📡 Subscription Link`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NI.txt) |
