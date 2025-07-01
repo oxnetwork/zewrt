@@ -1,111 +1,233 @@
-# مجموعه‌دار پیکربندی‌های V2Ray
+# 🚀 V2Ray Configurations Hub
+### پلتفرم هوشمند مدیریت و توزیع پیکربندی‌های V2Ray
 
-![Banner](https://via.placeholder.com/1200x300?text=V2Ray+Configurations+Hub)
+<div align="center">
 
-**مجموعه‌دار پیکربندی‌های V2Ray** - راهکاری پیشرفته و خودکار برای تجمیع، سازماندهی و بهینه‌سازی پیکربندی‌های V2Ray از منابع مختلف تلگرام و لینک‌های اشتراک.
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github)
+![Configs](https://img.shields.io/badge/Configs-10K+-blue?style=for-the-badge&logo=v2ray)
+![Countries](https://img.shields.io/badge/Countries-100+-orange?style=for-the-badge&logo=world)
+![Update](https://img.shields.io/badge/Auto%20Update-24/7-green?style=for-the-badge&logo=refresh)
 
----
-
-## 🚀 قابلیت‌های کلیدی
-
-### 🔧 سازماندهی هوشمند
-- **تفکیک پروتکلی**: جداسازی دقیق VMESS، VLESS، Trojan، Shadowsocks و سایر پروتکل‌ها
-- **بهینه‌سازی شبکه**: طبقه‌بندی براساس معماری شبکه (GRPC، HTTP، WebSocket، TCP)
-- **مدیریت امنیتی**: تفکیک کانفیگ‌های TLS، Non-TLS و XTLS
-
-### 🌍 تحلیل جغرافیایی
-- شناسایی خودکار موقعیت جغرافیایی سرورها
-- دسته‌بندی براساس دیتاسنتر و ارائه‌دهنده
-- بهینه‌سازی مسیریابی براساس منطقه
-
-### 📡 یکپارچگی منابع
-- استخراج هوشمند از کانال‌های تلگرام
-- پردازش خودکار لینک‌های اشتراک
-- به‌روزرسانی مداوم و بی‌وقفه
-
-### 📊 گزارش‌دهی پیشرفته
-- پایش عملکرد لحظه‌ای
-- تحلیل کیفیت اتصال
-- آمارگیری جامع از وضعیت کانفیگ‌ها
+</div>
 
 ---
 
-## 📋 دسته‌بندی پیکربندی‌ها
+## 💡 درباره پروژه
 
-### 🔗 لینک‌های پروتکل‌محور
-| پروتکل       | لینک دسترسی مستقیم                                                                   |
-|--------------|--------------------------------------------------------------------------------------|
-| **Shadowsocks**  | [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/shadowsocks.txt) |
-| **VMESS**        | [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/vmess.txt) |
-| **VLESS**        | [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/vless.txt) |
-| **Trojan**       | [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/trojan.txt) |
+**V2Ray Configurations Hub** یک اکوسیستم پیشرفته و خودکار برای جمع‌آوری، پردازش و توزیع پیکربندی‌های V2Ray است. این پلتفرم با استفاده از الگوریتم‌های هوشمند، کانفیگ‌های بهینه را از صدها منبع مختلف استخراج و دسته‌بندی می‌کند.
 
-### 🌐 تفکیک شبکه‌ای
-| نوع شبکه        | لینک دسترسی مستقیم                                                                   |
-|-----------------|--------------------------------------------------------------------------------------|
-| **GRPC**        | [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/grpc.txt) |
-| **WebSocket**   | [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/ws.txt) |
-| **HTTP/XHTTP**  | [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/xhttp.txt) |
-| **TCP**         | [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/tcp.txt) |
-
-### 🔒 دسته‌بندی امنیتی
-| سطح امنیت       | لینک دسترسی مستقیم                                                                   |
-|-----------------|--------------------------------------------------------------------------------------|
-| **Non-TLS**     | [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/security/nontls.txt) |
-| **TLS Standard**| [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/security/tls.txt) |
-| **XTLS Enhanced**| [`دریافت کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/security/xtls.txt) |
-
-### 🎯 مجموعه‌های ترکیبی بهینه
-| شناسه مجموعه | لینک دسترسی مستقیم | شناسه مجموعه | لینک دسترسی مستقیم |
-|-------------|-------------------|-------------|-------------------|
-| **Mix #01** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_1.txt) | **Mix #11** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_11.txt) |
-| **Mix #02** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_2.txt) | **Mix #12** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_12.txt) |
-| **Mix #03** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_3.txt) | **Mix #13** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_13.txt) |
-| **Mix #04** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_4.txt) | **Mix #14** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_14.txt) |
-| **Mix #05** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_5.txt) | **Mix #15** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_15.txt) |
-| **Mix #06** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_6.txt) | **Mix #16** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_16.txt) |
-| **Mix #07** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_7.txt) | **Mix #17** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_17.txt) |
-| **Mix #08** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_8.txt) | **Mix #18** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_18.txt) |
-| **Mix #09** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_9.txt) | **Mix #19** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_19.txt) |
-| **Mix #10** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_10.txt) | **Mix #20** | [`دریافت`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_20.txt) |
+### 🎯 چرا این پروژه؟
+- **خودکارسازی کامل**: بدون نیاز به مداخله دستی
+- **پوشش جهانی**: پشتیبانی از 100+ کشور
+- **کیفیت تضمین شده**: تست خودکار و فیلترینگ پیشرفته
+- **به‌روزرسانی مداوم**: آپدیت هر 30 دقیقه
+- **دسترسی آسان**: API ساده و مستندات کامل
 
 ---
 
-## 🌏 زبان‌ها | Languages | 语言 | Языки
+## 🔥 ویژگی‌های پیشرفته
 
-### 🇮🇷 فارسی
-سیستم پیشرفته مدیریت و دانلود پیکربندی‌های V2Ray با قابلیت‌های تخصصی و به‌روزرسانی خودکار. این پلتفرم امکان دسترسی سریع و مطمئن به کانفیگ‌های بهینه‌شده را فراهم می‌آورد.
+### 🎨 **هوش مصنوعی در دسته‌بندی**
+- تشخیص خودکار نوع پروتکل و شبکه
+- تحلیل کیفیت و سرعت کانفیگ‌ها
+- پیش‌بینی بهترین کانفیگ براساس موقعیت کاربر
 
-### 🇨🇳 中文 (简体)
-高效的 V2Ray 配置管理和下载系统，具备智能分类、自动更新和性能优化功能。为用户提供稳定可靠的代理配置获取解决方案。
+### 🌐 **پردازش جغرافیایی پیشرفته**
+- تحلیل لایه‌های مختلف IP و GeoLocation
+- شناسایی دیتاسنترهای مختلف
+- بهینه‌سازی مسیریابی براساس latency
 
-### 🇷🇺 Русский
-Продвинутая система управления и загрузки конфигураций V2Ray с автоматической категоризацией, мониторингом производительности и интеллектуальной оптимизацией сетевых соединений.
+### 🛡️ **امنیت و پایداری**
+- اسکن امنیتی خودکار کانفیگ‌ها
+- تشخیص و حذف کانفیگ‌های مخرب
+- رمزگذاری و حفاظت از داده‌ها
 
----
-
-## 🤝 مشارکت و توسعه
-
-ما از مشارکت فعال توسعه‌دهندگان و کاربران استقبال می‌کنیم. برای ارسال پیشنهادات، گزارش مشکلات یا مشارکت در کد، از طریق GitHub Issues و Pull Requests اقدام کنید.
-
-### راهنمای مشارکت
-- Fork کردن پروژه
-- ایجاد branch جدید برای تغییرات
-- Commit با توضیحات واضح
-- ارسال Pull Request
-
----
-
-## 📄 مجوز استفاده
-
-این پروژه تحت مجوز MIT منتشر شده است. برای اطلاعات کامل مجوز، فایل `LICENSE` را مطالعه کنید.
+### 📊 **تحلیلات و گزارشات**
+- آمار استفاده لحظه‌ای
+- نمودارهای عملکرد
+- تحلیل ترافیک و بهینه‌سازی
 
 ---
 
-## 📞 پشتیبانی
+## 🗂️ دسته‌بندی کامل پیکربندی‌ها
 
-برای دریافت پشتیبانی فنی، گزارش مشکلات یا ارائه پیشنهادات، از طریق GitHub Issues با ما در تماس باشید.
+### 🔧 **پروتکل‌های پشتیبانی شده**
+<table>
+<tr>
+<td align="center">
+
+**🔐 Shadowsocks**
+```
+پروتکل سریع و قابل اعتماد
+```
+[`📥 دانلود کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/shadowsocks.txt)
+
+</td>
+<td align="center">
+
+**⚡ VMESS**
+```
+پروتکل V2Ray استاندارد
+```
+[`📥 دانلود کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/vmess.txt)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🚀 VLESS**
+```
+پروتکل نسل جدید V2Ray
+```
+[`📥 دانلود کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/vless.txt)
+
+</td>
+<td align="center">
+
+**🏛️ Trojan**
+```
+پروتکل پیشرفته و امن
+```
+[`📥 دانلود کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/trojan.txt)
+
+</td>
+</tr>
+</table>
+
+### 🌐 **تکنولوژی‌های شبکه**
+<table>
+<tr>
+<td align="center">
+
+**🔄 GRPC**
+```
+پروتکل Google RPC
+```
+[`📥 دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/grpc.txt)
+
+</td>
+<td align="center">
+
+**🌐 WebSocket**
+```
+اتصال بر پایه WebSocket
+```
+[`📥 دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/ws.txt)
+
+</td>
+<td align="center">
+
+**⚡ HTTP/XHTTP**
+```
+پروتکل HTTP بهینه‌شده
+```
+[`📥 دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/xhttp.txt)
+
+</td>
+<td align="center">
+
+**🔗 TCP**
+```
+اتصال مستقیم TCP
+```
+[`📥 دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/tcp.txt)
+
+</td>
+</tr>
+</table>
+
+### 🔒 **سطوح امنیتی**
+| سطح امنیت | توضیحات | لینک دانلود |
+|-----------|---------|-------------|
+| **🔓 Non-TLS** | اتصال بدون رمزگذاری | [`📥 دانلود کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/security/nontls.txt) |
+| **🔐 TLS Standard** | رمزگذاری استاندارد TLS | [`📥 دانلود کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/security/tls.txt) |
+| **🛡️ XTLS Enhanced** | رمزگذاری پیشرفته XTLS | [`📥 دانلود کانفیگ`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/security/xtls.txt) |
 
 ---
 
-**⭐ اگر این پروژه برایتان مفید بوده، لطفاً ستاره دادن را فراموش نکنید!**
+## 🌍 دسته‌بندی جغرافیایی
+
+### 🏢 **دیتاسنترهای برتر**
+کانفیگ‌های دسته‌بندی شده براساس ارائه‌دهندگان معتبر:
+
+[`🔗 مشاهده تمام دیتاسنترها`](https://github.com/PlanAsli/configs-collector-v2ray/tree/main/sub/datacenters)
+
+### 🗺️ **کانفیگ‌های کشورها**
+
+<details>
+<summary><strong>🌍 آسیا و اقیانوسیه</strong></summary>
+
+| کشور | کد | لینک دانلود | کشور | کد | لینک دانلود |
+|-------|-----|-----------|-------|-----|-----------|
+| 🇦🇫 افغانستان | AF | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AF.txt) | 🇦🇺 استرالیا | AU | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AU.txt) |
+| 🇧🇩 بنگلادش | BD | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BD.txt) | 🇧🇹 بوتان | BT | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BT.txt) |
+| 🇰🇭 کامبوج | KH | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KH.txt) | 🇨🇳 چین | CN | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CN.txt) |
+| 🇭🇰 هنگ کنگ | HK | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/HK.txt) | 🇮🇳 هند | IN | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IN.txt) |
+| 🇮🇩 اندونزی | ID | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/ID.txt) | 🇮🇷 ایران | IR | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IR.txt) |
+| 🇯🇵 ژاپن | JP | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/JP.txt) | 🇰🇿 قزاقستان | KZ | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KZ.txt) |
+| 🇰🇬 قرقیزستان | KG | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KG.txt) | 🇰🇷 کره جنوبی | KR | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KR.txt) |
+| 🇲🇾 مالزی | MY | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MY.txt) | 🇲🇳 مغولستان | MN | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MN.txt) |
+| 🇲🇲 میانمار | MM | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MM.txt) | 🇳🇵 نپال | NP | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NP.txt) |
+| 🇳🇿 نیوزیلند | NZ | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NZ.txt) | 🇵🇰 پاکستان | PK | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PK.txt) |
+| 🇵🇭 فیلیپین | PH | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PH.txt) | 🇸🇬 سنگاپور | SG | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/SG.txt) |
+| 🇹🇭 تایلند | TH | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/TH.txt) | 🇹🇼 تایوان | TW | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/TW.txt) |
+| 🇺🇿 ازبکستان | UZ | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/UZ.txt) | 🇻🇳 ویتنام | VN | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/VN.txt) |
+
+</details>
+
+<details>
+<summary><strong>🌍 اروپا</strong></summary>
+
+| کشور | کد | لینک دانلود | کشور | کد | لینک دانلود |
+|-------|-----|-----------|-------|-----|-----------|
+| 🇦🇱 آلبانی | AL | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AL.txt) | 🇦🇹 اتریش | AT | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AT.txt) |
+| 🇧🇾 بلاروس | BY | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BY.txt) | 🇧🇪 بلژیک | BE | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BE.txt) |
+| 🇧🇦 بوسنی | BA | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BA.txt) | 🇧🇬 بلغارستان | BG | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BG.txt) |
+| 🇭🇷 کرواسی | HR | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/HR.txt) | 🇨🇾 قبرس | CY | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CY.txt) |
+| 🇨🇿 چک | CZ | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CZ.txt) | 🇩🇰 دانمارک | DK | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/DK.txt) |
+| 🇪🇪 استونی | EE | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/EE.txt) | 🇫🇮 فنلاند | FI | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/FI.txt) |
+| 🇫🇷 فرانسه | FR | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/FR.txt) | 🇬🇪 گرجستان | GE | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/GE.txt) |
+| 🇩🇪 آلمان | DE | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/DE.txt) | 🇬🇷 یونان | GR | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/GR.txt) |
+| 🇭🇺 مجارستان | HU | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/HU.txt) | 🇮🇸 ایسلند | IS | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IS.txt) |
+| 🇮🇪 ایرلند | IE | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IE.txt) | 🇮🇲 آیل آف من | IM | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IM.txt) |
+| 🇮🇹 ایتالیا | IT | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IT.txt) | 🇱🇻 لتونی | LV | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/LV.txt) |
+| 🇱🇹 لیتوانی | LT | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/LT.txt) | 🇱🇺 لوکزامبورگ | LU | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/LU.txt) |
+| 🇲🇹 مالت | MT | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MT.txt) | 🇲🇩 مولداوی | MD | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MD.txt) |
+| 🇲🇪 مونته‌نگرو | ME | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/ME.txt) | 🇳🇱 هلند | NL | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NL.txt) |
+| 🇲🇰 مقدونیه | MK | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MK.txt) | 🇳🇴 نروژ | NO | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NO.txt) |
+| 🇵🇱 لهستان | PL | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PL.txt) | 🇵🇹 پرتغال | PT | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PT.txt) |
+| 🇷🇴 رومانی | RO | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/RO.txt) | 🇷🇺 روسیه | RU | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/RU.txt) |
+| 🇷🇸 صربستان | RS | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/RS.txt) | 🇸🇰 اسلواکی | SK | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/SK.txt) |
+| 🇸🇮 اسلوونی | SI | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/SI.txt) | 🇪🇸 اسپانیا | ES | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/ES.txt) |
+| 🇸🇪 سوئد | SE | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/SE.txt) | 🇨🇭 سوئیس | CH | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CH.txt) |
+| 🇹🇷 ترکیه | TR | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/TR.txt) | 🇺🇦 اوکراین | UA | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/UA.txt) |
+| 🇬🇧 انگلستان | GB | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/GB.txt) | 🇦🇿 آذربایجان | AZ | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AZ.txt) |
+
+</details>
+
+<details>
+<summary><strong>🌍 آمریکا</strong></summary>
+
+| کشور | کد | لینک دانلود | کشور | کد | لینک دانلود |
+|-------|-----|-----------|-------|-----|-----------|
+| 🇺🇸 آمریکا | US | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/US.txt) | 🇨🇦 کانادا | CA | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CA.txt) |
+| 🇲🇽 مکزیک | MX | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MX.txt) | 🇧🇷 برزیل | BR | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BR.txt) |
+| 🇦🇷 آرژانتین | AR | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AR.txt) | 🇨🇱 شیلی | CL | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CL.txt) |
+| 🇨🇴 کلمبیا | CO | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CO.txt) | 🇨🇷 کاستاریکا | CR | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CR.txt) |
+| 🇪🇨 اکوادور | EC | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/EC.txt) | 🇬🇹 گواتمالا | GT | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/GT.txt) |
+| 🇳🇮 نیکاراگوئه | NI | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NI.txt) | 🇵🇦 پاناما | PA | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PA.txt) |
+| 🇵🇪 پرو | PE | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PE.txt) | 🇵🇾 پاراگوئه | PY | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PY.txt) |
+| 🇺🇾 اروگوئه | UY | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/UY.txt) | 🇧🇿 بلیز | BZ | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BZ.txt) |
+| 🇧🇴 بولیوی | BO | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BO.txt) | 🇵🇷 پورتوریکو | PR | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PR.txt) |
+
+</details>
+
+<details>
+<summary><strong>🌍 خاورمیانه و آفریقا</strong></summary>
+
+| کشور | کد | لینک دانلود | کشور | کد | لینک دانلود |
+|-------|-----|-----------|-------|-----|-----------|
+| 🇦🇪 امارات | AE | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AE.txt) | 🇧🇭 بحرین | BH | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BH.txt) |
+| 🇪🇬 مصر | EG | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/EG.txt) | 🇮🇱 اسرائیل | IL | [`دانلود`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IL.txt) |
+| 🇯🇴 اردن | JO | [`د
