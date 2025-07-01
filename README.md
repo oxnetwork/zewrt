@@ -9,7 +9,7 @@
 ## ویژگی‌ها
 
 - **دسته‌بندی بر اساس پروتکل**: پشتیبانی از پروتکل‌های VMESS، VLESS، Trojan، Shadowsocks و غیره.
-- **بهینه‌سازی شبکه**: دسته‌بندی کانفیگ‌ها بر اساس نوع شبکه (مانند GRPC، HTTP، WS).
+- **بهینه‌سازی شبکه**: دسته‌بندی کانفیگ‌ها بر اساس نوع شبکه (GRPC، HTTP، WS، TCP).
 - **فیلتر امنیتی**: مدیریت جداگانه کانفیگ‌های TLS و Non-TLS.
 - **تشخیص جغرافیایی**: شناسایی کشورها و دیتاسنترها برای هر کانفیگ.
 - **یکپارچگی با تلگرام**: استخراج کانفیگ‌های جدید از کانال‌های تلگرام.
@@ -21,21 +21,42 @@
 ## دسته‌بندی کانفیگ‌ها
 
 ### لینک‌های پروتکل
-| پروتکل       | لینک دانلود                                                                          |
+| پروتکل       | لینک سابسکرایب                                                                          |
 |--------------|--------------------------------------------------------------------------------------|
-| Shadowsocks  | [دانلود کانفیگ](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/shadowsocks.txt) |
-| VMESS        | [دانلود کانفیگ](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/vmess.txt)         |
-| VLESS        | [دانلود کانفیگ](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/vless.txt)         |
-| Trojan       | [دانلود کانفیگ](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/trojan.txt)         |
+| Shadowsocks  | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/shadowsocks.txt) |
+| VMESS        | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/vmess.txt)         |
+| VLESS        | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/vless.txt)         |
+| Trojan       | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/trojan.txt)         |
 
 ---
 
 ### لینک‌های شبکه
-| نوع شبکه | توضیحات                          |
-|----------|----------------------------------|
-| GRPC     | بهینه‌سازی شده برای سرعت بالا   |
-| HTTP     | مناسب برای ارتباطات پایدار      |
-| WebSocket| ایده‌آل برای عملکرد انعطاف‌پذیر  |
+| نوع شبکه      | لینک سابسکرایب                                                                          |
+|---------------|--------------------------------------------------------------------------------------|
+| GRPC          | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/grpc.txt)          |
+| WebSocket     | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/ws.txt)            |
+| HTTP          | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/xhttp.txt)         |
+| TCP           | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/tcp.txt)           |
+
+---
+
+### لینک‌های امنیتی
+| نوع امنیت      | لینک سابسکرایب                                                                          |
+|----------------|--------------------------------------------------------------------------------------|
+| Non-TLS        | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/security/nontls.txt)       |
+| TLS            | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/security/tls.txt)          |
+| XTLS           | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/security/xtls.txt)         |
+
+---
+
+### کانفیگ‌های میکس
+| شماره فایل | لینک سابسکرایب                                                                          |
+|------------|--------------------------------------------------------------------------------------|
+| Mixed 1    | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_1.txt)         |
+| Mixed 2    | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_2.txt)         |
+| Mixed 3    | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_3.txt)         |
+| ...        | ...                                                                                   |
+| Mixed 20   | [سابسکرایب](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_20.txt)        |
 
 ---
 
