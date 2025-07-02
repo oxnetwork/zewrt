@@ -81,7 +81,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v27.1.0"
+    DEV_SIGNATURE = "</> Collector v5.1.0"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
