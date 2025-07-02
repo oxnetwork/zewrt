@@ -1,9 +1,9 @@
-trojan://5626nk4y-eg4v-9pmv-umgj-rtei2yqgek78@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 12:29 ]
-trojan://crucj321-kjjk-xf5v-q26b-h49efkk5o20u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3wk750po-l8cg-ez18-s4i1-fnactwcvmie1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3pxcbf89-v7ed-zbyk-nixv-dbqp3w4kfmof@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://g6juur0i-9yv3-ucjz-c4m0-v1z44vvokrv9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 12:59 ]
+trojan://rpzah7g7-2j7e-uzwl-gk0r-11556l72alrt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xh4mroem-6bgk-76v1-pg62-mbkvoz9a3kc3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ep87zz0y-ntuq-pt1o-uup3-nfr4pvg4w8zr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N2RZZmkxdUF2MlpUeFh2TG9lazM5@66.151.41.89:33133#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 66.151.41.89
-trojan://vpn@89.191.234.182:2025?security=none#DE 🇩🇪 ┇ TROJAN-TCP-NTLS - Hostkey B.v. ┇ 89.191.234.182
+trojan://vpn@89.191.234.182:2025?security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Hostkey B.v. ┇ 89.191.234.182
 vless://qGIpSqSIap2ncn@185.237.95.216:443?type=tcp&security=reality&sni=onlycats.photos&fp=chrome&flow=xtls-rprx-vision&pbk=K3Qci9i3W2_Pn88RiUGD8cjfuJ0fmFbc7e_YyupZBkM&sid=431c6edc#DE 🇩🇪 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 185.237.95.216
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@195.26.230.120:587?type=ws&security=none&sni=miku.mikuru.ip-ddns.com#FI 🇫🇮 ┇ VLESS-WS-NTLS - Hostkey B.v. ┇ 195.26.230.120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2E@185.5.38.111:55988#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 185.5.38.111
@@ -14,13 +14,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2l
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@exchange.gameaurela.click:52952#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 141.98.4.67
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUSHFmYkFRV2pMcGxBSlVMS2VxazhB@185.70.184.89:1080#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 185.70.184.89
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@185.233.184.66:8442?type=ws&security=tls&sni=miku.mikuru.ip-ddns.com#NL 🇳🇱 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 185.233.184.66
-vless://2920057a-1a5f-420a-bb12-ae92d6a1f5c7@146.0.72.77:58951?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 146.0.72.77
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@195.226.194.122:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 195.226.194.122
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@176.222.55.17:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 176.222.55.17
+vless://2920057a-1a5f-420a-bb12-ae92d6a1f5c7@146.0.72.77:58951?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 146.0.72.77
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.244.49.103:443?type=ws&security=tls&path=/TG@ShadowProxy66?ed=2560&sni=jj.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Hostkey B.v. ┇ 185.244.49.103
 vless://d0ff4f23-c59b-4933-8d84-d0fd1ac30132@185.70.185.249:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=dl7oqRj2nxh7BkFIiOOrW09iP0HK88zI73LeC60gI0c&sid=d6697813#NL 🇳🇱 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 185.70.185.249
 vless://hcjmtjTh7KyDcy@77.83.85.188:443?type=tcp&security=reality&sni=onlycats.photos&fp=chrome&flow=xtls-rprx-vision&pbk=gxUAoyb1cC5eT4826CfWOWNPrdW5nshZsAP1AV_yAlc&sid=ec0e9a33#NL 🇳🇱 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 77.83.85.188
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwb1p6UTVKRmRJT0RrME0yY3o@194.34.239.105:18760#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 194.34.239.105
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?type=tcp&security=reality&sni=www.tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=9917d2350096#SI 🇸🇮 ┇ VLESS-TCP-RLT - Hostkey B.v. ┇ 92.60.78.221
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc@166.1.157.228:55330#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Hostkey B.v. ┇ 166.1.157.228
-trojan://e5qje9j8-migw-pbfm-1nks-m8q7wnwj27e3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://odyd99m1-ve4q-afhp-wnil-jgei7jtwg4sb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
