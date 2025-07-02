@@ -1,4 +1,4 @@
-# 🚀 V2Ray Configurations Hub
+# 🚀 V2ray Collector
 ### Your Ultimate Platform for Seamless V2Ray Configurations
 
 <div align="center">
@@ -305,5 +305,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 <div align="center">
   <strong>Built with ❤️ for the global V2Ray community</strong><br>
-  <a href="https://github.com/PlanAsli/configs-collector-v2ray">🌟 Star us on GitHub</a> | <a href="https://t.me/v2rayhub">📢 Join our Telegram</a>
+  <a href="https://github.com/PlanAsli/configs-collector-v2ray">🌟 Star us on GitHub</a> | <a href="https://t.me/v2coaw">📢 Join our Telegram</a>
 </div>
