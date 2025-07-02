@@ -1,7 +1,7 @@
-trojan://a6p43j5q-z3hm-vpv5-bfxf-txxce7igtvgm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 22:53 ]
-trojan://9nh768u8-vs0i-4zsd-6m4r-i49e3cy5g9va@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hrqn3f1j-h4ze-7uns-3egh-2yp9geowf5nz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hswid20y-yvtl-q0o9-84n5-tsvn5wrawaux@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qs7bpvdh-gcp3-xpyd-bcsa-bxpcgns4lc6a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 23:16 ]
+trojan://9p72kcro-nqdt-7w2p-jyhr-817mhj4p7uls@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h23en0l8-k1x4-tdvx-geo4-nmy676tw1g99@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bg2qzd0w-473q-u94e-o2fz-u926zf918dat@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.107.233.230:2376#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 172.107.233.230
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.107.233.234:8090#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 172.107.233.234
 trojan://your_password@aws-es-madrid-1.f1rocketnode.com:443?sni=aws-es-madrid-1.f1rocketnode.com&peer=aws-es-madrid-1.f1rocketnode.com&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.100.226.86
@@ -115,7 +115,7 @@ vless://6ac64b61-fe63-42cd-8b12-f4f3c2f024f1@68.221.170.69:8443?type=tcp&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGIzNGFkNy0zZjFlLTRhNzktYjA3OC0yZTU2MzIxZTRmZGU@216.107.21.231:158#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - MODMC-11194-AS ┇ 216.107.21.231
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@5.188.181.201:9042#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 5.188.181.201
 vmess://eyJ2IjoiMiIsInBzIjoiRVMgXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1lbGJpa29tYXMgVUFCIFx1MjUwNyA1LjE4OC4xODMuMTAiLCJhZGQiOiI1LjE4OC4xODMuMTAiLCJwb3J0Ijo0Mzk3NiwiaWQiOiJjN2M3MjUxNS00ZDlhLTRlZmEtY2M4NC1mZDc5OWQzNzhhMTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://utF6JLQd2x@141.227.128.69:1935?security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 141.227.128.69
+trojan://utF6JLQd2x@141.227.128.69:1935?sni=x1es-ovh.devefun.net&peer=x1es-ovh.devefun.net&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 141.227.128.69
 vless://3b0ab43c-0e04-4891-931c-165cdf2be9c8@141.227.128.175:2030?type=grpc&security=tls&sni=refersion.com&fp=chrome#ES 🇪🇸 ┇ VLESS-GRPC-TLS - OVH SAS ┇ 141.227.128.175
 vless://a5104a1b-c255-4488-860a-68a64bd27c2c@141.227.128.80:2030?type=grpc&security=tls&sni=refersion.com#ES 🇪🇸 ┇ VLESS-GRPC-TLS - OVH SAS ┇ 141.227.128.80
 vless://77f680d1-1881-4b16-9eac-b8882c05fe62@141.227.128.196:1210?type=grpc&security=reality&sni=ubuntu.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#ES 🇪🇸 ┇ VLESS-GRPC-RLT - OVH SAS ┇ 141.227.128.196
@@ -132,4 +132,4 @@ trojan://3828095943467868160@194.62.99.56:443?sni=main-bee.dolphin109.quest&peer
 vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@tel.vpncustomize.reziazaran.ir:37823?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 23.90.188.126
 vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@23.90.188.66:37823?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 23.90.188.66
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@78.138.9.229:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#ES 🇪🇸 ┇ VLESS-WS-TLS - servinga GmbH ┇ 78.138.9.229
-trojan://38yz1rpa-i7wc-tzx6-bitm-ruf439ce0s6h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://qt433n2m-ta1l-k2lq-9kdk-z1tt3eku8qce@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0

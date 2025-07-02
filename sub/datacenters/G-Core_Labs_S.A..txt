@@ -1,7 +1,7 @@
-trojan://75xdwhd8-nkt4-15lt-svco-2ubwo1l6fcxy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 22:53 ]
-trojan://qrvlubar-cp16-cpke-rdd7-5oo3bwc09o8c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wiyb5nak-8iwk-lmiz-ccrw-y9eccsndaa4g@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dgmysdbk-qhvg-a9b0-zbe4-k8hpf7vl6uei@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://aqzan7gs-jq9p-m1dt-cer1-cpf7kt1emtm8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 23:16 ]
+trojan://vvzxkvei-pdpn-4ris-7b7t-06b9ztlwwfkp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1wlvvzzx-uhh9-h2u3-9vd0-c95d5ha6sokg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pzs2jy0u-crth-4rd9-vzlt-q26gh2867jhg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@217.195.200.95:8080#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.200.95
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YzljOGMyMDg3N2VjY2My@109.61.18.99:23658#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 109.61.18.99
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEctQ29yZSBMYWJzIFMuQS4gXHUyNTA3IDEwOS42MS40Mi4yMDYiLCJhZGQiOiIxMDkuNjEuNDIuMjA2IiwicG9ydCI6NDQzLCJpZCI6IjEzNWFlMzJkLTU1ZGMtNDVmMC1hZjY1LTRlMjg0OTMyYjEwMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
@@ -45,7 +45,7 @@ vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@217.195.194.78:4687?type=tcp&securi
 vless://3b5bb963-d8cb-4942-b2ac-f3ff437e6c6a@92.223.124.45:80?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.124.45
 vless://973c689c-ca90-4328-a018-f7f95c4b7b04@217.195.194.208:33094?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 217.195.194.208
 vless://95d9b3cf-0aed-4085-8ee0-44bbed93ba3f@92.223.124.62:80?type=httpupgrade&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-NTLS - G-Core Labs S.A. ┇ 92.223.124.62
-vless://da05de8e-1ab7-40b7-b59e-2cdcdac0b779@176.119.203.91:443?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=oFoA6KA4tqNTIRNzB5vxJT2A5iJ5oUQYBTNVT-KKSCk&sid=4d082418#DE 🇩🇪 ┇ VLESS-GRPC-RLT - G-Core Labs S.A. ┇ 176.119.203.91
+vless://da05de8e-1ab7-40b7-b59e-2cdcdac0b779@176.119.203.91:443?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=oFoA6KA4tqNTIRNzB5vxJT2A5iJ5oUQYBTNVT-KKSCk&sid=4d082418#DE 🇩🇪 ┇ VLESS-GRPC-RLT - G-Core Labs S.A. ┇ 176.119.203.91
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI@92.38.171.215:31348#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.171.215
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.171.89:989#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.171.89
 ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@92.38.171.103:50004#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.171.103
@@ -58,9 +58,9 @@ vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@92.223.84.84:443?type=ws&security=t
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFUwZE1UVm8zV2pnelprNA@5.188.5.190:15256#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.5.190
 ss://YWVzLTI1Ni1nY206UkptTGt6ZTE@109.107.159.202:5075#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 109.107.159.202
 trojan://65086441068973800@62.112.221.192:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 62.112.221.192
-trojan://3747000103274291200@62.112.221.57:443?sni=integral-malamute.adder289.quest&peer=integral-malamute.adder289.quest&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 62.112.221.57
 trojan://3747000103274291200@185.67.127.69:443?sni=ultimate-civet.adder289.quest&peer=ultimate-civet.adder289.quest&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 185.67.127.69
 trojan://3778399737045327872@185.67.127.66:443?sni=divine-slug.adder289.quest&peer=divine-slug.adder289.quest&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 185.67.127.66
+trojan://3747000103274291200@62.112.221.57:443?sni=integral-malamute.adder289.quest&peer=integral-malamute.adder289.quest&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 62.112.221.57
 trojan://3763495894587285504@62.112.221.46:443?sni=enabling-cat.goat627.mom&peer=enabling-cat.goat627.mom&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 62.112.221.46
 trojan://74260667533381300@109.107.159.67:443?sni=patient-emu.shiner427.skin&peer=patient-emu.shiner427.skin&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 109.107.159.67
 trojan://3747000103274291200@sunny-jackal.insect388.motorcycles:443?sni=sunny-jackal.insect388.motorcycles&peer=sunny-jackal.insect388.motorcycles&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 109.107.159.167
@@ -91,8 +91,8 @@ trojan://3763495894587285504@185.67.125.163:443?sni=first-leech.treefrog761.one&
 trojan://3774827088566296576@185.67.125.78:443?sni=deciding-mantis.treefrog761.one&peer=deciding-mantis.treefrog761.one&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 185.67.125.78
 trojan://3763495894587285504@185.67.125.36:443?sni=safe-seasnail.goat627.mom&peer=safe-seasnail.goat627.mom&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 185.67.125.36
 trojan://3828095943467868160@185.67.125.203:443?sni=modest-firefly.dolphin109.quest&peer=modest-firefly.dolphin109.quest&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 185.67.125.203
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 trojan://Aimer@87.120.237.36:81?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 87.120.237.36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTgzNmVkYy1lNzM4LTRlNjMtOTY0ZC1hZDYxZDllM2YyN2I@94.177.131.71:61019#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 94.177.131.71
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 94.177.131.150
@@ -128,8 +128,8 @@ vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@92.223.84.79:443?type=ws&security=t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOWZmNDk4YjkwMzM0Y2Vh@89.223.88.145:43190#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 89.223.88.145
 ss://YWVzLTI1Ni1nY206WGFBSWtKanA@85.234.65.100:11359#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.65.100
 ss://YWVzLTI1Ni1nY206ZW1OSVVCakw@85.234.65.227:26993#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 85.234.65.227
-trojan://3747000103274291200@89.39.70.165:443?sni=inspired-cardinal.insect388.motorcycles&peer=inspired-cardinal.insect388.motorcycles&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 89.39.70.165
 trojan://3747000103274291200@89.39.70.207:443?sni=sunny-jackal.insect388.motorcycles&peer=sunny-jackal.insect388.motorcycles&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 89.39.70.207
+trojan://3747000103274291200@89.39.70.165:443?sni=inspired-cardinal.insect388.motorcycles&peer=inspired-cardinal.insect388.motorcycles&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 89.39.70.165
 trojan://3767107462583558144@5.189.203.50:443?sni=modest-bulldog.goat627.mom&peer=modest-bulldog.goat627.mom&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 5.189.203.50
 trojan://74260667533381300@89.39.70.158:443?sni=loving-calf.shiner427.skin&peer=loving-calf.shiner427.skin&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 89.39.70.158
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgODEuMjguMTIuMTIiLCJhZGQiOiJjbC1nbDJkM2IzMzEwLmdjZG4uY28iLCJwb3J0Ijo4MCwiaWQiOiI5Mzg0MTViYi03ZGYyLTE0ZGMtOTkyZC04OTA0YTViYjZkZjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
@@ -146,11 +146,11 @@ vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjExNi4yMDMiLCJhZGQiOiI5Mi4yMjMuMTE2LjIwMyIsInBvcnQiOjQ0MywiaWQiOiI1Yzg1NGUyZS0yMDVjLTQzMDktODM2My1mZjYwZWE3YjJhMTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9jZ2ktYmluL2FwaS9kYXRhZmxvdy8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgOTIuMjIzLjExNi4yMDUiLCJhZGQiOiI5Mi4yMjMuMTE2LjIwNSIsInBvcnQiOjQ0MywiaWQiOiI1Yzg1NGUyZS0yMDVjLTQzMDktODM2My1mZjYwZWE3YjJhMTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9jZ2ktYmluL2FwaS9kYXRhZmxvdy8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgNS4yNTIuMjYuNCIsImFkZCI6IjUuMjUyLjI2LjQiLCJwb3J0Ijo4MCwiaWQiOiJmMGMxMzI2NC00NWRjLTRiMTQtYzZmNy0wMzY4YjJkNTI2NjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9sdWx1In0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmI4MThjZDg0YTBkMGU1@103.215.218.54:11201#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 103.215.218.54
-ss://Y2hhY2hhMjA6djJrTkxZSkZ2YQ@5.188.36.6:4619#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.36.6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmI4MThjZDg0YTBkMGU1@103.215.218.54:18096#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 103.215.218.54
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@5.188.190.70:8080#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.190.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@5.188.190.54:8080#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.190.54
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@5.188.190.142:8080#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.190.142
+ss://Y2hhY2hhMjA6djJrTkxZSkZ2YQ@5.188.36.6:4619#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.36.6
 ss://YWVzLTI1Ni1nY206YUNSTmlqSWo@93.114.98.34:7713#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 93.114.98.34
 trojan://3828095943467868160@93.114.98.8:443?sni=supreme-loon.dolphin109.quest&peer=supreme-loon.dolphin109.quest&security=tls#TR 🇹🇷 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 93.114.98.8
 trojan://3770966768580042752@213.156.152.210:443?sni=boss-tetra.treefrog761.one&peer=boss-tetra.treefrog761.one&security=tls#TR 🇹🇷 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 213.156.152.210
@@ -165,20 +165,20 @@ vless://04f59fbe-08e5-4683-b5d4-bde3327be774@213.156.152.55:3030?type=ws&securit
 vless://bdd9b3a0-d57c-4de0-aaa9-53ba0241bffe@213.156.152.145:1818?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E#TR 🇹🇷 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 213.156.152.145
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.6.8
 vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRy1Db3JlIExhYnMgUy5BLiBcdTI1MDcgNS4xODguNi4yMjIiLCJhZGQiOiI1LjE4OC42LjIyMiIsInBvcnQiOjMwMDE4LCJpZCI6IjRmYmM5MDEwLTI5OTktNGY0My1jZDI0LTRhMzM3MjVmY2E1ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
-vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?type=raw&security=tls&sni=005188006073.sec1org.com#UA 🇺🇦 ┇ VLESS-RAW-TLS - G-Core Labs S.A. ┇ 5.188.6.73
+vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?type=tcp&security=tls&sni=005188006073.sec1org.com#UA 🇺🇦 ┇ VLESS-TCP-TLS - G-Core Labs S.A. ┇ 5.188.6.73
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTopMU4xRTZ2MFNVX3JHVHBn@79.133.109.56:1036#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 79.133.109.56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@5.188.0.151:800#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.0.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjM@5.188.111.182:826#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 5.188.111.182
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjM@92.38.169.196:826#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.169.196
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwNVMxaDJXamR2ZW5KV01EUTJSalJ3T0hFMk5UQXhURWc@79.133.110.137:1002#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 79.133.110.137
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwVmJIUnlRSEl3TUhSZk1qQXhOdw@92.38.176.81:811#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.38.176.81
-trojan://74260712244661900@87.120.252.180:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 87.120.252.180
 trojan://3763495982449565696@95.85.93.172:443?sni=faithful-goshawk.goat627.mom&peer=faithful-goshawk.goat627.mom&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 95.85.93.172
 trojan://3763495894587285504@5.8.93.173:443?sni=open-baboon.goat627.mom&peer=open-baboon.goat627.mom&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 5.8.93.173
 trojan://74260704627805900@95.85.93.167:443?sni=positive-treefrog.shiner427.skin&peer=positive-treefrog.shiner427.skin&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 95.85.93.167
 trojan://74260704627805900@factual-snake.shiner427.skin:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 87.120.252.113
 trojan://3828095943467868160@95.85.93.192:443?sni=correct-pelican.dolphin109.quest&peer=correct-pelican.dolphin109.quest&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 95.85.93.192
 trojan://3747000103274291200@95.85.93.45:443?sni=simple-coyote.adder289.quest&peer=simple-coyote.adder289.quest&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 95.85.93.45
+trojan://74260712244661900@87.120.252.180:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 87.120.252.180
 trojan://74260702287384200@95.85.93.54:443?sni=settled-mite.shiner427.skin&peer=settled-mite.shiner427.skin&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 95.85.93.54
 trojan://2f201f44-c107-45fb-b898-1c0c28e30edd@92.38.145.145:443?sni=sw.g.esmahdi9.org&peer=sw.g.esmahdi9.org&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 92.38.145.145
 trojan://3828095943467868160@162.216.231.86:443?sni=main-hound.dolphin109.quest&peer=main-hound.dolphin109.quest&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 162.216.231.86
@@ -196,4 +196,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@92.223.44.180:8080#UZ 🇺🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.44.180
 ss://YWVzLTI1Ni1nY206TjVBb2t3Nlk@93.174.164.178:4871#UZ 🇺🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 93.174.164.178
 trojan://3828095943467868160@93.174.164.49:443?sni=concrete-lion.dolphin109.quest&peer=concrete-lion.dolphin109.quest&security=tls#UZ 🇺🇿 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 93.174.164.49
-trojan://6xa379a4-7rmf-ysxy-tbk3-v73gav0jnnim@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://qyxp8mr9-n5sz-8c4b-jd90-32uzoalu06lh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
