@@ -1,7 +1,7 @@
-trojan://bfqts74v-yniz-a6ps-u9d7-j311t8484l7v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 16:14 ]
-trojan://meir0vas-lbln-81cl-rqcz-k8t80u0hswfr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1rcg9bsf-8az1-nskp-lafd-5lu606ysotpr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s1g5ki0i-q63x-5fvp-524p-z0688mr9abwh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://v9oln2ls-5m10-ve6h-s4q3-2xrqmks9jc2y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 17:10 ]
+trojan://rwarzyi6-gow3-mo3e-d513-wohg5d9wyy22@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kc0isrha-hluv-op7s-zt8y-lzjijsv5mptl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://51ovakpp-y830-5bh9-l8ib-g8rj4lwy34jb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206WU9JTDA1RktaSVVCOFRVNA@31.40.212.221:20006#AR �🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 31.40.212.221
 trojan://f25d1510-3763-4fcf-9804-86d6c1566629@31.40.212.133:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#AR �🇷 ┇ TROJAN-TCP-TLS - BrainStorm Network, Inc ┇ 31.40.212.133
 trojan://feab64f1-6a31-44c9-b502-19712d7af318@31.40.212.163:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#AR �🇷 ┇ TROJAN-TCP-TLS - BrainStorm Network, Inc ┇ 31.40.212.163
@@ -26,7 +26,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.186.79.53:989#DK 🇩🇰 ┇ SH
 ss://YWVzLTI1Ni1nY206OVZOUVBSRVZXNjlaMk1HSg@185.186.79.135:20028#DK 🇩🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.186.79.135
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#EC 🇪🇨 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.253.227
 ss://YWVzLTI1Ni1nY206QUlXN05JWVlZRVA4RzE2Rg@185.47.253.144:20010#EC 🇪🇨 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.253.144
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 45.154.206.192
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.154.206.192:989#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 45.154.206.192
 ss://YWVzLTI1Ni1nY206VDBFTFM0ODA0QkdYS0dNTw@45.154.206.189:20038#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 45.154.206.189
 vless://c48da5b2-98a7-4ca3-9ef3-1c9b8dbd3901@37.143.130.216:4000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#ES 🇪🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 37.143.130.216
 vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@node-sp-1-v4.soundlesss.com:4000?type=tcp&security=reality&sni=www.unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#ES 🇪🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 45.154.206.54
@@ -77,10 +77,10 @@ ss://YWVzLTI1Ni1nY206QjFGSkoxUTZFVDcyOExORg@92.118.205.219:20037#PL 🇵🇱 ┇
 vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCcmFpblN0b3JtIE5ldHdvcmssIEluYyBcdTI1MDcgOTIuMTE4LjIwNS4yMDciLCJhZGQiOiI5Mi4xMTguMjA1LjIwNyIsInBvcnQiOjgwODAsImlkIjoiYmRkMjI4NDEtYzRkMi00YWE4LWFjZjItOTVhYTkxMjVmMTU5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJwbC0yLnRyb2xsZnVubnkubmV0IiwidGxzIjoidGxzIiwic25pIjoicGwtMi50cm9sbGZ1bm55Lm5ldCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCcmFpblN0b3JtIE5ldHdvcmssIEluYyBcdTI1MDcgOTIuMTE4LjIwNS4yMjIiLCJhZGQiOiI5Mi4xMTguMjA1LjIyMiIsInBvcnQiOjgwODAsImlkIjoiYmRkMjI4NDEtYzRkMi00YWE4LWFjZjItOTVhYTkxMjVmMTU5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJwbC0zLnRyb2xsZnVubnkubmV0IiwidGxzIjoidGxzIiwic25pIjoicGwtMy50cm9sbGZ1bm55Lm5ldCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCcmFpblN0b3JtIE5ldHdvcmssIEluYyBcdTI1MDcgOTIuMTE4LjIwNS4yNiIsImFkZCI6IjkyLjExOC4yMDUuMjYiLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicGwtMS50cm9sbGZ1bm55Lm5ldCIsInRscyI6InRscyIsInNuaSI6InBsLTEudHJvbGxmdW5ueS5uZXQifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#PR 🇵🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.255.22
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.219:989#PR 🇵🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.255.219
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.231.233.112
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#PR 🇵🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.47.255.22
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.173:989#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.231.233.173
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.231.233.112
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.130:989#PT 🇵🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.231.233.130
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.126.237.38
 ss://YWVzLTI1Ni1nY206WEpTTUJNVk1JTFA4SUpQRQ@185.126.237.58:20027#RO 🇷🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.126.237.58
@@ -108,4 +108,4 @@ vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?type=tcp&securi
 vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@23.95.75.171:7000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#US 🇺🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 23.95.75.171
 vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@node-us-1-v4.soundlesss.com:7000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#US 🇺🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 23.95.75.235
 vless://67fbe406-ba82-4ba6-9be9-d14e91d1195e@172.245.234.211:443?type=tcp&security=reality&sni=www.apple.com.cn&fp=ios&flow=xtls-rprx-vision&pbk=f0fdocfHkO0vm0u77amLsiPslFoyU3lE4V7BIR6mS0s&sid=bf47a57e#US 🇺🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 172.245.234.211
-trojan://mm3ca2ql-z1dy-7qhj-0c67-pc62j2v0x5l0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://70wxnknc-ldq3-rtaa-8imf-v0ndun85tnfw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
