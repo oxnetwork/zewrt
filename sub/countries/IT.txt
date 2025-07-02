@@ -1,7 +1,7 @@
-trojan://iwg1l2x9-63qu-af0x-d58y-ztcad4co1rq4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 12:02 ]
-trojan://w1y965v9-bzo2-wpa3-56vx-gkry6rrn5kxn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kfsssifr-hx3h-eujy-x2p5-jy418nkhtnqa@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sixazdoh-q1t8-ocwk-hilt-ado027e3ubou@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://91pc1l93-et2h-kwln-2rj0-x1jnwf1y6609@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 12:29 ]
+trojan://8sb44tys-mq9i-k7ll-wuel-fxqo01fmnu2o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://v8tdzcrd-z1dz-ywef-ijpw-zc6shr4277k1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://eehqvvb4-a64t-njp3-357e-pkmdb4xfj2v8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgXHUyNTA3IDEwOS4xMjIuMjA4LjIwNSIsImFkZCI6IjEwOS4xMjIuMjA4LjIwNSIsInBvcnQiOjQ4Mzc3LCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoiYXV0byJ9
 trojan://your_password@15.160.138.221:443?sni=aws-it-milan-1.f1rocketnode.com&peer=aws-it-milan-1.f1rocketnode.com&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.160.138.221
 trojan://121d5d3e-6237-4536-ab68-bf8405abadfc@15.161.104.142:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.161.104.142
@@ -28,8 +28,8 @@ vless://c314940c-1bc3-4a6d-bd47-cda662f88eb0@195.231.66.153:55138?type=grpc&secu
 vless://d8079f97-ac60-4758-9dd5-9a5eb3dd5bb5@85.235.149.184:4000?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=QRGqyPYJmaBIeIXaOoKs8UG0vGLPGcbDinQqYrrpAGU&sid=d08aeb0330883adf#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 85.235.149.184
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQmx1ZVZQUyBPVSBcdTI1MDcgNDUuODYuMjMxLjE5OSIsImFkZCI6IjQ1Ljg2LjIzMS4xOTkiLCJwb3J0IjoxMDAwMCwiaWQiOiI3NjZjMmQ3OC1iZGQ0LTExZWQtOThlOS0wMDE2M2NmNGViZGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.20.227
-ss://YWVzLTI1Ni1nY206VE8wNUdDUDI2WUJMSTM4WQ@185.213.20.36:20029#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.20.36
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.213.21.5:2376#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.21.5
+ss://YWVzLTI1Ni1nY206VE8wNUdDUDI2WUJMSTM4WQ@185.213.20.36:20029#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.20.36
 vless://dff6aeff-54dd-4d04-ad68-c79fbf89f9f0@sv37a.tsteamu1.top:37443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=Fvm8Nk9_xIHnKlrqywijuK6FDWP7zSyNV_ap8qH__EQ&sid=cc024cc0b79b6bad#IT 🇮🇹 ┇ VLESS-TCP-RLT - C1V ┇ 5.59.249.230
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@188.114.100.87:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#IT 🇮🇹 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 188.114.100.87
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@84.17.58.162:33992#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 84.17.58.162
@@ -78,8 +78,8 @@ vless://d57b2a9e-e0c8-4cfe-898a-62f5f95f7eca@141.227.140.42:2030?type=grpc&secur
 vless://804385b5-c39b-4070-9f6d-33ffc6cefda9@italy.tehranserver.site:443?type=tcp&security=reality&sni=tgju.org&fp=random&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#IT 🇮🇹 ┇ VLESS-TCP-RLT - OVH SAS ┇ 141.227.140.217
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIE9wZW4gRmliZXIgUy5QLkEuIFx1MjUwNyAzNy4yMjEuMTIwLjI1IiwiYWRkIjoidHIzLnZwbmphbnRpdC5jb20iLCJwb3J0IjoxMDAwMCwiaWQiOiJkN2IyYjM5YS0zZjhmLTExZWQtYTJlYi1iN2IzNmYyZDcwYmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQiLCJ0bHMiOiJmYWxzZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyAyLjU2LjEyMS4yNDUiLCJhZGQiOiIyLjU2LjEyMS4yNDUiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6InZtZXNzIiwicGF0aCI6Ii9wYXRoLzMyMTExMzIyMTEzMSIsInRscyI6InRscyJ9
+vless://93c5b02e-13e7-5e14-955c-9dd12a60c2db@95.164.46.39:2052?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.46.39
 vless://99ba3eaa-8349-44ce-8a25-b9eb28a85caf@95.164.46.235:443?type=ws&security=tls&path=/VLESS#IT 🇮🇹 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.46.235
-vless://4e96c457-e331-57d5-ac72-5f37e41873e1@95.164.46.39:2052?type=grpc&security=none&sni=itvpnAndroid2.69.mu#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.46.39
 vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@95.164.46.153:600?type=tcp&security=tls&sni=marzban.negintel.xyz#IT 🇮🇹 ┇ VLESS-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.46.153
 vless://I_Love__sshOcean_d538@0:0:0:0:0:ffff:5fa4:2e27:443?type=grpc&security=tls&sni=zula.ir#IT 🇮🇹 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:5fa4:2e27
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - SEEWEB s.r.l. ┇ 95.174.23.218
@@ -87,4 +87,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#IT 🇮�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@158.58.173.240:806#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 158.58.173.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprcFpXaGs1cjFSTFQ@149.86.105.76:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Tecno General S.r.l ┇ 149.86.105.76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbHRyQHIwMHRfMjAyMQ@188.217.103.198:8090#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Vodafone Italia S.p.A. ┇ 188.217.103.198
-trojan://mtq7sui8-g5sp-5nhl-uk30-vmfcg4uqrxvi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
+trojan://4u84dqyo-vxef-lydv-cc6m-87xmnwzeyd57@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
