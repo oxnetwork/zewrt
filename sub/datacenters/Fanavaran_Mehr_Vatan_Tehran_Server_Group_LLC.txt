@@ -1,7 +1,7 @@
-trojan://2z5ucnvh-nw9a-2fkd-76fm-czruafyhev9s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-03 | 12:58 ]
-trojan://45smj16x-uvd4-x5x6-dwjl-u9eha7d2ly0o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://58abn0l7-xtbm-is7h-ypsr-zlf94g5bkity@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://iow47xxa-q13w-74y1-0ocs-tt1ezb4a303w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sidogtb2-rc20-5fiv-lozr-hti8nqpbn2b2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-03 | 13:23 ]
+trojan://qc5woh5v-nlt5-p1rx-ts4k-6utne9nd9gdi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xcau69hq-405h-n4hc-8atq-airj1dbkm8tz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fd2tq1je-u57z-0huk-l6zh-lyero34uzvbo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206ckk5aXhxbVpISEc0UEJ2VUFOWUFHdw@37.202.231.23:444#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.231.23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJakVqSjhiVVk4QzNTSG92LWVacllB@n380.skynet25.com:13003#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.104.104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZWNyZXQzMA@us.xray.services:9000#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.107.180
@@ -46,15 +46,16 @@ vless://c9eeb167-aa1d-49c6-a843-807bd17fe17c@94.182.145.197:10002?type=tcp&secur
 vless://c5c5c7ec-db3b-49be-8027-304ec405d68f@94.182.105.74:222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.105.74
 vless://316315d1-964c-4989-d3cd-d6bb14fffa06@37.202.237.126:6677?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.237.126
 vless://3682c57c-9905-41d0-9b99-458f0da76ab3@37.202.241.247:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.241.247
-vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?type=ws&security=tls&path=/C7OSXPN9yV234T1Y?ed=2560&sni=dash.beginnertopro.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.104.100
-vless://6b221895-03f0-4a07-a768-66111b83e7c8@37.202.237.107:45495?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.237.107
 vless://1b1b3941-df06-4495-91cf-acb61818ee36@94.182.136.46:6565?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.136.46
+vless://6b221895-03f0-4a07-a768-66111b83e7c8@37.202.237.107:45495?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.237.107
+vless://ae48f95d-9b6a-454b-849b-2ecf7922487b@v3.fandogh4.ir:2053?type=ws&security=tls&path=/C7OSXPN9yV234T1Y?ed=2560&sni=dash.beginnertopro.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.104.100
 vless://f68199cc-937b-4890-b76c-504fc0eb76b1@37.202.237.101:15510?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.237.101
 vless://36740bdb-7471-4d81-bf7a-1cdb65a2061b@94.182.106.139:3333?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.106.139
 vless://b20644e0-c6e7-4c1c-bc9c-3538d9e86b3a@94.182.104.168:1234?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.104.168
 vless://7e7002f1-bb3a-4706-bca4-b03ace4eec93@tun.vipship.ir:4040?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.224.130
 vless://b69bce2c-4661-4bfb-9e05-d258f4952696@sv7.farsdataco2.top:59346?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.233.176
 vless://0d4ed7e4-8467-4e03-adcc-dc7b76d7a776@net7.amirkaj.link:2053?type=grpc&security=tls&sni=net9.amirkaj.link&fp=firefox#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.224.211
+vless://098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germany1.fiogoir-germany1.site:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.152.13
 vless://12d2c2e0-8b75-4655-bcd6-db36103c972c@account3.shark1.ir:8443?type=httpupgrade&security=tls&path=/uptvs.com/login/?ed=443&sni=speed.koshtiiraniha.ir.&fp=random#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.104.71
 vless://6c39e8e2-bb98-478b-9fc7-f35939d465f3@ninja.thegameuhb.ir:1342?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.239.9
 vless://380c77d5-6172-43e0-93cf-fa2f69f4736a@panel28.sharpwp2.shop:9060?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.235.164
@@ -93,4 +94,4 @@ vless://f5f5c738-c796-4d4e-b5c4-12e49e2bd3f0@fear.anabelrz.xyz:46646?type=tcp&se
 vless://fec72195-811f-455d-9185-381c58d2c396@37.202.228.131:443?type=tcp&security=reality&sni=khanacademy.org&flow=xtls-rprx-vision&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&sid=6acf3ba5790e4324#IR 🇮🇷 ┇ VLESS-TCP-RLT - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.228.131
 vless://00cd884c-3c06-4d56-9342-55476f51c1cf@94.182.128.220:63128?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=QfjlWWH8Q-HUFbUXr-scfoheEBU4HtHd0OsKwkMidkU&sid=b5254484#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.128.220
 vless://4acb1075-aae4-4d93-a5ac-647c2865b2bc@test.servermci.com:8443?type=tcp&security=reality&sni=eset.com&fp=chrome&flow=xtls-rprx-vision&pbk=zIAstC0a0qW9nCbUDzgc_VzI17ph54LIk7tVejSN0WU#IR 🇮🇷 ┇ VLESS-TCP-RLT - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.131.152
-trojan://rm3pxohy-l6bo-xl4k-j1le-54jqhgenpx09@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://yn2uo4wn-j484-0ah2-zhi6-zz80rbvu4s8d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
