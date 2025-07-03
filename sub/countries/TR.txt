@@ -1,7 +1,7 @@
-trojan://c92wpcg6-efq0-ivzv-pxi4-7pcyymspia97@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-03 | 22:53 ]
-trojan://xoh1ev6n-e1ka-kvi1-96hl-ifgbwzb6tfdn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://of5v59au-snea-bacp-l76n-6grx3ush41ay@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g4wdwbyv-53qy-7anc-8fwz-lccy4j0mt7dy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://vb22mdnj-snq3-oiat-onvy-ko9qrb0lqjde@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-03 | 23:17 ]
+trojan://72x04gfg-0sp8-wlmo-xs2q-ww9j7981jq89@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yjrisv7l-6vnt-trxg-b1r1-cgav5871px07@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://os4survz-4407-mumk-ns1t-7pwe645tzxui@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@107.150.94.27:50024#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS ┇ 107.150.94.27
 ss://YWVzLTI1Ni1nY206cjZoRHJrUDRFdDZFRU5UUzhReTdUY21n@107.150.94.14:44539#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS ┇ 107.150.94.14
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyAyMTIuNjQuMTkzLjgzIiwiYWRkIjoiMjEyLjY0LjE5My44MyIsInBvcnQiOjM0MTYyLCJpZCI6IjdjZjVhZjI5LTdiYzMtNDRiNi05MjY5LWRkNjdmMjk1ZGVmMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
@@ -55,17 +55,17 @@ vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?type=kcp&secu
 vless://04f59fbe-08e5-4683-b5d4-bde3327be774@213.156.152.55:3030?type=ws&security=tls&sni=api.digi-asa.ir#TR 🇹🇷 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 213.156.152.55
 vless://bdd9b3a0-d57c-4de0-aaa9-53ba0241bffe@213.156.152.145:1818?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E#TR 🇹🇷 ┇ VLESS-TCP-RLT - G-Core Labs S.A. ┇ 213.156.152.145
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR0VPQ09NIExMQyBcdTI1MDcgMTg1LjEyNS4zMi44NiIsImFkZCI6InRyLmlnZ2Zhc3R3ZWIuY29tIiwicG9ydCI6MjgwMDAsImlkIjoiOWUwODIyYzItNzVlYS00ZDMwLTg4OTUtOWZlNTlkYTk5MzVjIiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.212
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.60.233.173:2222#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.60.233.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.128
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMHpjOFY2VWkyWWY4SjlIREdZQ0hI@62.133.63.21:65262#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.212
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZHpXdWhlbUpWVnNwSHd6Q3NaZWpm@83.217.9.39:7317#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMG8yaEU0ZUx1UjJ3d3lGYW8wbHNK@185.39.204.12:16297#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.39.204.12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.125:2222#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.125
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZ3Rya2Q2dUNBZVM@62.60.233.83:443#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.60.233.83
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.133.63.226:2222#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.226
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@83.217.9.76:989#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowa011QWVJbFNxbG1FcEY3eVBkTVZj@62.60.233.240:55548#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.60.233.240
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@83.217.9.76:989#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUDNKTjk4QzZFT1I@62.60.233.21:443#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.60.233.21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYnJZcEpzUmZGdGxLdU8ySHlnQm9E@62.133.63.154:20255#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.154
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg@62.60.233.72:33155#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.60.233.72
@@ -84,9 +84,9 @@ vless://282808aa-ad9f-469c-bfdf-072a1c3e8cdf@83.217.9.119:443?type=tcp&security=
 vless://b5d18e5f-74e4-4b1e-86d4-4a3d1aa60704@62.60.233.186:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#TR 🇹🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 62.60.233.186
 vless://aea847f1-500c-449a-b338-d19940d1a45a@62.60.233.164:4443?type=tcp&security=reality&sni=www.tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs&sid=aef9c41cfb8d5bf2#TR 🇹🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 62.60.233.164
 vless://ItsLegendaryking@62.133.63.71:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 62.133.63.71
-ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@185.219.134.52:50007#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 185.219.134.52
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@141.98.119.156:50003#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 141.98.119.156
 ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@185.219.134.182:50003#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 185.219.134.182
+ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@185.219.134.52:50003#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 185.219.134.52
+ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@141.98.119.156:50003#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 141.98.119.156
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdGlnZ2VyIElOQy4gXHUyNTA3IDE0MS45OC4xMTkuNDciLCJhZGQiOiIxNDEuOTguMTE5LjQ3IiwicG9ydCI6MzYwMDAsImlkIjoiMTQ0Njg0ZTItZmU5My0zZTc4LThlODctZTdlMjc0ODAyZTA4IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYWRvYmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvc3RpbmcgRHVueWFtIEJpbGlzaW0gVGVrbm9sb2ppbGVyaSBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgODAuMjUzLjI0Ni4xNzkiLCJhZGQiOiI4MC4yNTMuMjQ2LjE3OSIsInBvcnQiOjgwODAsImlkIjoiNGUyYjQ0NzItN2U5OC00NDlkLTk1NGEtM2VkY2IzNDg1NTQzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvc3RpbmcgRHVueWFtIEJpbGlzaW0gVGVrbm9sb2ppbGVyaSBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgNDYuMzEuNzcuNCIsImFkZCI6IjQ2LjMxLjc3LjQiLCJwb3J0Ijo0OTM2NywiaWQiOiJmMDRhYjA4OS0wNzYwLTQ5M2UtYjFjZi1jNWM0MjA4Y2RkOTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
@@ -145,8 +145,8 @@ vless://5bb14abb-58e2-42ad-8214-382b6dcd801a@91.151.90.231:443?type=grpc&securit
 vless://6235f653-f5ee-4824-878c-3fcc1e64b7f5@geshop.spsvps.com:2096?type=grpc&security=reality&sni=ame.spsvps.com&fp=chrome&pbk=OUS-F8whgCGs88wPa0OCXmtG5CLvjlQqIaUlxlfORSU&sid=912b3651ba437e7c#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Ph Bilisim Teknolojileri Limited Sirketi ┇ 213.238.180.159
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.cheftayebeh.ir:7383#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 94.131.123.147
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.89.52.66
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1azBOdUhPcU5MaE1hOGxSU01zc0Q4@5.180.45.142:18429#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 5.180.45.142
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelZsTg@95.164.34.7:1443#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.34.7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRWU1NV0RWRzQ1N0UxQmV3OVRoWGwz@5.180.45.142:18429#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 5.180.45.142
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbjRqQzREeXFjR1hJZ2ZVZUhlNXUx@5.180.45.217:58204#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 5.180.45.217
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVXpoczFLZkNadU1LRFFvczJObWt3@193.46.56.185:6683#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 193.46.56.185
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTdJMlhvazViTUhsVVhCZVpjbWVz@2.56.127.33:16680#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 2.56.127.33
@@ -199,4 +199,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmI0NzU4NjJmYjUyZGY1@188.132.129.144:11201#
 vless://d6cbf3e4-b7ca-a4b2-0b04-eacbdc28bc5a@188.132.184.148:8443?type=tcp&security=reality&sni=greenpepper.ir&fp=firefox&flow=xtls-rprx-vision&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede#TR 🇹🇷 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 188.132.184.148
 trojan://80817fde-96ec-4e8f-8d87-3e844f993455@217.60.187.84:47465?security=none#TR 🇹🇷 ┇ TROJAN-TCP-NTLS - Yusuf Ozturk ┇ 217.60.187.84
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@93.115.10.213:40019#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - ibrahim tufek ┇ 93.115.10.213
-trojan://pz19eg18-aed5-lnzx-sb1s-3wxmqvabcu1q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://w40sn67g-9y1d-kbxv-lzc0-yol33et7okfb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
