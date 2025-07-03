@@ -1,7 +1,7 @@
-trojan://b1p84w5m-6fd3-vweh-3nng-ga0fjwiksdp8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 02:56 ]
-trojan://c59ofjjt-tpf7-7ri0-mqu6-x4clnpkgnfd9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jdxlmx70-ekwk-4zou-fvks-ik9rixc477ot@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://su4bie93-z6sl-h7mb-uefz-jqu38duoohy0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xfyj1cx7-uuu3-umas-6l5l-4ckrzovyn00s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-04 | 03:20 ]
+trojan://hpb294ie-17ao-hoem-fvvb-4civc6ogcw4h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xi3bvzq4-sl0d-3dgu-od0u-tyggbdql94tj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://61i9cwll-6dsv-7tqm-2oy4-7p2kvfpvz5pn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgXHUyNTA3IDEwOS4xMjIuMjA4LjIwNSIsImFkZCI6IjEwOS4xMjIuMjA4LjIwNSIsInBvcnQiOjQ4Mzc3LCJpZCI6IjIxNzQ1YmZlLWVmNGQtNGU2MS1jMTQyLTk3YjQ4NDhmZGMxNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoiYXV0byJ9
 trojan://your_password@15.160.138.221:443?sni=aws-it-milan-1.f1rocketnode.com&peer=aws-it-milan-1.f1rocketnode.com&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.160.138.221
 trojan://121d5d3e-6237-4536-ab68-bf8405abadfc@15.161.104.142:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.161.104.142
@@ -40,7 +40,7 @@ vless://710aab57-66d5-4426-8b54-8c4cb6940e89@146.75.55.82:80?type=ws&security=no
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@151.101.242.133:80?type=ws&security=none#IT 🇮🇹 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.242.133
 vless://78f80c31-ff76-4bca-b43c-c991a9168f11@151.101.241.19:80?type=xhttp&security=none&path=/?ed=2560#IT 🇮🇹 ┇ VLESS-XHTTP-NTLS - FASTLY ┇ 151.101.241.19
 vless://tell--ZEDMODEON@146.75.54.228:443?type=ws&security=tls&path=/@ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed=2048&sni=zmaoz.faculty.ucdavis.edu#IT 🇮🇹 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.54.228
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvM01EZzRabVZtWXkxaU1ETmhMVFJqTVRZdFlUVm1aQzFpTTJGaFpqRTVZek15TkdJ@hncu.donghui.tech:27100#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Fastweb ┇ 93.46.8.90
+vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFzdHdlYiBcdTI1MDcgOTMuNDYuOC45MCIsImFkZCI6InNoZHguZG9uZ2h1aS50ZWNoIiwicG9ydCI6MjEwMDUsImlkIjoiMjYzMjg2M2EtNzVkOC0zMDAzLWI5ZjEtYmM4MWNhNmU4NWNmIiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaW5kZXgifQ
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.79.76:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.79.76
 ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@92.223.93.140:50007#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.93.140
 trojan://Aimer@87.120.237.36:81?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 87.120.237.36
@@ -88,11 +88,11 @@ vless://d60e0480-c8e8-4237-b34c-846210674870@141.227.140.218:2030?type=grpc&secu
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIE9wZW4gRmliZXIgUy5QLkEuIFx1MjUwNyAzNy4yMjEuMTIwLjI1IiwiYWRkIjoidHIzLnZwbmphbnRpdC5jb20iLCJwb3J0IjoxMDAwMCwiaWQiOiJkN2IyYjM5YS0zZjhmLTExZWQtYTJlYi1iN2IzNmYyZDcwYmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQiLCJ0bHMiOiJmYWxzZSJ9
 trojan://3d442d21-4351-49b3-ab82-1107ec28124e@95.164.46.235:443?sni=it-full.privateip.net&peer=it-full.privateip.net&security=tls#IT 🇮🇹 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.46.235
 vmess://eyJ2IjoiMiIsInBzIjoiSVQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyAyLjU2LjEyMS4yNDUiLCJhZGQiOiIyLjU2LjEyMS4yNDUiLCJwb3J0Ijo0NDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6InZtZXNzIiwicGF0aCI6Ii9wYXRoLzMyMTExMzIyMTEzMSIsInRscyI6InRscyJ9
-vless://93c5b02e-13e7-5e14-955c-9dd12a60c2db@95.164.46.39:2052?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.46.39
+vless://4e96c457-e331-57d5-ac72-5f37e41873e1@95.164.46.39:2052?type=grpc&security=none&sni=itvpnAndroid2.69.mu#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.46.39
 vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@95.164.46.153:600?type=tcp&security=tls&sni=marzban.negintel.xyz#IT 🇮🇹 ┇ VLESS-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.46.153
 vless://I_Love__sshOcean_d538@0:0:0:0:0:ffff:5fa4:2e27:443?type=grpc&security=tls&sni=zula.ir#IT 🇮🇹 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:5fa4:2e27
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - SEEWEB s.r.l. ┇ 95.174.23.218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 95.141.37.111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@158.58.173.240:806#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 158.58.173.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprcFpXaGs1cjFSTFQ@149.86.105.76:443#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Tecno General S.r.l ┇ 149.86.105.76
-trojan://pprrnhh4-79i4-d6g0-osjx-mm74ao19sh03@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://l4nhncly-y5zw-38qs-ccd6-3pydxtdkd21l@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
