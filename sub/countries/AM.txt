@@ -1,7 +1,7 @@
-trojan://0u6lm2lq-fw3h-x6c9-mzxw-phhh3qvfmcc2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-03 | 12:02 ]
-trojan://u7sjwgwn-qesp-e70i-wmfl-v72xdrdjn4xx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4t78r4hj-hn8l-9a6b-2aep-nqxoyrtrgspu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://x5lmsxp7-p66o-k15l-2k24-hrq26o56m0kq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3iplb29v-qnho-o6mw-7gix-lrliimn5pdas@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-03 | 12:28 ]
+trojan://vr2p9971-qd4g-23v5-jrtu-q99abwsbvgwm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oog12hff-quua-a9ps-tv0y-vldahjrrmztg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7356c32o-sgvc-rrhw-h39m-r2wj2j9qwsv4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@188.164.159.214:2083?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#AM 🇦🇲 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 188.164.159.214
 trojan://Aimer@188.164.159.98:2083?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#AM 🇦🇲 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 188.164.159.98
 trojan://Aimer@188.164.159.74:8443?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#AM 🇦🇲 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 188.164.159.74
@@ -107,18 +107,18 @@ vless://4edb9597-59c2-452d-9a2e-dfc03ca8a378@dlarm.kuckenpq.ir:8880?type=tcp&sec
 vless://09866813-4512-4f08-b17b-cd05d134efe2@dlarm2.kuckenpq.ir:8880?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 194.156.103.74
 vless://e14b4a6b-0c62-4551-a952-b3eff4b973de@194.156.103.86:2096?type=grpc&security=none#AM 🇦🇲 ┇ VLESS-GRPC-NTLS - Global Connectivity Solutions Llp ┇ 194.156.103.86
 vless://7847b06e-942e-41a4-b4dc-0abfba0c8eaa@45.129.185.212:600?type=tcp&security=tls&sni=marzban.negintel.xyz#AM 🇦🇲 ┇ VLESS-TCP-TLS - Global Connectivity Solutions Llp ┇ 45.129.185.212
+vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 45.129.185.185
 vless://f333d229-5ecc-4cb6-9fd7-3d035bdebbbc@194.156.103.134:443?type=tcp&security=reality&sni=mdundo.com&fp=chrome&flow=xtls-rprx-vision&pbk=mg27CNAYLf_Ur6787uTVq_RVfKuiM5MVwbReFVDg5ks&sid=190d32b118caf07f#AM 🇦🇲 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 194.156.103.134
 vless://df54e90b-a045-489e-8666-d77a73e4effe@194.156.103.21:8443?type=tcp&security=reality&sni=armenia.extvay.ir&fp=firefox&pbk=BPyF7oyAzcqOB9KWvy0Xe6nkBQLtZkHVFXX4O2Y7Q18&sid=94040bd2a7f2505c#AM 🇦🇲 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 194.156.103.21
-vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 45.129.185.185
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@45.129.185.254:3043?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#AM 🇦🇲 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 45.129.185.254
 vless://890f138f-1bab-435a-bde9-581225b6797d@45.129.185.96:2096?type=grpc&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=2aoxX2Wjq25LmOUq9CuhJ6KJTA8z1i3Aspe-7RhTR1s&sid=28f58957#AM 🇦🇲 ┇ VLESS-GRPC-RLT - Global Connectivity Solutions Llp ┇ 45.129.185.96
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@91.132.132.240:443?type=ws&security=tls&path=Telegram@WangCai2/?ed=2560&sni=0926.qiang2000.link#AM 🇦🇲 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 91.132.132.240
 vless://d724758c-505b-43be-b313-717be1fddc8a@213.159.76.238:2052?type=ws&security=none&path=/vless#@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL#AM 🇦🇲 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 213.159.76.238
 vless://298df634-8e55-452e-8adf-72383f9cada2@45.83.143.251:16303?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.83.143.251
-vless://dfa4d64d-24ae-461b-a029-18c232b7bf52@45.83.143.37:27757?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1x2kcyef8RdeKa4yaoCJSDhpVe4MJEWdotv3dVTvCkw&sid=f7a6fc#AM 🇦🇲 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.143.37
 vless://1af8c451-eff1-40cb-a14e-e395a4bd6018@45.83.143.71:2087?type=grpc&security=reality&sni=maps.google.com&fp=firefox&pbk=-hM5NALIIJNPWrREoyKCxYkqaHyEXaPkpD9wJbdbtRs&sid=d026#AM 🇦🇲 ┇ VLESS-GRPC-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.143.71
+vless://dfa4d64d-24ae-461b-a029-18c232b7bf52@45.83.143.37:27757?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1x2kcyef8RdeKa4yaoCJSDhpVe4MJEWdotv3dVTvCkw&sid=f7a6fc#AM 🇦🇲 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.143.37
 vless://32932937-b85f-40be-ae02-997ea5b0b62a@178.160.211.223:443?type=tcp&security=reality&sni=app.hubspot.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.223
 vless://32932937-b85f-40be-ae02-997ea5b0b62a@178.160.211.47:443?type=tcp&security=reality&sni=app.hubspot.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.47
 vless://d5a35da6-ad01-4d23-89c3-0566134b2051@178.160.211.100:34443?type=tcp&security=reality#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYaXYySFM4aUVIRmE4UG9zc0o2a1dy@2.56.204.144:8443#AM 🇦🇲 ┇ SHADOWSOCKS-TCP-NTLS - WEB LLC ┇ 2.56.204.144
-trojan://knly34l2-yp5h-m8rr-eg88-rau2lxb6pfa2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xg31fvz7-8uwf-j1t0-xqsg-rz9lxqxc50oh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
