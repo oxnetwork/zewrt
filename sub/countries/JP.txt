@@ -1,7 +1,7 @@
-trojan://ag07e0v6-3hg1-p67n-ty6a-2py7kxyik009@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-06 | 22:01 ]
-trojan://tr7ageyq-k7sr-dbt4-ude0-13150j0opt0p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gwskf65r-3c7h-o1xh-0r8h-akq4ph1i9fr2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5b5tl8kx-f0kb-4ibs-wa7n-6l4m6a3dwbnl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n76a6974-8ni4-tukx-xdw4-xu3a7wma1094@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-06 | 22:26 ]
+trojan://0n5s4t4s-lb5b-jyuq-tr6x-5hdbkxdgua6o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://09py144t-8z87-wbvi-uam7-724agsqhelap@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://r3u94xor-wx99-tnv7-1gur-jwzu8bml5byk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://0cc6b4268dea0ba8@103.168.155.73:3306?sni=n2.gladns.com&peer=n2.gladns.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS ┇ 103.168.155.73
 trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.2:889?sni=cdn.cjhh.lol&peer=cdn.cjhh.lol&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS ┇ 103.168.154.2
 trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.7:889?sni=cdn.cjhh.lol&peer=cdn.cjhh.lol&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS ┇ 103.168.154.7
@@ -45,8 +45,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.83.221:443#JP 🇯🇵 ┇ SHADOWSOC
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.64.6.209:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.64.6.209
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.231.243.205:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.231.243.205
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.114.82.97:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.114.82.97
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.238.207.188:8319#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.238.207.188
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.168.25.210:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.168.25.210
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.230.20.15:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.230.20.15
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.231.193.189:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.231.193.189
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.230.141.176:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.230.141.176
@@ -60,6 +58,8 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.112.13.110:443#JP 🇯�
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.231.49.47:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.231.49.47
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.195.185.114:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.195.185.114
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.249.151.205:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.249.151.205
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.238.207.188:8319#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.238.207.188
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.168.25.210:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.168.25.210
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.249.42.175:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.249.42.175
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.183.232.26:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 18.183.232.26
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.250.174.86:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.250.174.86
@@ -164,7 +164,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.206.194.133:443#JP 🇯🇵 ┇ SHADOWSO
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.225.151:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.207.225.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTAxYzgyYzcyZDc5MGI4@b5d28a9.sd.gladns.com:8474#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.196.144.61
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@52.195.220.57:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.195.220.57
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.178.71.192:2377#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.178.71.192
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.66.114:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 43.207.66.114
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@52.192.75.193:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.192.75.193
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.195.220.24:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.195.220.24
@@ -241,6 +240,7 @@ ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@52.199.0.140:443#JP 🇯🇵 ┇ SHADOWSOCKS-T
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.199.117.47:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 52.199.117.47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@54.178.162.204:9898#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.178.162.204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.178.26.105:2377#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.178.26.105
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.178.71.192:2377#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.178.71.192
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.199.167.157:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.199.167.157
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.199.66.30:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.199.66.30
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.249.170.37:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.249.170.37
@@ -406,14 +406,13 @@ trojan://your_password@43.206.127.212:443?sni=aws-jp-tokyo-1.f1rocketnode.com&pe
 trojan://5baea97b-7a9d-39ba-bd0f-0b13025de750@43.206.140.200:443?sni=d1--cn-gotcha05.bilivideo.com&peer=d1--cn-gotcha05.bilivideo.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.206.140.200
 trojan://cfd8d443-a9de-4966-8d2f-7ad5b994f86a@jp03.170203.xyz:443?sni=jp03.170203.xyz&peer=jp03.170203.xyz&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.64.224.132
 trojan://a3869db4-eaaa-4cef-b131-26b3c0b46686@3.112.220.151:26911?sni=sgp.piaole.me&peer=sgp.piaole.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.220.151
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@54.238.13.27:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.238.13.27
 trojan://d90e5504-a42b-44c1-8289-3543471bf55a@n3.jp4589871.top:8443?sni=n3.jp4589871.top&peer=n3.jp4589871.top&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.151.71
 trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@43.206.213.57:20230?sni=421421.xyz&peer=421421.xyz&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.206.213.57
 trojan://9006342b-be5d-4328-94a3-e54e4622d4d6@18.181.162.111:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.181.162.111
 trojan://b79a9be5-0fc7-426c-9741-602ba021db36@3.112.209.74:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.209.74
 trojan://515a3204-b835-4ee0-b6d3-4e24a61e5a7d@gzdx0.170203.xyz:27539?sni=sgmax01.170203.xyz&peer=sgmax01.170203.xyz&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.151.10
 trojan://aab77372-534b-4878-a7d0-b9339ddc1868@jp003.170203.xyz:34522?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.199.204.142
-trojan://270685c6-f4fb-4b15-bca6-dd6c622e8f44@tokyo.802039.xyz:8443?sni=tokyo.802039.xyz&peer=tokyo.802039.xyz&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.238.248.3
+trojan://270685c6-f4fb-4b15-bca6-dd6c622e8f44@tokyo.802039.xyz:8443?sni=tokyo.802039.xyz&peer=tokyo.802039.xyz&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.112.210.121
 trojan://aab77372-534b-4878-a7d0-b9339ddc1868@jp05.170203.xyz:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.206.235.150
 trojan://16e4fcdb-4a1f-442e-b760-46912ce2ca71@43.207.157.181:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 43.207.157.181
 trojan://c7bd43eb-009d-404e-9969-877397004733@jpmax05.170203.xyz:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.168.8.112
@@ -435,11 +434,11 @@ trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@3.112.1.139:20230?sni=jp006.421421
 trojan://6557bf4a-852b-4a69-ad35-d53293386a13@35.73.42.174:443?sni=it.mjt000.com&peer=it.mjt000.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.73.42.174
 trojan://Aimer@52.195.187.159:443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.195.187.159
 trojan://6557bf4a-852b-4a69-ad35-d53293386a13@52.68.27.92:443?sni=tr.mjt000.com&peer=tr.mjt000.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.68.27.92
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@54.238.13.27:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.238.13.27
 trojan://16c43955-e85b-444e-9f75-df8a38dbea3b@54.238.212.7:443?sni=new.download.the-best-airport.com&peer=new.download.the-best-airport.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.238.212.7
 trojan://6557bf4a-852b-4a69-ad35-d53293386a13@54.65.16.239:443?sni=tr.mjt000.com&peer=tr.mjt000.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.65.16.239
 trojan://6557bf4a-852b-4a69-ad35-d53293386a13@57.181.101.14:443?sni=it.mjt000.com&peer=it.mjt000.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 57.181.101.14
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAzNS43Mi4xNjEuODgiLCJhZGQiOiIwMDEuQVAuUE9QLm5vZGUtZm9yLXNtYWxsYWlycG9ydC53aW4iLCJwb3J0IjoyMjM1NiwiaWQiOiJjZDBlMWNkNC05YWFjLTQxZGYtOTc0Ni00ZDc2MTgyYzgwMDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjAwMS5BUC5QT1Aubm9kZS1mb3Itc21hbGxhaXJwb3J0LndpbiIsInBhdGgiOiIvIiwic25pIjoiMDAxLkFQLlBPUC5ub2RlLWZvci1zbWFsbGFpcnBvcnQud2luIn0
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgMTMuMTEyLjQ5LjE3MSIsImFkZCI6IjEzLjExMi40OS4xNzEiLCJwb3J0Ijo0ODg5NywiaWQiOiIzMzc0ZGU3Yi02MWNhLTRlZjQtYWU5NC1hZDBlMGU3NTlkYjAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDMuMTEzLjkuMTAwIiwiYWRkIjoiMy4xMTMuOS4xMDAiLCJwb3J0IjoyMzQ0MywiaWQiOiIzNTE5ZGZjMC1mYTI3LTQxY2MtOGMxOS05ODE4MThmOWY2ZDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InRscy4wNC5ub2RlLWZvci1iaWdhaXJwb3J0LndpbiIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoidGxzLjA0Lm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDQzLjIwNy42Ny43NyIsImFkZCI6IjQzLjIwNy42Ny43NyIsInBvcnQiOjQyMzU5LCJpZCI6IjM1MTlkZmMwLWZhMjctNDFjYy04YzE5LTk4MTgxOGY5ZjZkNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA3OC5jZ3JvdXAtbm9kZS1mb3ItYmlnYWlycG9ydC5zYnMiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6IjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwNzguY2dyb3VwLW5vZGUtZm9yLWJpZ2FpcnBvcnQuc2JzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgMTguMTgxLjE2NS4yMzEiLCJhZGQiOiIxOC4xODEuMTY1LjIzMSIsInBvcnQiOjQ4ODg5LCJpZCI6ImMxMzBjYjM2LWM5M2YtNGJlNy05MjI4LWE3YTk3ZDQzODg1YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
@@ -450,6 +449,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDUyLjE5My4yMS4yNTMiLCJhZGQiOiI1Mi4xOTMuMjEuMjUzIiwicG9ydCI6MzM0NDMsImlkIjoiMzUxOWRmYzAtZmEyNy00MWNjLThjMTktOTgxODE4ZjlmNmQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ0bHMuMDUubm9kZS1mb3ItYmlnYWlycG9ydC53aW4iLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InRscy4wNS5ub2RlLWZvci1iaWdhaXJwb3J0LndpbiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDUyLjE5OS40OS40NiIsImFkZCI6IjUyLjE5OS40OS40NiIsInBvcnQiOjIyNDQzLCJpZCI6IjM1MTlkZmMwLWZhMjctNDFjYy04YzE5LTk4MTgxOGY5ZjZkNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoidGxzLjExLm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ0bHMuMTEubm9kZS1mb3ItYmlnYWlycG9ydC53aW4ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDUyLjE5Ny4xNDYuNjMiLCJhZGQiOiI1Mi4xOTcuMTQ2LjYzIiwicG9ydCI6MTQ0NDMsImlkIjoiMzUxOWRmYzAtZmEyNy00MWNjLThjMTktOTgxODE4ZjlmNmQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ0bHMuMTQubm9kZS1mb3ItYmlnYWlycG9ydC53aW4iLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InRscy4xNC5ub2RlLWZvci1iaWdhaXJwb3J0LndpbiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgMTMuMTEyLjQ5LjE3MSIsImFkZCI6IjEzLjExMi40OS4xNzEiLCJwb3J0Ijo0ODg5NywiaWQiOiIzMzc0ZGU3Yi02MWNhLTRlZjQtYWU5NC1hZDBlMGU3NTlkYjAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgMTMuMjMwLjIzNS4yNDciLCJhZGQiOiIxMy4yMzAuMjM1LjI0NyIsInBvcnQiOjQ4ODg5LCJpZCI6ImMxMzBjYjM2LWM5M2YtNGJlNy05MjI4LWE3YTk3ZDQzODg1YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDMuMTEyLjIxMi4xOTciLCJhZGQiOiIzLjExMi4yMTIuMTk3IiwicG9ydCI6MzM0NDMsImlkIjoiMzUxOWRmYzAtZmEyNy00MWNjLThjMTktOTgxODE4ZjlmNmQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ0bHMuMDUubm9kZS1mb3ItYmlnYWlycG9ydC53aW4iLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InRscy4wNS5ub2RlLWZvci1iaWdhaXJwb3J0LndpbiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDUyLjE5Ni4xMzEuMTk0IiwiYWRkIjoiNTIuMTk2LjEzMS4xOTQiLCJwb3J0IjoyMzQ0MywiaWQiOiIzNTE5ZGZjMC1mYTI3LTQxY2MtOGMxOS05ODE4MThmOWY2ZDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InRscy4wNC5ub2RlLWZvci1iaWdhaXJwb3J0LndpbiIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoidGxzLjA0Lm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIn0
@@ -466,6 +466,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAzNS43Ny44Mi4xNDUiLCJhZGQiOiJqcDAyLjE3MDIwMy54eXoiLCJwb3J0IjoyMzI0NSwiaWQiOiJjZmQ4ZDQ0My1hOWRlLTQ5NjYtOGQyZi03YWQ1Yjk5NGY4NmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyA1Mi4xOTUuMi4xNzkiLCJhZGQiOiIwMDQuQVAuUE9QLm5vZGUtZm9yLXNtYWxsYWlycG9ydC53aW4iLCJwb3J0IjoyMjM1NiwiaWQiOiIyOTFlNDU1NC01MzU2LTQxMWYtODc5ZS1lNTU0YTNmMzViYWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAxMy4yMDguMjE0LjE3MiIsImFkZCI6ImphbnBhbmJwamN5b3MubG9zZXlvdXJpcC5jb20iLCJwb3J0Ijo4MCwiaWQiOiJkY2VjOTc3OC0zZTA3LTQ4MDAtODI0ZS01YmNjYjA0YmMyYjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9pbWFnZXMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgMy4xMTIuMTc1LjE0IiwiYWRkIjoidGxzLjE4Lm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwicG9ydCI6MzQwMDIsImlkIjoiYzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAxMy4yMDguMTkxLjIwMiIsImFkZCI6IjEzLjIwOC4xOTEuMjAyIiwicG9ydCI6ODAsImlkIjoiM2U4MjBlYjAtM2YwNi00MzM3LWE0ZmMtMGMzYzdjMGQzYjRkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaW1hZ2VzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQU1BWk9OLTAyIFx1MjUwNyAxNS4xNTIuNTguMTQzIiwiYWRkIjoiMTUuMTUyLjU4LjE0MyIsInBvcnQiOjMwODY2LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL29vb28ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBTUFaT04tMDIgXHUyNTA3IDUyLjE5NC4yNTIuNTMiLCJhZGQiOiJqcC1sczAzLnhjMTg4Lm5ldCIsInBvcnQiOjY0NDQzLCJpZCI6ImNiNzAwMWM3LWU0OTUtNDFhYy1iOTQyLWYyNWY2MDUyMzQxNCIsImFpZCI6MSwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2NsaWVudGFyZWEiLCJ0bHMiOiJ0bHMifQ
@@ -666,11 +667,11 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3Mi4xMDQuMTE0LjEzNyIsImFkZCI6IjE3Mi4xMDQuMTE0LjEzNyIsInBvcnQiOjczMDQsImlkIjoiOGI3NzBhM2EtN2FkOS00NTczLWJmZDYtMmIxNDZiZjkzYWY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWthbWFpIENvbm5lY3RlZCBDbG91ZCBcdTI1MDcgMTcyLjEwNS4xOTguNTEiLCJhZGQiOiIxNzIuMTA1LjE5OC41MSIsInBvcnQiOjgwLCJpZCI6IjY5YWFkNTgxLTVjN2QtNGM3OC1iY2I3LWMxZTBmZDMyYWU4YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii81Z3NpZXV0b2MuY29tIn0
 vless://6ef90aeb-c8f2-494e-b73f-90594e5d130e@139.162.104.178:2321?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 139.162.104.178
-vless://3b4e2588-a84c-41e5-a02e-3063d9ef4d80@jp3.interld123456789.com:56702?type=tcp&security=tls&path=/&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#JP 🇯🇵 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.105.226.238
 vless://eccf9ab0-b49e-4929-bc6a-e0aa30707c84@172.104.120.67:443?type=tcp&security=tls&sni=jp-s51.n2-fatvpn.top&fp=chrome&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.104.120.67
 vless://1f7970db-d89c-438e-992f-8ce9378d23a2@172.105.240.143:443?type=tcp&security=tls&sni=jp-s42.fatvpn.pro&fp=chrome&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.105.240.143
 vless://5dad8133-3f22-41ec-a46d-01abd74cee35@172.234.84.7:2321?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.234.84.7
 vless://b1676447-0825-4b60-be37-735c9586735e@jp1.interld123456789.com:56702?type=tcp&security=tls&path=/&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#JP 🇯🇵 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 139.162.108.136
+vless://3b4e2588-a84c-41e5-a02e-3063d9ef4d80@jp3.interld123456789.com:56702?type=tcp&security=tls&path=/&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#JP 🇯🇵 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.105.226.238
 vless://5e9dfb14-3dc6-4200-85f3-f84fab4b939f@jp2.interld123456789.com:10002?type=tcp&security=reality&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=xnzUvDQZ4B45lUi40lFKOLWiJdPQW8LzhGsGandvvlc&sid=ad081079#JP 🇯🇵 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 139.162.104.181
 vless://5e9dfb14-3dc6-4200-85f3-f84fab4b939f@jp4.interld123456789.com:10002?type=tcp&security=reality&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=xnzUvDQZ4B45lUi40lFKOLWiJdPQW8LzhGsGandvvlc&sid=ad081079#JP 🇯🇵 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.104.98.4
 vless://16003d11-87d6-4912-91ec-34f82fc28e4d@139.162.108.193:15493?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=bnyccN-N4Yh5Wf7Ir4teJfqC1Pi6h1ORbZTtnxoxGFg&sid=30#JP 🇯🇵 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 139.162.108.193
@@ -680,9 +681,9 @@ vless://204a5ea4-7447-4de4-81b1-fe40eb9f4a5b@172.104.98.150:20667?type=tcp&secur
 vless://9c1f844a-c4b4-44ad-8e00-b59f28d01e18@139.162.80.169:17301?type=tcp&security=reality&sni=itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=1PRIrJISN7uWjIUn2vTIXSJ5JjojwCuESSEvbaUTOTg&sid=6ba85179e30d4fc2#JP 🇯🇵 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 139.162.80.169
 vless://c5a1e9de-3c5c-4709-a321-e60a69bb8ca3@139.162.122.247:14344?type=tcp&security=reality&sni=itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=ngiarSGd3PLPAdunYyMyfKocSQ_xBT_GYPyFAH3YWSc&sid=6ba85179e30d4fc2#JP 🇯🇵 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 139.162.122.247
 vless://a7cee267-e760-4621-a60f-f640e76aa3de@172.105.226.160:21896?type=grpc&security=reality&path=grpc&sni=m.media-amazon.com&fp=chrome&pbk=-_QH1k5i2WFYVqVGyLZ0kDeZpPF8YcXw_XxDWtSoaxs&sid=6ba85179e30d4fc2#JP 🇯🇵 ┇ VLESS-GRPC-RLT - Akamai Connected Cloud ┇ 172.105.226.160
-trojan://Aimer@47.91.18.127:443?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.91.18.127
 trojan://Aimer@47.79.86.103:587?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.79.86.103
 trojan://Aimer@47.79.92.16:443?sni=epcct.ambercc.filegear-sg.me&peer=epcct.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.79.92.16
+trojan://Aimer@47.91.18.127:443?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.91.18.127
 trojan://Aimer@47.79.84.167:443?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.79.84.167
 trojan://Aimer@47.79.88.21:6010?sni=epccg.ambercc.filegear-sg.me&peer=epccg.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.79.88.21
 trojan://Aimer@47.79.90.82:8843?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.79.90.82
@@ -714,12 +715,13 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922?type=ws&securit
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.90.37:49153?type=ws&security=tls&path=/?ed&sni=edccn.ambercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.79.90.37
 vless://e4e80428-c1e2-44b5-a8ce-7b868d41b49b@47.74.37.50:80?type=ws&security=none&path=/#JP 🇯🇵 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.74.37.50
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.221.142.97:587?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edcca.ambercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.221.142.97
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@8.216.81.183:3939?type=ws&security=tls&path=Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.216.81.183
 vless://a5634409-3a7c-4865-aea6-6e49b18904f7@47.74.42.111:2087?type=ws&security=none#JP 🇯🇵 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.74.42.111
 vless://e5c89c14-3de9-4716-cbc3-6eae3ebed0a2@47.79.37.171:8443?type=tcp&security=tls&path=/&sni=www.yahoo.com&fp=chrome&pbk=xokq1PlzXfunVbdUvWKkR7DpCMsZPr8mNMl74JZMxVg&sid=07204dd0#JP 🇯🇵 ┇ VLESS-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.79.37.171
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@47.79.43.222:443?type=ws&security=none&path=/Telegram&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.79.43.222
 vless://2c6654b9-6cad-4bd9-85d7-b5fc36a9c99a@47.79.43.40:40543?type=tcp&security=tls&path=/&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=-DGhvkCZEcENlqMp6d-XvOU67Is7KuBZK_OoIDl8gC8&sid=0db09a8b#JP 🇯🇵 ┇ VLESS-TCP-TLS - Alibaba US Technology Co., Ltd. ┇ 47.79.43.40
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@8.209.243.110:8175?type=ws&security=none&sni=ngedo.ambercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 8.209.243.110
-trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10105?sni=sni.eos-suzhou-4.cmecloud.cn&peer=sni.eos-suzhou-4.cmecloud.cn&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Apple Network, LLC ┇ 62.3.54.31
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:10101?sni=sni.eos-suzhou-4.cmecloud.cn&peer=sni.eos-suzhou-4.cmecloud.cn&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - Apple Network, LLC ┇ 62.3.54.31
 vless://55520747-311e-4015-83ce-be46e2060ce3@202.84.53.85:12145?type=ws&security=tls&path=/?ed=2560&sni=fs.bgm2024.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - Azumino Network Community TV ┇ 202.84.53.85
 vless://49dc19c3-e447-4422-9a54-35af28207a6e@160.191.40.97:7000?type=ws&security=tls&path=/?ed=2560&sni=mihu.sorry.ip-ddns.com&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - BACK WAVES LIMITED ┇ 160.191.40.97
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NmIxOGFhYi05ZTgzLTQ3OTEtYWI1Ny1iMzQ5NzA0ZmMxNzY@23.187.72.205:443#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - BAGE ┇ 23.187.72.205
@@ -764,6 +766,9 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.197:8880?type=ws&securit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.239:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=yd.laoyoutiao.link#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.239
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.76:8880?type=ws&security=none&path=/Telegram🇨🇳#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.76
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.197.80.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 154.197.80.77
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.123:8880?type=ws&security=none&path=Telegram@节点狂魔2/?ed=2048#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.123
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.128:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=yd.laoyoutiao.link#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.128
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@156.238.19.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.19.177
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.5:8880?type=ws&security=false&path=Telegram🇨🇳@WangCai2/?ed=2560&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.5
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.180:8880?type=ws&security=false&path=Telegram🇨🇳@WangCai2/?ed=2560&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.180
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.225:8880?type=ws&security=false&path=Telegram🇨🇳@WangCai2/?ed=2560&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.225
@@ -804,7 +809,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.6:8880?type=ws&security=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.63:8880?type=ws&security=false&path=TelegramрЯЗ®рЯЗ≥&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.63
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.25:8880?type=ws&security=false&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.25
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.195:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.195
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.123:8880?type=ws&security=false&path=Telegram@节点狂魔2/?ed=2048&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.123
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.28:8880?type=ws&security=false&path=/TelegramрЯЗ&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.28
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.89:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2048&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.89
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.142:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2560&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.142
@@ -822,7 +826,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.20:8880?type=ws&security
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.175:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2048&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.175
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.136:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2048&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.136
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.81:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.81
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.128:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.128
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.199:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2560&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.199
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.207:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2048&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.207
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.177:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2048&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.177
@@ -831,7 +834,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.244:8880?type=ws&securit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.138:8880?type=ws&security=false&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.138
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.252:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2048&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.252
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.132:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2560&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 156.238.18.132
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@156.238.19.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.19.177
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.127:8880?type=tcp&security=none&path=/Telegram🇨🇳#JP 🇯🇵 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 156.238.18.127
 vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@156.238.19.96:443?type=grpc&security=tls&sni=ez.ez0535.com&fp=chrome#JP 🇯🇵 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 156.238.19.96
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?type=ws&security=none&path=/TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2048#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.165
@@ -909,6 +911,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.223:8880?type=ws&securit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.227:8880?type=ws&security=none&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.227
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.37:8880?type=ws&security=none&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.37
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.216:8880?type=ws&security=none&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.216
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.198:8880?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=kjgx.laoyoutiao.link#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.18.198
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@156.238.19.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 156.238.19.77
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.197.80.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 154.197.80.177
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@154.197.80.3:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#JP 🇯🇵 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 154.197.80.3
@@ -1203,7 +1206,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNDEuMTQ3LjE1My4yNDQiLCJhZGQiOiIxNDEuMTQ3LjE1My4yNDQiLCJwb3J0Ijo0MTU0NSwiaWQiOiJkNDdkNzEzNS0wOTU0LTQ2YWItYTE5MC0xN2I2Yzg2MzBhODUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6ImZhbHNlIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE0MS4xNDcuMTU0LjIxNyIsImFkZCI6IjE0MS4xNDcuMTU0LjIxNyIsInBvcnQiOjQ0NzgwLCJpZCI6IjU2OTBjZjIxLTc3ZjgtNDRhYi1iMGM4LTAzNGZjM2U5ZjE0NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9iYiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxMzguMi45LjEzMCIsImFkZCI6IjEzOC4yLjkuMTMwIiwicG9ydCI6NTEyNDcsImlkIjoiMTEzMTI3ODctNTgyOC00OGZhLWE0YTMtZWNmZGU2MDkzZTFmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJmYWxzZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE0MC44My41MS4xNTciLCJhZGQiOiJqcC5mdXp6eXBuLm1lIiwicG9ydCI6ODAsImlkIjoiMjExOGZmMjUtYTc1MC00OGRlLWE3ZTktYzE3YjQ1NDM0MGVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZnV6enlwbiIsInRscyI6ImZhbHNlIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE0MC44My41OS4xODYiLCJhZGQiOiJqcC5mdXp6eXBuLm1lIiwicG9ydCI6ODAsImlkIjoiMjExOGZmMjUtYTc1MC00OGRlLWE3ZTktYzE3YjQ1NDM0MGVhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZnV6enlwbiIsInRscyI6ImZhbHNlIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNTguMTAxLjEzNC4xMjUiLCJhZGQiOiIxNTguMTAxLjEzNC4xMjUiLCJwb3J0IjozOTE3NiwiaWQiOiJlMTA5MDE0MC1mMDNhLTQ5YWQtYjg5OS1lMDM2ZjBmZjAyMzUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6ImZhbHNlIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE0MS4xNDcuMTc5LjEyMCIsImFkZCI6IjE0MS4xNDcuMTc5LjEyMCIsInBvcnQiOjE0MDM3LCJpZCI6IjQxMGY3MjM4LWZkZGYtNDA5Mi05ZjhiLTg5NmJkNWM3ZDVjOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE2OC4xMzguMTk0LjI0MyIsImFkZCI6IjE2OC4xMzguMTk0LjI0MyIsInBvcnQiOjMzNDIxLCJpZCI6Ijk0ZTU2ZmY5LWNjZjEtNDE0ZS1hMTE0LTQ2ZTBhNzlmNjYxNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
@@ -1223,7 +1226,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUwLjIzMC4yMjEuMjI3IiwiYWRkIjoiMTUwLjIzMC4yMjEuMjI3IiwicG9ydCI6MjA5NSwiaWQiOiJlOTRjNzA2YS0yMzVmLTQ2NjMtZTIxNC1lZGZhMDUyZjI1NmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii93by5wbmcifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTUyLjY5LjIwNi4yMDkiLCJhZGQiOiIxNTIuNjkuMjA2LjIwOSIsInBvcnQiOjEyMTIsImlkIjoiZmI5MDgxNjAtOTY5Ny00YmZkLWY1YjctZjFmYmM1M2U2MGZhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@132.145.116.185:443?type=ws&security=none&sni=mmdserver.us.kg#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 132.145.116.185
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@168.138.46.67:443?type=ws&security=tls&path=/?ed=2560&sni=rn.ylks0033.dpdns.org&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 168.138.46.67
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@168.138.46.67:443?type=ws&security=tls&path=/?ed=2560&sni=rt.ylks0033.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 168.138.46.67
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.83.57.183:22735?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 140.83.57.183
 vless://70c2e363-a934-4ea5-9e29-7cadd817194c@132.145.127.203:2053?type=ws&security=tls&path=/?ed=2560&sni=v2-3h5.pages.dev&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 132.145.127.203
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.238.37.103:14782?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 140.238.37.103
@@ -1236,7 +1239,6 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@64.110.104.30:443?type=ws&security=
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@141.147.185.15:443?type=ws&security=tls&path=/?ed=2560&sni=cr777.medicaldream.ir#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 141.147.185.15
 vless://5a132527-c9ef-4066-8b1a-5584ff5dfb10@158.179.181.135:443?type=tcp&security=tls&sni=cloud.oracle.com&fp=firefox&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 158.179.181.135
 vless://5a132527-c9ef-4066-8b1a-5584ff5dfb10@168.138.199.160:443?type=tcp&security=tls&sni=cloud.oracle.com&fp=firefox&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 168.138.199.160
-vless://dee6e497-bf07-45bb-82a4-a988ac8c1403@cf-node-hk-1.kcjb.org:443?type=ws&security=tls&path=/&sni=node-new-us-1.clashr.us.kg#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 217.142.236.93
 vless://5a132527-c9ef-4066-8b1a-5584ff5dfb10@151.145.70.120:443?type=tcp&security=tls&sni=cloud.oracle.com&fp=firefox&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 151.145.70.120
 vless://5a132527-c9ef-4066-8b1a-5584ff5dfb10@140.238.60.111:443?type=tcp&security=tls&sni=cloud.oracle.com&fp=firefox&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 140.238.60.111
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@158.101.77.33:443?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed&sni=0926.qiang2000.link#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.101.77.33
@@ -1249,6 +1251,7 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.142.243.226:443?type=ws&securit
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@168.138.51.162:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 168.138.51.162
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@132.226.1.227:443?type=ws&security=tls&path=/blue&sni=ll.ylks01.eu.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 132.226.1.227
 vless://55520747-311e-4015-83ce-be46e2060ce3@131.186.33.175:443?type=ws&security=tls&path=/?ed=2560&sni=dv.bgm2024.dpdns.org&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 131.186.33.175
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@141.147.185.63:443?type=ws&security=tls&path=Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 141.147.185.63
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.215.251:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 168.138.215.251
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 168.138.50.249
 vless://948f6596-66f9-4707-aa92-3107a214ce53@138.2.10.149:45638?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 138.2.10.149
@@ -1258,7 +1261,6 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@140.238.58.181:2053?type=ws&securit
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@141.147.144.246:8080?type=ws&security=none&sni=ngedo.ambercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 141.147.144.246
 vless://55520747-311e-4015-83ce-be46e2060ce3@141.147.147.28:8443?type=ws&security=none&sni=vb.bgm2024.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 141.147.147.28
 vless://2fec7227-9abe-46f2-af18-78302b836c45@141.147.168.141:443?type=ws&security=tls&path=/qF5dXhCllosLcFpqdDoAgkondVWl&sni=3u.2032.pp.ua#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 141.147.168.141
-vless://948f6596-66f9-4707-aa92-3107a214ce53@141.147.185.63:443?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 141.147.185.63
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@150.230.206.237:9710?type=ws&security=none&sni=edcci.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 150.230.206.237
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@150.230.63.93:443?type=ws&security=tls&path=/?ed=2560&sni=vk.ylka.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 150.230.63.93
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@150.230.7.216:443?type=ws&security=tls&path=/?ed=2560&sni=xk.ylka.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 150.230.7.216
@@ -1269,7 +1271,9 @@ vless://948f6596-66f9-4707-aa92-3107a214ce53@158.101.154.245:47001?type=ws&secur
 vless://948f6596-66f9-4707-aa92-3107a214ce53@158.101.80.84:443?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.101.80.84
 vless://948f6596-66f9-4707-aa92-3107a214ce53@168.138.192.16:54584?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 168.138.192.16
 vless://948f6596-66f9-4707-aa92-3107a214ce53@168.138.193.174:11959?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 168.138.193.174
+vless://948f6596-66f9-4707-aa92-3107a214ce53@217.142.236.93:443?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 217.142.236.93
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@64.110.101.125:443?type=ws&security=tls&path=/&sni=cr7.rayan.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 64.110.101.125
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2052?type=ws&security=none&path=/?ed=2048&fp=random#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 168.138.201.0
 vless://ede893a4-243f-4e9c-b2fc-31cd53e8c007@138.2.37.59:14228?type=tcp&security=reality&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA#JP 🇯🇵 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 138.2.37.59
 vless://966dc5ee-cd6e-4698-9116-50e6bd301bd9@152.70.99.180:443?type=tcp&security=reality&sni=buylite.music.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=IHJ7w7m13QsYPFq8eppdqyTyeLmXzTtOG9EGu_-ep2c&sid=49824283a241#JP 🇯🇵 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 152.70.99.180
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@107.148.6.121:8388#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - PEG-TY ┇ 107.148.6.121
@@ -1301,6 +1305,7 @@ vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@5.253.41.94:443?type=ws&security=tl
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?type=ws&security=none&path=/vless/#JP 🇯🇵 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 5.253.41.223
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?type=ws&security=tls&path=/vless/&sni=pq-japan3.09vpn.com#JP 🇯🇵 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 5.253.41.237
 vless://ed242313-b502-4a4a-97f4-336da621a837@45.12.134.217:80?type=ws&security=none&path=/vless/#JP 🇯🇵 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.12.134.217
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@91.194.160.64:443?type=ws&security=tls&path=Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 91.194.160.64
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@45.12.134.250:443?type=ws&security=none&path=/Telegram&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.12.134.250
 vless://4dc10699-ff48-4688-b7e3-675249f307c3@5.253.41.42:30488?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=oAZiftXfDm4Kue2Zle0lB9QQXEFPRyd24Vf7useQRyY&sid=a7#JP 🇯🇵 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 5.253.41.42
 vless://0db55a6e-94fe-4ea8-b773-d991bf9b3304@45.12.134.120:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#JP 🇯🇵 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.12.134.120
@@ -1373,12 +1378,12 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.181.217:80?type=ws&security=
 vless://55520747-311e-4015-83ce-be46e2060ce3@43.165.191.25:23023?type=ws&security=tls&path=/?ed=2560&sni=jv.bgm2024.dpdns.org&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.165.191.25
 vless://948f6596-66f9-4707-aa92-3107a214ce53@43.133.10.236:33405?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.133.10.236
 ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA@156.231.104.24:18014#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.24
-ss://YWVzLTI1Ni1nY206UEdGMlRHVUNIUUJDNUlQNQ@156.231.104.26:18016#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.26
-ss://YWVzLTI1Ni1nY206UUZSM0ZTUU1RUlpMNEhRMg@156.231.104.12:18002#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.12
 ss://YWVzLTI1Ni1nY206U1AxSVROVTdITUVJWE41VQ@156.231.104.22:18012#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.22
 ss://YWVzLTI1Ni1nY206TEVVSzNURjNDTEtSTkpXRg@156.231.104.15:18005#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.15
 ss://YWVzLTI1Ni1nY206N05KTlpPR0lNM0dUMlpPUA@156.231.104.13:18003#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.13
 ss://YWVzLTI1Ni1nY206SklQSTNPTzVWRjdKTjlWSA@156.231.104.16:18006#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.16
+ss://YWVzLTI1Ni1nY206UEdGMlRHVUNIUUJDNUlQNQ@156.231.104.26:18016#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.26
+ss://YWVzLTI1Ni1nY206UUZSM0ZTUU1RUlpMNEhRMg@156.231.104.12:18002#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.12
 ss://YWVzLTI1Ni1nY206WTdZQUZJRklGTFM5WjNQWA@156.231.104.17:18007#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.17
 ss://YWVzLTI1Ni1nY206NE9BS0o4Q0FTRVJBV1hJMQ@156.231.104.23:18013#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.23
 ss://YWVzLTI1Ni1nY206VFFRR1dHMDI0VzJCRjZSUA@156.231.104.19:18009#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - VELO-LINK ┇ 156.231.104.19
@@ -1424,4 +1429,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVT
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.98.196.223:443?type=ws&security=none&sni=edccf.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-NTLS - xTom Japan Corporation ┇ 141.98.196.223
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.66.128.216:2000?type=ws&security=tls&path=TG@ZDYZ2&sni=cfed.tgzdyz2.top&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - xTom Japan Corporation ┇ 45.66.128.216
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@147.78.247.212:587?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - xTom Japan Corporation ┇ 147.78.247.212
-trojan://2z0kxu36-5yif-46oq-zc0i-3wvzag1xiiy0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://v2b2ijhy-azru-i076-lxrt-jrslrsbwotpg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
