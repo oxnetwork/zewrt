@@ -1,7 +1,7 @@
-trojan://469bvjco-1gjx-h0ov-s8c6-mtfyo8eqkvht@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-06 | 08:31 ]
-trojan://xl3r540i-t9su-cdbk-nyi5-nc9s21crktv6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://123v32r3-e4ro-6622-1ppy-zaxb1dzhpf9s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3tz26w3w-4sx1-8r99-dnsh-dih3yyrce3lf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://obvxdmsy-tfso-0ot3-3z39-o6q72fxy70ay@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-06 | 08:56 ]
+trojan://frw814lh-m891-kl3y-zjo9-t84hk5k9xgbg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5sx7jpso-8pac-z0im-bk2j-j0ft28kpxx3l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lt9y9dwx-rxvg-karw-zcir-f4t05yamo3la@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN3FtSkN3aU1jNXlyVk1VRndsZUR3@185.49.105.170:1080#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 185.49.105.170
 ss://Og@185.49.105.233:6000#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 185.49.105.233
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRvc2UgRXJ0ZWJhdGF0IEF2aWQgTWVocmVnYW4gQ28ucGpzYyBcdTI1MDcgMjE3LjExNC40MC4xMzYiLCJhZGQiOiIyMTcuMTE0LjQwLjEzNiIsInBvcnQiOjMyMjMsImlkIjoiYzBiMzNiNWEtYzI3ZS1mMjczLWUzZWUtZDI1ZjdiYmY3M2RkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
@@ -55,7 +55,7 @@ vless://84b1e959-cf9a-4ff7-9429-0a14ebe73a3c@all1.blackkwolff.com:9435?type=tcp&
 vless://33750dde-2801-4708-80be-680218439b01@185.49.106.74:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 185.49.106.74
 vless://cf8a36d7-bdb6-42d3-8cdb-86dcbb2f08d6@vipnz.digi2021game.com:21483?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.23
 vless://d7864b02-f3ff-49af-97cd-f42ff92b2821@s2idb.iran-to-mars.icu:2083?type=tcp&security=tls&sni=s2edb.iran-to-mars.icu#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.114
-vless://aa1e4f8a-ca07-4b03-a488-34657f97d78d@api.wedasichetinvalieybiyox.sbs:2400?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.54
+vless://aa1e4f8a-ca07-4b03-a488-34657f97d78d@api.wedasichetinvalieybiyox.sbs:2400?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.36
 vless://ab42b902-32fc-2f60-10c9-37704f6e88e3@btemp.cutemugs.ir:6076?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 217.114.40.120
 vless://2b0d6f26-6275-39c7-3a0b-0079866524df@temp.cutemugs.ir:7076?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 217.114.40.96
 vless://ba12e208-2052-4663-8281-98522ee41813@ir3.tunneled.site:1010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.196
@@ -63,11 +63,12 @@ vless://3450d6bf-9128-4dd4-f7c7-9b718d0a7e41@server5.emralnetwork.top:42961?type
 vless://aa9d78d2-508e-4f89-8bb6-1e2c5e54834f@elipii1.digi-elipii.ir:80?type=tcp&security=tls&sni=digi-elipii.ir&fp=firefox#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 91.234.39.51
 vless://bf1b2375-51cf-0fae-5e69-3335783223ff@85.133.194.9:44752?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.194.9
 vless://9e98bc71-daf5-4c64-a5ef-58ec37644ee7@87.236.38.232:2082?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.232
-vless://37c6ed34-9359-41d1-9c41-485392b54a23@87.236.38.36:2400?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.36
 vless://37c6ed34-9359-41d1-9c41-485392b54a23@87.236.38.42:2400?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.42
 vless://fe9518bb-d3d2-428f-9781-b54dc1f73594@91.234.39.27:50063?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 91.234.39.27
 vless://40bc7d91-f3dd-4925-aa82-ae525e6727a8@irc.testvp2.sbs:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.59
 vless://926e4bd4-60d2-46c6-a116-1db865b52677@87.236.38.48:7043?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=XHZ1N6Vdsv7sRU0mIdWSoFrlyZzCJ6EpShGiSvUzD1k&sid=8fdffbb0e93345ab#IR 🇮🇷 ┇ VLESS-TCP-RLT - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.48
 vless://b55d615a-104d-48bb-acd6-fe2a4666745a@87.236.38.49:7042?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=tVj9PPwOKTxHu1ACpZUaHv1hZLGy9P0Z7Y6jJOVTLzI&sid=5668ea398f7657ef#IR 🇮🇷 ┇ VLESS-TCP-RLT - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.49
+vless://b55d615a-104d-48bb-acd6-fe2a4666745a@87.236.38.54:7042?type=tcp&security=reality&sni=ebook.streamingpower.sbs&fp=firefox&pbk=tVj9PPwOKTxHu1ACpZUaHv1hZLGy9P0Z7Y6jJOVTLzI#IR 🇮🇷 ┇ VLESS-TCP-RLT - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 87.236.38.54
 vless://245903ae-1735-4876-9139-9426da0548ed@tr.irvi-online.ir:2000?type=tcp&security=reality&sni=stackoverflow.com&fp=firefox&pbk=M065TJNkS6vSsmwuMzYYb0ZIoHnwOA9LR9VPU-rvR2s#IR 🇮🇷 ┇ VLESS-TCP-RLT - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 185.49.105.252
-trojan://41j3n4xq-cam1-vd1c-0uy7-orhginxtn69x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://9ae1b0cb-55ff-4431-afe2-6ceb1f09bffd@tunnel.rapcity.space:43070?type=grpc&security=reality&sni=canva.com&fp=firefox&pbk=OiZTCW0hsyA1ceau0Dl7XUw3vhcKAA7zJBeJy6wIOkY&sid=3ba60226#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Tose Ertebatat Avid Mehregan Co.pjsc ┇ 85.133.195.222
+trojan://parr1mbd-j70r-n651-fjft-5orzgucmqojo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
