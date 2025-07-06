@@ -1,10 +1,10 @@
-trojan://ljeotp6i-fu61-153r-7tlr-6ufbldqkpg8e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-06 | 20:25 ]
-trojan://sf500if8-mze6-778i-qzx9-1m0y2i2mq8hg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s6vddjlr-9dd7-ffq9-us24-l5ibaep67uxo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kldn9aif-lail-o536-wp17-ffa1nr1fq2h3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://eaawhy0n-vvli-p4b3-qhm5-iprflipwa58p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-06 | 20:53 ]
+trojan://5t7bfqnj-dsdh-kkvi-khhp-e0jvgn9g64bj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zgubhtag-75vo-at06-yd3i-a60cmvzxod17@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://iz5uqos0-9704-uvsc-brf5-gh644112a3fw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://your_password@16.62.65.57:443?sni=aws-ch-zurich-1.f1rocketnode.com&peer=aws-ch-zurich-1.f1rocketnode.com&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 16.62.65.57
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.166.88.5:3389#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 23.166.88.5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 204.136.10.115
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.166.88.5:3389#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 23.166.88.5
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.166.88.201:6697#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 23.166.88.201
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 23.166.88.221
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 23.166.88.20
@@ -26,13 +26,14 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdWRmbGFyZSBMb25kb24sIExMQyBcdTI1MDcgMTg1LjE4LjI1MC4xMjUiLCJhZGQiOiIxODUuMTguMjUwLjEyNSIsInBvcnQiOjgwLCJpZCI6Ijc3NzJiYjI0LTk3NmEtNDVjYS1hYTc2LWY0ZjFiN2Y1MDkyMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImNyZWF0aXZlY29tbW9ucy5vcmciLCJwYXRoIjoiL3YyLW5sLTEudjJyYXkuY2MvYW55dGhpbmcvZnJlZXZwbi51cy12cG52aXBub3IyL3ZtZXNzIiwic25pIjoiY3JlYXRpdmVjb21tb25zLm9yZyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIENsb3VkZmxhcmUgTG9uZG9uLCBMTEMgXHUyNTA3IDE4NS4xOC4yNTAuMTkyIiwiYWRkIjoiMTg1LjE4LjI1MC4xOTIiLCJwb3J0Ijo4MCwiaWQiOiI0YzdmNDY1OS04M2I3LTQwNmMtYzVlYy0zZTEwMWJjYWJkNGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJmYWxzZSJ9
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.18.250.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.77
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.18.250.213:8880?type=ws&security=false&path=/&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 185.18.250.213
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.18.250.63:8880?type=ws&security=false&path=/Telegram&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 185.18.250.63
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.18.250.162:8880?type=ws&security=false&path=/Channel id: @ShadowProxy66?ed=2560&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 185.18.250.162
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.18.250.29:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#CH 🇨🇭 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 185.18.250.29
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.18.250.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.251
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.76:2095?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1-TABREZ.NET?ed=2560#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.76
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.18.250.213:8880?type=ws&security=none#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.213
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.18.250.162:8880?type=ws&security=none&path=/Channel id: @ShadowProxy66?ed=2560#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.162
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.18.250.254:8880?type=ws&security=none&path=/Telegram🇨🇳#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.254
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.18.250.12:80?type=ws&security=none&path=/1Y6MN5DFV8zB82Ai?ed#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.12
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.18.250.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.29
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.121:2095?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1-TABREZ.NET?ed=2560#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.121
 vless://f9fd5b50-ae7d-5f9a-82e8-b1a9633e682e@185.18.250.27:443?type=ws&security=tls&sni=sany.sofia321.woRkers.DEV#CH 🇨🇭 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 185.18.250.27
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.240:2095?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1-TABREZ.NET?ed=2560#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.240
@@ -50,16 +51,15 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@185.18.250.227:8880?type=httpupgrad
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.242:2095?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1-TABREZ.NET?ed=2560#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.242
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.18.250.247:8880?type=ws&security=none&path=/Telegram&sni=ex.sue.x10.mx#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.247
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.18.250.3:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.3
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.18.250.63:8880?type=ws&security=none&path=/Telegram&sni=jp.laoyoutiao.link#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.18.250.63
 vless://Telegram@185.18.250.64:2052?type=tcp&security=none&path=/mahanvip?ed=2053#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 185.18.250.64
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdUJDOGVJNFBsS3F1RnJ6anRsS3Vn@31.171.246.150:1080#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Cloudsigma Ag ┇ 31.171.246.150
 trojan://EJQgX6JS3s@94.156.203.224:443?security=none#CH 🇨🇭 ┇ TROJAN-TCP-NTLS - Cloudsigma Ag ┇ 94.156.203.224
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENsb3Vkc2lnbWEgQWcgXHUyNTA3IDk0LjE1Ni4yMDIuMTU0IiwiYWRkIjoiOTQuMTU2LjIwMi4xNTQiLCJwb3J0IjoyMDg2LCJpZCI6IjE5NDBmZDY1LTc1YzAtMTk1Ni1jZDllLWU0NzJiOGQ3YTViMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIn0
 vless://ecee63a4-a4a9-4c77-a589-5142c4cddeae@94.156.203.153:29880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Cloudsigma Ag ┇ 94.156.203.153
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.161:443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.62.161
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.162:443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.62.162
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.163:443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.62.163
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.164:443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.62.164
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.162:443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.62.162
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@156.146.62.160:443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.62.160
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@185.126.116.125:9098#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 185.126.116.125
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@84.17.53.160:989#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 84.17.53.160
@@ -78,8 +78,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OGQ0ODllNmEzYTZjNGIzOTNiMGM4N2VjMWRiNDI5Ng@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnaEJ1SjlwWk9GOU1vaGhHeVBqbzNydmlsUWhsdzlOekJEbE9WRG9uUU4wPQ@195.15.254.25:54748#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Infomaniak Network SA ┇ 195.15.254.25
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gSW5mb21hbmlhayBOZXR3b3JrIFNBIFx1MjUwNyA4NC4yMzQuMjkuMTM3IiwiYWRkIjoiODQuMjM0LjI5LjEzNyIsInBvcnQiOjgwLCJpZCI6ImIyMDI1MTE4LTBjMDgtNGY3Yy04MDk3LWEwM2QwYWE4ODExNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InhodHRwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEluZm9tYW5pYWsgTmV0d29yayBTQSBcdTI1MDcgMTg4LjIxMy4xMjguMjExIiwiYWRkIjoiMTg4LjIxMy4xMjguMjExIiwicG9ydCI6MTAxMCwiaWQiOiI3OTk3NzVlOS1hMmRmLTQzZGQtOWQyZC1iMzYyZmQ2MGVmMDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://6db0e9a8-45e6-49e1-ad02-f49495d425be@37.156.46.193:8080?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 37.156.46.193
 vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 37.156.47.23
+vless://6db0e9a8-45e6-49e1-ad02-f49495d425be@37.156.46.193:8080?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 37.156.46.193
 vless://981ae220-1c73-4334-942e-24c9b476f44f@84.234.31.243:20244?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.243
 vless://5f64020c-87d6-4784-bc48-63a55499d173@84.234.31.224:55?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.224
 vless://e2a5b491-38c9-4379-9033-ee275270da5c@188.213.128.116:1011?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 188.213.128.116
@@ -92,8 +92,8 @@ vless://98f6bad3-37ea-4b8e-8892-e759c0c0c67b@84.234.31.140:66?type=tcp&security=
 vless://fa4e782f-d1db-4ece-9cfa-01899f4486f4@84.234.28.244:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.28.244
 vless://37f1363a-e041-8ccd-d27f-e542a4a2def5@37.156.46.65:48740?type=tcp&security=tls&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision-udp443#CH 🇨🇭 ┇ VLESS-TCP-TLS - Infomaniak Network SA ┇ 37.156.46.65
 vless://2bc31b80-7870-47e2-b6d7-4358108c0646@188.213.129.168:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 188.213.129.168
-vless://19d597c4-b031-4d44-8a37-44fbe6620a19@d1.marzano5.one:443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&sid=c43431c287c0#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Infomaniak Network SA ┇ 195.15.243.23
 vless://d2a6d095-e897-1c16-8fde-b96d5892d515@37.156.46.44:59536?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 37.156.46.44
+vless://19d597c4-b031-4d44-8a37-44fbe6620a19@d1.marzano5.one:443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&sid=c43431c287c0#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Infomaniak Network SA ┇ 195.15.243.23
 vless://9a976dba-b3c5-48e0-88c1-8492d42c2998@84.234.28.153:2093?type=tcp&security=reality&sni=iranserver.com&fp=chrome&flow=xtls-rprx-vision&pbk=vhu_xRGelbv5xPYJvQOl62g96G4STaJ7OVEnQYfX0Hc&sid=353ac16b#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 84.234.28.153
 vless://85988c00-baff-51d4-babd-d2cf2fecdce5@84.234.29.208:443?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=Sbr5E-2N9FFuLjTvVIXwNiCtgKAAE0yCYpuTArScuwM&sid=72#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 84.234.29.208
 vless://d6e651f4-8346-43cd-9cb9-581e92be4c17@195.15.201.22:443?type=grpc&security=reality&sni=whatsapp.net&fp=randomized&pbk=c6D9SIzHXAiKHBkXLQgY5NiGt50Mj_PkiqI2B8eQi1A&sid=864702d02962387e#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Infomaniak Network SA ┇ 195.15.201.22
@@ -155,4 +155,4 @@ vless://42H8hMTxVMXrmFQmw3jS@agashka-vpn.com:54586?type=tcp&security=reality&sni
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - ServerBase AG ┇ 212.237.210.158
 vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-RLT - Serverd SAS ┇ 193.168.144.46
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@95.183.51.10:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#CH 🇨🇭 ┇ VLESS-WS-TLS - Solar Communications GmbH ┇ 95.183.51.10
-trojan://fokzk8kq-1mrq-r4vo-3j02-jbc38h8gwjb8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://72k0mzcn-th1z-p33a-kwz9-s9pik11zm80x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
