@@ -1,9 +1,9 @@
-trojan://r6ronkau-gd9a-7z6q-1c34-a4d2sm7cn9tx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-06 | 12:55 ]
-trojan://4whqwnd0-889v-wl6v-gucy-5cmqqpn1xvzd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yzthilsu-2go6-3ujr-8lzu-cu18dwqbl1z9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y1w4zlae-kdd4-lcc7-nkbq-sp3ozh3uf5bo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 212.113.106.243
+trojan://j177zxxl-iune-8xpx-9h31-01402w2c5nki@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-06 | 13:19 ]
+trojan://n6jbemzn-dnno-mi1h-wovy-4fjh7ln0lejh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://utgxbc6c-f04m-v8is-066e-vim89h5fwapp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xp33zbjo-15t7-9ci2-3nga-e0zmixgaubsd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNGFwTThqZUxWS0FidGloQ3NtVkZK@94.228.169.71:22899#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 94.228.169.71
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 212.113.106.243
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OEw1N2FzakZpa0hFb0kzZFhkUG9M@62.60.239.203:1090#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 62.60.239.203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeEdJWnhqeW1YV1VMd0dqUllhY1g4@212.113.106.76:29149#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 212.113.106.76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwWnZ3UDE3Tmx6Mno2anNZblZnWmdm@45.138.74.160:7261#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 45.138.74.160
@@ -11,6 +11,7 @@ trojan://testme@212.113.119.31:2025?security=none#AT 🇦🇹 ┇ TROJAN-TCP-NTL
 vmess://eyJ2IjoiMiIsInBzIjoiQVQgXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDQ1LjEzOC43NC4xNzMiLCJhZGQiOiI0NS4xMzguNzQuMTczIiwicG9ydCI6MTM3MDAsImlkIjoiNGViYzk0MjItZWE2MS00NTI4LWFjZmEtYzk0YTEwOTViZGNjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@193.233.233.75:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#AT 🇦🇹 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 193.233.233.75
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@147.45.71.180:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#AT 🇦🇹 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 147.45.71.180
+vless://a8f095f1-3663-40f9-be12-2c16ae3e86ba@mje.nimhub.ir:2096?type=ws&security=tls&path=/&sni=mJe.nimhub.ir&fp=random#AT 🇦🇹 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 85.192.27.217
 vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.116.150
 vless://6895928a-810f-4cfa-9506-68e34af9265a@austria.a1mshop.com:27542?type=xhttp&security=none&path=/#AT 🇦🇹 ┇ VLESS-XHTTP-NTLS - Aeza International Ltd ┇ 62.60.239.115
 vless://588f094b-431b-422c-b80b-007945037072@aut03.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=aut03.abvpn.ru#AT 🇦🇹 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 78.153.130.60
@@ -19,20 +20,20 @@ vless://bf2434c2-2200-4c3e-a5dc-6f9aadd4fcd4@185.106.94.177:443?type=ws&security
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.138.74.56:2501?type=ws&security=tls&path=/?ed=2560&sni=a.mifeng.us.kg&fp=chrome#AT 🇦🇹 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 45.138.74.56
 vless://1f2850cf-bf86-454a-8be3-b06433e153cf@193.233.233.148:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 193.233.233.148
 vless://5735f5fa-1241-42cc-91f1-bd49b57fc075@147.45.71.229:443?type=raw&security=reality&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=7ec9_2Jv6kCwVh9MiZfV5vzegKeMPy8_6tsc1FgXUkc&sid=f6#AT 🇦🇹 ┇ VLESS-RAW-RLT - Aeza International Ltd ┇ 147.45.71.229
-vless://fa-7076832873-1750069405490582@62.60.239.225:21207?type=tcp&security=reality&sni=steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=COPMKX1kdm0kkkGf1TutiFm9sSJFkGyjlJ5C_7AC_SA&sid=f36a084a534e#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 62.60.239.225
 vless://6bb86285-d539-44c6-8747-ff04a0063509@av.vpnfreedom.tech:16345?type=tcp&security=reality&sni=google.com&fp=firefox&flow=xtls-rprx-vision&pbk=xUhA4LVyXIOHRUvyrW3RXQyKWQfO6XCYRrIJVHKxrVc&sid=23e04f44#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.73.131.152
 vless://a12bbd93-0232-411f-9a4d-7e13850c1142@77.110.116.32:45467?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=0H0YVyZWNBDzLnsusXo5kEBqEOmcACOJ0Snb0gQA-kw&sid=6d5bf19a#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.110.116.32
+vless://fa-7076832873-1750069405490582@62.60.239.225:21207?type=tcp&security=reality&sni=steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=COPMKX1kdm0kkkGf1TutiFm9sSJFkGyjlJ5C_7AC_SA&sid=f36a084a534e#AT 🇦🇹 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 62.60.239.225
 vless://9cb10076-f3e2-4b01-80d8-8317123c0349@94.228.170.94:2053?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=OFmQboE5s4LVS9AjppK8o1b0t8Hh3JgdClB0HHCRURo&sid=6145fe820a20#AT 🇦🇹 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 94.228.170.94
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 138.124.115.157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXJQSVJYekVxbXhwbWpBeE9nY2VZ@45.150.32.13:14628#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 45.150.32.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 45.144.54.33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUFhiOEoyY2lEeWJva1dsN2t4S2Fi@45.144.54.156:51587#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 45.144.54.156
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotNVRVTTVDbTF5dGNEb3FCSG9tMUdR@62.60.216.61:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 62.60.216.61
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4amtUMUZHRW93emp0OTNjZ1pna0JL@150.241.101.222:25543#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 150.241.101.222
 ss://eGNoYWNoYTIwLXBvbHkxMzA1OnRhWHliUnpBWXdpdmk1a1JqTktDTGJQdDN2MlJCK3J5cmt0bE9ncHQ1aFk9@185.106.93.148:443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 185.106.93.148
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Rmh5T2lCQnN2Tm43MkFScEhHdVp1@109.120.177.122:6774#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 109.120.177.122
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTDFaVkZrazR1WURpczJURDJQSkxR@109.237.99.103:33742#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 109.237.99.103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1UnVpdlBPVTlqUTRWTWZLaHVlSlhV@138.124.93.193:38500#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 138.124.93.193
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb0tlcURPVjlOQ2lETU1XVGlET29R@62.60.216.61:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 62.60.216.61
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTa0VkV0xBOGdqbUhSVUFuS3FobTM5@138.124.54.120:63083#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 138.124.54.120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvTjRmUjI1U3dPQmo2TEZoM1dNd2I3@147.45.70.120:7374#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 147.45.70.120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNNnN2T3FsRXE0Qk42YkdjOVpnTjJH@62.60.217.17:64552#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 62.60.217.17
@@ -51,10 +52,6 @@ vless://006e443a-49f1-4a09-a76a-e7eac23f9047@allnetwork.qwertyuiopasdfghhjkkllzx
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@109.172.94.249:2040?type=tcp&security=tls&sni=fr.ign.com&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 109.172.94.249
 vless://26721978-890e-4946-bafa-cb03c9ff7f4a@109.237.99.177:38142?type=raw&security=none#DE 🇩🇪 ┇ VLESS-RAW-NTLS - Aeza International Ltd ┇ 109.237.99.177
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@77.221.157.252:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 77.221.157.252
-vless://c94d74f3-2bf3-40eb-8dfd-c9159e520bf9@185.125.103.101:4790?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 185.125.103.101
-vless://f1a70733-dd8d-4d47-b446-7be660497e5c@de1.nds.jnvs.space:2086?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 213.176.95.152
-vless://a0b46bc1-4a48-4488-91fe-721653db75cc@allnetwork.qwertyuiopasdfghhjkkllzxcvbnm.joe.dj:8080?type=ws&security=none&path=/download#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 62.60.158.128
-vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=de04.abvpn.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 109.237.99.132
 vless://4dc0a354-1fc7-433f-9b58-0fd017b0a6b3@185.125.103.139:30693?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 185.125.103.139
 vless://60be7572-d2e4-4336-b776-5b44c7d2411a@d6.vixsm.ir:4810?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.101.4
 vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@45.144.55.237:4810?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 45.144.55.237
@@ -62,7 +59,10 @@ vless://588f094b-431b-422c-b80b-007945037072@de09.abvpn.ru:443?type=ws&security=
 vless://ab3faf7c-4452-4f34-938f-6dcee3b406a2@150.241.71.168:8081?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.71.168
 vless://554d1654-9dce-4dba-b1df-211de6fe8087@serv3.gizangiz.ir:5779?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.158.79
 vless://be73d2e9-57a3-409d-872e-c5dacb7ea6a8@all.qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?type=ws&security=tls&path=/ws?ed=2560&sni=de22rp.qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&fp=firefox#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 213.176.95.223
-vless://dee6e497-bf07-45bb-82a4-a988ac8c1403@cf-node-2.kcjb.org:443?type=ws&security=tls&path=/&sni=node-rm-fr-1.origan.us.kg#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 89.169.53.188
+vless://f1a70733-dd8d-4d47-b446-7be660497e5c@de1.nds.jnvs.space:2086?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 213.176.95.152
+vless://c94d74f3-2bf3-40eb-8dfd-c9159e520bf9@185.125.103.101:4795?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 185.125.103.101
+vless://a0b46bc1-4a48-4488-91fe-721653db75cc@allnetwork.qwertyuiopasdfghhjkkllzxcvbnm.joe.dj:8080?type=ws&security=none&path=/download#DE 🇩🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 62.60.158.128
+vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=de04.abvpn.ru&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 109.237.99.132
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.185.85.196:2501?type=ws&security=tls&sni=a.mifeng.us.kg#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 89.185.85.196
 vless://d73b8b8c-3044-4738-9f09-025bd27ef524@77.110.100.177:2083?type=grpc&security=tls&sni=speedtest.net&fp=chrome#DE 🇩🇪 ┇ VLESS-GRPC-TLS - Aeza International Ltd ┇ 77.110.100.177
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.106.93.34:443?type=ws&security=tls&path=/Telegram🇨🇳@WangCai2/?ed&sni=0926.qiang2000.link&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 185.106.93.34
@@ -83,10 +83,10 @@ vless://92c97176-a0d1-46c3-afc1-85587d9db539@79.137.203.173:47457?type=tcp&secur
 vless://ae4d43ef-5150-4239-b1a7-cbdadfe55755@77.105.146.7:443?type=grpc&security=reality&path=djshdgduuxdhgsgstXxCxshcV&sni=russia.com&fp=chrome&pbk=AKfq-ZpXSt4VHeZzcg1IsFB6-2oFeZ_wt8vac7nPKRY&sid=05a6d4aa5e314637#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 77.105.146.7
 vless://e4e72d25-7015-4264-b15c-7dc8eff90553@89.208.96.176:443?type=tcp&security=reality&sni=www.fastly.com&fp=firefox&flow=xtls-rprx-vision&pbk=BB8NH9D_1lTZ8jrEDCxZ0IfrQQKp_P5Jeb6r8SrEiCI&sid=c2#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 89.208.96.176
 vless://806af4cd-a2dc-42c5-aefe-36edc52aff5a@77.105.146.70:8443?type=tcp&security=reality&sni=teamdocs.su&fp=chrome&flow=xtls-rprx-vision&pbk=-0o5stCD4UkAnP-noPehrqHZuJxr9_K0etTGi2uEQ3I&sid=c81d0f2888371c68#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.105.146.70
-vless://af2f3c2f-d1b9-4979-8e00-77775516acac@gr2.ircloudmarket.com:443?type=tcp&security=reality&sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net&fp=chrome&flow=xtls-rprx-vision&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 109.120.138.48
-vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?type=xhttp&security=reality&path=/v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&sid=5426024033df45#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Aeza International Ltd ┇ 150.241.99.63
 vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?type=tcp&security=reality&sni=pingless.com&fp=random&flow=xtls-rprx-vision&pbk=y_kHGyJmpYqiGgeh5gTgDRda0d_l6p-_2at2HHBrWEU&sid=700c1d3ddf2f99#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 213.176.95.70
 vless://1071ac52-ae75-478e-a58b-86a85aba04be@ms.aradsoft.org:8443?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 62.60.158.90
+vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?type=xhttp&security=reality&path=/v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&sid=5426024033df45#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - Aeza International Ltd ┇ 150.241.99.63
+vless://ebb8e17c-a471-43b1-b964-bdd492ab330e@gr2.ircloudmarket.com:443?type=tcp&security=reality&sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net&fp=chrome&flow=xtls-rprx-vision&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 109.120.138.48
 vless://bbb4d5cf-5ff3-46f7-bc21-deaad2f6ab46@92.246.139.137:49404?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=IALYvlRfZixf3EWNWgwhw9Fj2oZ_MtbBcjG78ceqblA&sid=45#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 92.246.139.137
 vless://9026574d-f390-4c03-9d96-f03f807cc226@85.192.28.89:443?type=grpc&security=reality&sni=stackoverflow.com&fp=chrome&pbk=Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw&sid=05a6d4aa5e314637#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 85.192.28.89
 vless://CHIK_182535@150.241.100.182:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&pbk=wdv3lRxwBaCPGVnw6GQLoSpT988dJ14xuIm0HOK8tCs&sid=ffffffffff#DE 🇩🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.100.182
@@ -179,12 +179,12 @@ vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@62.60.156.228:443?type=grpc&securit
 vless://4dad6029-a008-4d3d-a98d-80fa9d997f37@150.241.91.140:36571?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.91.140
 vless://5b366328-c20b-4d07-9681-6e23f6aa127c@62.60.156.139:443?type=ws&security=tls&path=/ws?ed=2048&sni=de555.hajihesam.biz.id&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.156.139
 vless://57a95e4e-0cce-4bf9-e205-18e91bf32871@62.60.156.57:443?type=ws&security=tls&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2560&sni=nl2.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro&fp=randomized#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.156.57
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@62.60.156.254:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 62.60.156.254
 vless://ecebe0b1-0b08-4690-9755-b1c000c3d9e1@77.239.116.91:30237?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Aeza International Ltd ┇ 77.239.116.91
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@62.60.156.254:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir&fp=safari#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 62.60.156.254
 vless://ece26ca7-1552-4158-806d-a04de25dc4c3@46.226.166.246:443?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Aeza International Ltd ┇ 46.226.166.246
 vless://84ce5157-4867-4bea-8ae9-f1d7afe3b0ed@46.226.167.15:443?type=tcp&security=tls&sni=stackoverflow.com&fp=chrome#FR 🇫🇷 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 46.226.167.15
 vless://b432caaa-c7bd-4cde-92f9-836db11a7d88@62.60.156.14:2053?type=ws&security=tls&path=/TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=MyAccount.McimikbeiServer.CoM.&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.156.14
-vless://e54538d1-1ef8-440a-9cba-bbef2d96af3a@ipa.makevaslim.lat:443?type=ws&security=tls&path=/?ed=2560&sni=revest.maketunnelim.lat&fp=randomized#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.157.87
+vless://e54538d1-1ef8-440a-9cba-bbef2d96af3a@ipa.makevaslim.lat:443?type=ws&security=tls&path=/?ed=2560&sni=revest.maketunnelim.lat&fp=randomized#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.157.182
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@77.221.152.41:2501?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg#FR 🇫🇷 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 77.221.152.41
 vless://4dfa292a-f524-4b07-aeea-d5767654574f@103.249.133.156:8880?type=httpupgrade&security=none&path=/deez#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Aeza International Ltd ┇ 103.249.133.156
 vless://9d637a30-4567-445a-b68d-0d028e9543ec@193.233.133.116:443?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=icK7GXox0Ak4-J_YxfK9NeOHUUYGB855mYLFIXAcDxk&sid=3ed04f#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 193.233.133.116
@@ -242,9 +242,9 @@ vless://cdb91746-6894-4ec0-a295-5d34adfa9552@62.60.176.187:32283?type=tcp&securi
 vless://07370262-fc43-4b82-8959-7efc84901202@62.60.176.112:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.176.112
 vless://07370262-fc43-4b82-8959-7efc84901202@62.60.176.107:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.176.107
 vless://07370262-fc43-4b82-8959-7efc84901202@62.60.176.83:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.176.83
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:16924?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.177.156
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.179.76
 vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.178.27
-vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.177.156:16924?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.177.156
 vless://dc449239-61d0-4b2f-b61a-897a7a4676a1@p1.grootvip.eu:8443?type=grpc&security=tls&sni=p1.grootvip.eu#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Aeza International Ltd ┇ 62.60.178.164
 vless://e914afcb-be8a-4633-a7fb-9e51ff173201@62.60.178.187:80?type=xhttp&security=none&path=/?ed=2024#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Aeza International Ltd ┇ 62.60.178.187
 vless://2825876c-4610-43fe-8d4b-a2551e5185d6@run.fluxus.org:2929?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.178.165
@@ -281,10 +281,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY@2a0b:4140:925f::2:81#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 2a0b:4140:925f::2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdmk0WjlYNEpzeHdTMHp4T05pUzFDTk91RmV6WXlhag@79.137.205.30:29884#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 79.137.205.30
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWM1MzgxYS1jMjdhLTQwOGEtODYxNC05OWI2Y2RlNDQ1ZDE@95.181.175.250:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 95.181.175.250
-trojan://Aimer@5.182.86.252:2053?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Aeza International Ltd ┇ 5.182.86.252
-trojan://NEHZp72yf2@dr-ping.ir:443?sni=dr-ping.ir&peer=dr-ping.ir&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Aeza International Ltd ┇ 95.181.162.233
-trojan://NEHZp72yf2@91.184.242.218:443?sni=dr-ping.ir&peer=dr-ping.ir&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Aeza International Ltd ┇ 91.184.242.218
+trojan://NEHZp72yf2@dr-ping.ir:443?sni=dr-ping.ir&peer=dr-ping.ir&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Aeza International Ltd ┇ 91.184.242.218
+trojan://NEHZp72yf2@95.181.162.233:443?sni=dr-ping.ir&peer=dr-ping.ir&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Aeza International Ltd ┇ 95.181.162.233
 trojan://Aimer@79.137.204.220:2053?sni=epcco.ambercc.filegear-sg.me&peer=epcco.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Aeza International Ltd ┇ 79.137.204.220
+trojan://Aimer@5.182.86.252:2053?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Aeza International Ltd ┇ 5.182.86.252
 trojan://vpn@109.120.139.214:2025?security=none#NL 🇳🇱 ┇ TROJAN-TCP-NTLS - Aeza International Ltd ┇ 109.120.139.214
 trojan://vpn@147.45.69.216:2025?security=none#NL 🇳🇱 ┇ TROJAN-TCP-NTLS - Aeza International Ltd ┇ 147.45.69.216
 trojan://vpn@217.144.185.20:2025?security=none#NL 🇳🇱 ┇ TROJAN-TCP-NTLS - Aeza International Ltd ┇ 217.144.185.20
@@ -293,15 +293,15 @@ trojan://vpn@79.137.204.130:2025?security=none#NL 🇳🇱 ┇ TROJAN-TCP-NTLS -
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDg1LjE5Mi40MC4xNCIsImFkZCI6Ijg1LjE5Mi40MC4xNCIsInBvcnQiOjI4MjA5LCJpZCI6IjRiYzU4ZmE3LTIzOWMtNDQzZC1jYTI5LTZlNGQwOTE4MTQ5MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDg5LjIwOC4xMDUuNjMiLCJhZGQiOiI4OS4yMDguMTA1LjYzIiwicG9ydCI6NDQzLCJpZCI6IjJGMDk0ODQ1LUUyQkQtRUJGNy1ERUI3LTk5NTk5MjQzNkZBRiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJ2bWVzcyIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDk1LjE4MS4xNjIuMTAwIiwiYWRkIjoiOTUuMTgxLjE2Mi4xMDAiLCJwb3J0IjoyMDIwLCJpZCI6IjY3NzQ0ZTMyLTRhNDYtNDgwNS1kNDJjLTcwMzkxYmRiOGRjNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://f1a70733-dd8d-4d47-b446-7be660497e5c@nl2.nds.jnvs.space:2086?type=tcp&security=none&sni=cloudflare.com#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.103.176
 vless://b37bc820-b959-4811-a0a1-27d319a22d7d@77.221.154.111:43035?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.221.154.111
+vless://f1a70733-dd8d-4d47-b446-7be660497e5c@nl2.nds.jnvs.space:2086?type=tcp&security=none&sni=cloudflare.com#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.103.176
 vless://fb953758-08ee-4f47-a82b-46ac4de1d0dd@62.60.235.207:443?type=ws&security=tls&path=/ws?ed=2560&sni=y.vajehai.li&fp=android#NL 🇳🇱 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.235.207
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@79.137.205.127:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 79.137.205.127
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@185.125.100.48:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 185.125.100.48
-vless://5030cac9-830d-4c7e-9deb-ad26d18bb82e@95.181.162.108:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 95.181.162.108
-vless://f1a70733-dd8d-4d47-b446-7be660497e5c@nl1.nds.jnvs.space:2086?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.89.228
 vless://667a4072-ef86-482b-81cb-da664e1e50ce@91.184.242.129:8443?type=tcp&security=none&path=/wp-admin.php?ed=2083?jokerrvpnJoinBadeChannel@JOKERRVPNTelegram#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 91.184.242.129
 vless://588f094b-431b-422c-b80b-007945037072@nl07.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=nl07.abvpn.ru#NL 🇳🇱 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 5.182.86.128
+vless://5030cac9-830d-4c7e-9deb-ad26d18bb82e@95.181.162.108:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 95.181.162.108
+vless://f1a70733-dd8d-4d47-b446-7be660497e5c@nl1.nds.jnvs.space:2086?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.89.228
 vless://e16ae4e7-4304-4c32-b901-84b72711b967@77.110.103.241:8443?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Aeza International Ltd ┇ 77.110.103.241
 vless://5b2d7043-535c-4a69-afb4-4e55e1322149@79.137.194.189:57323?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 79.137.194.189
 vless://83bce2cc-5b32-4246-80bd-6cdd0fd1c714@103.249.132.237:9191?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 103.249.132.237
@@ -342,12 +342,12 @@ trojan://vpn@150.241.78.252:2025?security=none#SE 🇸🇪 ┇ TROJAN-TCP-NTLS -
 trojan://testme@212.113.102.67:2025?security=none#SE 🇸🇪 ┇ TROJAN-TCP-NTLS - Aeza International Ltd ┇ 212.113.102.67
 trojan://vpn@77.232.142.179:2025?security=none#SE 🇸🇪 ┇ TROJAN-TCP-NTLS - Aeza International Ltd ┇ 77.232.142.179
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgSW50ZXJuYXRpb25hbCBMdGQgXHUyNTA3IDEwOS4xMjAuMTMyLjE1NyIsImFkZCI6Ind3dy5zZXJpa2FkZWguaXIiLCJwb3J0Ijo4MCwiaWQiOiIyNmEyNzFjZC05ZDNiLTQ2MjAtODg5Ny1iNGFkZGQwNWI4YTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvcjJhSzI3Mno1aG16SzRrTFpzYlZ2SGoifQ
-vless://3e999a70-5fa8-41e2-bd39-fc9b6da527bf@poolw.iceuniverse.top:443?type=ws&security=tls&path=/us&sni=us25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.159.231
+vless://3e999a70-5fa8-41e2-bd39-fc9b6da527bf@poolw.iceuniverse.top:443?type=ws&security=tls&path=/us&sni=us25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.159.107
 vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.167:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=de1.blackismyfavorite.ir&fp=firefox#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 62.60.159.167
 vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.104:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=de1.blackismyfavorite.ir&fp=firefox#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 62.60.159.104
-vless://904e16df-8a1a-4c07-a233-0ee5aa6b771e@192.109.200.201:58440?type=tcp&security=tls&sni=www.latimes.com&fp=chrome#SE 🇸🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 192.109.200.201
 vless://de6b3795-3d5a-406a-aeab-7f8782362864@91.92.40.78:2070?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 91.92.40.78
 vless://d45c3e63-d220-4974-fcfd-985d4b81aa26@212.113.101.55:49303?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 212.113.101.55
+vless://904e16df-8a1a-4c07-a233-0ee5aa6b771e@192.109.200.201:58440?type=tcp&security=tls&sni=www.latimes.com&fp=chrome#SE 🇸🇪 ┇ VLESS-TCP-TLS - Aeza International Ltd ┇ 192.109.200.201
 vless://1ce8ab7d-2e19-4a33-a916-f5ca7559d920@62.60.159.141:2053?type=ws&security=tls&path=/hi1s8bhcHDnx50OoJ0QnHp1Ce&sni=a22.top2ping.com#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.159.141
 vless://f3f09bd1-b42b-4c40-a773-ee5ae8614444@62.60.159.102:443?type=ws&security=tls&path=/ws?ed=2056&sni=de222.hajhesam.biz.id&fp=randomized#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.159.102
 vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.83:443?type=ws&security=tls&path=/ws?ed=2560&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&fp=randomized#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.159.83
@@ -365,14 +365,14 @@ vless://3e999a70-5fa8-41e2-bd39-fc9b6da527bf@62.60.159.138:443?type=ws&security=
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@89.22.239.172:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 89.22.239.172
 vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@62.60.159.161:443?type=grpc&security=tls&sni=ez.ez0535.com&fp=chrome#SE 🇸🇪 ┇ VLESS-GRPC-TLS - Aeza International Ltd ┇ 62.60.159.161
 vless://3e999a70-5fa8-41e2-bd39-fc9b6da527bf@62.60.159.226:443?type=ws&security=tls&path=/us&sni=us25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.159.226
-vless://3eda9aee-5ea7-46d9-cdf1-0c6d5a7793aa@77.232.143.120:46178?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.232.143.120
 vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.153.55
-vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.205:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=de1.blackismyfavorite.ir&fp=chrome#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 62.60.159.205
-vless://f5ea3813-6882-4505-de0d-c9f25206a063@150.241.80.35:567?type=tcp&security=none&path=/arvancloud.ir#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.80.35
-vless://da587398-b8bd-4edb-b3b3-5eef00988809@ssl1.komanserver.ir:443?type=httpupgrade&security=tls&path=/digikala.com/login/?ed=2560&sni=am.komanserver.ir.&fp=chrome#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 62.60.159.75
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@94.228.164.249:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#SE 🇸🇪 ┇ VLESS-WS-NTLS - Aeza International Ltd ┇ 94.228.164.249
 vless://18d32757-070c-40aa-8904-eef3a590f7c6@147.45.73.191:29108?type=tcp&security=none&path=/@ToxicV2ray@ToxicV2ray@ToxicV2ray@ToxicV2ray@ToxicV2ray@ToxicV2ray@ToxicV2ray@ToxicV2ray#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 147.45.73.191
 vless://33de8a6b-e3bc-4263-9cdd-fd676816c875@77.221.140.134:44481?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.221.140.134
+vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.205:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=de1.blackismyfavorite.ir&fp=firefox#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 62.60.159.205
+vless://da587398-b8bd-4edb-b3b3-5eef00988809@ssl1.komanserver.ir:443?type=httpupgrade&security=tls&path=/digikala.com/login/?ed=2560&sni=am.komanserver.ir.&fp=chrome#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 62.60.159.75
+vless://f5ea3813-6882-4505-de0d-c9f25206a063@150.241.80.35:567?type=tcp&security=none&path=/arvancloud.ir#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 150.241.80.35
+vless://3eda9aee-5ea7-46d9-cdf1-0c6d5a7793aa@77.232.143.120:46178?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.232.143.120
 vless://659c3dce-ca8b-4bf1-8646-a0b33ee189c1@62.60.250.224:2083?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.250.224
 vless://36a98e5e-4cb9-403b-ad6c-4c046e389f5d@138.124.102.65:35106?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 138.124.102.65
 vless://037f5633-c294-4424-bc1a-f23d992ecc1f@sweden.a1mshop.com:14703?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 109.120.157.130
@@ -384,7 +384,7 @@ vless://f8f11a07-bb76-40c5-c08b-00d6fc3adda4@176.124.207.10:10313?type=tcp&secur
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@193.233.115.226:8443?type=ws&security=tls&sni=0926.qiang2000.link#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 193.233.115.226
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@212.113.100.146:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 212.113.100.146
 vless://7e4c2e53-cd6d-4238-90ee-729b51e360f7@213.176.92.7:443?type=httpupgrade&security=tls&path=/CWNeRzWFjgWHWZFw?ed=2560&sni=point.teverie.ir.&fp=chrome#SE 🇸🇪 ┇ VLESS-HTTPUPGRADE-TLS - Aeza International Ltd ┇ 213.176.92.7
-vless://3e999a70-5fa8-41e2-bd39-fc9b6da527bf@62.60.159.107:443?type=ws&security=tls&path=/us&sni=us25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.159.107
+vless://3e999a70-5fa8-41e2-bd39-fc9b6da527bf@62.60.159.231:443?type=ws&security=tls&path=/us&sni=us25eadf81bc6543qw89ae68de20v67f35d6c043b8976250448p.staruniverse.lat#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.159.231
 vless://f02cac19-36ca-4d19-9197-b8f00dda4faf@62.60.159.238:443?type=tcp&security=none&path=/hajmi?ed=2560#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 62.60.159.238
 vless://be73d2e9-57a3-409d-872e-c5dacb7ea6a8@62.60.159.48:443?type=ws&security=tls&sni=de22rp.qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.159.48
 vless://bd227cdc-cccd-4915-8d48-5ca798b6d328@62.60.186.198:443?type=ws&security=tls&path=/digikala.com?ed=2560&sni=space20562056.ir&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - Aeza International Ltd ┇ 62.60.186.198
@@ -402,9 +402,9 @@ vless://3ab9cb9a-4ed8-426c-b42d-b3079c89df84@server.online24net.ir:443?type=ws&s
 vless://be5fab84-5edb-4800-927e-243f6e4309bf@150.241.65.211:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=LYJ37EcS5jyaezTVaVAVCkBWCrjXioiJHI7argkEnCU&sid=236ac31d02#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 150.241.65.211
 vless://cbec53a4-c544-4687-b3a2-a13a6eec860a@147.45.76.106:2323?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 147.45.76.106
 vless://c4ca05f0-1b67-4552-bd03-9d71945ddc3e@77.221.143.85:54231?type=tcp&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=4fJKg7LhM4N1J23P-YU2cJ4TPOsGVZinB6VTvmHE4Ec&sid=96ab5d73#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.221.143.85
-vless://b106570b-6b5f-40c1-8081-03093fbe8fa5@2a0b:4140:659a:6::6:33000?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&sid=be7f13dd#SE 🇸🇪 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 2a0b:4140:659a:6::6
 vless://CHIK_482298@77.91.85.161:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&sid=ffffffffff#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.91.85.161
 vless://e3dde187-4637-479f-8e9f-5334a5137600@150.241.78.248:25756?type=grpc&security=reality&sni=www.tgju.org&fp=chrome&pbk=fW8iWfpd6Y99JrEOorXhz3lgGBjQm5g7vHcuWkcnnwg&sid=c4#SE 🇸🇪 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 150.241.78.248
+vless://b106570b-6b5f-40c1-8081-03093fbe8fa5@2a0b:4140:659a:6::6:33000?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&sid=be7f13dd#SE 🇸🇪 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 2a0b:4140:659a:6::6
 vless://d239a4fb-83fd-46b3-bda1-c0b405bd7360@91.186.218.167:2083?type=grpc&security=reality&sni=www.speedtest.net&fp=firefox&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2#SE 🇸🇪 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 91.186.218.167
 vless://33c1bd18-ca92-f544-8c7e-105bc9d8cb93@77.239.123.107:2093?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=SdRoAPjMM_Cbie7jRPeHg3I8XgwUhUxstnpLUn7ElDI#SE 🇸🇪 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.239.123.107
 vless://056fbadd-e403-455f-a105-dbfc8705f4da@sweden.blogmovoes.ir:443?type=grpc&security=reality&sni=wordpress.org&fp=firefox&pbk=XyY6JxBj_8xL9NugEuFbl9HwW5q4SDEu_wYDd47BIDg&sid=b5caafd4#SE 🇸🇪 ┇ VLESS-GRPC-RLT - Aeza International Ltd ┇ 85.239.146.197
@@ -422,4 +422,4 @@ vless://46cb2dc2-1626-11f0-b2ee-52540017d97b@a6.vixsm.ir:10742?type=grpc&securit
 vless://d0268727-1a7d-4036-8469-063ee5fd2ae5@77.110.125.103:14465?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.125.103
 vless://ae0cc111-7d64-4ceb-bdfe-050f4c4823ce@izafree.lalash.ir:36509?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Aeza International Ltd ┇ 77.110.126.142
 vless://28ab1cf6-72bd-46ae-9ea2-a9cf22d4374a@77.110.124.63:25360?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9_cr-sx-RroefcaUkifm7u6dn4udl7E4aPp_dN8QOig&sid=7d#US 🇺🇸 ┇ VLESS-TCP-RLT - Aeza International Ltd ┇ 77.110.124.63
-trojan://6xyn00td-qzjw-5hwu-t0py-itslhwn8hjv3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://kn1b25v7-sxqy-c6l1-bo9z-r2107rrtl567@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
