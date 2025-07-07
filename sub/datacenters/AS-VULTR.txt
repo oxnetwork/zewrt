@@ -1,7 +1,7 @@
-trojan://4z2rb2de-x6s7-a8bb-jscv-kacnnlzhux14@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 22:30 ]
-trojan://3picjubj-n9r2-m2s1-34w3-ff89132eqaah@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qj5mb2nm-s6gu-33mw-cx8s-i39gkue799wt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ea53qh9h-z6kt-t63p-jbds-m26z5nyhfmk6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://g3x09ec2-pjzo-h5mg-oq2u-6hb7ze93nxnf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 22:55 ]
+trojan://vut3tjyh-b1dw-9pjy-k1nq-v3rclnw2zpsc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ruklka12-uikr-zxge-p7uu-fn892ks0yty3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ldz6ys4y-zbxk-hu3g-ewq4-t26od6f1onr0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ@45.77.48.44:8099#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 45.77.48.44
 trojan://bv4kWm6T3P8Y@139.84.197.130:443?sni=ash.b495fdd7-be5f-4409-99b3-f725f6bca02e.kailib.com&peer=ash.b495fdd7-be5f-4409-99b3-f725f6bca02e.kailib.com&security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 139.84.197.130
 trojan://qr5nXh3P7K6T@45.63.31.29:443?sni=ash.729a134b-71fe-4a51-8205-fde5369628ab.kailib.com&peer=ash.729a134b-71fe-4a51-8205-fde5369628ab.kailib.com&security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.63.31.29
@@ -109,11 +109,11 @@ vless://345daaa5-0db8-4e18-821e-5bad00801030@199.247.23.98:34371?type=tcp&securi
 vless://d7a0b421-4a56-4703-b9d8-940b06604af9@45.77.142.212:2087?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - AS-VULTR ┇ 45.77.142.212
 vless://c5e011a7-6de9-4eec-96bc-e38d424785ba@95.179.162.59:8443?type=tcp&security=reality&sni=api.gamingserverstream.ir&fp=firefox&flow=xtls-rprx-vision&pbk=0cq2Hb48xoxO-DvY40HycXGqZd3XmB90_g1pSShCpjs&sid=711bc39b#DE 🇩🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 95.179.162.59
 vless://8b1c4ba6-1997-4f1a-9a01-c68205d83321@136.244.95.145:80?type=xhttp&security=reality&path=/@custom_config&sni=yahoo.com&fp=chrome&pbk=kFyLvXmocZVSSVeerW4yU_m92nnH1y1SFeDKrhMb9A0&sid=756c88#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - AS-VULTR ┇ 136.244.95.145
+vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@136.244.89.150:4191?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 136.244.89.150
 vless://39d65c38-ec68-4808-bec4-53d61289a2dd@199.247.19.206:2085?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&flow=xtls-rprx-vision&pbk=jc91aAXjGq9B-beRU4H5ci2dcJz2Mxe49CaP7wtVFCg&sid=b02628178839989c#DE 🇩🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 199.247.19.206
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@45.32.156.187:443?type=tcp&security=reality&sni=zula.ir&fp=firefox&flow=xtls-rprx-vision&pbk=YYvLeafd75AcMSA_X_zbD2Pviwe5FLvvXVmPZ3s87kU&sid=a9c9f2#DE 🇩🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.32.156.187
 vless://81f75d95-f4bf-401b-8711-cfc738cc77fa@192.248.188.192:22597?type=tcp&security=reality&sni=dash.bunny.net&fp=chrome&pbk=A-VPwVXBa-snP3hUVMzlUMS-Nw8hNKNix9B87imHlm0&sid=f1acb3dc#DE 🇩🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 192.248.188.192
 vless://c627fe1e-eca4-49bd-80be-dd8acf9c72fe@xcv.moooobin.ir:22597?type=tcp&security=reality&sni=dash.bunny.net&fp=chrome&pbk=A-VPwVXBa-snP3hUVMzlUMS-Nw8hNKNix9B87imHlm0&sid=f1acb3dc#DE 🇩🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 199.247.21.217
-vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@136.244.89.150:4191?type=tcp&security=reality&sni=www.pcmag.com&fp=chrome&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY#DE 🇩🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 136.244.89.150
 vless://84ce5157-4867-4bea-8ae9-f1d7afe3b0ed@f2.misaghreserve.ir:443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=xN9xmYjM5o_W7IpLQnKNPd2TZbtCZhGFjtvHg0XP9hU&sid=67dcdbd6ed95f729#DE 🇩🇪 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 136.244.90.35
 vless://8a4f088d-0da9-4202-8e52-84e9488da6b1@140.82.37.17:46943?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=8r3d33MHVnEu2hB27_AAP1kKPkay6vlOE3OxLo0FuzM&sid=cec81537#DE 🇩🇪 ┇ VLESS-GRPC-RLT - AS-VULTR ┇ 140.82.37.17
 vless://a41618db-a1fa-4c18-bc6a-4f1419864b59@80.240.30.249:5053?type=grpc&security=reality&sni=cdnaccuweather.com&fp=chrome&pbk=GG4364ZNEH0ximLLhjrtRaWuyZ8EywgkPOiUVWhDgWg&sid=9a6e533f#DE 🇩🇪 ┇ VLESS-GRPC-RLT - AS-VULTR ┇ 80.240.30.249
@@ -261,8 +261,8 @@ vless://39d65c38-ec68-4808-bec4-53d61289a2dd@108.61.167.40:2044?type=tcp&securit
 vless://567ccb99-c094-41c3-b6c0-e67fe896917e@199.247.27.138:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#NL 🇳🇱 ┇ VLESS-GRPC-RLT - AS-VULTR ┇ 199.247.27.138
 vless://3373fe14-47b8-42e5-8a18-7ab3e0dd02b3@95.179.153.250:47221?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=iwsj4xiBztuBQ3I1YsrBBUhnlu7mhhPFozP7bkgaal0&sid=47ff9b6c#NL 🇳🇱 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 95.179.153.250
 vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@136.244.101.48:4191?type=tcp&security=reality&sni=www.pcmag.com&fp=chrome&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY#NL 🇳🇱 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 136.244.101.48
-vless://15ee8555-edd5-474b-bd63-f1ebba1d1813@78.141.217.212:80?type=xhttp&security=reality&path=/@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN&sni=reactrouter.com&fp=chrome&pbk=123Gdxpz1ySamQ1muE3_03q_oOC5pzdMK49HEntZHFY&sid=882edf3973#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - AS-VULTR ┇ 78.141.217.212
 vless://shared@95.179.134.38:2025?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=5MiALB61W2pUuPYIK8O1Ug8t3UTEuaBEe3dEDUb-rX0&sid=a3f14c2a0973#NL 🇳🇱 ┇ VLESS-GRPC-RLT - AS-VULTR ┇ 95.179.134.38
+vless://15ee8555-edd5-474b-bd63-f1ebba1d1813@78.141.217.212:80?type=xhttp&security=reality&path=/@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN@LUNAVO_VPN&sni=reactrouter.com&fp=chrome&pbk=123Gdxpz1ySamQ1muE3_03q_oOC5pzdMK49HEntZHFY&sid=882edf3973#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - AS-VULTR ┇ 78.141.217.212
 vless://a6292090-afe1-4640-97a7-4f1d1d877cf1@45.63.43.62:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.63.43.62
 vless://3cac427f-306c-421b-a2a0-adf8f49e1f48@45.76.32.68:43144?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.76.32.68
 vless://telegram-id-qeshmserver@95.179.138.190:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 95.179.138.190
@@ -277,7 +277,7 @@ vless://fd99e44d-a046-4477-b48b-8f15bc0f217a@64.176.73.209:9200?type=tcp&securit
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@70.34.245.198:3042?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#PL 🇵🇱 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 70.34.245.198
 vless://78b3def8-7698-47e9-85e5-54a5727b1ecb@70.34.248.4:21737?type=tcp&security=reality&sni=m.media-amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=0wh8obob5C0SP1KAzQp6dPB9OMu7VltVRvl4tPO6rSI&sid=6ba85179e30d4fc2#PL 🇵🇱 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 70.34.248.4
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwc2FuRmtZV3gxTVRNdUxn@70.34.218.134:8313#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 70.34.218.134
-trojan://Bw5Mz7QkVp@70.34.206.32:443?sni=z-v2-077787.kailib.com&peer=z-v2-077787.kailib.com&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 70.34.206.32
+trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 70.34.206.32
 trojan://wkmY1R4EcP@65.20.115.19:443?sni=myket.io&peer=myket.io&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 65.20.115.19
 trojan://Bw5Mz7QkVp@65.20.113.246:443?sni=z-v2-074389.kailib.com&peer=z-v2-074389.kailib.com&security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 65.20.113.246
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA3MC4zNC4yMDEuMTg3IiwiYWRkIjoiNzAuMzQuMjAxLjE4NyIsInBvcnQiOjE4NjY3LCJpZCI6ImNhYzI5ZjE2LTczNDAtNGY4OS1hM2M0LTA3ODNiMDU4Y2YyMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
@@ -403,18 +403,23 @@ vless://02187b5c-f759-4221-a86c-17c96ab719b9@66.42.69.236:443?type=xhttp&securit
 vless://fbb8b297-be50-4452-bed9-49aa80317164@144.202.15.244:443?type=xhttp&security=none&path=/oiuygt#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 144.202.15.244
 vless://5400364b-68d6-471f-9678-e4852f7fd233@45.63.78.98:443?type=xhttp&security=none&path=/sdfgh#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 45.63.78.98
 vless://e39c1a83-11de-4482-9d36-9ad8e5509752@208.83.236.179:443?type=xhttp&security=none&path=/yuy#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 208.83.236.179
+vless://5349c900-a967-49f5-d421-d237449e2f67@45.76.31.111:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.76.31.111
+vless://1e27abd2-79a0-43b2-8b4d-bafae92ca909@45.76.232.105:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.76.232.105
 vless://143856fd-c47c-4901-b86b-987bbedd20c4@45.63.107.54:443?type=xhttp&security=none&path=/tyu#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 45.63.107.54
 vless://19a7a0c0-34c4-476b-80fd-68a28d417c43@66.42.118.140:443?type=xhttp&security=none&path=/ertyu#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 66.42.118.140
-vless://1e27abd2-79a0-43b2-8b4d-bafae92ca909@45.76.232.105:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.76.232.105
 vless://4cca4383-cd45-496d-989c-a0cb6a1ed93a@45.63.64.149:443?type=xhttp&security=none&path=/rfht#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 45.63.64.149
 vless://504a66e9-9192-482d-9b91-962a4c8e391c@149.28.117.46:443?type=xhttp&security=none&path=/rtgyhjk#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 149.28.117.46
 vless://52c68cd9-5e34-4cd5-8345-e3746c5fd703@149.28.102.15:443?type=xhttp&security=none&path=/rfgthj#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 149.28.102.15
-vless://5349c900-a967-49f5-d421-d237449e2f67@45.76.31.111:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.76.31.111
 vless://5400364b-68d6-471f-9678-e4852f7fd233@66.42.70.225:443?type=xhttp&security=none&path=/sdfgh#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 66.42.70.225
 vless://a333acaf-2817-4bf9-9221-c1a63bb80de8@45.76.226.77:443?type=xhttp&security=none&path=/sdfghj#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 45.76.226.77
 vless://b4143fbf-9a64-4e83-9c70-98c7493277a9@144.202.57.159:443?type=xhttp&security=none&path=/ertyhu#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 144.202.57.159
 vless://f7b2035d-5afe-4ff8-9dcd-9e34e49d2e4e@155.138.228.161:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 155.138.228.161
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.76.78.246:34045?type=tcp&security=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.76.78.246
+vless://52c68cd9-5e34-4cd5-8345-e3746c5fd703@208.83.237.169:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 208.83.237.169
+vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@207.246.97.154:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 207.246.97.154
+vless://d35de3c2-6a41-496e-a4e1-b36bda1a8cac@137.220.61.251:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 137.220.61.251
+vless://4bf96dd2-f451-4938-8fa4-1a2251290920@216.128.147.21:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 216.128.147.21
+vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@149.28.242.31:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 149.28.242.31
 vless://1aa36690-b2d2-4e1f-a5be-164bd0055b82@66.42.115.69:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 66.42.115.69
 vless://044ea0d1-309e-42a3-b9b0-a9fab400929e@45.76.168.21:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.76.168.21
 vless://04e197cd-b234-4641-b1e2-98b86212744b@45.76.250.208:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.76.250.208
@@ -433,15 +438,6 @@ vless://184ff6c4-9bba-4248-a58e-0b779f394d95@149.28.64.34:8080?type=ws&security=
 vless://0850ed39-e837-4f82-fe2a-d6cc91283ddc@45.76.231.225:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.76.231.225
 vless://17186b4e-f33e-468b-bb7e-8ce69da493fd@137.220.62.126:59377?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 137.220.62.126
 vless://44f3dce9-14bd-4c61-eea7-6b301e0bb034@66.135.1.3:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 66.135.1.3
-vless://4bf96dd2-f451-4938-8fa4-1a2251290920@216.128.147.21:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 216.128.147.21
-vless://52c68cd9-5e34-4cd5-8345-e3746c5fd703@208.83.237.169:443?type=xhttp&security=none&path=/rfgthj#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 208.83.237.169
-vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@207.246.97.154:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 207.246.97.154
-vless://3735692e-9ff5-40c3-d275-3f7c75fe60e0@45.77.165.227:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.77.165.227
-vless://93a2cb89-5caf-4726-88ad-8569037981e1@144.202.19.9:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 144.202.19.9
-vless://d35de3c2-6a41-496e-a4e1-b36bda1a8cac@137.220.61.251:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 137.220.61.251
-vless://a11c5d91-f60b-4ca1-9d24-9578a732e30b@66.135.13.66:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 66.135.13.66
-vless://699e18fe-cd75-42f8-d898-3c10c8d870b4@149.28.101.189:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 149.28.101.189
-vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@149.28.242.31:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 149.28.242.31
 vless://7cff09d4-8329-4e81-91b3-f0338949cb02@207.148.14.79:29556?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - AS-VULTR ┇ 207.148.14.79
 vless://4c8a9557-92c5-4a36-879b-9a40592a5731@149.28.127.127:8880?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - AS-VULTR ┇ 149.28.127.127
 vless://bcb94a61-bf34-4724-c47d-db2bcf395339@149.28.223.61:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 149.28.223.61
@@ -449,8 +445,12 @@ vless://18867194-22b6-4d8b-d00d-0f377899d080@149.248.34.124:8080?type=ws&securit
 vless://00a69bfa-3051-4c02-f035-b33c6f6fe726@155.138.231.19:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 155.138.231.19
 vless://6f45e60b-441f-4824-fa10-c11ab1dfa0f7@45.32.94.179:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.32.94.179
 vless://5400364b-68d6-471f-9678-e4852f7fd233@66.245.195.245:443?type=xhttp&security=none&path=/sdfgh#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 66.245.195.245
+vless://93a2cb89-5caf-4726-88ad-8569037981e1@144.202.19.9:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 144.202.19.9
+vless://3735692e-9ff5-40c3-d275-3f7c75fe60e0@45.77.165.227:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 45.77.165.227
 vless://699e18fe-cd75-42f8-d898-3c10c8d870b4@208.83.235.168:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 208.83.235.168
 vless://1e27abd2-79a0-43b2-8b4d-bafae92ca909@208.83.236.57:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 208.83.236.57
+vless://699e18fe-cd75-42f8-d898-3c10c8d870b4@149.28.101.189:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 149.28.101.189
+vless://a11c5d91-f60b-4ca1-9d24-9578a732e30b@66.135.13.66:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 66.135.13.66
 vless://2fc97eb0-d9d2-4567-99bf-bb5f64b5d5e9@45.63.60.98:12188?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.63.60.98
 vless://fbb8b297-be50-4452-bed9-49aa80317164@207.148.14.126:443?type=xhttp&security=none&path=/oiuygt#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 207.148.14.126
 vless://d35de3c2-6a41-496e-a4e1-b36bda1a8cac@45.76.26.187:443?type=xhttp&security=none&path=/hyui#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 45.76.26.187
@@ -473,4 +473,4 @@ vless://77f2d87d-c808-37d6-e70c-9aa442454eaa@173.199.122.162:443?type=grpc&secur
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@140.82.14.216:12345?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 140.82.14.216
 vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDEzOS44NC4yMzAuMjM1IiwiYWRkIjoic2ExLnZwbmphbnRpdC5jb20iLCJwb3J0IjoxMDAwMCwiaWQiOiIwNjRjMTIxOC00MjJmLTExZWQtODFmNC0wMDE2M2M2ZmVkNTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
 vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDEzOS44NC4yMzEuMjQ0IiwiYWRkIjoiMTM5Ljg0LjIzMS4yNDQiLCJwb3J0Ijo4MCwiaWQiOiI4NWM0MDcxOS02ZTFmLTRkMWMtOWE2YS0yNDU4NmJkYWIyOTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MifQ
-trojan://76pcy9gd-ls05-5y8n-xnl3-l2bs5cgjsl7h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://5q2tke6s-2dwg-08up-qrsz-l7a9pumqom4c@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
