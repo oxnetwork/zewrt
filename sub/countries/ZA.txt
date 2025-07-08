@@ -1,7 +1,7 @@
-trojan://q934tw4m-vavp-ck91-9uwl-bzbd94tgffk2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-08 | 22:33 ]
-trojan://r1xrbvhi-6t5e-8w5u-s9xl-99biochjhlp6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yr1usc1t-9out-ppck-5o07-fggyk3ci0rjs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6obmr4su-913p-2j7a-w2zc-dgnhxei2eel5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tmxrwude-kiqm-pfui-r72j-8o9prqkaf2nn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-08 | 22:56 ]
+trojan://1v9tr8xp-ga7a-u2c8-hmzn-h4aanwxihbw7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tgw4re0y-p1k2-6mck-n2ap-mrvvjtrwbl8n@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jlx4wy36-mq9o-8ozx-vdof-mxwyhj671ajr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbEJGRTFGdVdVWU9pV0RUc2xxQXhB@192.142.105.41:1080#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS ┇ 192.142.105.41
 trojan://your_password@13.244.104.87:443?sni=aws-za-capetown-1.f1rocketnode.com&peer=aws-za-capetown-1.f1rocketnode.com&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.244.104.87
 vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDEzOS44NC4yMzAuMjM1IiwiYWRkIjoic2ExLnZwbmphbnRpdC5jb20iLCJwb3J0IjoxMDAwMCwiaWQiOiIwNjRjMTIxOC00MjJmLTExZWQtODFmNC0wMDE2M2M2ZmVkNTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
@@ -53,13 +53,13 @@ vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@102.177.176.77:8880?type=ws&securit
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@102.177.176.78:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 102.177.176.78
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTEdWcEs5bnBLYUZxQkxIY251OQ@102.165.20.38:8389#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Hivelocity LLC ┇ 102.165.20.38
 vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdC1BZnJpY2EtQVMgXHUyNTA3IDEwMi4xMzAuMTIzLjI0OCIsImFkZCI6IjEwMi4xMzAuMTIzLjI0OCIsInBvcnQiOjgwLCJpZCI6ImNhZDQxNWE1LThlZjUtNGFlNi04ZDlhLWI1ZWE5Y2I3NjlhYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3ZtZXNzIn0
-vless://a38f66ab-e832-5ffa-a1a3-685296017fae@102.129.165.116:2052?type=grpc&security=none#ZA 🇿🇦 ┇ VLESS-GRPC-NTLS - Host-Africa-AS2 ┇ 102.129.165.116
+vless://fce36fe4-1f0b-5533-9a21-d84a4339d790@102.129.165.116:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-TLS - Host-Africa-AS2 ┇ 102.129.165.116
 trojan://4467ae8518abf1ef321618c0bfb5549ccc@129.151.163.120:25131?sni=www.cloudflare.com&peer=www.cloudflare.com&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 129.151.163.120
 trojan://b19c4375-d847-4c40-9824-4767c88b5f38@84.8.130.153:10870?sni=www.jucer001.click&peer=www.jucer001.click&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - ORACLE-BMC-31898 ┇ 84.8.130.153
 vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTI5LjE1MS4xNjQuMTUyIiwiYWRkIjoiMTI5LjE1MS4xNjQuMTUyIiwicG9ydCI6NTU2MDAsImlkIjoiZTMwZjg1ODgtMjU1NS00OGI4LWMzNTQtYzhlNjNmNTcyMzJkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.243
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.199
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.134
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.243
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.173
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.18
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.38:443?type=ws&security=none&sni=nn.ylks0033.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.38
@@ -104,4 +104,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@129.232.134.112:990#ZA
 ss://YWVzLTI1Ni1nY206RzVLQlJaUUVFUEFEWjQ1Wg@129.232.133.62:20015#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - xneelo ┇ 129.232.133.62
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@41.203.4.34:989#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - xneelo ┇ 41.203.4.34
 vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0geG5lZWxvIFx1MjUwNyAxNjAuMTE1LjE5My45OSIsImFkZCI6IjE2MC4xMTUuMTkzLjk5IiwicG9ydCI6NjAyMjIsImlkIjoiODQxMzRkOTAtZTRmZS00YTg2LWM4ZDYtNGQ3YmVkYjNjMzMzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvdm1lc3MifQ
-trojan://ynvui2lj-v6nf-sgq1-zcq2-964vdrk74z3v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://c9dvygdr-ep0p-dm36-71p2-jc8amgyvo3et@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
