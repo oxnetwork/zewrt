@@ -1,7 +1,7 @@
-trojan://mufibuum-16uc-izx5-kzs6-gdx3lwf2r4uq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-08 | 11:21 ]
-trojan://qnjfo97u-vp3w-hpfo-ylrt-5b2j20z5somt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://z5wgt092-uk2w-q7tp-gqfh-sddbqzhwf60e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kv2lrxkk-n73i-33cx-2enr-0al3miheeibs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5prw43t8-vids-erkb-ln9z-aa59vvlpo0eo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-08 | 12:03 ]
+trojan://90u1nhoe-q063-qssy-c43e-dln4dkaou1ku@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8zdabgx3-vfph-zoim-2vmt-zzy9tbyzti23@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://eapynsz1-l6h6-011j-6t2c-4usnupifqihd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://your_password@16.62.65.57:443?sni=aws-ch-zurich-1.f1rocketnode.com&peer=aws-ch-zurich-1.f1rocketnode.com&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 16.62.65.57
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 204.136.10.115
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.166.88.5:3389#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 23.166.88.5
@@ -92,8 +92,8 @@ vless://98f6bad3-37ea-4b8e-8892-e759c0c0c67b@84.234.31.140:66?type=tcp&security=
 vless://fa4e782f-d1db-4ece-9cfa-01899f4486f4@84.234.28.244:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.28.244
 vless://37f1363a-e041-8ccd-d27f-e542a4a2def5@37.156.46.65:48740?type=tcp&security=tls&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision-udp443#CH 🇨🇭 ┇ VLESS-TCP-TLS - Infomaniak Network SA ┇ 37.156.46.65
 vless://2bc31b80-7870-47e2-b6d7-4358108c0646@188.213.129.168:8880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 188.213.129.168
+vless://f5060a9c-3bc0-3564-2dc6-f6f81e71d879@37.156.46.44:31458?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 37.156.46.44
 vless://19d597c4-b031-4d44-8a37-44fbe6620a19@d1.marzano5.one:443?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&sid=c43431c287c0#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Infomaniak Network SA ┇ 195.15.243.23
-vless://d2a6d095-e897-1c16-8fde-b96d5892d515@37.156.46.44:59536?type=tcp&security=reality#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 37.156.46.44
 vless://9a976dba-b3c5-48e0-88c1-8492d42c2998@84.234.28.153:2093?type=tcp&security=reality&sni=iranserver.com&fp=chrome&flow=xtls-rprx-vision&pbk=vhu_xRGelbv5xPYJvQOl62g96G4STaJ7OVEnQYfX0Hc&sid=353ac16b#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 84.234.28.153
 vless://85988c00-baff-51d4-babd-d2cf2fecdce5@84.234.29.208:443?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=Sbr5E-2N9FFuLjTvVIXwNiCtgKAAE0yCYpuTArScuwM&sid=72#CH 🇨🇭 ┇ VLESS-TCP-RLT - Infomaniak Network SA ┇ 84.234.29.208
 vless://d6e651f4-8346-43cd-9cb9-581e92be4c17@195.15.201.22:443?type=grpc&security=reality&sni=whatsapp.net&fp=randomized&pbk=c6D9SIzHXAiKHBkXLQgY5NiGt50Mj_PkiqI2B8eQi1A&sid=864702d02962387e#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Infomaniak Network SA ┇ 195.15.201.22
@@ -156,4 +156,4 @@ vless://42H8hMTxVMXrmFQmw3jS@agashka-vpn.com:54586?type=tcp&security=reality&sni
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - ServerBase AG ┇ 212.237.210.158
 vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-RLT - Serverd SAS ┇ 193.168.144.46
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@95.183.51.10:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#CH 🇨🇭 ┇ VLESS-WS-TLS - Solar Communications GmbH ┇ 95.183.51.10
-trojan://ombvilyi-bgey-7b6n-rlg1-gsnin7kj0lsz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://7f4ed3nv-qnj3-rzex-8n1g-4nwdc5oyg00h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
