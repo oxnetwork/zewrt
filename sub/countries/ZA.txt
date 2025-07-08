@@ -1,7 +1,7 @@
-trojan://4rtltcii-w93o-7l9y-2cn3-8ymnenfi905f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-08 | 14:02 ]
-trojan://nqb7pdr7-mcs4-vaqh-isuc-6xo0fttoxlvk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sv8fnkti-utn3-g8kp-ystg-lcv4vpj8w88z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nxg8h6mh-rytm-1e8k-ek6v-0e50ygwwugf6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3rbhm6nl-lzzi-bquz-9nho-dnym54zb6tcv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-08 | 14:28 ]
+trojan://dh7gx4ix-qjta-fcet-ney1-dq41or6k3th2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n92eb6hh-xdem-g5ic-bj99-3ja64mexoyb6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://opl1jiov-26wj-zh10-84sv-2ky1gnna3wzf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbEJGRTFGdVdVWU9pV0RUc2xxQXhB@192.142.105.41:1080#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS ┇ 192.142.105.41
 trojan://your_password@13.244.104.87:443?sni=aws-za-capetown-1.f1rocketnode.com&peer=aws-za-capetown-1.f1rocketnode.com&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.244.104.87
 vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDEzOS44NC4yMzAuMjM1IiwiYWRkIjoic2ExLnZwbmphbnRpdC5jb20iLCJwb3J0IjoxMDAwMCwiaWQiOiIwNjRjMTIxOC00MjJmLTExZWQtODFmNC0wMDE2M2M2ZmVkNTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
@@ -28,7 +28,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVT
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.63:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome&sni=jp.laoyoutiao.link#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 102.132.188.63
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@102.177.176.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 102.177.176.77
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 102.177.176.177
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?type=ws&security=none#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 102.177.176.213
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?type=ws&security=false&path=/&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 102.177.176.213
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.168:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2560&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 102.177.176.168
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.168:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2560&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 102.132.188.168
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.29:8880?type=ws&security=false&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 102.132.188.29
@@ -102,4 +102,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@129.232.134.112:990#ZA
 ss://YWVzLTI1Ni1nY206RzVLQlJaUUVFUEFEWjQ1Wg@129.232.133.62:20015#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - xneelo ┇ 129.232.133.62
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@41.203.4.34:989#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - xneelo ┇ 41.203.4.34
 vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0geG5lZWxvIFx1MjUwNyAxNjAuMTE1LjE5My45OSIsImFkZCI6IjE2MC4xMTUuMTkzLjk5IiwicG9ydCI6NjAyMjIsImlkIjoiODQxMzRkOTAtZTRmZS00YTg2LWM4ZDYtNGQ3YmVkYjNjMzMzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvdm1lc3MifQ
-trojan://zvehyt4h-thni-s4xk-l8we-urlnmtsnw3xl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://up914pv5-3sht-gnho-5ljx-rkma8l2ugmbm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
