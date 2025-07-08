@@ -1,12 +1,8 @@
-trojan://s8zrns7t-tfa0-zh1e-cq70-58wyppg7wfxi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-08 | 20:59 ]
-trojan://uc9sxp0q-2pli-h0sz-ne3z-8hvtw7lqkwoj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wmbk3lpd-tro4-rwjz-e6wn-lkek11jqsnt6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xgvba9pj-5jlq-gg7m-ww76-ri2fa6y9qe5j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://52xx7kx6-rtbd-a0s6-l3px-cwdxviwoe9l6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-08 | 21:26 ]
+trojan://htw243xm-3sfv-jr7z-tffn-4cfytbyqhxub@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i9ifw4zh-0uyu-28yb-bw6j-jkfjb6iqojdw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0gj3lg6h-cj4m-zrof-zxlu-u8xxu2wkc07o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgTW9oYW1tYWQgTWFzb3VkaSBcdTI1MDcgMzcuMzIuNDEuMTIwIiwiYWRkIjoiaGVhbHRoLmxpZmVlbGl2ZS53ZWJzaXRlIiwicG9ydCI6NTg2OTcsImlkIjoiZjZiNDM3N2QtODIyOC00MzQ5LThmMzItYmIwNmE4OGI2ZWM3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://1cdb9a6c-c46a-4a8f-8b89-721ebf45d123@m1.didiservices.site:8883?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.102
-vless://6e9cf16c-3262-488e-909f-afb041332156@iran.edrispalanii.sbs:41977?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.3.200.34
-vless://7777c48b-0533-40ac-9b7d-fd997a7d352e@185.3.200.67:8082?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.3.200.67
-vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@37.32.41.247:2095?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.247
 vless://65d28773-ea93-4c51-9d4a-699951111d92@37.32.41.151:888?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.151
 vless://14a5a45d-295a-4979-bee2-6bc9bd2bdad9@37.32.41.95:15737?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.95
 vless://41b85a5a-82aa-4e21-88a2-4b3377e9cf57@37.32.41.208:332?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.208
@@ -17,6 +13,10 @@ vless://0068c687-73ef-4a2d-b849-f26e8afe43c2@37.32.41.60:8081?type=tcp&security=
 vless://9a8327a3-e725-4a7f-bb77-55b0ceb63c30@37.32.41.189:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.189
 vless://b7b8d862-e736-4ded-be89-711d49d2415b@37.32.41.184:5050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.184
 vless://6efe6cde-c728-453f-be31-9dc554e8f0ba@185.243.51.71:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.243.51.71
+vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@37.32.41.247:2095?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.247
+vless://1cdb9a6c-c46a-4a8f-8b89-721ebf45d123@m1.didiservices.site:8883?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.102
+vless://6e9cf16c-3262-488e-909f-afb041332156@iran.edrispalanii.sbs:41977?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.3.200.34
+vless://7777c48b-0533-40ac-9b7d-fd997a7d352e@185.3.200.67:8082?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.3.200.67
 vless://cdac7fb1-0a6c-5d35-0573-cb41667eca46@germany.mytopmedia.xyz:46958?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.243.51.170
 vless://af12cac7-9f92-4970-ac75-2cf6b2cac373@main.oneplus2online.com:24963?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 37.32.41.221
 vless://64aad9cb-4f24-4065-8fd5-02d4a705d5e1@holand1.curtvip.ir:28400?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Mohammad Masoudi ┇ 185.3.200.42
@@ -25,4 +25,4 @@ vless://6f8b2270-cec0-4de5-820c-597c4c4e786a@185.243.51.44:59234?type=ws&securit
 vless://71075f29-256c-430e-93c7-42f432bc8abe@213.21.245.83:443?type=tcp&security=tls&sni=tgju.org&fp=chrome&flow=-udp443#LV 🇱🇻 ┇ VLESS-TCP-TLS - Amir Mohammad Masoudi ┇ 213.21.245.83
 vless://05d83460-c34e-4d1a-9bae-40f60e77cd95@213.21.245.91:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#LV 🇱🇻 ┇ VLESS-TCP-RLT - Amir Mohammad Masoudi ┇ 213.21.245.91
 vless://4c46c990-86c4-5489-b560-923943d009d6@213.21.245.59:80?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=midwlERxVPTIICiHDIPQn6mynPOHhpIRahRdvZ6VezY&sid=d5c38fd320#LV 🇱🇻 ┇ VLESS-TCP-RLT - Amir Mohammad Masoudi ┇ 213.21.245.59
-trojan://lmoe3si1-bei0-s6k3-dtwx-asz9nwbkqdlj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://5daklq3w-vd9i-xo0w-leof-6gog8ki4na30@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
