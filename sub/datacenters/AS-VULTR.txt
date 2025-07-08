@@ -1,7 +1,7 @@
-trojan://hli0oa5a-fk3r-564k-bdti-fq5r3lu38603@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-08 | 10:59 ]
-trojan://ywaj9x7z-o7mb-ptd0-xeex-ixkrcjxr6y42@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hfjkf4t6-r57l-972n-u78u-oh9taqhjjrox@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jpx5tsxo-ilhc-chyv-vspo-9siuzbd58o9o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pglpyzr8-w352-pjet-igl5-lkb0jt33gp4c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-08 | 11:21 ]
+trojan://jyb5i8et-2k18-s667-zbtd-tdfxa6f877b2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ztn1a7bb-3h6r-67cc-vwev-isxjbp2jat5y@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6kp3pu54-el25-g8fi-yyk7-2espafvnigx6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ@45.77.48.44:8099#AU 🇦🇺 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 45.77.48.44
 trojan://bv4kWm6T3P8Y@139.84.197.130:443?sni=ash.b495fdd7-be5f-4409-99b3-f725f6bca02e.kailib.com&peer=ash.b495fdd7-be5f-4409-99b3-f725f6bca02e.kailib.com&security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 139.84.197.130
 trojan://qr5nXh3P7K6T@45.63.31.29:443?sni=ash.729a134b-71fe-4a51-8205-fde5369628ab.kailib.com&peer=ash.729a134b-71fe-4a51-8205-fde5369628ab.kailib.com&security=tls#AU 🇦🇺 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.63.31.29
@@ -100,9 +100,9 @@ vless://446bfcde-1d2d-4f6f-a828-117487411e01@45.76.87.24:80?type=tcp&security=no
 vless://a88328cb-5bc2-406a-f98c-483171ac5c6c@95.179.244.13:26254?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.244.13
 vless://00cbf18a-7800-4333-8f41-4ae64db3ded1@95.179.248.225:13479?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.248.225
 vless://0ad80b34-ca8b-493a-e5f5-fe863b81b91c@fr.blizza.store:2096?type=ws&security=tls&path=/&sni=fr.blizza.store&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.63.117.221
-vless://98d45450-397c-4132-971d-fbf3671357ac@95.179.250.185:443?type=grpc&security=tls&sni=asdfgw.numallaf.shop#DE 🇩🇪 ┇ VLESS-GRPC-TLS - AS-VULTR ┇ 95.179.250.185
 vless://527ae3b3-a4aa-4b64-db42-8894aed1b8bb@108.61.179.102:8080?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 108.61.179.102
 vless://3e5094d4-0360-48fa-9024-a9496fb5cc03@95.179.171.245:1401?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 95.179.171.245
+vless://98d45450-397c-4132-971d-fbf3671357ac@95.179.250.185:443?type=grpc&security=tls&sni=asdfgw.numallaf.shop#DE 🇩🇪 ┇ VLESS-GRPC-TLS - AS-VULTR ┇ 95.179.250.185
 vless://345daaa5-0db8-4e18-821e-5bad00801030@199.247.23.98:34371?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 199.247.23.98
 vless://02187b5c-f759-4221-a86c-17c96ab719b9@192.248.179.150:443?type=xhttp&security=none&path=/hui#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 192.248.179.150
 vless://33837aa4-a41f-441c-a0d5-fa7a8e18ae40@199.247.5.104:80?type=ws&security=none#DE 🇩🇪 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 199.247.5.104
@@ -153,8 +153,8 @@ vless://b3ce83bd-314d-43b8-a4c6-187749ac9b39@217.69.1.165:24091?type=tcp&securit
 vless://baadf496-921b-41b1-a7ae-fde0ddc6793d@140.82.54.120:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 140.82.54.120
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@45.76.44.184:3032?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#FR 🇫🇷 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.76.44.184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.184.129:1866#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.184.129
-trojan://wkmY1R4EcP@45.76.130.173:443?sni=z-v2-003289.kailib.com&peer=z-v2-003289.kailib.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.76.130.173
 trojan://Bw5Mz7QkVp@64.176.181.41:443?sni=z-v2-077925.kailib.com&peer=z-v2-077925.kailib.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 64.176.181.41
+trojan://wkmY1R4EcP@45.76.130.173:443?sni=z-v2-003289.kailib.com&peer=z-v2-003289.kailib.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.76.130.173
 trojan://Bw5Mz7QkVp@95.179.199.196:443?sni=z-v2-077942.kailib.com&peer=z-v2-077942.kailib.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.199.196
 trojan://Bw5Mz7QkVp@95.179.232.3:443?sni=z-v2-077930.kailib.com&peer=z-v2-077930.kailib.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 95.179.232.3
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA2NC4xNzYuMTkxLjIzOCIsImFkZCI6IjY0LjE3Ni4xOTEuMjM4IiwicG9ydCI6ODA4MSwiaWQiOiJhYWIxYmQ1My0yNzc5LTQ2YmMtYTZiYi00M2EwZTk4ZTJkMzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
@@ -319,7 +319,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@104.207.155.64:1633#US
 ss://YWVzLTI1Ni1nY206Mzg3Qnh1T3RJTg@108.61.132.141:14552#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 108.61.132.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@207.246.101.50:1633#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 207.246.101.50
 trojan://Gl123qwe@los2.playstone.info:23443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.63.60.28
-trojan://Bw5Mz7QkVp@45.63.10.175:443?sni=z-v2-077997.kailib.com&peer=z-v2-077997.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.63.10.175
 trojan://fsoOufuTGmSKzRDaAwAbww@149.28.229.158:443?security=none#US 🇺🇸 ┇ TROJAN-TCP-NTLS - AS-VULTR ┇ 149.28.229.158
 trojan://Bw5Mz7QkVp@216.128.144.247:443?sni=z-v2-077981.kailib.com&peer=z-v2-077981.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 216.128.144.247
 trojan://Qp3Vk8YmXs@z-v2-086622.kailib.com:443?sni=ash.d22e0961-e0a7-49b8-8259-eac71e24d27b.kailib.com&peer=ash.d22e0961-e0a7-49b8-8259-eac71e24d27b.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.77.123.26
@@ -338,6 +337,7 @@ trojan://Bw5Mz7QkVp@104.207.146.46:443?sni=z-v2-077049.kailib.com&peer=z-v2-0770
 trojan://Bw5Mz7QkVp@45.63.78.10:443?sni=z-v2-077770.kailib.com&peer=z-v2-077770.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.63.78.10
 trojan://Bw5Mz7QkVp@149.28.213.127:443?sni=z-v2-077984.kailib.com&peer=z-v2-077984.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 149.28.213.127
 trojan://Bw5Mz7QkVp@45.77.82.118:443?sni=z-v2-080366.kailib.com&peer=z-v2-080366.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.77.82.118
+trojan://Bw5Mz7QkVp@45.63.10.175:443?sni=z-v2-077997.kailib.com&peer=z-v2-077997.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 45.63.10.175
 trojan://wkmY1R4EcP@216.128.147.13:443?sni=z-v2-003274.kailib.com&peer=z-v2-003274.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 216.128.147.13
 trojan://xjtZ2S5FgQ@137.220.42.248:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 137.220.42.248
 trojan://Bw5Mz7QkVp@144.202.125.229:443?sni=z-v2-076744.kailib.com&peer=z-v2-076744.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 144.202.125.229
@@ -351,7 +351,9 @@ trojan://Bw5Mz7QkVp@45.76.228.197:443?sni=z-v2-078120.kailib.com&peer=z-v2-07812
 trojan://Bw5Mz7QkVp@66.42.71.154:443?sni=z-v2-078001.kailib.com&peer=z-v2-078001.kailib.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 66.42.71.154
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDQ1Ljc2LjcxLjIzMyIsImFkZCI6IjQ1Ljc2LjcxLjIzMyIsInBvcnQiOjQ2OTgzLCJpZCI6IjY5MDk5MjU4LTE0NzYtNDZkZC1hNTFiLTg0ZTkxNWU5NDFiZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLzF0R0s4MmxVLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDQ1LjMyLjE3NS4yNDAiLCJhZGQiOiI0NS4zMi4xNzUuMjQwIiwicG9ydCI6MjEwMzQsImlkIjoiMWQ4OWU1NWEtODJkMC00MDUxLWJiMjktOGE5MTFmOTlhNGMzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA2Ni40Mi44Ni4yMDIiLCJhZGQiOiI2Ni40Mi44Ni4yMDIiLCJwb3J0Ijo4ODgxLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA0NS43Ni42MC4xMCIsImFkZCI6IjQ1Ljc2LjYwLjEwIiwicG9ydCI6ODg4MSwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1WVUxUUiBcdTI1MDcgNDUuMzIuOTUuMTQ1IiwiYWRkIjoibG9zLmJtMDQueHl6IiwicG9ydCI6MjA1MywiaWQiOiI5NGNmMjg4ZC1mNzY0LTRjZTktYTU0Ny1hNzIyODE0NGYwNTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibG9zLmJtMDQueHl6IiwicGF0aCI6Ii9yZWFsdGltZS11cGRhdGVzLyIsInRscyI6InRscyIsInNuaSI6Imxvcy5ibTA0Lnh5eiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA0NS43Ny4xNDYuNTgiLCJhZGQiOiI0NS43Ny4xNDYuNTgiLCJwb3J0IjoyMjEzMSwiaWQiOiJhZDQyZDU4Ni1kY2QxLTQ2MjktZDQ5Yi1hNmYyZDgyMWFkMzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyAxMDcuMTkxLjM2LjE0OCIsImFkZCI6IjEwNy4xOTEuMzYuMTQ4IiwicG9ydCI6Mzg4NDgsImlkIjoiNWY2YTMyYTAtNTYxYy00NDBlLWE0M2UtMzBiNGQ4NjFiMGU0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA0NS4zMi43OC4yMTgiLCJhZGQiOiI0NS4zMi43OC4yMTgiLCJwb3J0Ijo1Mzk4MywiaWQiOiIwMTk5OGI5ZC03NTFhLTQ5ZDQtZTllYi02MTY5MzE0M2Y4ZTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
@@ -360,7 +362,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyAyMDguMTY3LjI0NS4xMCIsImFkZCI6IjIwOC4xNjcuMjQ1LjEwIiwicG9ydCI6MzA4MzUsImlkIjoiMjY3NjI1OTYtNWFhNy00MjEyLWVjNDgtZjg1YTNkNWI5MTE4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyAyMDcuMjQ2LjEyNS4xNjUiLCJhZGQiOiIyMDcuMjQ2LjEyNS4xNjUiLCJwb3J0IjozNDEwMiwiaWQiOiIzMDdlNGY2OS03YjczLTRlZDEtZTFmZS1kNjg3YzMyNGUwMjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyAxMDQuMjM4LjEzMy4xMTIiLCJhZGQiOiIxMDQuMjM4LjEzMy4xMTIiLCJwb3J0IjozNDEyMCwiaWQiOiJjZjhkZTBlOS1mYzNjLTQ2YWItZWRhMS1iNWIxMjkxM2FhMDciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUy1WVUxUUiBcdTI1MDcgNDUuMzIuOTUuMTQ1IiwiYWRkIjoibG9zLmJtMDQueHl6IiwicG9ydCI6MjA1MywiaWQiOiI5NGNmMjg4ZC1mNzY0LTRjZTktYTU0Ny1hNzIyODE0NGYwNTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibG9zLmJtMDQueHl6IiwicGF0aCI6Ii9yZWFsdGltZS11cGRhdGVzLyIsInRscyI6InRscyIsInNuaSI6Imxvcy5ibTA0Lnh5eiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyAxNDkuMjguMjMyLjE5NSIsImFkZCI6IjE0OS4yOC4yMzIuMTk1IiwicG9ydCI6NDMyMzEsImlkIjoiMmM0ZTRjZjAtZTY3MS00YzBjLWViZTgtNDVlMWQxZTAyYmQzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyAyMDcuMjQ2Ljk0LjI4IiwiYWRkIjoiMjA3LjI0Ni45NC4yOCIsInBvcnQiOjQyMzgzLCJpZCI6IjQ3NzNkZmRjLTljODUtNDg3My04NzIwLWNlOGNmNWY3NGY3YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8xdEdLODJsVS8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLVZVTFRSIFx1MjUwNyA5Ni4zMC4xOTQuMTk1IiwiYWRkIjoiOTYuMzAuMTk0LjE5NSIsInBvcnQiOjU5NTMxLCJpZCI6ImFmZjRjYzYyLThmMzEtNDMzYy1hNTQ0LTA3YjZhMGViYmQ0MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
@@ -415,13 +416,13 @@ vless://52c68cd9-5e34-4cd5-8345-e3746c5fd703@149.28.102.15:443?type=xhttp&securi
 vless://5400364b-68d6-471f-9678-e4852f7fd233@66.42.70.225:443?type=xhttp&security=none&path=/sdfgh#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 66.42.70.225
 vless://a333acaf-2817-4bf9-9221-c1a63bb80de8@45.76.226.77:443?type=xhttp&security=none&path=/sdfghj#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 45.76.226.77
 vless://b4143fbf-9a64-4e83-9c70-98c7493277a9@144.202.57.159:443?type=xhttp&security=none&path=/ertyhu#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 144.202.57.159
-vless://4bf96dd2-f451-4938-8fa4-1a2251290920@216.128.147.21:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 216.128.147.21
-vless://d35de3c2-6a41-496e-a4e1-b36bda1a8cac@137.220.61.251:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 137.220.61.251
-vless://7197f7d0-0fd2-40d4-83ad-d2755a4f91b3@45.76.233.173:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 45.76.233.173
-vless://52c68cd9-5e34-4cd5-8345-e3746c5fd703@208.83.237.169:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 208.83.237.169
-vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@207.246.97.154:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 207.246.97.154
 vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@149.28.242.31:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 149.28.242.31
 vless://143856fd-c47c-4901-b86b-987bbedd20c4@66.42.117.13:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 66.42.117.13
+vless://52c68cd9-5e34-4cd5-8345-e3746c5fd703@208.83.237.169:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 208.83.237.169
+vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@207.246.97.154:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 207.246.97.154
+vless://7197f7d0-0fd2-40d4-83ad-d2755a4f91b3@45.76.233.173:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 45.76.233.173
+vless://4bf96dd2-f451-4938-8fa4-1a2251290920@216.128.147.21:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 216.128.147.21
+vless://d35de3c2-6a41-496e-a4e1-b36bda1a8cac@137.220.61.251:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-VULTR ┇ 137.220.61.251
 vless://f7b2035d-5afe-4ff8-9dcd-9e34e49d2e4e@155.138.228.161:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 155.138.228.161
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.76.78.246:34045?type=tcp&security=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-VULTR ┇ 45.76.78.246
 vless://1aa36690-b2d2-4e1f-a5be-164bd0055b82@66.42.115.69:8080?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 66.42.115.69
@@ -478,4 +479,4 @@ vless://77f2d87d-c808-37d6-e70c-9aa442454eaa@173.199.122.162:443?type=grpc&secur
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@140.82.14.216:12345?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 140.82.14.216
 vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDEzOS44NC4yMzAuMjM1IiwiYWRkIjoic2ExLnZwbmphbnRpdC5jb20iLCJwb3J0IjoxMDAwMCwiaWQiOiIwNjRjMTIxOC00MjJmLTExZWQtODFmNC0wMDE2M2M2ZmVkNTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
 vmess://eyJ2IjoiMiIsInBzIjoiWkEgXHVkODNjXHVkZGZmXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVMtVlVMVFIgXHUyNTA3IDEzOS44NC4yMzEuMjQ0IiwiYWRkIjoiMTM5Ljg0LjIzMS4yNDQiLCJwb3J0Ijo4MCwiaWQiOiI4NWM0MDcxOS02ZTFmLTRkMWMtOWE2YS0yNDU4NmJkYWIyOTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MifQ
-trojan://z0xi0ao1-162r-6rgg-ua8z-x3ehilu33j2s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://wzov2yj8-4vd8-acnr-ec8o-wj645fw9m95r@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
