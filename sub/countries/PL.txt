@@ -1,7 +1,7 @@
-trojan://1kclynju-t583-vo16-fwpj-jsk0zxst0ovn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-09 | 21:27 ]
-trojan://1rg16beq-lycd-1nnv-j00v-q6di1h1o4sxt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c1zlka3o-blz2-cf8k-zxl4-46bkyqxeigs9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://b4yhbdvt-jeyv-53hb-7zfd-fhjtc7ye2vri@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9ekscegf-ehn6-t1wz-ubud-s3wwqbpqb1v0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-09 | 22:07 ]
+trojan://olzaffcu-xqoe-l5y1-4v6y-st3oz5c2e9pd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pqop4o28-8k66-nqd8-q1q8-bo22kpea199f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i6ra5h7m-2k13-ogh2-o4zz-9jxqcei4a8y1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@64.176.67.125:8313#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.67.125
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@64.176.72.194:8313#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.72.194
 trojan://VPSHU00R7U@free.starproxivpn.online:52607?security=tls#PL 🇵🇱 ┇ TROJAN-TCP-TLS - AS-VULTR ┇ 64.176.72.27
@@ -110,7 +110,7 @@ vless://36694a88-1fad-40f5-d449-519b3b6113d5@185.253.7.131:20738?type=tcp&securi
 vless://927d1370-2bfa-48e9-8d19-0d7724e44a88@91.198.166.34:27724?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - Podaon SIA ┇ 91.198.166.34
 vless://6ba20a61-9ca7-4f9e-ac38-95f63c888a95@212.162.155.15:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#PL 🇵🇱 ┇ VLESS-TCP-RLT - Podaon SIA ┇ 212.162.155.15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ@95.164.35.90:8388#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 95.164.35.90
-ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg@pl04.outline.abvpn.ru:47777#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 146.19.170.82
+ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg@146.19.170.82:47777#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 146.19.170.82
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbU9ENXgwOUt5Tk5KNlVTQ1ppUTRSdk4ybFNWUTZqekFFWW12clNMdFJac1NYNWdGNkNmY0VsdlVjdUxsblpE@94.131.96.213:29647#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 94.131.96.213
 trojan://e733ae52-7964-401b-8cc9-3cc2115d0040@95.164.35.208:443?security=tls#PL 🇵🇱 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.35.208
 trojan://vpn@2.56.125.113:2025?security=none#PL 🇵🇱 ┇ TROJAN-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 2.56.125.113
@@ -138,4 +138,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVT
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@185.238.74.193:443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-TLS - ZINET.NET.PL Sp. z.o.o. ┇ 185.238.74.193
 trojan://NihonBlade@jp1.netforce.pro:443?sni=discord.com&peer=discord.com&security=tls#PL 🇵🇱 ┇ TROJAN-TCP-TLS - home.pl S.A. ┇ 46.242.239.59
 vmess://eyJ2IjoiMiIsInBzIjoiUEwgXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBzcHJpbnQgUy5BLiBcdTI1MDcgMTg4LjY4LjI0MC4xNjAiLCJhZGQiOiJmcmVlaXJhbndlYjIwLmlwLWRkbnMuY29tIiwicG9ydCI6Mzg3MzcsImlkIjoiMWVhY2FkMGEtNTI4NC00ZTJkLWFkZTEtMThkYmVmZjgyZWY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJwYXRoIjoiQEFzdHJvVlBOX09mZmljaWFsJkBmcmVlaXJhbndlYiJ9
-trojan://v64sdkor-3mse-zive-sjiu-1xsjxaola6lg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://bd3p6jyw-7h89-kcw3-m1ni-ktgv6f8l9mq2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
