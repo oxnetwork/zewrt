@@ -1,7 +1,7 @@
-trojan://b1tod5yq-ot7v-u2qi-w4wz-vqhhts5rnpoz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-09 | 11:24 ]
-trojan://ur7d0d7y-jlub-g1lx-xmu5-eo8khgv8464w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gh9beao5-6ppo-ln8p-yn4w-9syf6ixndvyk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://86m3i4zt-43y0-kxcb-ncdu-due6xbg6j8af@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sifqgr3v-6w00-2ka6-co3a-kpcasqb22tuc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-09 | 12:07 ]
+trojan://y7ekx7gw-ldpk-2i1x-nzpj-q2wy59agih4e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5a0fpwbi-6n1x-rue4-nxpq-xja0amg1ix12@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://psh4o0gz-82oa-iw9o-qv6k-a0f68rmihjrz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@31.43.179.60:2053?sni=epmk.ambercc.filegear-sg.me&peer=epmk.ambercc.filegear-sg.me&security=tls#KZ 🇰🇿 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 31.43.179.60
 trojan://Aimer@31.43.179.27:443?sni=epmk.ambercc.filegear-sg.me&peer=epmk.ambercc.filegear-sg.me&security=tls#KZ 🇰🇿 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 31.43.179.27
 trojan://blue2024@185.176.26.193:443?sni=b.promote.icu&peer=b.promote.icu&security=tls#KZ 🇰🇿 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 185.176.26.193
@@ -15,7 +15,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.228:80?type=ws&security=n
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.176.26.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.176.26.63
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.59.5.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 194.59.5.63
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.176.26.78:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.176.26.78
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880?type=ws&security=none&path=/?ed=2560#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.176.26.20
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880?type=tcp&security=none#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 185.176.26.20
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.177:8880?type=ws&security=none&path=/TelegramрЯЗ®рЯЗ≥ @WangCai2 /?ed=2560&sni=ip.langmanshanxi.top#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.177
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.59.5.168:8880?type=ws&security=false&path=Telegram@WangCai2/?ed=2560&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 194.59.5.168
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.51:80?type=ws&security=false&path=/TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-FALSE - Cloudflare London, LLC ┇ 31.43.179.51
@@ -165,4 +165,4 @@ trojan://6332d0b6-d5c2-4afa-8170-3bfb5e181879@95.164.114.43:443?sni=kz-full.priv
 vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyA5NC4xMzEuMi45OCIsImFkZCI6Ijk0LjEzMS4yLjk4IiwicG9ydCI6MjA4MiwiaWQiOiIzZThiOWRlOC0zMzE5LTU1MDItODZmOC00YjY3ZTkzOTQxYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiJ2bWVzcy1ncnBjIiwic25pIjoid3d3LnNwZWVkdGVzdC5uZXQifQ
 vmess://eyJ2IjoiMiIsInBzIjoiS1ogXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgOTUuMTY0LjExNC40MiIsImFkZCI6Imt6LXYycmF5LmlwcmFjZXZwbi5jb20iLCJwb3J0Ijo4NDQzLCJpZCI6IjQ4YjEwYjAyLTJjNjAtNDMyMy1iYzY1LWExMWIxNTE0NDc0NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?type=tcp&security=reality&path=/&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 176.120.72.63
-trojan://3l1gnffi-2dgp-bvxm-n560-yxze694gjb1a@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://z0dcw0na-9fpt-k3pn-gqod-avvsomf0epsv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
