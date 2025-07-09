@@ -1,8 +1,8 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-10 01:11:25
+Timestamp: 2025-07-10 01:48:12
 Total Channels: 91
-Successful Scrapes: 64
-Failed Scrapes: 5
+Successful Scrapes: 67
+Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 azarbayjab1: 30 configs
@@ -15,6 +15,7 @@ freakconfig: 30 configs
 ghalagyann: 30 configs
 meli_proxyy: 30 configs
 sockss_http: 30 configs
+v2ray_configs_pool: 30 configs
 v2rayng_1378: 30 configs
 vmessorg: 30 configs
 ZibaNabz: 30 configs
@@ -30,8 +31,10 @@ evay_vpn: 22 configs
 itenvpn: 21 configs
 ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
+lexernet: 20 configs
 summertimeus: 20 configs
 capoit: 18 configs
+skivpn: 18 configs
 spikevpn: 18 configs
 vpnod: 18 configs
 WarV2Ray: 17 configs
@@ -39,15 +42,14 @@ arv2ray: 16 configs
 cybersoldiersst: 16 configs
 meliconfing: 16 configs
 PRIMESOBI: 16 configs
+mcv2rayng: 15 configs
 nufilter: 15 configs
 v2rayfast_7: 14 configs
 masterserver1: 13 configs
-skivpn: 13 configs
-DALTON_PING: 12 configs
-dalton_ping: 12 configs
 freev2rng: 12 configs
 PASARGAD_V2rayNG: 12 configs
-v2ray_configs_pool: 12 configs
+DALTON_PING: 11 configs
+dalton_ping: 11 configs
 vpnpacket: 11 configs
 v2ra_config: 11 configs
 freenet_melli: 11 configs
@@ -69,10 +71,6 @@ blueshekan: 3 configs
 mdvpnsec: 3 configs
 colsvpn: 2 configs
 ineronix: 2 configs
+isvvpn: 1 configs
 
 --- Failed Channels ---
-iMTProto
-isvvpn
-lexernet
-lightning6
-mcv2rayng

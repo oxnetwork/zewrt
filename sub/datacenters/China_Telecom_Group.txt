@@ -1,14 +1,14 @@
-trojan://p2n0qds5-r80y-i4in-visc-r12uhi0seehi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-10 | 01:22 ]
-trojan://npf68whw-s2vb-q4b5-3s55-y600zro2xy9n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zefjcsoo-e62q-y6u6-qysf-rztstjd4waru@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tm1yhohx-wkf6-nufl-riby-az7q4h235jka@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tvm2l5q3-atg2-bvi8-wwis-zdkpdcswnwlq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-10 | 02:00 ]
+trojan://c0ctj8nw-gib0-x0hk-oid0-a83zbx0z0ryj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rbkp4twu-nn4t-jymn-zfz7-cy0wbb3zeulk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zq8w8jst-xrfd-f96i-acab-btkptpw0tjkq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@103.216.253.197:40005#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Telecom Group ┇ 103.216.253.197
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMTkwZTI1Ni1kY2U5LTRiMGItODRlMC00Zjg0MWI1NGEzN2E@116.63.103.11:45240#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Telecom Group ┇ 116.63.103.11
 ss://YWVzLTEyOC1nY206SUd6QndzYlMxVQ@203.156.198.89:25339#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - China Telecom Group ┇ 203.156.198.89
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.12:39001?sni=www.yrtok.com&peer=www.yrtok.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 203.156.253.12
 trojan://85f133142f04dbf6547da33895cfabb3@203.156.253.11:39001?sni=www.yrtok.com&peer=www.yrtok.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 203.156.253.11
-trojan://d0cfea6c-2052-4add-aef5-501a4714d2f8@lbso.bnnodeservice.com:32016?sni=cert.bitbyte.one&peer=cert.bitbyte.one&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 113.31.100.78
 trojan://de4a493f-5fd9-46e7-bde2-46b9cc3a6d9b@103.6.220.71:21042?sni=k3.tudou211.com&peer=k3.tudou211.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 103.6.220.71
+trojan://d0cfea6c-2052-4add-aef5-501a4714d2f8@lbso.bnnodeservice.com:32016?sni=cert.bitbyte.one&peer=cert.bitbyte.one&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 113.31.100.81
 trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@116.192.171.97:8443?sni=66.42.40.132&peer=66.42.40.132&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 116.192.171.97
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@180.156.156.194:65017?sni=jp07a.roc-taiwan.org.ua&peer=jp07a.roc-taiwan.org.ua&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 180.156.156.194
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@116.192.165.13:8443?sni=official.taipeicitygovernment.chernovtsy.ua&peer=official.taipeicitygovernment.chernovtsy.ua&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - China Telecom Group ┇ 116.192.165.13
@@ -40,4 +40,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmEgVGVsZWNvbSBHcm91cCBcdTI1MDcgNTguMzIuMTYuMjMiLCJhZGQiOiI1OC4zMi4xNi4yMyIsInBvcnQiOjgwLCJpZCI6IjU0YzA4NThiLWRjMTEtNDg1Mi1mMTY3LTY0ZjU4YTFkOTNhNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDaGluYSBUZWxlY29tIEdyb3VwIFx1MjUwNyA1OC4zMi45OC4xMiIsImFkZCI6IjU4LjMyLjk4LjEyIiwicG9ydCI6MjA1MywiaWQiOiJlZjA4ODc5ZC0wMjliLTRlYWMtYzk3OC1hNmM5OTU1YzQ1OTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJzMTEuc2hhaHJpdmFyLnNob3AiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InMxMS5zaGFocml2YXIuc2hvcCJ9
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@103.44.255.81:443?type=ws&security=tls&path=/?ed=2560&sni=re1.ylks0033.dpdns.org#CN 🇨🇳 ┇ VLESS-WS-TLS - China Telecom Group ┇ 103.44.255.81
-trojan://mc4yzl1m-3352-it5t-56kk-uceqcrqfwkj4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://dkm0tj3k-us4g-yfia-5dhh-mujpx423p2t0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
