@@ -1,7 +1,7 @@
-trojan://7wgyshku-7ch4-w945-ip7d-0ybulcfcxrk5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-09 | 11:00 ]
-trojan://0hvafa3p-81vb-0x80-38lq-uq8gy0yv5ove@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dk13r25r-kf86-bldu-eps1-hvy41etfbixt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://clg99ida-oa50-2xs1-okmw-d7qlu2uxmgvo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1278viae-tnho-r63i-3e0k-e4s7ciwwirzw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-09 | 11:24 ]
+trojan://3jb3ymq7-3ukv-kvzm-gg3q-iqxc8o4w8od8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l4khi2ox-v8fj-zvra-8tlw-i20tc496rjjb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://s5pmkf5p-9tkc-y9k5-iew6-u6qt25936ml4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678?type=tcp&security=tls&sni=swdist.apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#IE 🇮🇪 ┇ VLESS-TCP-TLS - AS-COLOCROSSING ┇ 192.210.183.136
 vless://3d2061d3-73b1-4a09-a878-2e4a196ef320@107.175.59.147:52012?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=a9uk_ZJLsVC_MY4CIa-d1aP5bagweyHUPR6O932-dC8&sid=24b05fcf3723e6af#IE 🇮🇪 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.175.59.147
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFTLUNPTE9DUk9TU0lORyBcdTI1MDcgMjMuOTQuMTIwLjE5IiwiYWRkIjoiMjMuOTQuMTIwLjE5IiwicG9ydCI6Mjg1NTQsImlkIjoiNGE0Yzk2YzUtN2I4Yi00NjEyLWM3MTUtNmI5MWE5YzM0ZDA3IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
@@ -111,7 +111,7 @@ vless://68784c05-f074-44f0-9037-28a9bdb87810@45.95.186.159:50002?type=ws&securit
 vless://49dc19c3-e447-4422-9a54-35af28207a6e@45.95.186.48:50004?type=ws&security=tls&path=/?ed=2560&sni=mihu.sorry.ip-ddns.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 45.95.186.48
 vless://5653a924-8b8d-4073-97ee-8acbe3591ed7@104.168.9.118:32529?type=ws&security=tls&path=/?ed=2560&sni=mot.majusti.dpdns.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 104.168.9.118
 vless://74b56295-1845-4b22-b9a7-85b733218451@45.95.186.44:50004?type=ws&security=tls&path=/?ed=2560&sni=etc.mesa.ip-ddns.com&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 45.95.186.44
-vless://b950af3a-5154-452e-8dea-744123b3f8df@172.245.208.130:3389?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-COLOCROSSING ┇ 172.245.208.130
+vless://b950af3a-5154-452e-8dea-744123b3f8df@172.245.208.130:3389?type=xhttp&security=none&path=/#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AS-COLOCROSSING ┇ 172.245.208.130
 vless://55520747-311e-4015-83ce-be46e2060ce3@23.94.208.154:53485?type=ws&security=none&sni=cl.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-COLOCROSSING ┇ 23.94.208.154
 vless://819664e1-26f2-49db-8025-b18adee8fd2c@107.172.157.148:30944?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-COLOCROSSING ┇ 107.172.157.148
 vless://9410f23e-84b3-4c66-cc06-b018c855a27a@172.245.156.147:14681?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-COLOCROSSING ┇ 172.245.156.147
@@ -128,4 +128,4 @@ vless://f1be85f0-0a86-3840-aa3d-c4301fbfffb7@23.95.190.183:7999?type=tcp&securit
 vless://a31662df-9ef2-43f9-981f-6cb2d0341c17@107.173.37.43:56701?type=tcp&security=reality&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.173.37.43
 vless://d0cf4930-7dbf-4607-b930-dc05eda72901@23.94.48.229:6326?type=tcp&security=reality&sni=www.pcmag.com&fp=chrome&flow=xtls-rprx-vision&pbk=C5Ot4nQBJMxk2DKCe3JTSqcithC9IHVSnixotp4VUVk#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 23.94.48.229
 vless://e8cfc69c-f9a4-40ed-b48d-d5da257f5c7c@107.172.57.21:443?type=tcp&security=reality&sni=osxapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=f12r3TyZUUckM-XWQ7w63kcF19eZVvWdgZqqk4ry3Ss&sid=5b6fd34e#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.172.57.21
-trojan://atk6ooxf-a2hy-k0ky-gp32-shtklxmsfz8j@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://40byl2zu-ujxd-n0bt-fmru-arnk3r5fxilt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
