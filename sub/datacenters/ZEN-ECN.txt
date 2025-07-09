@@ -1,7 +1,7 @@
-trojan://vp5wiod6-irvz-dm57-35wu-7gg6i8j52li1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-09 | 22:07 ]
-trojan://7hgnbygg-keoa-0fgo-b0g1-rzilees0nzrd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nm9bj0hh-fbly-idku-qoqg-gswgcb2xggud@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mhchlwhy-mcay-4fb7-gme3-0j96jauc4pnh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://g0khcguq-u6ac-7lae-qyni-s6vqqkdnrk5b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-09 | 22:34 ]
+trojan://9lygkn9m-r6j3-n4a2-jfsl-81g8laq90kn3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gi92642g-51y0-uwpz-z6ru-rngxt4eejrxo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i0zvf4at-entl-eae6-yx9e-xkqadgk6kaao@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WmprMk0yWmpOVFJoWm1Zd1pEbGlNelZrT0RFeE5qZzJaamRtWlROaFlqST06TUdWaFpEUXdaVFl0TWpJd1pTMDBNV1ZtTFdJNFltSXRZamN6WldKbU5UWT0@uk.xn--mes91t7ofgnw.com:8085#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 151.243.101.13
 trojan://sDfpt6C0Xg@181.215.205.41:9090?security=none#AE 🇦🇪 ┇ TROJAN-TCP-NTLS - ZEN-ECN ┇ 181.215.205.41
 vless://7996d412-0b2a-4533-bba1-f7531861f1ec@85.237.211.219:8443?type=ws&security=tls&path=/vless/&sni=ul-uae2.09vpn.com#AE 🇦🇪 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 85.237.211.219
@@ -24,7 +24,8 @@ vless://fe422413-ef38-4455-8afa-0128e08e8e4e@45.40.59.248:443?type=ws&security=t
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.227.139.137:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 129.227.139.137
 vless://b41f3d0c-3e2f-4f57-9995-c6bdf2b3204d@156.59.125.66:443?type=ws&security=none&sni=hk.mehun.me#HK 🇭🇰 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 156.59.125.66
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaRU4tRUNOIFx1MjUwNyAxMjkuMjI3LjIwMS4yMzQiLCJhZGQiOiIxMjkuMjI3LjIwMS4yMzQiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJhaWNvbzZkdS5jb20iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoiYWljb282ZHUuY29tIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gWkVOLUVDTiBcdTI1MDcgOTguOTguMjUzLjM0IiwiYWRkIjoid2ViLjUxLmxhIiwicG9ydCI6NDQzLCJpZCI6ImUwYzZiM2I3LTlmNWItNGJkNi05YWJmLTI2MDY2M2FhNGYxYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImhvc3QiOiJ3ZWIuNTEubGEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3ZWIuNTEubGEifQ
+vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gWkVOLUVDTiBcdTI1MDcgOTguOTguMjUzLjM5IiwiYWRkIjoid3d3Lmdvdi5oayIsInBvcnQiOjgwLCJpZCI6ImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FyaWVzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gWkVOLUVDTiBcdTI1MDcgOTguOTguMjUzLjM1IiwiYWRkIjoid2ViLjUxLmxhIiwicG9ydCI6NDQzLCJpZCI6ImUwYzZiM2I3LTlmNWItNGJkNi05YWJmLTI2MDY2M2FhNGYxYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImhvc3QiOiJ3ZWIuNTEubGEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3ZWIuNTEubGEifQ
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.11:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 107.155.57.11
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 23.251.121.242
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-ECN ┇ 107.151.182.253
@@ -34,4 +35,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaRU4tRUNOIFx1MjUwNyA0NS4zOS43MC4xODAiLCJhZGQiOiI0NS4zOS43MC4xODAiLCJwb3J0Ijo0NDMsImlkIjoiYzJlN2EwYzYtNjAzNC00OWMyLThlMjUtNGFhNTkyYWZkNzE5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpZGMua21vbGprbGoudG9wIiwicGF0aCI6Ii85aXF2eTRhMGJaIiwidGxzIjoidGxzIiwic25pIjoiaWRjLmttb2xqa2xqLnRvcCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFpFTi1FQ04gXHUyNTA3IDEwNy4xNDguMTYyLjE1NCIsImFkZCI6IjEwNy4xNDguMTYyLjE1NCIsInBvcnQiOjQ0MywiaWQiOiI3YmUyMjE5Zi03YWM3LTRjYWQtZjQ1Zi00YzhmZWY4MTM2NTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZWlzYXNxYSJ9
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@128.14.140.2:55555?type=ws&security=none&sni=nl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 128.14.140.2
-trojan://kt9pomfo-cpnf-5c7o-m4du-jiw000cuivbe@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://5fchsw6o-duwo-61ua-091r-yjp8q376v4n6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
