@@ -1,7 +1,7 @@
-trojan://adxkozjr-9a19-ebd2-w42z-hm4dtm75te2o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-10 | 18:01 ]
-trojan://k5s51q11-ur49-3ky4-baxg-vxxui3i52s14@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0qf2uxjp-jvfq-7wjq-zcsj-04yivmw3xjjo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1y7k9ade-uuht-78sm-2g9r-lig9841q31g6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://abhn5hap-6ru3-15wx-zyfy-ve9w8dz7mv24@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-10 | 18:29 ]
+trojan://et8hqx2i-pjge-s3dg-64i5-e65v0o252d62@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hax3n6tm-3woe-94l6-9cwl-ya1qskmng1x8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://398gt6f8-pse9-vlxg-wz0s-4jb24bmb6c3o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.94.86.123:80?type=ws&security=none&sni=a.ssll.gay#CA 🇨🇦 ┇ VLESS-WS-NTLS ┇ 64.94.86.123
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0N0dIM3dRUnc3VjRaaGQzNWJGcw@184.75.208.234:8389#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - AMANAHA-NEW ┇ 184.75.208.234
 ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOQ@3.99.152.11:50000#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.99.152.11
@@ -10,6 +10,7 @@ trojan://telegram-id-directvpn@35.182.251.60:22222?sni=trj.rollingnext.co.uk&pee
 trojan://telegram-id-directvpn@35.182.28.167:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.182.28.167
 trojan://telegram-id-directvpn@3.96.217.9:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.96.217.9
 trojan://3747000103274291200@15.156.168.85:443?sni=dynamic-liger.adder289.quest&peer=dynamic-liger.adder289.quest&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.156.168.85
+trojan://telegram-id-directvpn@52.60.188.90:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.60.188.90
 trojan://telegram-id-directvpn@15.223.8.202:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.223.8.202
 trojan://telegram-id-directvpn@15.156.135.102:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.156.135.102
 trojan://telegram-id-directvpn@15.157.33.104:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.157.33.104
@@ -205,8 +206,8 @@ vless://e9d7bc83-a7e7-4897-aafd-3d5531a98181@172.105.25.227:15143?type=grpc&secu
 vless://s9t97bl85-8fky16-69bu3a-9c4f-1d595f9bbr88@142.232.227.65:3036?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - BCIT ┇ 142.232.227.65
 ss://YWVzLTI1Ni1nY206WlBWUFlQUklGOFNYUU9JMA@46.16.129.217:20022#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 46.16.129.217
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCcmFpblN0b3JtIE5ldHdvcmssIEluYyBcdTI1MDcgMTg1LjE5Ni42MS42MiIsImFkZCI6IjE4NS4xOTYuNjEuNjIiLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiY2F0by0xLnRyb2xsZnVubnkubmV0IiwidGxzIjoidGxzIiwic25pIjoiY2F0by0xLnRyb2xsZnVubnkubmV0In0
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@shopify.com:443?sni=sk.ylka.dpdns.org&peer=sk.ylka.dpdns.org&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 23.227.38.33
 trojan://bpb-trojan@23.227.60.8:443?security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 23.227.60.8
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@shopify.com:443?sni=sk.ylka.dpdns.org&peer=sk.ylka.dpdns.org&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 23.227.38.33
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?sni=bPB-V.pageS.dEV&peer=bPB-V.pageS.dEV&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 23.227.38.208
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-statutes-wanted-logo.trycloudflare.com&peer=syndication-statutes-wanted-logo.trycloudflare.com&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 23.227.38.11
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@23.227.38.108:443?sni=sg1.pqjc.buzz&peer=sg1.pqjc.buzz&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 23.227.38.108
@@ -252,6 +253,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVT
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ0xPVURGTEFSRU5FVCBcdTI1MDcgMjMuMjI3LjM4LjUiLCJhZGQiOiIyMy4yMjcuMzguNSIsInBvcnQiOjIwODYsImlkIjoiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpcDAwNi5mcmVlZ3JhZGVseS54eXoiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJzbmkiOiJpcDAwNi5mcmVlZ3JhZGVseS54eXoifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ0xPVURGTEFSRU5FVCBcdTI1MDcgMjMuMjI3LjM4LjYiLCJhZGQiOiIyMy4yMjcuMzguNiIsInBvcnQiOjIwODYsImlkIjoiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpcDAwNi4zMTk2NzcyLnh5eiIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSIsInNuaSI6ImlwMDA2LjMxOTY3NzIueHl6In0
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDTE9VREZMQVJFTkVUIFx1MjUwNyAyMy4yMjcuNjAuNTUiLCJhZGQiOiIyMy4yMjcuNjAuNTUiLCJwb3J0Ijo0NDMsImlkIjoiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZnJlZWlyYW5kb20xLmJhaGFkYW5nZWw2LndvcmtlcnMuZGV2IiwicGF0aCI6Ii83Ny52MnJheTEueHl6L0EyREpPUEZUIiwidGxzIjoidGxzIiwic25pIjoiZnJlZWlyYW5kb20xLmJhaGFkYW5nZWw2LndvcmtlcnMuZGV2In0
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@23.227.60.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#CA 🇨🇦 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 23.227.60.247
 vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@23.227.39.154:2053?type=ws&security=tls&path=/wss37193&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com#CA 🇨🇦 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 23.227.39.154
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@23.227.60.254:8880?type=ws&security=none&path=/Telegram🇨🇳#CA 🇨🇦 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 23.227.60.254
 vless://d96ddab8-306d-4a6b-86d9-d8e427316075@23.227.60.231:443?type=ws&security=tls&path=/?ed=2048&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&fp=chrome#CA 🇨🇦 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 23.227.60.231
@@ -259,7 +261,6 @@ vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?type=ws&security=
 vless://b2b7f2fd-58af-46c3-aa31-b00a32e3c781@23.227.38.0:443?type=ws&security=tls&path=/pq/us1&sni=us1_pq_user_vip_api.xn--ghqu5fm27b67w.com&fp=chrome#CA 🇨🇦 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 23.227.38.0
 vless://3fefc100-faed-43ad-b087-d47ddfe75121@23.227.60.7:443?type=ws&security=tls&path=Path/Telegram@proxy_mtm/?ed=2048&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev#CA 🇨🇦 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 23.227.60.7
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@23.227.60.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#CA 🇨🇦 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 23.227.60.251
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@23.227.60.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#CA 🇨🇦 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 23.227.60.247
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@23.227.38.9:443?type=ws&security=tls&path=t.me/sinavm=@sinavm&sni=show.wfft.ir&fp=random#CA 🇨🇦 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 23.227.38.9
 vless://fa80408d-f7ce-4c96-ac0b-6c1b791b5b69@23.227.39.179:2053?type=ws&security=tls&path=/@n2vpn&sni=n2vpn.projectis.ir&fp=chrome#CA 🇨🇦 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 23.227.39.179
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&security=tls&path=/&sni=joinchannel.jokerv2ray.store&fp=firefox#CA 🇨🇦 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 23.227.60.12
@@ -419,8 +420,8 @@ ss://YWVzLTI1Ni1nY206ekhLWVM5RGVBanZ2NDNFd2dEZnlFZzRk@37.19.211.120:44102#CA �
 ss://YWVzLTI1Ni1nY206d0p3WGF0QUdaOHhYNUs4QzdtcnVmODR4@37.19.211.113:31216#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 37.19.211.113
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@64.68.192.77:443?sni=hdfy8c1.foriran.me&peer=hdfy8c1.foriran.me&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - EDNS ┇ 64.68.192.77
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBFRE5TIFx1MjUwNyA2NC42OC4xOTIuMjEyIiwiYWRkIjoiNjQuNjguMTkyLjIxMiIsInBvcnQiOjQ0MywiaWQiOiJkMzk5MDAyMC00ZDkwLTRkMWEtYmQ2Yi02MWQ1MDZmZjcwMzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9ncmFwaHFsIiwidGxzIjoidGxzIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESECUREDATA ┇ 162.221.207.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SkVKcFFITlRaU2MxYXV6VmsyV3Mz@162.221.207.62:8443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESECUREDATA ┇ 162.221.207.62
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@162.221.207.189:8443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESECUREDATA ┇ 162.221.207.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQkx3NHJMWFE2ZWJ4cFd3U0tETA@71.19.249.109:8389#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESECUREDATA ┇ 71.19.249.109
 ss://YWVzLTI1Ni1nY206YzNiYzgxZWQtMzlhNC00NDc4LTg2MGQtZTYyZGI4M2VhNDBh@74.3.163.117:34386#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - ESECUREDATA ┇ 74.3.163.117
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBFU0VDVVJFREFUQSBcdTI1MDcgNzEuMTkuMjQ4LjE2MCIsImFkZCI6IjcxLjE5LjI0OC4xNjAiLCJwb3J0Ijo0NDMsImlkIjoiM2QxNzNmMGEtMTM4Yi00YmFmLTllYzYtNDg0ODI0M2UwYTEyIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImR0bHMiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwidGxzIjoidGxzIn0
@@ -630,8 +631,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVT
 vless://74b56295-1845-4b22-b9a7-85b733218451@91.194.11.78:81?type=ws&security=tls&path=/?ed=2560&sni=etc.mesa.ip-ddns.com&fp=random#CA 🇨🇦 ┇ VLESS-WS-TLS - TANGRAM-CANADA-INC ┇ 91.194.11.78
 vless://b8b3d422-d5bc-5782-a792-1c6aa18b1453@146.19.106.10:2052?type=ws&security=none&path=/vless#@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL,@V2RAY\_SPATIAL#CA 🇨🇦 ┇ VLESS-WS-NTLS - TANGRAM-CANADA-INC ┇ 146.19.106.10
 trojan://p5T9x5WrfZ@99.199.73.53:46780?security=none#CA 🇨🇦 ┇ TROJAN-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
-vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuNzMuMjgiLCJhZGQiOiJwcm9kMi1maC1jbG91ZC1oeWJyaWQwMS12bXQwMS5jeWJlcnNjYWxlci5jb20iLCJwb3J0IjozNzMzMywiaWQiOiJmZDA2YTFkZC0yY2Y4LTQ3M2MtZmI4Ni04MDYzZjBjYWY4MTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuNzMuMjgiLCJhZGQiOiJwcm9kMi1maC1jbG91ZC1oeWJyaWQwMS12bXQwMS5jeWJlcnNjYWxlci5jb20iLCJwb3J0IjozNzMzMywiaWQiOiIyZjE2NWFjMy01NzNmLTQzNjEtYjdmMi02YzJkNGRjMzYwNDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuODMuNDgiLCJhZGQiOiI5OS4xOTkuODMuNDgiLCJwb3J0IjozMzY3OCwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.57:23877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.57
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVGVhbSBJbnRlcm5ldCBBRyBcdTI1MDcgMTA0LjI0Ny44MS41MiIsImFkZCI6InYyLmx1IiwicG9ydCI6NDQzLCJpZCI6IjQ3NTMwMzNhLTM3NzktNDQ1OS1hZGY3LTg4OTcwMTkwYzkwYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
-trojan://6mrzbdeo-ssfn-yytp-rqld-fia4htn44dgs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://2t25ylgx-lzky-d5xg-cjlu-85efgrc26471@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
