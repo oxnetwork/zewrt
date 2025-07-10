@@ -1,7 +1,7 @@
-trojan://3fu8j7i8-pnpr-jh4h-rum9-52mzpd44a157@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-10 | 14:58 ]
-trojan://aozjow2g-584w-6jax-hlt6-fq27gtgd15ge@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://464dtiqt-9yov-5wfg-m75x-3nyheas6la4e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ycv4ads3-7uau-4apb-dvar-9l6oqpbmzdok@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5n97r1tg-83ia-zho0-176y-2allj9wg4hs8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-10 | 15:21 ]
+trojan://xod38oec-9y9k-umfu-u8fu-l2o0vt1ifirg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l0i0yqvi-nuep-mfvg-wr3w-a2excjpwtoem@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://o2xuxaoq-t8rr-yaiv-t8v5-9mlqhc2n4db8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@192.0.54.7:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Q2HOLDINGS ┇ 192.0.54.7
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Q2HOLDINGS ┇ 192.0.54.184
 trojan://Aimer@192.0.54.221:2083?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Q2HOLDINGS ┇ 192.0.54.221
@@ -46,6 +46,7 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@192.0.54.177:8880?type=ws&security=
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@192.0.54.235:443?type=ws&security=tls&path=/&sni=mmdserver.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - Q2HOLDINGS ┇ 192.0.54.235
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@192.0.54.247:8880?type=ws&security=none&path=/Telegram&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.247
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.0.54.29:8880?type=ws&security=none&path=/Telegram&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.29
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@192.0.54.35:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.35
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@192.0.54.3:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.3
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.54.74:443?type=ws&security=none&sni=sl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.74
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.0.54.75:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - Q2HOLDINGS ┇ 192.0.54.75
@@ -56,10 +57,11 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@192.0.63.177:8880?type=ws&security=
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.63.211:443?type=ws&security=none&sni=nn.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.211
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@192.0.63.247:8880?type=ws&security=none&path=/Telegram&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.247
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.63.29:443?type=ws&security=none&sni=sl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.29
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@192.0.63.35:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.35
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@192.0.63.3:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.3
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@192.0.63.72:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=vb.zhuk.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - Q2HOLDINGS ┇ 192.0.63.72
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@192.0.63.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.77
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@192.0.63.78:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.78
 vless://f943ace2-4628-4022-9bdf-1db25e437e8d@192.0.63.81:443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.81
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.0.63.96:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - Q2HOLDINGS ┇ 192.0.63.96
-trojan://9njz74hv-x0y0-no12-way9-g40mqpc66bbs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://442se39d-riqi-nwnr-o6gu-x18vch2wqa8f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
