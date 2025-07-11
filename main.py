@@ -1,3 +1,17 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# ==============================================================================
+#                      V2Ray Configuration Collector
+#
+#               Author: PlanAsli (Enhanced by @oxnet_ir & Gemini)
+#               Version: 5.0.0 (Hysteria2/TUIC, Randomized Split, Top5)
+#
+# ==============================================================================
+#   RUN THIS COMMAND TO INSTALL LIBRARIES:
+#   pip install httpx[http2] beautifulsoup4 pydantic jdatetime aiofiles geoip2 rich
+# ==============================================================================
+
 import os
 import asyncio
 import json
@@ -48,6 +62,7 @@ class AppConfig:
         "subscribe": OUTPUT_DIR / "subscribe",
         "countries": OUTPUT_DIR / "countries",
         "datacenters": OUTPUT_DIR / "datacenters",
+        "top5": OUTPUT_DIR / "Top5",
     }
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
@@ -81,7 +96,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v5.1.0"
+    DEV_SIGNATURE = "</> Collector v5.0.0"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -100,7 +115,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '�🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '�🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -226,6 +241,31 @@ class ShadowsocksConfig(BaseConfig):
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"ss://{encoded_user_info}@{self.host}:{self.port}{remarks_encoded}"
 
+class Hysteria2Config(BaseConfig):
+    protocol: str = 'hysteria2'
+    insecure: Optional[int] = None
+    obfs: Optional[str] = None
+    obfs_password: Optional[str] = Field(None, alias='obfs-password')
+
+    def to_uri(self) -> str:
+        params = {'sni': self.sni, 'insecure': self.insecure, 'obfs': self.obfs, 'obfs-password': self.obfs_password}
+        query_string = '&'.join([f"{k}={v}" for k, v in params.items() if v is not None])
+        remarks_encoded = f"#{unquote(self.remarks)}"
+        return f"hysteria2://{self.uuid}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
+
+class TuicConfig(BaseConfig):
+    protocol: str = 'tuic'
+    password: str
+    congestion_control: Optional[str] = Field('bbr', alias='congestion_control')
+    udp_relay_mode: Optional[str] = Field('native', alias='udp_relay_mode')
+    alpn: Optional[str] = None
+
+    def to_uri(self) -> str:
+        params = {'sni': self.sni, 'congestion_control': self.congestion_control, 'udp_relay_mode': self.udp_relay_mode, 'alpn': self.alpn}
+        query_string = '&'.join([f"{k}={v}" for k, v in params.items() if v is not None])
+        remarks_encoded = f"#{unquote(self.remarks)}"
+        return f"tuic://{self.uuid}:{self.password}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
+
 class AsyncHttpClient:
     _client: Optional[httpx.AsyncClient] = None
 
@@ -267,6 +307,8 @@ class V2RayParser:
             elif uri.startswith("vless://"): parsed_config = V2RayParser._parse_vless(uri)
             elif uri.startswith("trojan://"): parsed_config = V2RayParser._parse_trojan(uri)
             elif uri.startswith("ss://"): parsed_config = V2RayParser._parse_shadowsocks(uri)
+            elif uri.startswith("hy2://") or uri.startswith("hysteria2://"): parsed_config = V2RayParser._parse_hysteria2(uri)
+            elif uri.startswith("tuic://"): parsed_config = V2RayParser._parse_tuic(uri)
 
             if parsed_config:
                 parsed_config.source_type = source_type
@@ -340,16 +382,73 @@ class V2RayParser:
             return ShadowsocksConfig(host=host, port=int(port_str), remarks=remarks, method=method, password=password)
         except Exception as e:
             raise ParsingError(f"Could not parse Shadowsocks link: {uri[:60]}") from e
+            
+    @staticmethod
+    def _parse_hysteria2(uri: str) -> Optional[Hysteria2Config]:
+        try:
+            uri = uri.replace("hy2://", "hysteria2://")
+            parsed_url = urlparse(uri)
+            if not parsed_url.hostname or not parsed_url.port:
+                raise ParsingError("Missing hostname or port in Hysteria2 URI.")
+            
+            params = parse_qs(parsed_url.query)
+            return Hysteria2Config(
+                uuid=parsed_url.username or '',
+                host=parsed_url.hostname,
+                port=parsed_url.port,
+                remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{parsed_url.port}",
+                sni=params.get('sni', [None])[0],
+                insecure=int(params.get('insecure', [0])[0]),
+                obfs=params.get('obfs', [None])[0],
+                obfs_password=params.get('obfs-password', [None])[0],
+            )
+        except (ValueError, TypeError, AttributeError) as e:
+            raise ParsingError(f"Could not parse Hysteria2 link correctly: {uri[:60]}") from e
+
+    @staticmethod
+    def _parse_tuic(uri: str) -> Optional[TuicConfig]:
+        try:
+            parsed_url = urlparse(uri)
+            if not parsed_url.hostname or not parsed_url.port or not parsed_url.username or not parsed_url.password:
+                raise ParsingError("Missing essential parts in TUIC URI.")
+            
+            params = parse_qs(parsed_url.query)
+            return TuicConfig(
+                uuid=parsed_url.username,
+                password=parsed_url.password,
+                host=parsed_url.hostname,
+                port=parsed_url.port,
+                remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{parsed_url.port}",
+                sni=params.get('sni', [None])[0],
+                congestion_control=params.get('congestion_control', ['bbr'])[0],
+                udp_relay_mode=params.get('udp_relay_mode', ['native'])[0],
+                alpn=params.get('alpn', [None])[0],
+            )
+        except (ValueError, TypeError, AttributeError) as e:
+            raise ParsingError(f"Could not parse TUIC link correctly: {uri[:60]}") from e
 
 class RawConfigCollector:
-    PATTERNS = {"ss": r"(?<![\w-])(ss://[^\s<>#]+)", "trojan": r"(?<![\w-])(trojan://[^\s<>#]+)", "vmess": r"(?<![\w-])(vmess://[^\s<>#]+)", "vless": r"(?<![\w-])(vless://(?:(?!=reality)[^\s<>#])+(?=[\s<>#]))", "reality": r"(?<![\w-])(vless://[^\s<>#]+?security=reality[^\s<>#]*)"}
+    PATTERNS = {
+        "ss": r"(?<![\w-])(ss://[^\s<>#]+)", 
+        "trojan": r"(?<![\w-])(trojan://[^\s<>#]+)", 
+        "vmess": r"(?<![\w-])(vmess://[^\s<>#]+)", 
+        "vless": r"(?<![\w-])(vless://(?:(?!=reality)[^\s<>#])+(?=[\s<>#]))", 
+        "reality": r"(?<![\w-])(vless://[^\s<>#]+?security=reality[^\s<>#]*)",
+        "hysteria2": r"(?<![\w-])((?:hy2|hysteria2)://[^\s<>#]+)",
+        "tuic": r"(?<![\w-])(tuic://[^\s<>#]+)"
+    }
 
     @classmethod
     def find_all(cls, text_content: str) -> Dict[str, List[str]]:
         all_matches = {}
         for name, pattern in cls.PATTERNS.items():
             matches = re.findall(pattern, text_content, re.IGNORECASE)
-            cleaned_matches = [re.sub(r"#[^#]*$", "", m) for m in matches if "…" not in m]
+            # For hysteria2, the pattern captures a group, so we handle it
+            if name == 'hysteria2':
+                cleaned_matches = [re.sub(r"#[^#]*$", "", m[0]) for m in matches if "…" not in m[0]]
+            else:
+                cleaned_matches = [re.sub(r"#[^#]*$", "", m) for m in matches if "…" not in m]
+
             if cleaned_matches:
                 all_matches[name] = cleaned_matches
         return all_matches
@@ -635,8 +734,10 @@ class ConfigProcessor:
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: item[1].ping if item[1].ping is not None else 9999))
         else:
-            self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: (item[1].country, item[1].asn_org or "")))
-
+            # Shuffle the list before sorting by country to randomize within each country group
+            temp_list = list(self.parsed_configs.values())
+            random.shuffle(temp_list)
+            self.parsed_configs = {cfg.get_deduplication_key(): cfg for cfg in sorted(temp_list, key=lambda item: (item.country, item.asn_org or ""))}
 
     async def _resolve_geo_info(self):
         unique_hosts = list({c.host for c in self.parsed_configs.values()})
@@ -713,11 +814,11 @@ class ConfigProcessor:
 
     def _format_config_remarks(self):
         for config in self.parsed_configs.values():
-            proto_full_map = {'vmess': 'VMESS', 'vless': 'VLESS', 'trojan': 'TROJAN', 'shadowsocks': 'SHADOWSOCKS'}
+            proto_full_map = {'vmess': 'VMESS', 'vless': 'VLESS', 'trojan': 'TROJAN', 'shadowsocks': 'SHADOWSOCKS', 'hysteria2': 'HYSTERIA2', 'tuic': 'TUIC'}
             proto_full = proto_full_map.get(config.protocol, 'CFG')
 
             sec = 'RLT' if config.source_type == 'reality' else (config.security.upper() if config.security != 'none' else 'NTLS')
-            net = config.network.upper()
+            net = config.network.upper() if config.network else 'N/A'
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
             ip_address = Geolocation._ip_cache.get(config.host, "N/A")
             
@@ -768,7 +869,7 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v27.1.0[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v5.0.0[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -822,6 +923,10 @@ class V2RayCollectorApp:
 
     async def _save_results(self, all_configs: List[BaseConfig], categories: Dict[str, Any]):
         console.log("Saving categorized configurations...")
+        
+        # Shuffle configs for random mixed files
+        random.shuffle(all_configs)
+
         save_tasks: List[Coroutine] = []
         save_tasks.append(self.file_manager.write_configs_to_file(self.config.DIRS["subscribe"] / "base64.txt", all_configs))
         save_tasks.append(self.file_manager.write_configs_to_file(self.config.OUTPUT_DIR / "all_configs.txt", all_configs, base64_encode=False))
@@ -830,7 +935,7 @@ class V2RayCollectorApp:
             for item_name, configs in cat_items.items():
                 if configs:
                     sanitized_name = self._sanitize_filename(str(item_name))
-                    if not sanitized_name: continue # Skip if name is empty after sanitization
+                    if not sanitized_name: continue
                     path = self.config.DIRS[cat_name] / f"{sanitized_name}.txt"
                     save_tasks.append(self.file_manager.write_configs_to_file(path, configs, base64_encode=False))
             
@@ -839,7 +944,20 @@ class V2RayCollectorApp:
             for i, chunk in enumerate([all_configs[i:i + chunk_size] for i in range(0, len(all_configs), chunk_size)]):
                 path = self.config.DIRS["splitted"] / f"mixed_{i+1}.txt"
                 save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
-            
+        
+        # Create Top5 per protocol file
+        top5_configs = []
+        for protocol, configs in categories["protocols"].items():
+            if len(configs) > 5:
+                top5_configs.extend(random.sample(configs, 5))
+            else:
+                top5_configs.extend(configs)
+        
+        if top5_configs:
+            random.shuffle(top5_configs)
+            path = self.config.DIRS["top5"] / "Top5_per_protocol.txt"
+            save_tasks.append(self.file_manager.write_configs_to_file(path, top5_configs, base64_encode=False))
+
         await asyncio.gather(*save_tasks)
 
     def _print_summary_report(self, processor: ConfigProcessor):
