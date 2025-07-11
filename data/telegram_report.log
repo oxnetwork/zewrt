@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-11 18:16:15
+Timestamp: 2025-07-11 18:49:58
 Total Channels: 91
 Successful Scrapes: 69
 Failed Scrapes: 0
@@ -34,6 +34,7 @@ summertimeus: 21 configs
 ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
 spikevpn: 20 configs
+v2ray_configs_pool: 20 configs
 lexernet: 19 configs
 vistav2ray: 19 configs
 nufilter: 18 configs
@@ -64,11 +65,10 @@ am20094: 8 configs
 anty_filter: 7 configs
 proxystore11: 6 configs
 v2ray_god: 6 configs
+isvvpn: 5 configs
 mdvpnsec: 5 configs
 befreewithus: 4 configs
-isvvpn: 4 configs
 v2ngfast: 4 configs
-v2ray_configs_pool: 4 configs
 BeFreeWithUs: 4 configs
 blueshekan: 3 configs
 vpnkanfik: 3 configs
