@@ -48,7 +48,7 @@ class AppConfig:
         "subscribe": OUTPUT_DIR / "subscribe",
         "countries": OUTPUT_DIR / "countries",
         "datacenters": OUTPUT_DIR / "datacenters",
-        "top5": OUTPUT_DIR / "Top5",
+        "mix_protocol": OUTPUT_DIR / "mix_protocol",
     }
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
@@ -82,7 +82,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v5.0.0"
+    DEV_SIGNATURE = "</> Collector v5.1.0"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -101,8 +101,8 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '�🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
-    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '�🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
     'GA': '🇬🇦', 'GB': '🇬🇧', 'GD': '🇬🇩', 'GE': '🇬🇪', 'GF': '🇬🇫', 'GG': '🇬🇬', 'GH': '🇬🇭', 'GI': '🇬🇮', 'GL': '🇬🇱', 'GM': '🇬🇲', 'GN': '🇬🇳', 'GP': '🇬🇵', 'GQ': '🇬🇶', 'GR': '🇬🇷', 'GS': '🇬🇸', 'GT': '🇬🇹', 'GU': '🇬🇺', 'GW': '🇬🇼',
@@ -429,7 +429,6 @@ class RawConfigCollector:
         all_matches = {}
         for name, pattern in cls.PATTERNS.items():
             matches = re.findall(pattern, text_content, re.IGNORECASE)
-            # For hysteria2, the pattern captures a group, so we handle it
             if name == 'hysteria2':
                 cleaned_matches = [re.sub(r"#[^#]*$", "", m[0]) for m in matches if "…" not in m[0]]
             else:
@@ -717,13 +716,16 @@ class ConfigProcessor:
             
         self._format_config_remarks()
         
+        # Shuffle the list to randomize output files
+        temp_list = list(self.parsed_configs.values())
+        random.shuffle(temp_list)
+        
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
-            self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: item[1].ping if item[1].ping is not None else 9999))
-        else:
-            # Shuffle the list before sorting by country to randomize within each country group
-            temp_list = list(self.parsed_configs.values())
-            random.shuffle(temp_list)
-            self.parsed_configs = {cfg.get_deduplication_key(): cfg for cfg in sorted(temp_list, key=lambda item: (item.country, item.asn_org or ""))}
+            # If testing is enabled, sort by ping
+            temp_list.sort(key=lambda item: item.ping if item.ping is not None else 9999)
+        
+        self.parsed_configs = {cfg.get_deduplication_key(): cfg for cfg in temp_list}
+
 
     async def _resolve_geo_info(self):
         unique_hosts = list({c.host for c in self.parsed_configs.values()})
@@ -828,6 +830,9 @@ class ConfigProcessor:
             # Networks
             if config.network:
                 categories["networks"].setdefault(config.network, []).append(config)
+            if config.source_type == 'reality':
+                categories["networks"].setdefault('reality', []).append(config)
+
 
             # Security
             if config.security == 'tls':
@@ -855,7 +860,7 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v5.0.0[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v5.1.0[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -910,9 +915,6 @@ class V2RayCollectorApp:
     async def _save_results(self, all_configs: List[BaseConfig], categories: Dict[str, Any]):
         console.log("Saving categorized configurations...")
         
-        # Shuffle configs for random mixed files
-        random.shuffle(all_configs)
-
         save_tasks: List[Coroutine] = []
         save_tasks.append(self.file_manager.write_configs_to_file(self.config.DIRS["subscribe"] / "base64.txt", all_configs))
         save_tasks.append(self.file_manager.write_configs_to_file(self.config.OUTPUT_DIR / "all_configs.txt", all_configs, base64_encode=False))
@@ -931,18 +933,15 @@ class V2RayCollectorApp:
                 path = self.config.DIRS["splitted"] / f"mixed_{i+1}.txt"
                 save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
         
-        # Create Top5 per protocol file
-        top5_configs = []
+        # Create protocol-specific mixed files
         for protocol, configs in categories["protocols"].items():
-            if len(configs) > 5:
-                top5_configs.extend(random.sample(configs, 5))
-            else:
-                top5_configs.extend(configs)
-        
-        if top5_configs:
-            random.shuffle(top5_configs)
-            path = self.config.DIRS["top5"] / "Top5_per_protocol.txt"
-            save_tasks.append(self.file_manager.write_configs_to_file(path, top5_configs, base64_encode=False))
+            if not configs: continue
+            random.shuffle(configs)
+            chunk_size_proto = math.ceil(len(configs) / 5)
+            if chunk_size_proto > 0:
+                for i, chunk in enumerate([configs[i:i + chunk_size_proto] for i in range(0, len(configs), chunk_size_proto)][:5]):
+                    path = self.config.DIRS["mix_protocol"] / f"mix_{protocol}_{i+1}.txt"
+                    save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
 
         await asyncio.gather(*save_tasks)
 
@@ -1012,18 +1011,29 @@ async def main():
 
     if not CONFIG.SUBSCRIPTION_LINKS_FILE.exists():
         new_links = [
-            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed",
-            "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt", "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-            "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs.txt", "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
-            "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt", "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
-            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt", "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n.txt",
-            "https://raw.githubusercontent.com/skywrt/v2ray-configs/main/All_Configs_Sub.txt", "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
-            "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt", "https://raw.githubusercontent.com/GuoBing1989100/v2ray_configs/main/all.txt",
-            "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/mix/sub.html", "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt",
-            "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/api/normal", "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt",
-            "https://raw.githubusercontent.com/jagger235711/V2rayCollector/main/results/mixed_tested.txt", "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt",
-            "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt", "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-trojan-ss-configs/main/sub/Iran/config.txt",
-            "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt"
+            "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt", 
+            "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
+            "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs.txt", 
+            "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
+            "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt", 
+            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
+            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt", 
+            "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n.txt",
+            "https://raw.githubusercontent.com/skywrt/v2ray-configs/main/All_Configs_Sub.txt", 
+            "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
+            "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt", 
+            "https://raw.githubusercontent.com/GuoBing1989100/v2ray_configs/main/all.txt",
+            "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/mix/sub.html", 
+            "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt",
+            "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/api/normal", 
+            "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt",
+            "https://raw.githubusercontent.com/jagger235711/V2rayCollector/main/results/mixed_tested.txt", 
+            "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt",
+            "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt", 
+            "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-trojan-ss-configs/main/sub/Iran/config.txt",
+            "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt",
+            "https://raw.githubusercontent.com/SamanGho/v2ray_collector/refs/heads/main/v2tel_links1.txt",
+            "https://raw.githubusercontent.com/SamanGho/v2ray_collector/refs/heads/main/v2tel_links2.txt"
         ]
         with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f: json.dump(list(set(new_links)), f, indent=4)
 
