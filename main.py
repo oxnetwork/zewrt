@@ -1,17 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-# ==============================================================================
-#                      V2Ray Configuration Collector
-#
-#               Author: PlanAsli (Enhanced by @oxnet_ir & Gemini)
-#               Version: 5.0.0 (Hysteria2/TUIC, Randomized Split, Top5)
-#
-# ==============================================================================
-#   RUN THIS COMMAND TO INSTALL LIBRARIES:
-#   pip install httpx[http2] beautifulsoup4 pydantic jdatetime aiofiles geoip2 rich
-# ==============================================================================
-
 import os
 import asyncio
 import json
