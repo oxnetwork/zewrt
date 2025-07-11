@@ -1,7 +1,7 @@
-trojan://k9d60e0a-pjp8-zd2b-odg5-5knujgr63710@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-11 | 12:32 ]
-trojan://hbny1tqz-8qr7-8fdi-q8v3-ylr62rni374w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://apxeve6e-zstc-t58r-aap3-engfkp1orzrm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5do8li7y-m1aq-wd4j-alm6-9dmbbnl9nw4a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mztxxomk-n4ob-ihno-w336-71l4xv5agq1b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-11 | 13:01 ]
+trojan://3dx1579b-j0bg-op6y-bn86-smpg9ajptg6y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5f14zufq-z71x-gx9e-0ew6-l3k2a4s1rfwd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3pir1l88-eemz-xaxt-88a5-jlhbhrreyz3m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNck1vaGViaTIwNzc@194.182.79.158:23721#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.158
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNck1vaGViaTIwNzg@194.182.79.159:23721#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.159
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbGFuQXNsMjA3Ng@194.182.79.160:23721#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.160
@@ -25,7 +25,6 @@ vless://f212c509-a73d-4501-a10d-71d9c9bc95b8@194.182.79.56:26432?type=tcp&securi
 vless://0b872dc1-d11c-4a33-8c30-370cb42faafa@194.182.79.252:10785?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.252
 vless://dc6f405f-9d5e-41b0-8b6b-fbee3318edc8@194.182.79.112:16875?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.112
 vless://faf51e77-ee0f-4089-a490-b45a1ccdc09f@194.182.79.119:17958?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.119
-vless://d9d7de85-cfb2-4ba8-9cf3-6354090cafa6@194.182.79.100:42438?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.100
 vless://58fd8427-b4af-4d2c-9088-786c687787e8@80.211.203.158:25210?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 80.211.203.158
 vless://b96d0164-08d5-4b22-b47c-a8eb24096f72@194.182.90.159:57860?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.90.159
 vless://c2e390a1-5243-44f4-9ca7-5bfe9e9b2de8@80.211.209.74:48480?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 80.211.209.74
@@ -55,8 +54,9 @@ vless://2a492b16-e2da-4d87-aa2d-e63a58df4a84@194.182.79.247:13479?type=grpc&secu
 vless://c5a9be0a-bdd5-45a4-8a06-9934c027b9ea@194.182.79.143:36936?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.143
 vless://797755cb-bd76-4b11-8d57-9ce427e67441@194.182.79.41:48615?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.41
 vless://ef6265e6-839b-4a8a-b1c1-6ed160063ef2@194.182.79.216:52843?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.216
+vless://d9d7de85-cfb2-4ba8-9cf3-6354090cafa6@194.182.79.100:42438?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.100
 vless://8395f80e-052f-4377-8132-566f1d8059f8@80.211.203.132:12901?type=httpupgrade&security=none&path=/#CZ 🇨🇿 ┇ VLESS-HTTPUPGRADE-NTLS - INTERNET CZ, a.s. ┇ 80.211.203.132
 vless://a7920b71-5da4-4e49-b331-82f851c3dad3@194.182.79.222:59791?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.222
 vless://q7r8s9t0-u1v2-3456-0123-7890123456qr@194.182.79.162:23721?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.162
 vless://3743e72f-a5f2-4b4f-a38e-7f7299a54028@194.182.84.53:443?type=grpc&security=reality&sni=wordpress.org&fp=randomized&pbk=DpSW8adQoMP_hcXxdAGD6PPdrHuwYbFomzJmBmtsqxM&sid=e3f189ed#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - INTERNET CZ, a.s. ┇ 194.182.84.53
-trojan://p841pio8-lpm7-qbge-tnav-f8yoy2nj5xh7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ztwlttdj-nwyv-010j-x8sf-58rky64p3s96@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
