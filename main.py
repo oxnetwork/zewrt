@@ -50,6 +50,7 @@ class AppConfig:
         "countries": OUTPUT_DIR / "countries",
         "datacenters": OUTPUT_DIR / "datacenters",
         "mix_protocol": OUTPUT_DIR / "mix_protocol",
+        "tested_configs": OUTPUT_DIR / "tested_configs",
     }
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
@@ -105,7 +106,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦�', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -622,9 +623,9 @@ class FileManager:
         final_list = uris[:]
         final_list.insert(0, self._create_title_config(update_str, 1080))
         final_list.insert(1, self._create_title_config(CONFIG.ADV_SIGNATURE, 2080))
-        final_list.insert(2, self._create_title_config(CONFIG.DNT_SIGNATURE, 3080))
-        final_list.insert(3, self._create_title_config(CONFIG.CUSTOM_SIGNATURE, 4080))
-        final_list.append(self._create_title_config(CONFIG.DEV_SIGNATURE, 8080))
+        final_list.insert(2, self._create_title_config(CONFIG.CUSTOM_SIGNATURE, 4080))
+        final_list.append(self._create_title_config(CONFIG.DNT_SIGNATURE, 8080))
+        final_list.append(self._create_title_config(CONFIG.DEV_SIGNATURE, 8081))
         return final_list
 
     def _create_title_config(self, title: str, port: int) -> str:
@@ -894,7 +895,7 @@ class V2RayCollectorApp:
         self.seen_configs = {}
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v5.4.1[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v6.0.0[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -988,6 +989,20 @@ class V2RayCollectorApp:
                 for i, chunk in enumerate([configs[i:i + chunk_size_proto] for i in range(0, len(configs), chunk_size_proto)][:5]):
                     path = self.config.DIRS["mix_protocol"] / f"mix_{protocol}_{i+1}.txt"
                     save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
+
+        # Save tested configs
+        if CONFIG.ENABLE_CONNECTIVITY_TEST:
+            tested_configs = [c for c in all_configs if c.ping is not None]
+            if tested_configs:
+                path = self.config.DIRS["tested_configs"] / "actives.txt"
+                save_tasks.append(self.file_manager.write_configs_to_file(path, tested_configs, base64_encode=False))
+                
+                if len(tested_configs) > 1000:
+                    chunk_size_tested = math.ceil(len(tested_configs) / 10)
+                    for i, chunk in enumerate([tested_configs[i:i + chunk_size_tested] for i in range(0, len(tested_configs), chunk_size_tested)]):
+                        path = self.config.DIRS["tested_configs"] / f"mixed_{i+1}.txt"
+                        save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
+
 
         await asyncio.gather(*save_tasks)
 
