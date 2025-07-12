@@ -1,15 +1,15 @@
-trojan://i2vm1pvj-yvdm-qxzh-mupm-4yrklz31zte0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 18:23 ]
-trojan://nqxwzig3-ic60-3edo-0e4z-5c9xxsjf4002@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cacd66j2-yvqm-cbnx-9lhe-essbkweq5loc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://4498752f-277a-4426-aea1-7cfc1c9b9113@185.204.168.191:2020?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.168.191
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydmFuY2xvdWQgR2xvYmFsIFRlY2hub2xvZ2llcyBMLkwuQyBcdTI1MDcgMTg1LjIwNC4xNzAuMTY4IiwiYWRkIjoiZ2guc2hhaG1hZ2ljLm9ubGluZSIsInBvcnQiOjgwODEsImlkIjoiNjZjNzZhNzMtZTg2YS00MzI4LTgzMTAtMmY4N2U3NGJiZGVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+trojan://a58ugjwe-s6x5-jrpm-3c1u-zi7j8o1rb6k8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-12 | 19:01 ]
+trojan://exhkpfns-sext-6o8m-3b7v-t5szcip0zkom@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ctdvw94f-n8n0-yaft-l392-stp5qnmowjuw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://f8729660-82eb-47e0-9f45-2984113316ca@ping.srvice.shop:1030?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.31
+vless://4b41943d-f4bf-4341-8acc-042e6a9ee17e@185.204.169.242:80?type=ws&security=none&path=/@custom_config#DE 🇩🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.242
+vless://7c0e47c4-d131-413a-8f67-1c1cc9f5e734@194.5.206.53:3000?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.206.53
+vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXJ2YW5jbG91ZCBHbG9iYWwgVGVjaG5vbG9naWVzIEwuTC5DIFx1MjUwNyAxODUuMjE1LjIzNC4yMSIsImFkZCI6IjE4NS4yMTUuMjM0LjIxIiwicG9ydCI6ODAsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjowLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIn0
 vless://3cf9d970-6b52-4c72-b8f5-cb4e52e5f389@185.204.169.20:47138?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.20
 vless://68710438b318b@185.204.170.13:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.170.13
-vless://7c0e47c4-d131-413a-8f67-1c1cc9f5e734@194.5.206.53:3000?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.206.53
-vless://f8729660-82eb-47e0-9f45-2984113316ca@ping.srvice.shop:1030?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.31
+vless://4498752f-277a-4426-aea1-7cfc1c9b9113@185.204.168.191:2020?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.168.191
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydmFuY2xvdWQgR2xvYmFsIFRlY2hub2xvZ2llcyBMLkwuQyBcdTI1MDcgMTg1LjIwNC4xNzAuMTY4IiwiYWRkIjoiZ2guc2hhaG1hZ2ljLm9ubGluZSIsInBvcnQiOjgwODEsImlkIjoiNjZjNzZhNzMtZTg2YS00MzI4LTgzMTAtMmY4N2U3NGJiZGVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 trojan://X98ViOdiRw@xs.srvice.shop:14127?security=none#DE 🇩🇪 ┇ TROJAN-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.185
-vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXJ2YW5jbG91ZCBHbG9iYWwgVGVjaG5vbG9naWVzIEwuTC5DIFx1MjUwNyAxODUuMjE1LjIzNC4yMSIsImFkZCI6IjE4NS4yMTUuMjM0LjIxIiwicG9ydCI6ODAsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjowLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIn0
-vless://4b41943d-f4bf-4341-8acc-042e6a9ee17e@185.204.169.242:80?type=ws&security=none&path=/@custom_config#DE 🇩🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.242
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXJ2YW5jbG91ZCBHbG9iYWwgVGVjaG5vbG9naWVzIEwuTC5DIFx1MjUwNyAxODUuMjE1LjIzNS4yMSIsImFkZCI6IjE4NS4yMTUuMjM1LjIxIiwicG9ydCI6ODAsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZ3JhcGhxbCJ9
-trojan://vaipe2if-ad8o-hbb2-tjmp-g08umakez9t9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wqhfx3dp-vjp8-bk9n-a8i1-f39p4c7sx8ec@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
+trojan://4g0i8w6l-j6c3-7uqd-zqoo-u124aqy56pmq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ayvntpay-71sm-8666-u544-mqsd0jwcmpt9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v6.0.0
