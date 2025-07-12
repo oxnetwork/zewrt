@@ -84,7 +84,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v5.2.0"
+    DEV_SIGNATURE = "</> Collector v5.2.1"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -887,7 +887,7 @@ class V2RayCollectorApp:
         self.seen_configs = {}
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v5.1.0[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v5.2.0[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -1100,4 +1100,4 @@ async def main():
         console.rule("[bold green]Shutdown complete.[/bold green]")
 
 if __name__ == "__main__":
-    asyncio.run(main()
+    asyncio.run(main())
