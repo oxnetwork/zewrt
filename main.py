@@ -86,7 +86,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v5.4.0"
+    DEV_SIGNATURE = "</> Collector v5.4.1"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -678,6 +678,8 @@ class ConfigProcessor:
         self.parsed_configs: Dict[str, BaseConfig] = {}
         self.total_raw_count = sum(len(v) for v in raw_configs_by_type.values())
         self.seen_configs = seen_configs
+        self.tested_configs_count = 0
+        self.active_configs_count = 0
 
     async def process(self):
         console.log(f"Processing {self.total_raw_count} raw config strings...")
@@ -791,6 +793,8 @@ class ConfigProcessor:
         configs_to_test = list(self.parsed_configs.values())
         if len(configs_to_test) > CONFIG.MAX_CONNECTIVITY_TESTS:
             configs_to_test = random.sample(configs_to_test, CONFIG.MAX_CONNECTIVITY_TESTS)
+        
+        self.tested_configs_count = len(configs_to_test)
 
         with Progress(
             TextColumn("[bold blue]Testing Connectivity..."),
@@ -810,8 +814,8 @@ class ConfigProcessor:
                     config.ping = result_ping
                 progress.update(ping_task, advance=1)
         
-        successful_count = sum(1 for c in configs_to_test if c.ping is not None)
-        console.log(f"Connectivity test complete. {successful_count}/{len(configs_to_test)} configs responded.")
+        self.active_configs_count = sum(1 for c in configs_to_test if c.ping is not None)
+        console.log(f"Connectivity test complete. {self.active_configs_count}/{self.tested_configs_count} configs responded.")
 
     def _format_config_remarks(self):
         for config in self.parsed_configs.values():
@@ -874,7 +878,7 @@ class V2RayCollectorApp:
         self.seen_configs = {}
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v5.3.1[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v5.4.1[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -983,11 +987,20 @@ class V2RayCollectorApp:
 
         summary_table.add_row("Raw Configs Found", str(processor.total_raw_count))
         summary_table.add_row("Unique & Valid Configs", str(len(all_configs)))
-        if CONFIG.ENABLE_REAL_CONNECTIVITY_TEST:
-            responsive_configs = sum(1 for c in all_configs if c.ping is not None)
-            summary_table.add_row("Responsive (Pinged)", str(responsive_configs))
         
         console.print(summary_table)
+
+        if CONFIG.ENABLE_CONNECTIVITY_TEST:
+            test_table = Table(title="📶 Connectivity Test Report", title_style="bold magenta", show_header=False)
+            test_table.add_column("Key", style="cyan")
+            test_table.add_column("Value", style="bold green")
+            inactive_count = processor.tested_configs_count - processor.active_configs_count
+            
+            test_table.add_row("Configs Tested", str(processor.tested_configs_count))
+            test_table.add_row("Active (Responded)", f"[green]{processor.active_configs_count}[/green]")
+            test_table.add_row("Inactive (No Response)", f"[red]{inactive_count}[/red]")
+            console.print(test_table)
+
 
         proto_table = Table(title="📈 Configs by Protocol", title_style="bold blue")
         proto_table.add_column("Protocol", style="cyan")
