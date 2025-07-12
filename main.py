@@ -49,7 +49,7 @@ class AppConfig:
         "subscribe": OUTPUT_DIR / "subscribe",
         "countries": OUTPUT_DIR / "countries",
         "datacenters": OUTPUT_DIR / "datacenters",
-        "mix_protocol": OUTPUT_DIR / "mix_protocol",
+        "channel_subs": OUTPUT_DIR / "channel_subs",
     }
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
@@ -72,7 +72,7 @@ class AppConfig:
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
     TELEGRAM_MESSAGE_LIMIT = 50
     TELEGRAM_IGNORE_LAST_UPDATE = True
-    MAX_CONFIGS_PER_CHANNEL = 70 
+    MAX_CONFIGS_PER_CHANNEL = 400 
 
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
@@ -86,7 +86,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v6.0.0"
+    DEV_SIGNATURE = "</> Collector v7.0.0"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -429,7 +429,7 @@ class RawConfigCollector:
 class TelegramScraper:
     def __init__(self, channels: List[str], since_datetime: datetime):
         self.channels, self.since_datetime, self.iran_tz = channels, since_datetime, get_iran_timezone()
-        self.total_configs_by_type: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
+        self.configs_by_channel: Dict[str, List[str]] = {}
         self.successful_channels: List[Tuple[str, int]] = []
         self.failed_channels: List[str] = []
 
@@ -459,8 +459,7 @@ class TelegramScraper:
                         configs_found = sum(len(v) for v in channel_results.values())
                         if configs_found > 0:
                             self.successful_channels.append((channel_name, configs_found))
-                            for config_type, configs in channel_results.items():
-                                self.total_configs_by_type[config_type].extend(configs)
+                            self.configs_by_channel[channel_name] = [cfg for cfgs in channel_results.values() for cfg in cfgs]
                     else:
                         self.failed_channels.append(channel_name)
                     
@@ -909,7 +908,7 @@ class V2RayCollectorApp:
             return
             
         categories = processor.categorize()
-        await self._save_results(all_unique_configs, categories)
+        await self._save_results(all_unique_configs, categories, tg_scraper.configs_by_channel)
         await self._save_state()
         self._print_summary_report(processor)
         console.log("[bold green]Collection and processing complete.[/bold green]")
@@ -943,7 +942,7 @@ class V2RayCollectorApp:
         name = re.sub(r'[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF\U0001F680-\U0001F6FF\U0001F700-\U0001F77F\U0001F780-\U0001F7FF\U0001F800-\U0001F8FF\U0001F900-\U0001F9FF\U0001FA00-\U0001FA6F\U0001FA70-\U0001FAFF\U00002702-\U000027B0\U00002620-\U0000262F\U00002300-\U000023FF\U00002B50]', '', name)
         return re.sub(r'[\\/*?:"<>|,@=]', "", name).replace(" ", "_")
 
-    async def _save_results(self, all_configs: List[BaseConfig], categories: Dict[str, Any]):
+    async def _save_results(self, all_configs: List[BaseConfig], categories: Dict[str, Any], configs_by_channel: Dict[str, List[str]]):
         console.log("Saving categorized configurations...")
         
         save_tasks: List[Coroutine] = []
@@ -972,6 +971,16 @@ class V2RayCollectorApp:
                 for i, chunk in enumerate([configs[i:i + chunk_size_proto] for i in range(0, len(configs), chunk_size_proto)][:5]):
                     path = self.config.DIRS["mix_protocol"] / f"mix_{protocol}_{i+1}.txt"
                     save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
+
+        # Save per-channel subscription files
+        for channel_name, raw_configs in configs_by_channel.items():
+            if raw_configs:
+                parsed_channel_configs = [V2RayParser.parse(uri) for uri in raw_configs]
+                parsed_channel_configs = [c for c in parsed_channel_configs if c is not None]
+                if parsed_channel_configs:
+                    sanitized_name = self._sanitize_filename(channel_name)
+                    path = self.config.DIRS["channel_subs"] / f"{sanitized_name}.txt"
+                    save_tasks.append(self.file_manager.write_configs_to_file(path, parsed_channel_configs, base64_encode=False))
 
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             tested_configs = [c for c in all_configs if c.ping is not None]
