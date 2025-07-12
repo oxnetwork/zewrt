@@ -8,6 +8,8 @@ import random
 import string
 import math
 import socket
+import subprocess
+import time
 from pathlib import Path
 from typing import List, Dict, Set, Optional, Any, Tuple, Coroutine
 from urllib.parse import urlparse, parse_qs, unquote
@@ -17,6 +19,8 @@ from collections import Counter
 import httpx
 import aiofiles
 import jdatetime
+import requests
+
 try:
     import geoip2.database
 except ImportError:
@@ -25,7 +29,7 @@ except ImportError:
 
 try:
     from rich.console import Console
-    from rich.progress import Progress, BarColumn, TextColumn, TimeRemainingColumn
+    from rich.progress import Progress, BarColumn, TextColumn, TimeRemainingColumn, SpinnerColumn
     from rich.table import Table
 except ImportError:
     print("Error: 'rich' library not found. Please run: pip install rich")
@@ -39,6 +43,8 @@ class AppConfig:
     BASE_DIR = Path(__file__).parent
     DATA_DIR = BASE_DIR / "data"
     OUTPUT_DIR = BASE_DIR / "sub"
+    XRAY_BINARY_PATH = BASE_DIR / "xray" / "xray"
+    XRAY_CONFIG_FILE = DATA_DIR / "xray_config_ping.json"
 
     DIRS = {
         "splitted": OUTPUT_DIR / "splitted",
@@ -75,16 +81,17 @@ class AppConfig:
 
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
+    ENABLE_SEEN_CONFIG_FILTER = False
     SEEN_CONFIG_TIMEOUT_HOURS = 1
     
-    ENABLE_CONNECTIVITY_TEST = False 
-    CONNECTIVITY_TEST_TIMEOUT = 4
+    ENABLE_REAL_CONNECTIVITY_TEST = True 
+    CONNECTIVITY_TEST_TIMEOUT = 8
     MAX_CONNECTIVITY_TESTS = 250
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v5.2.1"
+    DEV_SIGNATURE = "</> Collector v5.3.0"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -94,6 +101,7 @@ def setup_logger():
     logging.basicConfig(level=logging.INFO, format='%(message)s', datefmt="[%X]", handlers=[])
     logging.getLogger("httpx").setLevel(logging.WARNING)
     logging.getLogger("geoip2").setLevel(logging.WARNING)
+    logging.getLogger("requests").setLevel(logging.WARNING)
     return logging.getLogger("V2RayCollector")
 
 logger = setup_logger()
@@ -161,6 +169,9 @@ class BaseConfig(BaseModel):
 
     def to_uri(self) -> str:
         raise NotImplementedError
+    
+    def to_xray_outbound(self) -> Dict:
+        raise NotImplementedError
 
 class VmessConfig(BaseConfig):
     protocol: str = 'vmess'
@@ -190,6 +201,24 @@ class VmessConfig(BaseConfig):
         json_str = json.dumps(vmess_data_clean, separators=(',', ':'))
         encoded = base64.b64encode(json_str.encode('utf-8')).decode('utf-8').rstrip("=")
         return f"vmess://{encoded}"
+    
+    def to_xray_outbound(self) -> Dict:
+        return {
+            "protocol": "vmess",
+            "settings": {
+                "vnext": [{
+                    "address": self.host,
+                    "port": self.port,
+                    "users": [{"id": self.uuid, "alterId": self.aid, "security": self.scy}]
+                }]
+            },
+            "streamSettings": {
+                "network": self.network,
+                "security": self.security,
+                "wsSettings": {"path": self.path, "headers": {"Host": self.sni}} if self.network == 'ws' else None,
+                "tlsSettings": {"serverName": self.sni} if self.security == 'tls' else None
+            }
+        }
 
 class VlessConfig(BaseConfig):
     protocol: str = 'vless'
@@ -202,6 +231,25 @@ class VlessConfig(BaseConfig):
         query_string = '&'.join([f"{k}={v}" for k, v in params.items() if v is not None and v != ""])
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"vless://{self.uuid}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
+    
+    def to_xray_outbound(self) -> Dict:
+        return {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [{
+                    "address": self.host,
+                    "port": self.port,
+                    "users": [{"id": self.uuid, "flow": self.flow or ""}]
+                }]
+            },
+            "streamSettings": {
+                "network": self.network,
+                "security": self.security,
+                "wsSettings": {"path": self.path, "headers": {"Host": self.sni}} if self.network == 'ws' else None,
+                "tlsSettings": {"serverName": self.sni, "fingerprint": self.fingerprint} if self.security == 'tls' else None,
+                "realitySettings": {"publicKey": self.pbk, "shortId": self.sid, "serverName": self.sni} if self.security == 'reality' else None
+            }
+        }
 
 class TrojanConfig(BaseConfig):
     protocol: str = 'trojan'
@@ -212,6 +260,23 @@ class TrojanConfig(BaseConfig):
         query_string = '&'.join([f"{k}={v}" for k, v in params.items() if v is not None])
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"trojan://{self.uuid}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
+
+    def to_xray_outbound(self) -> Dict:
+        return {
+            "protocol": "trojan",
+            "settings": {
+                "servers": [{
+                    "address": self.host,
+                    "port": self.port,
+                    "password": self.uuid
+                }]
+            },
+            "streamSettings": {
+                "network": self.network,
+                "security": self.security,
+                "tlsSettings": {"serverName": self.sni} if self.security == 'tls' else None
+            }
+        }
 
 class ShadowsocksConfig(BaseConfig):
     protocol: str = 'shadowsocks'
@@ -228,6 +293,19 @@ class ShadowsocksConfig(BaseConfig):
         encoded_user_info = base64.b64encode(user_info.encode('utf-8')).decode('utf-8').rstrip('=')
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"ss://{encoded_user_info}@{self.host}:{self.port}{remarks_encoded}"
+    
+    def to_xray_outbound(self) -> Dict:
+        return {
+            "protocol": "shadowsocks",
+            "settings": {
+                "servers": [{
+                    "address": self.host,
+                    "port": self.port,
+                    "method": self.method,
+                    "password": self.uuid
+                }]
+            }
+        }
 
 class Hysteria2Config(BaseConfig):
     protocol: str = 'hysteria2'
@@ -240,6 +318,12 @@ class Hysteria2Config(BaseConfig):
         query_string = '&'.join([f"{k}={v}" for k, v in params.items() if v is not None])
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"hysteria2://{self.uuid}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
+    
+    def to_xray_outbound(self) -> Dict:
+        # Xray-core does not natively support Hysteria2 in its standard JSON config.
+        # This protocol is typically used with its own client/server.
+        # Returning None to indicate it cannot be tested this way.
+        return None
 
 class TuicConfig(BaseConfig):
     protocol: str = 'tuic'
@@ -253,6 +337,12 @@ class TuicConfig(BaseConfig):
         query_string = '&'.join([f"{k}={v}" for k, v in params.items() if v is not None])
         remarks_encoded = f"#{unquote(self.remarks)}"
         return f"tuic://{self.uuid}:{self.password}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
+    
+    def to_xray_outbound(self) -> Dict:
+        # Xray-core does not natively support TUIC in its standard JSON config.
+        # This protocol is typically used with its own client/server.
+        # Returning None to indicate it cannot be tested this way.
+        return None
 
 class AsyncHttpClient:
     _client: Optional[httpx.AsyncClient] = None
@@ -710,21 +800,22 @@ class ConfigProcessor:
                 self.parsed_configs[key] = config
         console.log(f"Deduplication by URI resulted in {len(self.parsed_configs)} unique configs.")
 
-        self._filter_by_seen_cache()
+        if CONFIG.ENABLE_SEEN_CONFIG_FILTER:
+            self._filter_by_seen_cache()
         
         await self._resolve_geo_info()
         if CONFIG.ENABLE_IP_DEDUPLICATION:
             self._deduplicate_by_ip()
 
-        if CONFIG.ENABLE_CONNECTIVITY_TEST:
-            await self._test_connectivity()
+        if CONFIG.ENABLE_REAL_CONNECTIVITY_TEST:
+            await self._test_real_connectivity()
             
         self._format_config_remarks()
         
         temp_list = list(self.parsed_configs.values())
         random.shuffle(temp_list)
         
-        if CONFIG.ENABLE_CONNECTIVITY_TEST:
+        if CONFIG.ENABLE_REAL_CONNECTIVITY_TEST:
             temp_list.sort(key=lambda item: item.ping if item.ping is not None else 9999)
         
         self.parsed_configs = {cfg.get_deduplication_key(): cfg for cfg in temp_list}
@@ -780,51 +871,107 @@ class ConfigProcessor:
         self.parsed_configs = kept_configs
         console.log(f"IP-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} remaining.")
 
-    async def _test_tcp_connection(self, config: BaseConfig) -> Optional[int]:
-        ip = Geolocation._ip_cache.get(config.host)
-        if not ip: return None
-        
-        try:
-            start_time = asyncio.get_event_loop().time()
-            fut = asyncio.open_connection(ip, config.port)
-            reader, writer = await asyncio.wait_for(fut, timeout=CONFIG.CONNECTIVITY_TEST_TIMEOUT)
+    async def _test_real_connectivity(self):
+        if not CONFIG.XRAY_BINARY_PATH.exists():
+            console.log("[bold yellow]Xray binary not found. Skipping real connectivity test.[/bold yellow]")
+            return
             
-            writer.write(b"\x01") 
-            await writer.drain()
-            await reader.read(1)
-
-            end_time = asyncio.get_event_loop().time()
-            writer.close()
-            await writer.wait_closed()
-            return int((end_time - start_time) * 1000)
-        except (asyncio.TimeoutError, ConnectionRefusedError, OSError, Exception):
-            return None
-
-    async def _test_connectivity(self):
-        configs_to_test = list(self.parsed_configs.values())
+        configs_to_test = [c for c in self.parsed_configs.values() if c.to_xray_outbound() is not None]
         if len(configs_to_test) > CONFIG.MAX_CONNECTIVITY_TESTS:
             configs_to_test = random.sample(configs_to_test, CONFIG.MAX_CONNECTIVITY_TESTS)
 
-        with Progress(
-            TextColumn("[bold blue]Testing Connectivity..."),
-            BarColumn(bar_width=None),
-            "[progress.percentage]{task.percentage:>3.0f}%",
-            "•",
-            TextColumn("[green]{task.completed}/{task.total} Tested"),
-            console=console
-        ) as progress:
-            tasks = {asyncio.create_task(self._test_tcp_connection(config)): config for config in configs_to_test}
-            ping_task = progress.add_task("pinging", total=len(configs_to_test))
+        if not configs_to_test:
+            console.log("[yellow]No testable configs found.[/yellow]")
+            return
 
-            for task in asyncio.as_completed(tasks):
-                config = tasks[task]
-                result_ping = await task
-                if result_ping is not None:
-                    config.ping = result_ping
-                progress.update(ping_task, advance=1)
+        xray_process = None
+        try:
+            with Progress(
+                SpinnerColumn(),
+                TextColumn("[bold blue]Testing Real Connectivity with Xray..."),
+                BarColumn(bar_width=None),
+                "[progress.percentage]{task.percentage:>3.0f}%",
+                "•",
+                TextColumn("[green]{task.completed}/{task.total} Tested"),
+                console=console
+            ) as progress:
+                
+                # Build Xray config
+                outbounds = []
+                inbounds = []
+                rules = []
+                port_map = {}
+                used_ports = set()
+
+                for i, config in enumerate(configs_to_test):
+                    outbound_dict = config.to_xray_outbound()
+                    if outbound_dict is None: continue
+                    
+                    tag = f"proxy_{i}"
+                    outbound_dict['tag'] = tag
+                    outbounds.append(outbound_dict)
+
+                    while (port := random.randint(10000, 60000)) in used_ports:
+                        pass
+                    used_ports.add(port)
+
+                    inbounds.append({"port": port, "listen": "127.0.0.1", "protocol": "socks", "tag": f"in_{tag}"})
+                    rules.append({"inboundTag": [f"in_{tag}"], "outboundTag": tag, "type": "field"})
+                    port_map[tag] = (port, config)
+
+                xray_config = {
+                    "log": {"loglevel": "warning"},
+                    "inbounds": inbounds,
+                    "outbounds": outbounds,
+                    "routing": {"rules": rules}
+                }
+                
+                with open(CONFIG.XRAY_CONFIG_FILE, 'w') as f:
+                    json.dump(xray_config, f)
+
+                # Start Xray
+                xray_process = await asyncio.create_subprocess_exec(
+                    str(CONFIG.XRAY_BINARY_PATH), "run", "-c", str(CONFIG.XRAY_CONFIG_FILE),
+                    stdout=subprocess.PIPE, stderr=subprocess.PIPE
+                )
+                await asyncio.sleep(2) # Give Xray time to start
+
+                # Test proxies
+                test_task = progress.add_task("pinging", total=len(port_map))
+                test_tasks = [self._ping_proxy(port, config) for tag, (port, config) in port_map.items()]
+                
+                for future in asyncio.as_completed(test_tasks):
+                    await future
+                    progress.update(test_task, advance=1)
+
+        finally:
+            if xray_process:
+                xray_process.terminate()
+                await xray_process.wait()
+            if CONFIG.XRAY_CONFIG_FILE.exists():
+                CONFIG.XRAY_CONFIG_FILE.unlink()
         
         successful_count = sum(1 for c in configs_to_test if c.ping is not None)
         console.log(f"Connectivity test complete. {successful_count}/{len(configs_to_test)} configs responded.")
+
+    async def _ping_proxy(self, port: int, config: BaseConfig):
+        proxy = f"socks5://127.0.0.1:{port}"
+        try:
+            loop = asyncio.get_running_loop()
+            start_time = time.perf_counter()
+            # Use a thread for the blocking requests call
+            await loop.run_in_executor(
+                None, 
+                lambda: requests.get(
+                    "http://detectportal.firefox.com/success.txt", 
+                    proxies={"http": proxy, "https": proxy}, 
+                    timeout=CONFIG.CONNECTIVITY_TEST_TIMEOUT
+                )
+            )
+            end_time = time.perf_counter()
+            config.ping = int((end_time - start_time) * 1000)
+        except Exception:
+            config.ping = None
 
     def _format_config_remarks(self):
         for config in self.parsed_configs.values():
@@ -996,7 +1143,7 @@ class V2RayCollectorApp:
 
         summary_table.add_row("Raw Configs Found", str(processor.total_raw_count))
         summary_table.add_row("Unique & Valid Configs", str(len(all_configs)))
-        if CONFIG.ENABLE_CONNECTIVITY_TEST:
+        if CONFIG.ENABLE_REAL_CONNECTIVITY_TEST:
             responsive_configs = sum(1 for c in all_configs if c.ping is not None)
             summary_table.add_row("Responsive (Pinged)", str(responsive_configs))
         
