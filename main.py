@@ -86,7 +86,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v6.0.0"
+    DEV_SIGNATURE = "</> Collector v6.0.1"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -1003,18 +1003,6 @@ class V2RayCollectorApp:
                     sanitized_name = self._sanitize_filename(channel_name)
                     path = self.config.DIRS["channel_subs"] / f"{sanitized_name}.txt"
                     save_tasks.append(self.file_manager.write_configs_to_file(path, parsed_channel_configs, base64_encode=False))
-
-        if CONFIG.ENABLE_CONNECTIVITY_TEST:
-            tested_configs = [c for c in all_configs if c.ping is not None]
-            if tested_configs:
-                path = self.config.DIRS["tested_configs"] / "actives.txt"
-                save_tasks.append(self.file_manager.write_configs_to_file(path, tested_configs, base64_encode=False))
-                
-                if len(tested_configs) > 1000:
-                    chunk_size_tested = math.ceil(len(tested_configs) / 10)
-                    for i, chunk in enumerate([tested_configs[i:i + chunk_size_tested] for i in range(0, len(tested_configs), chunk_size_tested)]):
-                        path = self.config.DIRS["tested_configs"] / f"mixed_{i+1}.txt"
-                        save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
 
 
         await asyncio.gather(*save_tasks)
