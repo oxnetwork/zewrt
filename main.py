@@ -54,6 +54,7 @@ class AppConfig:
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
     SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_links.json"
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
+    SEEN_CONFIGS_FILE = DATA_DIR / "seen_configs.json"
     TELEGRAM_REPORT_FILE = DATA_DIR / "telegram_report.log"
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
@@ -70,10 +71,11 @@ class AppConfig:
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
     TELEGRAM_MESSAGE_LIMIT = 50
     TELEGRAM_IGNORE_LAST_UPDATE = True
-    MAX_CONFIGS_PER_CHANNEL = 30 
+    MAX_CONFIGS_PER_CHANNEL = 70 
 
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
+    SEEN_CONFIG_TIMEOUT_HOURS = 1
     
     ENABLE_CONNECTIVITY_TEST = False 
     CONNECTIVITY_TEST_TIMEOUT = 4
@@ -82,7 +84,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v5.1.0"
+    DEV_SIGNATURE = "</> Collector v5.2.0"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -102,7 +104,7 @@ class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
     'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
-    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '�🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
+    'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
     'GA': '🇬🇦', 'GB': '🇬🇧', 'GD': '🇬🇩', 'GE': '🇬🇪', 'GF': '🇬🇫', 'GG': '🇬🇬', 'GH': '🇬🇭', 'GI': '🇬🇮', 'GL': '🇬🇱', 'GM': '🇬🇲', 'GN': '🇬🇳', 'GP': '🇬🇵', 'GQ': '🇬🇶', 'GR': '🇬🇷', 'GS': '🇬🇸', 'GT': '🇬🇹', 'GU': '🇬🇺', 'GW': '🇬🇼',
@@ -685,10 +687,11 @@ class Geolocation:
         if cls._asn_reader: cls._asn_reader.close()
 
 class ConfigProcessor:
-    def __init__(self, raw_configs_by_type: Dict[str, List[str]]):
+    def __init__(self, raw_configs_by_type: Dict[str, List[str]], seen_configs: Dict[str, str]):
         self.raw_configs_by_type = raw_configs_by_type
         self.parsed_configs: Dict[str, BaseConfig] = {}
         self.total_raw_count = sum(len(v) for v in raw_configs_by_type.values())
+        self.seen_configs = seen_configs
 
     async def process(self):
         console.log(f"Processing {self.total_raw_count} raw config strings...")
@@ -707,6 +710,8 @@ class ConfigProcessor:
                 self.parsed_configs[key] = config
         console.log(f"Deduplication by URI resulted in {len(self.parsed_configs)} unique configs.")
 
+        self._filter_by_seen_cache()
+        
         await self._resolve_geo_info()
         if CONFIG.ENABLE_IP_DEDUPLICATION:
             self._deduplicate_by_ip()
@@ -716,16 +721,37 @@ class ConfigProcessor:
             
         self._format_config_remarks()
         
-        # Shuffle the list to randomize output files
         temp_list = list(self.parsed_configs.values())
         random.shuffle(temp_list)
         
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
-            # If testing is enabled, sort by ping
             temp_list.sort(key=lambda item: item.ping if item.ping is not None else 9999)
         
         self.parsed_configs = {cfg.get_deduplication_key(): cfg for cfg in temp_list}
 
+    def _filter_by_seen_cache(self):
+        now_utc = datetime.now(timezone.utc)
+        timeout = timedelta(hours=CONFIG.SEEN_CONFIG_TIMEOUT_HOURS)
+        
+        configs_to_keep = {}
+        removed_count = 0
+        
+        for key, config in self.parsed_configs.items():
+            if key in self.seen_configs:
+                try:
+                    seen_time = datetime.fromisoformat(self.seen_configs[key])
+                    if now_utc - seen_time < timeout:
+                        removed_count += 1
+                        continue 
+                except (ValueError, TypeError):
+                    pass
+            
+            configs_to_keep[key] = config
+            self.seen_configs[key] = now_utc.isoformat()
+            
+        self.parsed_configs = configs_to_keep
+        if removed_count > 0:
+            console.log(f"Filtered out {removed_count} recently seen configs. {len(self.parsed_configs)} remaining.")
 
     async def _resolve_geo_info(self):
         unique_hosts = list({c.host for c in self.parsed_configs.values()})
@@ -857,7 +883,8 @@ class V2RayCollectorApp:
     def __init__(self):
         self.config = CONFIG
         self.file_manager = FileManager(self.config)
-        self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
+        self.last_update_time = datetime.now(timezone.utc) - timedelta(days=1)
+        self.seen_configs = {}
 
     async def run(self):
         console.rule("[bold green]V2Ray Config Collector - v5.1.0[/bold green]")
@@ -881,8 +908,9 @@ class V2RayCollectorApp:
             console.log("[yellow]No new configurations found. Exiting.[/yellow]")
             return
 
-        processor = ConfigProcessor(combined_raw_configs)
+        processor = ConfigProcessor(combined_raw_configs, self.seen_configs)
         await processor.process()
+        self.seen_configs = processor.seen_configs
 
         all_unique_configs = processor.get_all_unique_configs()
         if not all_unique_configs:
@@ -896,6 +924,13 @@ class V2RayCollectorApp:
         console.log("[bold green]Collection and processing complete.[/bold green]")
 
     async def _load_state(self):
+        if self.config.SEEN_CONFIGS_FILE.exists():
+            try:
+                async with aiofiles.open(self.config.SEEN_CONFIGS_FILE, 'r') as f:
+                    self.seen_configs = json.loads(await f.read())
+            except Exception:
+                self.seen_configs = {}
+        
         if self.config.LAST_UPDATE_FILE.exists():
             try:
                 async with aiofiles.open(self.config.LAST_UPDATE_FILE, 'r') as f:
@@ -904,8 +939,13 @@ class V2RayCollectorApp:
 
     async def _save_state(self):
         try:
+            async with aiofiles.open(self.config.SEEN_CONFIGS_FILE, 'w') as f:
+                await f.write(json.dumps(self.seen_configs, indent=4))
+        except IOError: pass
+        
+        try:
             async with aiofiles.open(self.config.LAST_UPDATE_FILE, 'w') as f:
-                await f.write(datetime.now(get_iran_timezone()).isoformat())
+                await f.write(datetime.now(timezone.utc).isoformat())
         except IOError: pass
 
     def _sanitize_filename(self, name: str) -> str:
@@ -933,7 +973,6 @@ class V2RayCollectorApp:
                 path = self.config.DIRS["splitted"] / f"mixed_{i+1}.txt"
                 save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
         
-        # Create protocol-specific mixed files
         for protocol, configs in categories["protocols"].items():
             if not configs: continue
             random.shuffle(configs)
@@ -1061,4 +1100,4 @@ async def main():
         console.rule("[bold green]Shutdown complete.[/bold green]")
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    asyncio.run(main()
