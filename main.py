@@ -50,6 +50,7 @@ class AppConfig:
         "countries": OUTPUT_DIR / "countries",
         "datacenters": OUTPUT_DIR / "datacenters",
         "channel_subs": OUTPUT_DIR / "channel_subs",
+        "tested_configs": OUTPUT_DIR / "tested_configs",
     }
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
@@ -79,14 +80,14 @@ class AppConfig:
     ENABLE_SEEN_CONFIG_FILTER = False
     SEEN_CONFIG_TIMEOUT_HOURS = 1
     
-    ENABLE_CONNECTIVITY_TEST = False 
+    ENABLE_CONNECTIVITY_TEST = True 
     CONNECTIVITY_TEST_TIMEOUT = 4
     MAX_CONNECTIVITY_TESTS = 250
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v7.0.0"
+    DEV_SIGNATURE = "</> Collector v6.0.0"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -877,7 +878,7 @@ class V2RayCollectorApp:
         self.seen_configs = {}
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v6.0.0[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v7.0.0[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -890,9 +891,15 @@ class V2RayCollectorApp:
         if sub_links and CONFIG.ENABLE_SUBSCRIPTION_FETCHING: await sub_fetcher.fetch_all()
 
         combined_raw_configs: Dict[str, List[str]] = {key: [] for key in RawConfigCollector.PATTERNS.keys()}
-        for config_type in combined_raw_configs.keys():
-            combined_raw_configs[config_type].extend(tg_scraper.total_configs_by_type.get(config_type, []))
-            combined_raw_configs[config_type].extend(sub_fetcher.total_configs_by_type.get(config_type, []))
+        for channel, configs in tg_scraper.configs_by_channel.items():
+            for config in configs:
+                for proto, pattern in RawConfigCollector.PATTERNS.items():
+                    if re.match(pattern, config):
+                        combined_raw_configs[proto].append(config)
+                        break
+        
+        for config_type, configs in sub_fetcher.total_configs_by_type.items():
+            combined_raw_configs[config_type].extend(configs)
 
         if not any(combined_raw_configs.values()):
             console.log("[yellow]No new configurations found. Exiting.[/yellow]")
