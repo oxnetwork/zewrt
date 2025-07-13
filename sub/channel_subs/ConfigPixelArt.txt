@@ -1,7 +1,9 @@
-trojan://ow1jqpew-9zm3-akvj-xtpo-q0qzs8r015np@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-14 | 00:55 ]
-trojan://tyf3dj3u-x4j2-6k02-ikb4-6qoh6hi9peei@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9ijq3y31-55f5-yue7-i141-tbuhpmg3zrgr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8mvo41o9-5h5l-ow2j-cfxw-f61svpjosgpq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-14 | 01:19 ]
+trojan://8i9y6761-syxr-x93y-yk6d-x51lzccq0kr8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6upbpbxy-v20b-op7b-4ii2-xj4m8v70lk7o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQEdyb3VwUGl4ZWxBcnQgMTE5IiwiYWRkIjoiOTEuMTA3LjE1NC43NyIsInBvcnQiOjQwMDEsImlkIjoiY2E3MzI1MGEtNTM5NS00NTg1LWIxZWMtNmQyMDQxZTQ0YWVmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?type=tcp&security=none#power.dlmoviz.ir:2020
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&security=none#62.60.163.77:3333
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&security=none#62.60.163.77:3333
 vless://7ed5bedd-c593-42e9-89a5-5e1e61930b3b@tunel.smartpanel.com.tr:80?type=xhttp&security=none&path=/#tunel.smartpanel.com.tr:80
 vless://telegram-id-ArV2ray@104.18.26.90:80?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80#104.18.26.90:80
@@ -29,9 +31,10 @@ vless://JOKERRVPN___CHANEL@104.18.26.90:8080?type=ws&security=none&path=/TELEGRA
 vless://JOKERRVPN___CHANEL@www.speedtest.net:8080?type=ws&security=none&path=/TELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed=2560#www.speedtest.net:8080
 vless://JOKERRVPN___CHANEL@www.zula.ir:8080?type=ws&security=none&path=/TELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed=2560#www.zula.ir:8080
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@101reel.com:443?type=ws&security=tls&path=/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org&fp=random#101reel.com:443
+vless://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?type=tcp&security=reality&sni=call1.tgju.org&fp=firefox&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&sid=b7ac#ka.pilebaghala.top:1237
 vless://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=qlXAzsjjzUjqcfuZcd-oUlLLIFVEVqs454P_F3BvQwI&sid=f10dcd45#kernel.panel.cactusv2.xyz:4434
 vless://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=qlXAzsjjzUjqcfuZcd-oUlLLIFVEVqs454P_F3BvQwI&sid=f10dcd45#kernel.panel.cactusv2.xyz:4434
 vless://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=qlXAzsjjzUjqcfuZcd-oUlLLIFVEVqs454P_F3BvQwI&sid=f10dcd45#kernel.panel.cactusv2.xyz:4434
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?sni=YAPC-1.afshin.ir&insecure=0&obfs=salamander#yapc-1.adamhayward.co.uk:36400
-trojan://f5i08zf7-9gb4-rf2f-mlyd-xvbsle43tsn4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xtc812lf-bt88-9uvb-oiq2-f44f1wn0ljmr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+trojan://xy95e5pd-64gs-ohof-wmbc-ekv59p2eg1z3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://023lxi2h-rzsm-fajf-fia4-zem8xqqm689l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1

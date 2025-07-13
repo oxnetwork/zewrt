@@ -1,6 +1,6 @@
-trojan://8huvhiv4-ez19-vpph-sjsj-awxlpr4n3vdf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-14 | 00:55 ]
-trojan://rfwh8cnv-mqol-3wkk-ylgj-v698ti87ybg3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hlq4x0wl-04rr-eo71-yup8-vm9j3etw4hbc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://80ij6i0d-ra2m-5xno-2rs0-bxwntmecuz8y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-14 | 01:19 ]
+trojan://9cgsnqtn-w6v4-w797-x1nk-1r2i1f4612jq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pys6o6ly-in9b-ykfu-18te-u2g9veym4q8r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
@@ -9,7 +9,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@131.145.33.92:443#131.145.33.92:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?type=ws&security=tls&path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&sni=simorgh.hpcode.ir&fp=firefox#154.92.9.30:443
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?type=ws&security=tls&path=/?ed=2560&sni=sub.divib.dynv6.net#162.159.129.11:2053
 vless://9f4b9d0e-a0c7-4f38-a8e8-471c74e4eadb@ir01.oghabvps.com:2022?type=tcp&security=none#ir01.oghabvps.com:2022
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.18.26.90:443?type=ws&security=tls&path=/&sni=52275ZvTv4.V2pLuSmLm.OrG#104.18.26.90:443
@@ -19,8 +18,11 @@ vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?type=ws&security=t
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?type=ws&security=tls&path=/azadnet-7py.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet-7py.pages.dev&fp=randomized#198.62.62.4:443
 vless://6db976a9-5d35-4327-9f9b-5bd2650ef628@srv1.amazon-osishop.ir:8880?type=tcp&security=none#srv1.amazon-osishop.ir:8880
 vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?type=ws&security=tls&path=/?ed=2560&sni=brmahasang.ahaysiahzangi.dpdns.org&fp=random#104.26.7.89:8443
+vless://44f2c910-07a4-478e-861b-aed3d0750980@speedtestcustom.com:80?type=xhttp&security=none&path=/gfsfdsese?ed=2560#speedtestcustom.com:80
+vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&security=none&path=/gftrdd?ed=2560#speedtestcustom.com:80
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/@Prime_Verse?ed=2560&sni=PaGes.deV#www.speedtest.net:443
 vless://06f5a7cb-3842-49d0-a498-d4165c0eb956@test-lets-wildcard.spotifycdn.org:443?type=xhttp&security=reality&path=/&sni=www.tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=7f2798f9#test-lets-wildcard.spotifycdn.org:443
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&sid=e701a013553059ba#real-all3-2.sdcards.ir:8501
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?type=tcp&security=reality&sni=refersion.com&fp=random&flow=xtls-rprx-vision&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#micro.slumbo.com:443
-trojan://d9z0qe0p-fake-tyee-p2xr-or6n9ij7nvsh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8a852jhc-8u3p-8gqf-uid4-tlxi5lu9n71n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+trojan://d54ez0k8-rgda-qzie-w07d-aag382te5sfr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://85mpmzre-81m6-0mvg-p265-6k4dxrjinu4x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
