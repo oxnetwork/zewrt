@@ -1,14 +1,12 @@
-trojan://b0lsw2ld-a8h3-bnol-7amm-hya3d0opafn7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-13 | 12:00 ]
-trojan://a4xq7kcq-f92w-s4qp-xiru-fp16vrrk2f9a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g1pacwgs-y43u-mj4q-xlcp-5xqhhkz5tbuq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ga5sj797-4nd4-0uen-x0pq-w498vqthtgrk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-13 | 12:26 ]
+trojan://w18f2c27-yjuo-jit2-313w-dvkebe8e8g6u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://azf5321v-i0v9-7ihc-69cc-xvkb6nll9syu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.192:8080#45.87.175.192:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.158.64.226:443#4.158.64.226:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#20.91.252.21:48172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#92.118.205.228:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#74.177.199.135:443
 vmess://eyJ2IjoiMiIsInBzIjoic3VtbWVydGltZSIsImFkZCI6Ijc3LjkxLjg3Ljc5IiwicG9ydCI6NTUsImlkIjoiMGRjMGQyMmMtNjhlNS00NDBhLTk0NjUtOTdjYWQ4ZDFjZjMzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?type=ws&security=tls&path=/Telegram@V2ray_Alpha&sni=my.ski1plag.ir&fp=random#104.16.53.11:8443
-vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?type=tcp&security=none#viop.fast.hosting-ip.com:80
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?type=ws&security=none&path=@vpnserverrr&sni=barayeiranmahsang.loseyourself.dpdns.org&fp=random#104.18.26.90:80
 vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?type=tcp&security=none#91.99.166.88:8443
 vless://3d554bba-9c77-499f-9055-1eb42058ed00@300232332.webnama.com.tr:1517?type=tcp&security=none#300232332.webnama.com.tr:1517
@@ -22,6 +20,7 @@ vless://turboo-server@151.101.67.8:80?type=xhttp&security=none&path=/#151.101.67
 vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@185.176.24.159:443?type=ws&security=tls&path=/Telegram@V2ray_Alpha/?ed=2560&sni=FREEDOm.ZiStarvInbioTeCh.ir&fp=randomized#185.176.24.159:443
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?type=xhttp&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#151.101.3.8:80
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.22.22.237:443
+vless://01c83d31-8215-4f85-b94b-8c64a92a040a@151.101.3.8:80?type=xhttp&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#151.101.3.8:80
 vless://6b690c69-7301-44c4-81e8-9d5d7e8263a6@51.38.98.69:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0&sid=ecd6615548c2bddb#51.38.98.69:443
-trojan://w7w1dcf2-2ytj-qj5p-skyt-ihf5f0gfvy3m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6q13nldw-vape-lh29-hilw-w20cn40w9k4p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.0
+trojan://uw0vqamf-axuz-wl69-c4pg-gfjv0rc106vk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p018w2xx-cwkc-mcnm-rd79-tulmv76ngbhh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.0
