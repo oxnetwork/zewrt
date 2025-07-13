@@ -50,6 +50,7 @@ class AppConfig:
         "countries": OUTPUT_DIR / "countries",
         "datacenters": OUTPUT_DIR / "datacenters",
         "channel_subs": OUTPUT_DIR / "channel_subs",
+        "mix_protocol": OUTPUT_DIR / "mix_protocol", # <--- BUG FIX: Added missing directory path
     }
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
@@ -86,7 +87,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v6.0.1"
+    DEV_SIGNATURE = "</> Collector v7.0.0"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
