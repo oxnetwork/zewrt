@@ -1,6 +1,6 @@
-trojan://ta84yzb3-h964-16ch-s1do-nkh0pk2uzyrc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-13 | 15:33 ]
-trojan://iomtvk4v-r27k-0euk-2u05-usy7b5ivgojy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vrkvc1ra-iai3-wnbj-d663-nqx3rlfqessq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ucpo24ly-fd5i-de77-3pyx-6jjcp76z4v3e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-13 | 16:12 ]
+trojan://oasqhgmz-fruj-k8l5-aw3t-d3o9x67d267y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mct9k6dw-p7ix-ruvw-2t7b-hvqto8hpra2h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#admin.c1.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#series-a2-me.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#admin.c1.webramz.co:443
@@ -52,10 +52,15 @@ vless://a764c6fd-956c-4477-9d85-a41b16953e5b@104.18.26.90:80?type=ws&security=no
 vless://41d4e11b-1e7c-40ce-b7f8-abedb994ca6c@104.18.26.90:80?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.18.26.90:80
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?type=xhttp&security=none&path=/Zed#151.101.67.8:80
 vless://fc7ed3a4-da90-475f-a751-769eca257af7@172.67.215.65:2053?type=ws&security=tls&path=/wsfarancemat&sni=fa1.alighan.ir&fp=chrome#172.67.215.65:2053
+vless://31f186df-3933-4fcd-be52-03ca412ae6bc@test.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=2056#test.fast.hosting-ip.com:80
+vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@6f.startrich.site:8441?type=ws&security=none#6f.startrich.site:8441
+vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@2f.startrich.site:8441?type=ws&security=none#2f.startrich.site:8441
+vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@9f.startrich.site:8441?type=ws&security=none#9f.startrich.site:8441
 vless://71b1411d-f242-4e84-83f6-a4d3ca912844@62.212.70.94:2025?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=B6w7zRowM6YMjWfoo93HdAwngS7SxXa-K1msMet_P3U&sid=e9#62.212.70.94:2025
 vless://770d49ff-d8d1-456a-a009-6a4833718c98@62.212.70.94:2060?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=B6w7zRowM6YMjWfoo93HdAwngS7SxXa-K1msMet_P3U&sid=e9#62.212.70.94:2060
 vless://d33b228d-654d-4dc2-a60e-16cbdd5b3e08@62.212.70.94:2025?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=Q1a6ooyct6J0bZRpJD02S6PLMOl0HaLWT2ECyMAwQgw&sid=e9#62.212.70.94:2025
 vless://f6e4491f-59b6-4b9a-982b-4b7e05509f96@62.212.70.94:2025?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=Q1a6ooyct6J0bZRpJD02S6PLMOl0HaLWT2ECyMAwQgw&sid=e9#62.212.70.94:2025
 vless://06f5a7cb-3842-49d0-a498-d4165c0eb956@test-lets-wildcard.spotifycdn.org:443?type=xhttp&security=reality&path=/&sni=www.tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=7f2798f9#test-lets-wildcard.spotifycdn.org:443
-trojan://x2kvf4nz-2s6r-6bz4-f0tw-1xmgbqxugss8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rf0p74jz-jd2p-con5-xaos-16zmqrd9f9ue@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+vless://d9c40a42-1942-465a-b76d-cad1c0ccfb10@62.212.70.94:2026?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=Q1a6ooyct6J0bZRpJD02S6PLMOl0HaLWT2ECyMAwQgw&sid=e9#62.212.70.94:2026
+trojan://5twnzse7-e8n5-9r6j-r436-k4dytlln5c8h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qgxsqa1c-8je3-um8r-yz3x-zakfui8mntwh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
