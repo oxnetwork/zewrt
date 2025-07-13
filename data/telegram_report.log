@@ -1,15 +1,15 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-13 12:49:39
+Timestamp: 2025-07-13 13:13:19
 Total Channels: 92
 Successful Scrapes: 71
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-meli_proxyy: 219 configs
+meli_proxyy: 221 configs
+sockss_http: 203 configs
 GalaxyMVPN: 200 configs
-sockss_http: 190 configs
 v2rayng_1378: 126 configs
-dailyv2ry: 98 configs
+dailyv2ry: 117 configs
 ZibaNabz: 85 configs
 azarbayjab1: 80 configs
 freev2rng: 80 configs
@@ -20,10 +20,10 @@ jokerrvpn: 42 configs
 skivpn: 40 configs
 Tweety_Proxy: 39 configs
 Greenvpn2: 34 configs
+meliconfing: 33 configs
 ConfigPixelArt: 32 configs
-bored_vpn: 29 configs
-meliconfing: 29 configs
 vmessorg: 29 configs
+bored_vpn: 28 configs
 confingv2raayng: 27 configs
 shadowproxy66: 26 configs
 ShadowProxy66: 26 configs
@@ -38,24 +38,24 @@ ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
 ghalagyann: 20 configs
 vistav2ray: 20 configs
+configx2ray: 19 configs
 lexernet: 19 configs
+v2ray_configs_pool: 19 configs
 freenet_melli: 19 configs
+ConfigX2ray: 19 configs
+DailyV2Config: 19 configs
 arv2ray: 17 configs
 nufilter: 17 configs
 WarV2Ray: 17 configs
 v2ra_config: 17 configs
 cybersoldiersst: 16 configs
-configx2ray: 14 configs
 DALTON_PING: 14 configs
 dalton_ping: 14 configs
-ConfigX2ray: 14 configs
-DailyV2Config: 14 configs
 masterserver1: 13 configs
 mcv2rayng: 13 configs
 v2raymelliii: 13 configs
 capoit: 12 configs
 PASARGAD_V2rayNG: 12 configs
-v2ray_configs_pool: 12 configs
 vpnpacket: 11 configs
 fnet00: 10 configs
 Subify_ir: 10 configs
