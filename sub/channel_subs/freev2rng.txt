@@ -1,6 +1,6 @@
-trojan://m6i0bpqh-nln7-ysez-w1tt-wi3bkhps1egf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-13 | 21:21 ]
-trojan://zuw1ta80-wvsg-qt1q-hsf2-5e3wmfif6539@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://z7vqy2nn-5k5f-uupp-ynzv-5nnug4ojew19@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://m2f9ywy6-kwqn-i6x5-abdf-qfehd2sb2h1n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-13 | 22:02 ]
+trojan://lymx3abb-6rgn-mco5-71x0-yl2fczqrumr3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h8mlpn0b-u7ds-2r9u-df7u-k0cnot5hgckb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#89.23.103.125:42090
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
@@ -24,9 +24,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Y0k4RFplMGVYU1MzdXBvcDFRalZC@128.199.236.10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZXd4YzRiRjg3R2IyaEpXdGJNeXQx@167.172.89.195:8575#167.172.89.195:8575
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#216.173.70.187:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#rusrv.vpnsparta.pro:57456
-vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.18.26.90:443?type=ws&security=tls&path=/Join---@FREEV2RNG---Join---@FREEV2RNG---Join---@FREEV2RNG?ed=2560&sni=barayeiranmahsang.varzesh.dpdns.org&fp=random#104.18.26.90:443
-vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?type=ws&security=tls&path=/?ed=#/Telegram---FREEV2RNG?ed=512&sni=sub.divib.dynv6.net&fp=chrome#162.159.129.11:2053
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?type=ws&security=tls&path=/assets&sni=NGINX.NSCl.IR#172.67.92.147:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&security=none#95.164.45.85:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?type=grpc&security=none#45.89.111.250:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.138:8880?type=ws&security=none&path=Telegram🇮🇷 % /?ed=2560#5.10.214.138:8880
@@ -70,8 +67,20 @@ vless://36f540c5-0e77-4801-8633-de11645737e4@185.204.169.242:80?type=ws&security
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?type=ws&security=none&path=/FREEV2RNGTELEGRAM----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG?ed=2560&sni=barayeiran-mahsang.taraneh.dpdns.org&fp=random#104.16.51.36:80
 vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?type=ws&security=tls&path=/FREEV2RNGTELEGRAM----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG?ed=2560&sni=brmahasang.ahaysiahzangi.dpdns.org&fp=random#104.26.7.89:8443
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80?type=ws&security=none&path=/Barayeiranmahsang/FREEV2RNGTELEGRAM----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG----@FREEV2RNG?ed=2560&sni=barayeiranmahsang.juveitaly.dpdns.org&fp=random#104.24.248.141:80
+vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443?type=ws&security=tls&path=/wsv/6c11247b-6078-461a-93d5-22e4df284e6d&sni=mirror.fullmargintraders.com#104.21.36.57:443
+vless://7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8@104.21.36.57:443?type=ws&security=tls&path=/wsv/7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8&sni=avtice.fullmargintraders.com&fp=firefox#104.21.36.57:443
+vless://59171a5a-c42c-47be-aaf1-cbaefcc5a07d@104.21.36.57:443?type=ws&security=tls&path=/wsv/59171a5a-c42c-47be-aaf1-cbaefcc5a07d&sni=sample.fullmargintraders.com&fp=firefox#104.21.36.57:443
+vless://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?type=ws&security=tls&path=/wsv/4c835bff-4f4d-4608-bb21-120099089688&sni=orange.fullmargintraders.com&fp=firefox#104.21.36.57:443
+vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?type=ws&security=tls&path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&sni=profit.fullmargintraders.com&fp=firefox#104.21.36.57:443
+vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?type=ws&security=tls&path=/wsv/48f477f3-906a-4bb6-be96-8201d8a62a6d&sni=banana.fullmargintraders.com&fp=firefox#104.21.36.57:443
+vless://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?type=ws&security=tls&path=/wsv/4d89daf8-83c1-497d-af73-0d0033daadd8&sni=psto.fullmargintraders.com&fp=firefox#104.21.36.57:443
+vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?type=ws&security=tls&path=/wsv/0cc731b9-0375-4590-aeaa-7e2611a149fe&sni=black.fullmargintraders.com&fp=firefox#104.21.36.57:443
 vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#it.panelmarzban.com:3037
 vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&sid=4476a3#62.60.233.250:443
 vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#it.panelmarzban.com:3037
-trojan://ow9xfb1r-3p4f-odcb-ovby-bv9aqq0ow7a8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://824g3s1x-vndo-v5ju-l2x9-2k63q355xi9s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+vless://d50f50ef-20ff-47a1-a922-f476c2b83eb4@carrot.bitiboot.com:443?type=tcp&security=reality&sni=analytics.google.com&fp=chrome&pbk=XIDvViESjfi-zRq4bdvHK7EyeT7vjJcA_MZO0QGTFhI&sid=7fb3b0#carrot.bitiboot.com:443
+vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?type=tcp&security=reality&sni=analytics.google.com&fp=chrome&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f#157.173.127.233:443
+vless://febf7810-0d6d-4f39-878c-8a2da6fdbcde@157.173.127.240:443?type=tcp&security=reality&sni=analytics.google.com&fp=chrome&pbk=7PPRFCOZ9VVO3Df5-Q6P9WwvjQa13AbSlpaJQUTHPhI&sid=522d25#157.173.127.240:443
+vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@unique.bitiboot.com:443?type=tcp&security=reality&sni=analytics.google.com&fp=chrome&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&sid=40e3350da285#unique.bitiboot.com:443
+trojan://p7a8pima-g5zq-t656-2bv2-mufqr6waylvv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xun8h8c2-0izz-dfo5-tum9-od7q4djc3q29@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
