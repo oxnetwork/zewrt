@@ -1,13 +1,12 @@
-trojan://avyzk9xr-4n7h-2z8j-ob22-28ftm6okwkh3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-13 | 23:17 ]
-trojan://4gz0le4z-236i-f3q8-58v8-haucz3px1107@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://srgi0cn9-nghs-0yhn-nj0e-yaed34ydysay@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mm06yk0v-immq-dij0-cy3t-do6k58kjcdw6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-13 | 23:57 ]
+trojan://qrt0fvzq-gc4h-74lp-5077-hln1o5180zvd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l84p33xh-5yot-lbtp-1bo1-del0amiyni3r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.88.145.179:443#35.88.145.179:443
 trojan://Aimer@45.134.21.8:2053?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#45.134.21.8:2053
 trojan://Aimer@199.34.228.164:2087?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#199.34.228.164:2087
 trojan://Aimer@199.34.228.50:2053?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#199.34.228.50:2053
 trojan://Aimer@47.91.18.127:443?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#47.91.18.127:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjEzMi4yMjYuMTczLjc2IiwicG9ydCI6MjM0NTEsImlkIjoiMzNhZmFhN2QtMDVmOC00MmVmLTg1NDItNzk5YTM3ZDhmNGIzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?type=ws&security=none&path=/#cloud.sarasimano.com:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.153:8443?type=ws&security=tls&path=/Telegram@/?ed=2048&sni=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&fp=randomized#141.101.120.153:8443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&security=none#95.164.45.90:8880
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.239.86.113:2222?type=tcp&security=none#3.239.86.113:2222
@@ -19,7 +18,8 @@ vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.151:443?type=ws&security=t
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.81.166.176:2222?type=tcp&security=none#35.81.166.176:2222
 vless://26da43cd-5727-46d7-bb7a-13ec65ad29db@151.101.194.133:443?type=ws&security=tls&path=/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vist&sni=mio.splashthat.com&fp=chrome#151.101.194.133:443
 vless://10c8456a-478a-4d30-9171-db4278f19412@151.101.129.57:80?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#151.101.129.57:80
+vless://37965ca1-51b1-4882-a452-2b42e99286c1@nirvana.3nir6vana9.sbs:2070?type=tcp&security=none#nirvana.3nir6vana9.sbs:2070
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.231.228.97:443?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#3.231.228.97:443
 vless://a3adad13-a898-4f42-9acc-206811541d32@51.68.90.0:2053?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#51.68.90.0:2053
-trojan://dhmescgc-lkkw-0v8l-akng-6fh4i5g6tyk7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1ordzsfb-8pai-3g7z-7n67-ee6bx46hoxr6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+trojan://t8vtkw8b-475u-uorj-gz9j-nf5dg963qhap@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vk5ss48l-dygi-iimw-69l1-jqlf4j4nqvcm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
