@@ -50,7 +50,7 @@ class AppConfig:
         "countries": OUTPUT_DIR / "countries",
         "datacenters": OUTPUT_DIR / "datacenters",
         "channel_subs": OUTPUT_DIR / "channel_subs",
-        "mix_protocol": OUTPUT_DIR / "mix_protocol", # <--- BUG FIX: Added missing directory path
+        "mix_protocol": OUTPUT_DIR / "mix_protocol",
     }
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
@@ -87,7 +87,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v7.0.0"
+    DEV_SIGNATURE = "</> Collector v7.0.1"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -106,7 +106,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '�🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -420,28 +420,30 @@ class V2RayParser:
 
 class RawConfigCollector:
     PATTERNS = {
-        "ss": r"(?<![\w-])(ss://[^\s<>#]+)", 
-        "trojan": r"(?<![\w-])(trojan://[^\s<>#]+)", 
-        "vmess": r"(?<![\w-])(vmess://[^\s<>#]+)", 
-        "vless": r"(?<![\w-])(vless://(?:(?!=reality)[^\s<>#])+(?=[\s<>#]))", 
-        "reality": r"(?<![\w-])(vless://[^\s<>#]+?security=reality[^\s<>#]*)",
-        "hysteria2": r"(?<![\w-])((?:hy2|hysteria2)://[^\s<>#]+)",
-        "tuic": r"(?<![\w-])(tuic://[^\s<>#]+)"
+        "ss": r"(ss://[^\s<>#]+)", 
+        "trojan": r"(trojan://[^\s<>#]+)", 
+        "vmess": r"(vmess://[^\s<>#]+)", 
+        "vless": r"(vless://(?:(?!=reality)[^\s<>#])+(?=[\s<>#]))", 
+        "reality": r"(vless://[^\s<>#]+?security=reality[^\s<>#]*)",
+        "hysteria2": r"((?:hy2|hysteria2)://[^\s<>#]+)",
+        "tuic": r"(tuic://[^\s<>#]+)"
     }
 
     @classmethod
     def find_all(cls, text_content: str) -> Dict[str, List[str]]:
         all_matches = {}
         for name, pattern in cls.PATTERNS.items():
-            matches = re.findall(pattern, text_content, re.IGNORECASE)
-            if name == 'hysteria2':
-                cleaned_matches = [re.sub(r"#[^#]*$", "", m[0]) for m in matches if "…" not in m[0]]
-            else:
-                cleaned_matches = [re.sub(r"#[^#]*$", "", m) for m in matches if "…" not in m]
+            # Add word boundaries to prevent matching configs inside other text
+            full_pattern = r"(?<![\w-])" + pattern
+            matches = re.findall(full_pattern, text_content, re.IGNORECASE)
+            
+            # Unified cleaning logic for all protocols
+            cleaned_matches = [re.sub(r"#[^#]*$", "", m) for m in matches if "…" not in m]
 
             if cleaned_matches:
                 all_matches[name] = cleaned_matches
         return all_matches
+
 
 class TelegramScraper:
     def __init__(self, channels: List[str], since_datetime: datetime):
@@ -476,7 +478,9 @@ class TelegramScraper:
                         configs_found = sum(len(v) for v in channel_results.values())
                         if configs_found > 0:
                             self.successful_channels.append((channel_name, configs_found))
-                            self.configs_by_channel[channel_name] = [cfg for cfgs in channel_results.values() for cfg in cfgs]
+                            # Flatten the list of configs from the dictionary
+                            flat_configs = [config for sublist in channel_results.values() for config in sublist]
+                            self.configs_by_channel[channel_name] = flat_configs
                     else:
                         self.failed_channels.append(channel_name)
                     
@@ -894,7 +898,7 @@ class V2RayCollectorApp:
         self.seen_configs = {}
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v7.0.0[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v7.0.1[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -910,7 +914,7 @@ class V2RayCollectorApp:
         for channel, configs in tg_scraper.configs_by_channel.items():
             for config in configs:
                 for proto, pattern in RawConfigCollector.PATTERNS.items():
-                    if re.match(pattern, config):
+                    if re.match(r"(?<![\w-])" + pattern, config):
                         combined_raw_configs[proto].append(config)
                         break
         
@@ -933,7 +937,7 @@ class V2RayCollectorApp:
         categories = processor.categorize()
         await self._save_results(all_unique_configs, categories, tg_scraper.configs_by_channel)
         await self._save_state()
-        self._print_summary_report(processor)
+        self._print_summary_report(processor, tg_scraper, sub_fetcher)
         console.log("[bold green]Collection and processing complete.[/bold green]")
 
     async def _load_state(self):
@@ -987,8 +991,10 @@ class V2RayCollectorApp:
                 save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
         
         for protocol, configs in categories["protocols"].items():
-            if not configs or protocol in ['hysteria2', 'tuic']: continue
+            if not configs: continue
             random.shuffle(configs)
+            # The user wants hysteria2 and tuic files, so we remove the condition that skips them.
+            # We will let them be created in the mix_protocol folder as well.
             chunk_size_proto = math.ceil(len(configs) / 5)
             if chunk_size_proto > 0:
                 for i, chunk in enumerate([configs[i:i + chunk_size_proto] for i in range(0, len(configs), chunk_size_proto)][:5]):
@@ -1008,50 +1014,63 @@ class V2RayCollectorApp:
 
         await asyncio.gather(*save_tasks)
 
-    def _print_summary_report(self, processor: ConfigProcessor):
+    def _print_summary_report(self, processor: ConfigProcessor, tg_scraper: TelegramScraper, sub_fetcher: SubscriptionFetcher):
         all_configs = processor.get_all_unique_configs()
         protocol_counts = Counter(c.protocol for c in all_configs)
         country_counts = Counter(c.country for c in all_configs if c.country and c.country != 'XX')
         asn_counts = Counter(c.asn_org for c in all_configs if c.asn_org)
 
-        summary_table = Table(title="📊 Final Collection Report 📊", title_style="bold magenta", show_header=False)
+        # Source Summary Table
+        source_table = Table(title="📊 خلاصه منابع 📊", title_style="bold magenta")
+        source_table.add_column("منبع", style="cyan", justify="right")
+        source_table.add_column("کانفیگ خام یافت شده", style="bold green", justify="left")
+
+        tg_raw_count = sum(len(v) for v in tg_scraper.configs_by_channel.values())
+        sub_raw_count = sum(len(v) for v in sub_fetcher.total_configs_by_type.values())
+        
+        source_table.add_row("کانال‌های تلگرام", str(tg_raw_count))
+        source_table.add_row("لینک‌های اشتراک", str(sub_raw_count))
+        source_table.add_row("[b]مجموع خام[/b]", f"[b]{processor.total_raw_count}[/b]")
+
+        # Main Summary Table
+        now_str = datetime.now(get_iran_timezone()).strftime('%Y-%m-%d %H:%M')
+        summary_table = Table(title=f"📊 گزارش جمع‌آوری ({now_str}) 📊", title_style="bold magenta", show_header=False)
         summary_table.add_column("Key", style="cyan")
         summary_table.add_column("Value", style="bold green")
-
-        summary_table.add_row("Raw Configs Found", str(processor.total_raw_count))
-        summary_table.add_row("Unique & Valid Configs", str(len(all_configs)))
+        summary_table.add_row("کانفیگ‌های یکتا و معتبر", str(len(all_configs)))
         
+        console.print(source_table)
         console.print(summary_table)
 
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
-            test_table = Table(title="📶 Connectivity Test Report", title_style="bold magenta", show_header=False)
+            test_table = Table(title="📶 گزارش تست اتصال 📶", title_style="bold magenta", show_header=False)
             test_table.add_column("Key", style="cyan")
             test_table.add_column("Value", style="bold green")
             inactive_count = processor.tested_configs_count - processor.active_configs_count
             
-            test_table.add_row("Configs Tested", str(processor.tested_configs_count))
-            test_table.add_row("Active (Responded)", f"[green]{processor.active_configs_count}[/green]")
-            test_table.add_row("Inactive (No Response)", f"[red]{inactive_count}[/red]")
+            test_table.add_row("کانفیگ‌های تست شده", str(processor.tested_configs_count))
+            test_table.add_row("فعال (پاسخگو)", f"[green]{processor.active_configs_count}[/green]")
+            test_table.add_row("غیرفعال (بدون پاسخ)", f"[red]{inactive_count}[/red]")
             console.print(test_table)
 
 
-        proto_table = Table(title="📈 Configs by Protocol", title_style="bold blue")
-        proto_table.add_column("Protocol", style="cyan")
-        proto_table.add_column("Count", style="bold green")
+        proto_table = Table(title="📈 کانفیگ‌ها بر اساس پروتکل", title_style="bold blue")
+        proto_table.add_column("پروتکل", style="cyan")
+        proto_table.add_column("تعداد", style="bold green")
         for protocol, count in protocol_counts.most_common():
             proto_table.add_row(protocol.upper(), str(count))
             
-        country_table = Table(title="🌍 Top 5 Countries", title_style="bold blue")
-        country_table.add_column("Flag")
-        country_table.add_column("Country", style="cyan")
-        country_table.add_column("Count", style="bold green")
+        country_table = Table(title="🌍 ۵ کشور برتر", title_style="bold blue")
+        country_table.add_column("پرچم")
+        country_table.add_column("کشور", style="cyan")
+        country_table.add_column("تعداد", style="bold green")
         for country_code, count in country_counts.most_common(5):
             flag = COUNTRY_CODE_TO_FLAG.get(country_code, '🏳️')
             country_table.add_row(flag, country_code, str(count))
 
-        asn_table = Table(title="🏢 Top 5 Datacenters", title_style="bold blue")
-        asn_table.add_column("Datacenter", style="cyan")
-        asn_table.add_column("Count", style="bold green")
+        asn_table = Table(title="🏢 ۵ دیتاسنتر برتر", title_style="bold blue")
+        asn_table.add_column("دیتاسنتر", style="cyan")
+        asn_table.add_column("تعداد", style="bold green")
         for asn, count in asn_counts.most_common(5):
             asn_table.add_row(asn, str(count))
 
