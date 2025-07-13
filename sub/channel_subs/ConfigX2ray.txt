@@ -1,11 +1,6 @@
-trojan://y8mxgtmk-b205-28sp-h8l6-dlpr4l6l70xo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-13 | 13:22 ]
-trojan://d16c1ejc-044b-m8er-i5aa-wgva6rx0gocz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sxf9g5ie-7nso-dsq5-t5dw-4barsa8om0h7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c60c5106-08b1-4fe7-eff9-d665d62f3030@151.101.3.8:80?type=xhttp&security=none&path=/#151.101.3.8:80
-vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?type=xhttp&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#151.101.3.8:80
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?type=ws&security=none&path=/#104.26.6.89:80
-vless://d4185486-d969-4ba6-b937-253a84bf892c@test.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#test.fast.hosting-ip.com:80
-vless://5879d109-8c92-448a-801b-3f3989019934@www.speedtest.net:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#www.speedtest.net:443
+trojan://j513dsyj-hm9e-jw85-kzpw-j46n9759b3hi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-13 | 13:57 ]
+trojan://ocq2vg55-6ke5-ooe2-qusj-udxnck3pv0lp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://m8zsvc57-rjt3-fvlq-mfst-a5lo41euongy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c60c5106-08b1-4fe7-eff9-d665d62f3030@151.101.3.8:80?type=xhttp&security=none&path=/#151.101.3.8:80
 vless://e907cd5b-8d4e-406f-8f24-9133c23c7e4e@151.101.3.8:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2560#151.101.3.8:80
 vless://5879d109-8c92-448a-801b-3f3989019934@www.speedtest.net:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#www.speedtest.net:443
@@ -19,6 +14,7 @@ vless://36f540c5-0e77-4801-8633-de11645737e4@185.204.169.242:80?type=ws&security
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security=none&path=/Barayeiranmahsang/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed=2560&sni=barayeiran-mahsang.gerald81.dpdns.org&fp=random#91.206.71.162:8880
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80?type=ws&security=none&path=/Barayeiranmahsang/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed=2560&sni=barayeiranmahsang.juveitaly.dpdns.org&fp=random#104.24.248.141:80
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN?ed=2560&sni=PaGes.deV#www.speedtest.net:443
+vless://48113b57-8b64-465c-91ef-898f7577b312@v2shop2.bing-net.com:4902?type=tcp&security=none#v2shop2.bing-net.com:4902
 vless://Telegram-SRCVPN-SRCVPN@188.245.234.67:41379?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=20lV1j_0cDv2tLfOpJu2gtOsLugXPWYqJT_4Oi__2mE&sid=3c98#188.245.234.67:41379
-trojan://5gbah0rj-6sd5-bpd2-ufz3-kwgsou46uo62@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kc2yoj74-5mxo-crwo-a0f3-acb375vf90tc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.0
+trojan://j2sc647k-3mk8-3c0o-9wr7-zy179ag8rblg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://s47q58fo-i9d9-y23g-7z68-hu9o62yl48m5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.0
