@@ -1,21 +1,21 @@
-trojan://03dwyfws-imjc-0vef-n79d-agoz0wqns3fa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 01:58 ]
-trojan://h75oagpx-4w40-dysf-9jyj-22fj8kqz7bso@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vycdso5l-aexh-c12f-9rn5-ciysdete7nuz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-tuic://768dba4b-40e9-43dd-8135-9dec2425cd53:7f36c26f9e5e21ae@95.179.156.72:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native#NL 🇳🇱 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 95.179.156.72
-tuic://09c533eb-cc10-4ce9-b566-3e97f887f4d9:7ff6b6d6653c61fb@194.36.209.115:443?congestion_control=bbr&udp_relay_mode=quic#US 🇺🇸 ┇ TUIC-TCP-NTLS - Cgi Global Limited ┇ 194.36.209.115
-tuic://9819decb-2c46-4eb1-b6d8-8951861bf4b5:9819decb-2c46-4eb1-b6d8-8951861bf4b5@king.jouhatsu.sbs:8883?congestion_control=bbr&udp_relay_mode=native&alpn=h3#XX 🏳️ ┇ TUIC-TCP-NTLS ┇ None
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@45.76.94.18:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#DE 🇩🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 45.76.94.18
-tuic://2209d482-3dbb-44da-817a-ddc2c8f27daa:2aaae510@45.67.35.33:25172?congestion_control=bbr&udp_relay_mode=quic&alpn=h3#NL 🇳🇱 ┇ TUIC-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 45.67.35.33
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@149.248.51.37:443?sni=telegramEUT-VPN.ddns.net&congestion_control=bbr&udp_relay_mode=native&alpn=h3#CA 🇨🇦 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 149.248.51.37
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@95.179.167.38:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#DE 🇩🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 95.179.167.38
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@2001:19f0:5001:3142:5400:4ff:fea5:203c:443?sni=cmirq.ir&congestion_control=bbr&udp_relay_mode=native&alpn=h3#NL 🇳🇱 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 2001:19f0:5001:3142:5400:4ff:fea5:203c
-tuic://ea8be14e-f82a-43ae-90b2-e110a7c7e164:dongtaiwang.com@108.181.22.239:12980?sni=cmirq.ir&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - AS40676 ┇ 108.181.22.239
+trojan://9pusspse-x51a-lc2x-yc5u-xhre6qgaeix3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 02:26 ]
+trojan://zdfbfqia-7usy-wf2z-3qeq-bx73ln5m1y8y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hrldraq2-qhks-fab1-5dmi-tsjf4b2f7byx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 tuic://1f42c744-bc99-4f52-95c3-dafdee1f330a:de30e57d@91.90.193.140:38809?congestion_control=bbr&udp_relay_mode=native&alpn=h3#CH 🇨🇭 ┇ TUIC-TCP-NTLS - Green Floid LLC ┇ 91.90.193.140
-tuic://9345e01b-23e9-4a7e-9f85-a2c35e59baa2:6b55724214843451@172.232.132.221:443?congestion_control=bbr&udp_relay_mode=native#SE 🇸🇪 ┇ TUIC-TCP-NTLS - Akamai Connected Cloud ┇ 172.232.132.221
-tuic://7398dbbc-5538-40bb-bc78-ea7a5b68ee01:e7e87e5bfd77bcb5@139.144.77.210:443?congestion_control=bbr&udp_relay_mode=quic#DE 🇩🇪 ┇ TUIC-TCP-NTLS - Akamai Connected Cloud ┇ 139.144.77.210
-tuic://4d14b5f1-b6bd-4a30-81ea-19fa1d47699f:f8AB+EN2P3ifobaKOCRi@2a05:f480:1c00:b56:5400:4ff:fe8f:5121:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#FR 🇫🇷 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 2a05:f480:1c00:b56:5400:4ff:fe8f:5121
-tuic://768dba4b-40e9-43dd-8135-9dec2425cd53:7f36c26f9e5e21ae@2001:19f0:5001:f39:5400:4ff:feba:32ce:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native#NL 🇳🇱 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 2001:19f0:5001:f39:5400:4ff:feba:32ce
-tuic://548760e0-2de5-437d-a8ac-2b32b80424a8:548760e0-2de5-437d-a8ac-2b32b80424a8@2602:294:0:f5:1234:4321:dc1e:1:28029?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - FIBERSTATE ┇ 2602:294:0:f5:1234:4321:dc1e:1
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@tuic1.cpionline.us:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#XX 🏳️ ┇ TUIC-TCP-NTLS ┇ None
-trojan://8v8rtnwk-e1uc-5orp-8zgj-zndzc8xshuba@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mgbp73xc-4lsd-u1md-ihbt-bu89wzgr7fej@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+tuic://544b010e-03d0-496b-8a52-4f82dfeceaa3:JoinTelegram--IP_CF--@192.210.175.44:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#NL 🇳🇱 ┇ TUIC-TCP-NTLS - AS-COLOCROSSING ┇ 192.210.175.44
+tuic://ee982251-246b-4c5c-b5f2-dbc43d78058e:23fc8eecf7eab4ac@178.236.246.236:443?congestion_control=bbr&udp_relay_mode=quic#RU 🇷🇺 ┇ TUIC-TCP-NTLS ┇ 178.236.246.236
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@hys3.foriran.trade:443?sni=eliv2ray.eliv2.top&congestion_control=bbr&udp_relay_mode=native&alpn=h3#XX 🏳️ ┇ TUIC-TCP-NTLS ┇ None
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@tuic51.cpionline.us:443?sni=tuic51.cpionline.us&congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#XX 🏳️ ┇ TUIC-TCP-NTLS ┇ None
+tuic://9b118259-9640-4302-b50c-a0f406751b3f:bCczjgjl@172.232.121.86:16675?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#IN 🇮🇳 ┇ TUIC-TCP-NTLS - Akamai Connected Cloud ┇ 172.232.121.86
+tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.214.160:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#SE 🇸🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 70.34.214.160
+tuic://d7a967b5-a26b-46f9-bc76-a9e5e082ef91:aleph@95.217.188.125:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#FI 🇫🇮 ┇ TUIC-TCP-NTLS - Hetzner Online GmbH ┇ 95.217.188.125
+tuic://eb26c87a-bbb2-4e61-9ff8-7859d6899228:3ac3ab5f@46.30.41.144:54681?congestion_control=bbr&udp_relay_mode=native&alpn=h3#NL 🇳🇱 ┇ TUIC-TCP-NTLS - Iron Hosting Centre LTD ┇ 46.30.41.144
+tuic://328767e5-a8bb-4ce8-8a2d-c40bdedbd2d6:a990298c@31.172.83.92:21384?congestion_control=bbr&udp_relay_mode=quic&alpn=h3#DE 🇩🇪 ┇ TUIC-TCP-NTLS - firstcolo GmbH ┇ 31.172.83.92
+tuic://e79ff713-c339-4640-9767-e6fd5d5f6c34:e79ff713-c339-4640-9767-e6fd5d5f6c34@2a02:180:6:1::559:17412?sni=telegramEUT-VPN.ddns.net&congestion_control=bbr&udp_relay_mode=native&alpn=h3#DE 🇩🇪 ┇ TUIC-TCP-NTLS - ISPpro Internet KG ┇ 2a02:180:6:1::559
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 64.176.186.193
+tuic://fb25d32c-e3b4-48bd-ac76-96f19801335d:fb8944c60d158b8e@172.232.33.162:443?congestion_control=bbr&udp_relay_mode=quic#FR 🇫🇷 ┇ TUIC-TCP-NTLS - Akamai Connected Cloud ┇ 172.232.33.162
+tuic://16ba5e83-8cfb-41f9-8009-dc65cdf17f5c:16ba5e83-8cfb-41f9-8009-dc65cdf17f5c@hdfyhys1.cpionline.co:24469?sni=hdfyhys1.cpionline.co&congestion_control=cubic&udp_relay_mode=native&alpn=h3#DE 🇩🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 199.247.17.103
+tuic://975b32a7-51dc-45c4-ba8d-3b57dc71e453:opetateam1tuic@188.132.209.49:52300?sni=cmirq.ir&congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#TR 🇹🇷 ┇ TUIC-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.49
+tuic://16ba5e83-8cfb-41f9-8009-dc65cdf17f5c:16ba5e83-8cfb-41f9-8009-dc65cdf17f5c@hdfyhys1.foriran.nl:24471?sni=hdfyhys1.foriran.nl&congestion_control=cubic&udp_relay_mode=native&alpn=h3#XX 🏳️ ┇ TUIC-TCP-NTLS ┇ None
+trojan://6n4zeqv9-eani-z4fs-u2ym-25hxtauf9irw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://58jv292d-mkdo-6v0c-x6z9-bkfb4anu2y5q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
