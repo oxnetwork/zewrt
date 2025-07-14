@@ -1,18 +1,21 @@
-trojan://1arqk7zg-yxlk-h9ef-ln01-3mj4hdkkp323@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-14 | 19:25 ]
-trojan://s0k8dmag-8i9q-ybtd-uzip-kp2ri6vkyh3x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xfcx9ntq-9wgi-6cpc-jejn-4fgy5h972t42@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&security=none&path=/gftrdd?ed=2560#speedtestcustom.com:80
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?type=ws&security=none&path=/&sni=barayeiran-mahsang.taraneh.dpdns.org&fp=random#104.16.51.36:80
-vless://9f9aaa95-3380-4d63-a3df-fa07e8aef582@151.101.3.8:80?type=xhttp&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=2560#151.101.3.8:80
-vless://bdbea579-18d4-415d-8ae2-2ff86c380ff1@www.speedtest.net:443?type=ws&security=tls&path=/twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice?ed=2560&sni=pAges.dEV&fp=randomized#www.speedtest.net:443
-vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?type=tcp&security=none#103.82.25.166:2321
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?type=xhttp&security=tls&path=/tas&sni=auto.tas-bazi.com&fp=firefox#www.speedtest.net:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=MyVqStWt11.jOoLaJoOlA.OrG#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?type=ws&security=tls&path=/&sni=OpBgSaWz16.aBbAsAlIrAhMaTdIkH.OrG&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
-vless://8f27aceb-13ce-4bbe-9847-35049fbb46f4@panel1.zapserver.top:54002?type=tcp&security=none#panel1.zapserver.top:54002
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/@Prime_Verse?ed=2560&sni=PaGes.deV#www.speedtest.net:443
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-4.cristiano.name.ng:443
+trojan://6duoewb6-7pag-xdyi-qjbe-fbp2gqaaq6t8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-14 | 20:03 ]
+trojan://xfq8qvta-s253-bx0c-f901-6ftxgyzuxb0i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3pkhf1yw-ovxx-x2j0-n1e2-24u8maz3opwq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#45.87.175.164:8080
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlZFx1MDBhZVx1ZmUwZlN3aXR6ZXJsYW5kXHUwMGE5XHVmZTBmWnVyaWNoXHVkODNjXHVkZDdmXHVmZTBmcGluZzo0Mi4xM21zIiwiYWRkIjoiMTg2LjE5MC4yMTUuMTkzIiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://78802591-aa5f-47ea-8184-9e30368d9b50@185.146.173.194:2052?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#185.146.173.194:2052
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/&sni=PaGes.deV#www.speedtest.net:443
+vless://81ed7265-be10-498b-c96f-46789e81ac88@104.248.105.52:45877?type=tcp&security=none#104.248.105.52:45877
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN?ed=2560&sni=PaGes.deV#www.speedtest.net:443
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.18.12.149:443?type=ws&security=tls&path=/@Rayan_Config&sni=rayan-09.leila.dpdns.org&fp=chrome#104.18.12.149:443
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&security=none#43.156.217.68:41283
+vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?type=tcp&security=none#t2.vipfastconnect.top:2299
+vless://6046ac0b-57d9-46e9-980c-1e2d5ee27f69@cdn.irancdngame.com:80?type=xhttp&security=none&path=/#cdn.irancdngame.com:80
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&security=none#62.60.163.77:3333
+vless://6046ac0b-57d9-46e9-980c-1e2d5ee27f69@cdn.irancdngame.com:80?type=xhttp&security=none&path=/#cdn.irancdngame.com:80
 vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?type=grpc&security=reality&sni=cloudflare.com&fp=randomized&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&sid=9ecc4615ce#server1.fergalvpnmod.com:28338
-vless://630a2b53-1757-4450-9417-963f2de0d974@twonew.iranfreedomserver.com:7005?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=w0WnHYqR0pFt1LP9paI3yLYAkJ1wbgksqeR5v4x2hyM#twonew.iranfreedomserver.com:7005
-trojan://r1mh7zdr-06yu-jsu0-gwyc-1ecfc412hf5u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yg984jt0-9ak8-5gwt-r7ze-zv30v96tu3ri@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+vless://6046ac0b-57d9-46e9-980c-1e2d5ee27f69@mci1.irancdngame.com:2012?type=tcp&security=reality&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY#mci1.irancdngame.com:2012
+vless://6046ac0b-57d9-46e9-980c-1e2d5ee27f69@iwillconectyou.to.usa.irancdngame.com:2012?type=tcp&security=reality&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY#iwillconectyou.to.usa.irancdngame.com:2012
+trojan://whnzyhj4-wdcc-mxnh-7rc4-g8yvnlo1yh18@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8h8z4994-xz7q-9kxy-itil-u3z4kx7wvtqo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
