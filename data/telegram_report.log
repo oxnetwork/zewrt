@@ -1,21 +1,21 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-14 17:05:42
+Timestamp: 2025-07-14 17:49:58
 Total Channels: 92
-Successful Scrapes: 70
+Successful Scrapes: 71
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 GalaxyMVPN: 197 configs
 dailyv2ry: 177 configs
-freev2rng: 158 configs
+freev2rng: 162 configs
 v2rayng_1378: 146 configs
 meli_proxyy: 115 configs
 freakconfig: 89 configs
 ZibaNabz: 86 configs
 azarbayjab1: 75 configs
+sockss_http: 64 configs
 expressvpn_420: 62 configs
 vpnod: 54 configs
-sockss_http: 52 configs
 Tweety_Proxy: 51 configs
 ConfigPixelArt: 35 configs
 Greenvpn2: 34 configs
@@ -35,13 +35,12 @@ meliconfing: 20 configs
 spikevpn: 20 configs
 lexernet: 19 configs
 vistav2ray: 19 configs
+v2ray_configs_pool: 18 configs
 arv2ray: 17 configs
 WarV2Ray: 17 configs
 capoit: 16 configs
 cybersoldiersst: 16 configs
 nufilter: 16 configs
-v2ray_configs_pool: 16 configs
-DailyV2Config: 15 configs
 configx2ray: 14 configs
 v2ra_config: 14 configs
 freenet_melli: 14 configs
@@ -55,6 +54,7 @@ PASARGAD_V2rayNG: 12 configs
 shadowproxy66: 12 configs
 ShadowProxy66: 12 configs
 vpnpacket: 11 configs
+DailyV2Config: 11 configs
 fnet00: 10 configs
 Subify_ir: 10 configs
 isvvpn: 9 configs
@@ -75,5 +75,6 @@ colsvpn: 2 configs
 ineronix: 2 configs
 BeFreeWithUs: 2 configs
 WedBaZtel: 1 configs
+PRIMESOBI: 1 configs
 
 --- Failed Channels ---

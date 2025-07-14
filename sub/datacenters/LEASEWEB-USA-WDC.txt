@@ -1,26 +1,25 @@
-trojan://br999fle-j2fi-fmdh-tmgh-mcpayvp5f9cd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-14 | 17:15 ]
-trojan://dpegew2o-2qcr-yefv-b50g-12tiw2o0ew1y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cfuio3z1-wmca-4uyr-t7hl-kyzer51kpb4f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQi1VU0EtV0RDIFx1MjUwNyAxOTIuOTYuMjA0LjI1MCIsImFkZCI6IjE5Mi45Ni4yMDQuMjUwIiwicG9ydCI6NDQzLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsImFpZCI6NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
+trojan://i9hc2dac-07p2-v6ru-cxzy-2y9uwlx5nt7g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-14 | 17:59 ]
+trojan://zel1afq5-djye-fuii-p1gl-zk3dvadpqahq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1zec6lyc-9iw4-9jhj-15p8-b5kmrz8nr0vs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://fba20f1f-8cfb-4d90-87aa-b284ec5f6ecf@216.22.5.72:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.72
 vless://cfae99b3-a2bd-4a55-8467-f8b71a2d20fd@216.22.5.97:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.97
+vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?type=xhttp&security=none&path=/sdf#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.96
+vless://4aa0c39f-7678-4911-bfc5-5077f0531cb4@frh.carcarpetq.com:8889?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 207.58.173.83
+vless://e1c32bed-b458-4273-a953-a74eff15d54c@216.22.5.79:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.79
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.166:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.196.166
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.168:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.196.168
+vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.70
+vless://5f2c753f-2f5f-499a-ba17-e94e320f78a9@207.58.153.171:2050?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=sHzIKPKqTTq77wusV6qaa0bwx41ap2r_sCXjHwHl4m8&sid=3466c6b00f1201c2#US 🇺🇸 ┇ VLESS-TCP-RLT - LEASEWEB-USA-WDC ┇ 207.58.153.171
+vless://b1855905-34cd-44c1-a83a-127f64833a57@216.22.5.76:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.76
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExFQVNFV0VCLVVTQS1XREMgXHUyNTA3IDIwNy41OC4xNzMuMTEzIiwiYWRkIjoiYXJhc25haXMuYWJsZXRvZG90aGluZ3NvcmcuY29tIiwicG9ydCI6ODA4MSwiaWQiOiJiMzFiZWRjYy1hMzk3LTRhYzctYTNmYi1hZWNkMTZlMDhhODciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@207.244.65.58:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 207.244.65.58
+trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 207.244.67.138
+trojan://6aa31a86-e2bd-4ede-b2be-095310b77ad5@microsoft-hk.85413.xyz:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.195.122
+vless://38c92498-3e66-4016-b45c-c51666bc3389@216.22.5.100:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.100
+trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@162.210.195.123:443?sni=jp-h1.sshub.xyz&peer=jp-h1.sshub.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.195.123
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.199.65:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.199.65
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@199.115.116.216:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 199.115.116.216
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 207.244.67.138
-vless://fba20f1f-8cfb-4d90-87aa-b284ec5f6ecf@216.22.5.72:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.72
-vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.70
-vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.96
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExFQVNFV0VCLVVTQS1XREMgXHUyNTA3IDIwNy41OC4xNzMuMTEzIiwiYWRkIjoiYXJhc25haXMuYWJsZXRvZG90aGluZ3NvcmcuY29tIiwicG9ydCI6ODA4MSwiaWQiOiJiMzFiZWRjYy1hMzk3LTRhYzctYTNmYi1hZWNkMTZlMDhhODciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://38c92498-3e66-4016-b45c-c51666bc3389@216.22.5.100:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.100
-vless://4aa0c39f-7678-4911-bfc5-5077f0531cb4@frh.carcarpetq.com:8889?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 207.58.173.83
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.166:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.196.166
-trojan://6aa31a86-e2bd-4ede-b2be-095310b77ad5@microsoft-hk.85413.xyz:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.195.122
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@162.210.196.168:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.196.168
-vless://b1855905-34cd-44c1-a83a-127f64833a57@216.22.5.76:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.76
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQi1VU0EtV0RDIFx1MjUwNyAxNjIuMjEwLjE5OS44NyIsImFkZCI6InY2ZDEubW9vbmZyZWUudG9wIiwicG9ydCI6NDQzLCJpZCI6Ijc0OTI0N2JhLWYxNGQtNGNjYS1hMGExLTA5NjYyOWNjYWQ1ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@207.244.65.58:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 207.244.65.58
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@162.210.195.123:443?sni=jp-h1.sshub.xyz&peer=jp-h1.sshub.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LEASEWEB-USA-WDC ┇ 162.210.195.123
-vless://e1c32bed-b458-4273-a953-a74eff15d54c@216.22.5.79:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - LEASEWEB-USA-WDC ┇ 216.22.5.79
-vless://5f2c753f-2f5f-499a-ba17-e94e320f78a9@207.58.153.171:2050?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=sHzIKPKqTTq77wusV6qaa0bwx41ap2r_sCXjHwHl4m8&sid=3466c6b00f1201c2#US 🇺🇸 ┇ VLESS-TCP-RLT - LEASEWEB-USA-WDC ┇ 207.58.153.171
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTEVBU0VXRUItVVNBLVdEQyBcdTI1MDcgMjA3LjI0NC42Ny4xMzkiLCJhZGQiOiJ2aWV0bmFtMTEuYXp6cGh1Yy5wcm8iLCJwb3J0Ijo4MCwiaWQiOiI3YmVhMzVhMy1kMjljLTRhMzMtYjQ3MS0xZWI2M2IzZWNmNzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9oYWh1dXR1bmcifQ
-trojan://ekju75nu-zqbr-0lng-tjtu-ia47nue72aug@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bdn8jii7-jwnc-w7c1-s972-ikj0qovth1ws@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTEVBU0VXRUItVVNBLVdEQyBcdTI1MDcgMTYyLjIxMC4xOTkuODUiLCJhZGQiOiJxdjI1LnNoZW5zZXZlbi54eXoiLCJwb3J0Ijo0NDMsImlkIjoiNTcwMWZiMTYtMWMzNS00MGIyLTg0ZjktOWI5NTM0MDRjYmNkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMRUFTRVdFQi1VU0EtV0RDIFx1MjUwNyAxOTIuOTYuMjA0LjI1MCIsImFkZCI6IjE5Mi45Ni4yMDQuMjUwIiwicG9ydCI6NDQzLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsImFpZCI6NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIn0
+trojan://53f6g6pf-e3nh-camj-zjnm-e9nzh7jhif0b@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://souwx9k0-cg6z-b9hs-kgb3-wn79xbe5a1gk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
