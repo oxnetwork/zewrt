@@ -1,15 +1,15 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-14 14:46:57
+Timestamp: 2025-07-14 15:11:06
 Total Channels: 92
 Successful Scrapes: 71
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-GalaxyMVPN: 195 configs
+GalaxyMVPN: 197 configs
 dailyv2ry: 177 configs
 freev2rng: 158 configs
-v2rayng_1378: 130 configs
-meli_proxyy: 115 configs
+v2rayng_1378: 146 configs
+meli_proxyy: 118 configs
 freakconfig: 89 configs
 ZibaNabz: 86 configs
 azarbayjab1: 75 configs
@@ -33,20 +33,20 @@ freenet_melli: 21 configs
 ConfigsHubPlus: 20 configs
 configx2ray: 20 configs
 Farah_VPN: 20 configs
-meliconfing: 20 configs
 spikevpn: 20 configs
 ConfigX2ray: 20 configs
 lexernet: 19 configs
-v2ray_configs_pool: 19 configs
 vistav2ray: 19 configs
-DailyV2Config: 19 configs
 PRIMESOBI: 18 configs
 arv2ray: 17 configs
+meliconfing: 17 configs
 nufilter: 17 configs
+v2ray_configs_pool: 17 configs
 WarV2Ray: 17 configs
 cybersoldiersst: 16 configs
 capoit: 14 configs
 v2ra_config: 14 configs
+DailyV2Config: 14 configs
 DALTON_PING: 13 configs
 dalton_ping: 13 configs
 masterserver1: 13 configs
@@ -69,11 +69,11 @@ proxystore11: 6 configs
 sinavm: 6 configs
 v2ray_god: 5 configs
 v2ngfast: 4 configs
+v2ray_rolly: 4 configs
 blueshekan: 3 configs
 befreewithus: 2 configs
 colsvpn: 2 configs
 ineronix: 2 configs
-v2ray_rolly: 2 configs
 BeFreeWithUs: 2 configs
 WedBaZtel: 1 configs
 
