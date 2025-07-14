@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-14 22:25:58
+Timestamp: 2025-07-14 22:46:00
 Total Channels: 92
 Successful Scrapes: 71
 Failed Scrapes: 0
@@ -18,11 +18,11 @@ expressvpn_420: 62 configs
 vpnod: 54 configs
 Tweety_Proxy: 51 configs
 ConfigPixelArt: 35 configs
+meliconfing: 34 configs
 Greenvpn2: 34 configs
 bored_vpn: 33 configs
 vmessorg: 32 configs
 vistav2ray: 29 configs
-meliconfing: 28 configs
 shadowproxy66: 27 configs
 ShadowProxy66: 27 configs
 v2rayfast_7: 26 configs
@@ -30,19 +30,18 @@ itenvpn: 24 configs
 confingv2raayng: 22 configs
 evay_vpn: 22 configs
 ghalagyann: 22 configs
-skivpn: 22 configs
 summertimeus: 21 configs
 tehranargo: 21 configs
 ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
 spikevpn: 20 configs
 lexernet: 19 configs
-v2ray_configs_pool: 19 configs
+DailyV2Config: 18 configs
 arv2ray: 17 configs
+v2ray_configs_pool: 17 configs
 WarV2Ray: 17 configs
 v2ra_config: 17 configs
 cybersoldiersst: 16 configs
-DailyV2Config: 16 configs
 configx2ray: 15 configs
 nufilter: 15 configs
 ConfigX2ray: 15 configs
@@ -58,9 +57,10 @@ vpnpacket: 11 configs
 fnet00: 10 configs
 SafeNet_Server: 10 configs
 Subify_ir: 10 configs
+antimeli: 9 configs
 isvvpn: 9 configs
+skivpn: 9 configs
 am20094: 8 configs
-antimeli: 8 configs
 mdvpnsec: 8 configs
 anty_filter: 7 configs
 vpnkanfik: 7 configs
