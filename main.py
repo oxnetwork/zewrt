@@ -63,6 +63,7 @@ class AppConfig:
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
     REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/data/telegram-channel.json"
+    REMOTE_SUBS_URL = "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/data/sub_link.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 
@@ -88,7 +89,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v7.0.3"
+    DEV_SIGNATURE = "</> Collector v7.0.4"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -107,7 +108,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '�🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -293,7 +294,7 @@ class WireGuardConfig(BaseConfig):
         remarks_encoded = f"#{unquote(self.remarks)}"
         if self.private_key:
             return f"wg://{self.private_key}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
-        else: # For warp:// links that don't have a private key
+        else:
             return f"warp://{self.host}:{self.port}?{query_string}{remarks_encoded}"
 
 class AsyncHttpClient:
@@ -501,7 +502,7 @@ class V2RayParser:
             params = parse_qs(parsed_url.query)
             
             private_key = None
-            uuid_val = f"warp-{parsed_url.hostname}-{parsed_url.port}" # Default for warp
+            uuid_val = f"warp-{parsed_url.hostname}-{parsed_url.port}"
             
             if parsed_url.scheme == 'wg':
                 if not parsed_url.username:
@@ -998,7 +999,7 @@ class V2RayCollectorApp:
         self.start_time = datetime.now()
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v7.0.3[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v7.0.4[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -1128,48 +1129,48 @@ class V2RayCollectorApp:
         duration = datetime.now() - start_time
         duration_str = str(duration).split('.')[0]
 
-        run_details_table = Table(title="⚙️ جزئیات اجرا ⚙️", title_style="bold yellow")
-        run_details_table.add_column("مورد", style="cyan", justify="right")
-        run_details_table.add_column("مقدار", style="bold green", justify="left")
-        run_details_table.add_row("نسخه اسکریپت", CONFIG.DEV_SIGNATURE.split(' ')[-1])
-        run_details_table.add_row("زمان شروع", start_time.strftime('%Y-%m-%d %H:%M:%S'))
-        run_details_table.add_row("مدت زمان اجرا", duration_str)
+        run_details_table = Table(title="⚙️ Run Details ⚙️", title_style="bold yellow")
+        run_details_table.add_column("Item", style="cyan", justify="right")
+        run_details_table.add_column("Value", style="bold green", justify="left")
+        run_details_table.add_row("Script Version", CONFIG.DEV_SIGNATURE.split(' ')[-1])
+        run_details_table.add_row("Start Time", start_time.strftime('%Y-%m-%d %H:%M:%S'))
+        run_details_table.add_row("Duration", duration_str)
         console.print(run_details_table)
 
-        source_table = Table(title="📊 خلاصه منابع 📊", title_style="bold magenta")
-        source_table.add_column("منبع", style="cyan", justify="right")
-        source_table.add_column("کانفیگ خام یافت شده", style="bold green", justify="left")
+        source_table = Table(title="📊 Source Summary 📊", title_style="bold magenta")
+        source_table.add_column("Source", style="cyan", justify="right")
+        source_table.add_column("Raw Configs Found", style="bold green", justify="left")
         tg_raw_count = sum(len(v) for v in tg_scraper.configs_by_channel.values())
         sub_raw_count = sum(len(v) for v in sub_fetcher.total_configs_by_type.values())
-        source_table.add_row("کانال‌های تلگرام", str(tg_raw_count))
-        source_table.add_row("لینک‌های اشتراک", str(sub_raw_count))
-        source_table.add_row("[b]مجموع خام[/b]", f"[b]{processor.total_raw_count}[/b]")
+        source_table.add_row("Telegram Channels", str(tg_raw_count))
+        source_table.add_row("Subscription Links", str(sub_raw_count))
+        source_table.add_row("[b]Total Raw[/b]", f"[b]{processor.total_raw_count}[/b]")
         console.print(source_table)
 
         now_str = datetime.now(get_iran_timezone()).strftime('%Y-%m-%d %H:%M')
-        summary_table = Table(title=f"📈 گزارش نهایی جمع‌آوری ({now_str}) 📈", title_style="bold magenta", show_header=False)
+        summary_table = Table(title=f"📈 Final Collection Report ({now_str}) 📈", title_style="bold magenta", show_header=False)
         summary_table.add_column("Key", style="cyan")
         summary_table.add_column("Value", style="bold green")
-        summary_table.add_row("کانفیگ‌های یکتا و معتبر", str(len(all_configs)))
+        summary_table.add_row("Unique & Valid Configs", str(len(all_configs)))
         console.print(summary_table)
 
-        proto_table = Table(title="📈 کانفیگ‌ها بر اساس پروتکل", title_style="bold blue")
-        proto_table.add_column("پروتکل", style="cyan")
-        proto_table.add_column("تعداد", style="bold green")
+        proto_table = Table(title="📈 Configs by Protocol", title_style="bold blue")
+        proto_table.add_column("Protocol", style="cyan")
+        proto_table.add_column("Count", style="bold green")
         for protocol, count in protocol_counts.most_common():
             proto_table.add_row(protocol.upper(), str(count))
             
-        country_table = Table(title="🌍 ۵ کشور برتر", title_style="bold blue")
-        country_table.add_column("پرچم")
-        country_table.add_column("کشور", style="cyan")
-        country_table.add_column("تعداد", style="bold green")
+        country_table = Table(title="🌍 Top 5 Countries", title_style="bold blue")
+        country_table.add_column("Flag")
+        country_table.add_column("Country", style="cyan")
+        country_table.add_column("Count", style="bold green")
         for country_code, count in country_counts.most_common(5):
             flag = COUNTRY_CODE_TO_FLAG.get(country_code, '🏳️')
             country_table.add_row(flag, country_code, str(count))
 
-        asn_table = Table(title="🏢 ۵ دیتاسنتر برتر", title_style="bold blue")
-        asn_table.add_column("دیتاسنتر", style="cyan")
-        asn_table.add_column("تعداد", style="bold green")
+        asn_table = Table(title="🏢 Top 5 Datacenters", title_style="bold blue")
+        asn_table.add_column("Datacenter", style="cyan")
+        asn_table.add_column("Count", style="bold green")
         for asn, count in asn_counts.most_common(5):
             asn_table.add_row(asn, str(count))
 
@@ -1177,9 +1178,8 @@ class V2RayCollectorApp:
         console.print(country_table)
         console.print(asn_table)
         
-        # Suggested Commit Message
         commit_message = f"feat: Update configs - {len(all_configs)} total"
-        console.print(Panel(f"[bold cyan]{commit_message}[/bold cyan]", title="💡 پیشنهاد پیام کامیت (Commit Message)", border_style="yellow"))
+        console.print(Panel(f"[bold cyan]{commit_message}[/bold cyan]", title="💡 Suggested Commit Message", border_style="yellow"))
 
 async def _download_db_if_needed(url: str, file_path: Path):
     if not file_path.exists():
@@ -1194,6 +1194,19 @@ async def _download_db_if_needed(url: str, file_path: Path):
         except Exception as e:
             console.log(f"[bold red]Failed to download {file_path.name}: {e}.[/bold red]")
 
+async def _setup_data_file(remote_url: str, local_path: Path):
+    if not local_path.exists():
+        console.log(f"[yellow]{local_path.name} not found, fetching from remote...[/yellow]")
+        try:
+            status, content = await AsyncHttpClient.get(remote_url)
+            if status == 200 and content:
+                # The content is expected to be JSON. Let's parse and re-dump to ensure format.
+                data = json.loads(content)
+                async with aiofiles.open(local_path, "w", encoding='utf-8') as f:
+                    await f.write(json.dumps(data, indent=4))
+                console.log(f"[green]Successfully created {local_path.name} from remote source.[/green]")
+        except Exception as e:
+            console.log(f"[bold red]Failed to create {local_path.name} from {remote_url}: {e}[/bold red]")
 
 async def main():
     CONFIG.DATA_DIR.mkdir(exist_ok=True)
@@ -1201,45 +1214,10 @@ async def main():
     await _download_db_if_needed(CONFIG.GEOIP_DB_URL, CONFIG.GEOIP_DB_FILE)
     await _download_db_if_needed(CONFIG.GEOIP_ASN_DB_URL, CONFIG.GEOIP_ASN_DB_FILE)
 
+    await _setup_data_file(CONFIG.REMOTE_CHANNELS_URL, CONFIG.TELEGRAM_CHANNELS_FILE)
+    await _setup_data_file(CONFIG.REMOTE_SUBS_URL, CONFIG.SUBSCRIPTION_LINKS_FILE)
+
     Geolocation.initialize()
-
-    if not CONFIG.SUBSCRIPTION_LINKS_FILE.exists():
-        new_links = [
-            "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt", 
-            "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-            "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs.txt", 
-            "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
-            "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt", 
-            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
-            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt", 
-            "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n.txt",
-            "https://raw.githubusercontent.com/skywrt/v2ray-configs/main/All_Configs_Sub.txt", 
-            "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
-            "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt", 
-            "https://raw.githubusercontent.com/GuoBing1989100/v2ray_configs/main/all.txt",
-            "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/mix/sub.html", 
-            "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt",
-            "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/api/normal", 
-            "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt",
-            "https://raw.githubusercontent.com/jagger235711/V2rayCollector/main/results/mixed_tested.txt", 
-            "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt",
-            "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt", 
-            "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-trojan-ss-configs/main/sub/Iran/config.txt",
-            "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt",
-            "https://raw.githubusercontent.com/SamanGho/v2ray_collector/refs/heads/main/v2tel_links1.txt",
-            "https://raw.githubusercontent.com/SamanGho/v2ray_collector/refs/heads/main/v2tel_links2.txt"
-        ]
-        with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f: json.dump(list(set(new_links)), f, indent=4)
-
-    if not CONFIG.TELEGRAM_CHANNELS_FILE.exists():
-         try:
-            status, content = await AsyncHttpClient.get(CONFIG.REMOTE_CHANNELS_URL)
-            if status == 200 and content:
-                channels = json.loads(content)
-                if isinstance(channels, list):
-                    async with aiofiles.open(CONFIG.TELEGRAM_CHANNELS_FILE, "w", encoding='utf-8') as f:
-                        await f.write(json.dumps(channels, indent=4))
-         except Exception: pass
 
     app = V2RayCollectorApp()
     try:
