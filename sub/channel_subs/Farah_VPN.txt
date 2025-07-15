@@ -1,24 +1,24 @@
-trojan://9b4iguwl-ezp7-wr32-gzaj-uzfnzyia79xd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 15:20 ]
-trojan://gcfcbd8x-hhvs-lpx7-djos-9bg7bk946hu2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ik4ta44x-lreh-58gh-3ix0-7t4tl7pymo55@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://impy0h9s-sel0-z4ey-q0b7-t46fjz47tpy5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 16:18 ]
+trojan://dcgtwvae-nald-51rm-n97f-qw7kr32xvbta@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n6276h13-56yv-lb38-kk46-m3j8hzcoetjv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.80:443#212.102.53.80:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#45.158.171.146:8080
 trojan://Aimer@66.81.247.230:2096?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#66.81.247.230:2096
 trojan://Aimer@188.164.159.25:2053?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#188.164.159.25:2053
 trojan://Aimer@161.129.41.140:6352?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#161.129.41.140:6352
+trojan://Aimer@199.34.228.71:8443?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#199.34.228.71:8443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjY0LjIyNS4xMDkuMjA2IiwicG9ydCI6MjA4MiwiaWQiOiI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjM4LjE3NC4xOTAuODAiLCJwb3J0IjozODAwNywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xMDIyMDYyODIwMDUiLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjE5Mi43NC4yMzkuMjEzIiwicG9ydCI6MzEwMDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMTczNzcxNDQyNzEwNCIsInRscyI6InRscyJ9
-vless://44d99ec0-91e8-41b0-8f87-500452da4c2e@161.97.160.162:443?type=tcp&security=none#161.97.160.162:443
 vless://8d938a3f-9243-48c8-b015-44a98c2f6e73@185.146.173.194:2082?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#185.146.173.194:2082
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?type=ws&security=none&path=/?ed=2048#141.101.121.55:8080
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?type=ws&security=tls&path=/telegram@v2ray_configs_pools/?ed=2560&sni=ConFIgmr.PaGeS.dEV&fp=randomized#172.66.44.118:443
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.45.64:80?type=tcp&security=none&path=/#5.223.45.64:80
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?type=grpc&security=none#45.82.251.92:8880
-vless://5aa5a43f-a972-41a3-934d-8d8c2a20a494@91.107.177.96:2083?type=grpc&security=reality&sni=refersion.com&fp=randomized&pbk=TuZN_1XtdIQrXoKk5MFJR62hyz7FkIilrMEguBWtvmE&sid=4ea00ce2#91.107.177.96:2083
 vless://71ee66e6-57b6-4d06-a89f-322fa65c718e@51.75.155.84:80?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=gqU-OZJ8VtvpUsHyfS3qYe30gskO36uetcjBLZOd8g0&sid=808863e2d27b6c#51.75.155.84:80
 vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@putin.studentcp.ir:64833?type=xhttp&security=reality&path=/&sni=refersion.com&fp=chrome&pbk=_C4ZAMamW-0gamGRg3GBo9hvkUHjiuGc5whj3elUm1I&sid=332ca8e0c89f04c4#putin.studentcp.ir:64833
 vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@w.w.w.mohsen.com.tu.studentcp.ir:48615?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=eAC0TMJFU_PNLyoF6ZTWrmI456p9uU4gLriAzzFfZ30&sid=393c37936cfa3927#w.w.w.mohsen.com.tu.studentcp.ir:48615
 vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@www.telewebion.com.uk.studentcp.ir:22049?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=5sAAbRXQgEeQYjH1U652zr7c6azVN3a9KVVCWrzJ7mc&sid=da1a52f306950def#www.telewebion.com.uk.studentcp.ir:22049
-trojan://f66igd5q-g3mo-enzm-3o20-ducs8pv55oj4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://eiiald1v-wsgc-8jmk-7am7-ntl48r3hqe90@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@www.myket.ir.us.uk.studentcp.ir:18432?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=TjzINswJoda1Y73Mks7EqA2VSZAbsYTdMuqlZFVtKBo&sid=3e2eba934db12b17#www.myket.ir.us.uk.studentcp.ir:18432
+trojan://680zp7gr-zg7o-je4i-w2lu-lpp13q7eli22@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tveid8tc-dsug-ciuw-ef0n-bljngcvfzq8m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
