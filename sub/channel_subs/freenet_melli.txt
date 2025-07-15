@@ -1,6 +1,6 @@
-trojan://bjy4iv1h-5fes-9ecl-c4f3-7kinov67mov7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 00:25 ]
-trojan://hn18tmv9-9aii-rl7d-vkvc-1dx0145a3qsu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hqo30b42-hhfx-ape1-dlik-7molcej4eket@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://95i9ca1h-t6pj-iekp-783x-mypap84upp11@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 00:57 ]
+trojan://12h4oz21-lxo7-oufz-j64f-ziswu2ghgnvj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8n0ik6px-lu9u-x29i-udcd-zsy0kjqpmdhr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://cbfa8a4f-ca68-45b2-80b7-dbdf4d00dc95@104.24.150.187:2087?type=ws&security=tls&path=/&sni=vless1.chuyangz1.sbs&fp=chrome#104.24.150.187:2087
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?type=ws&security=none&path=/?ed=2048#141.101.121.55:8080
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.19.245.206:443
@@ -19,7 +19,12 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?type=ws&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&security=none#95.164.45.90:8880
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443?type=ws&security=tls&path=/api/v1&sni=ARC-448.Pages.DEV&fp=firefox#104.19.219.139:443
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
+vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?type=ws&security=tls&path=/s35lt0swufmj96q5?ed=2560&sni=user2-P2L.pAgES.dev#104.21.96.1:8443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?type=ws&security=none&path=/?ed=2048#141.101.121.108:8080
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?type=ws&security=none&path=/?ed=2048#141.101.121.108:8080
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn.pages.dev&fp=chrome#104.19.247.78:443
 vless://01763caa-bd69-47f8-89c4-031b2f0bd8ff@91.107.180.100:443?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&sid=f3#91.107.180.100:443
 vless://918ecf34-811c-4ec6-89c3-8594809a9131@62.212.70.229:28203?type=grpc&security=reality&sni=ea.com&fp=chrome&pbk=4fcICM2lRVGkQ6v-5bVW1llwkqbF2mSzMXgYX62DBkU&sid=1968a3d5dde93aa6#62.212.70.229:28203
-trojan://kr3q8uzu-5s4c-w0rj-ii1m-0schujfqvm8i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6o2ewnrg-yn0r-35c8-15ef-o7zn0r8y07db@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://5bob4a7j-a54n-joii-35wu-2f36jqqwdifo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gn5h0684-ojbe-ii32-iahd-vj2d4yall1r0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
