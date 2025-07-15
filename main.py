@@ -28,6 +28,7 @@ try:
     from rich.console import Console
     from rich.progress import Progress, BarColumn, TextColumn, TimeRemainingColumn, SpinnerColumn
     from rich.table import Table
+    from rich.panel import Panel
 except ImportError:
     print("Error: 'rich' library not found. Please run: pip install rich")
     exit(1)
@@ -87,7 +88,7 @@ class AppConfig:
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v7.0.2"
+    DEV_SIGNATURE = "</> Collector v7.0.3"
     CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
 
 CONFIG = AppConfig()
@@ -106,7 +107,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '�🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '�🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -281,21 +282,19 @@ class ShadowsocksRConfig(BaseConfig):
 class WireGuardConfig(BaseConfig):
     protocol: str = 'wireguard'
     source_type: str = 'wireguard'
-    private_key: str
-    public_key: str
+    private_key: Optional[str] = None
+    public_key: Optional[str] = None
     preshared_key: Optional[str] = None
     ip: Optional[str] = None
-
-    @model_validator(mode='before')
-    def map_fields(cls, values):
-        values['uuid'] = values.get('private_key', '')
-        return values
 
     def to_uri(self) -> str:
         params = {'public_key': self.public_key, 'preshared_key': self.preshared_key, 'ip': self.ip}
         query_string = '&'.join([f"{k}={v}" for k, v in params.items() if v])
         remarks_encoded = f"#{unquote(self.remarks)}"
-        return f"wg://{self.private_key}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
+        if self.private_key:
+            return f"wg://{self.private_key}@{self.host}:{self.port}?{query_string}{remarks_encoded}"
+        else: # For warp:// links that don't have a private key
+            return f"warp://{self.host}:{self.port}?{query_string}{remarks_encoded}"
 
 class AsyncHttpClient:
     _client: Optional[httpx.AsyncClient] = None
@@ -341,7 +340,7 @@ class V2RayParser:
             elif uri.startswith("hy2://") or uri.startswith("hysteria2://"): parsed_config = V2RayParser._parse_hysteria2(uri)
             elif uri.startswith("tuic://"): parsed_config = V2RayParser._parse_tuic(uri)
             elif uri.startswith("ssr://"): parsed_config = V2RayParser._parse_shadowsocksr(uri)
-            elif uri.startswith("wg://"): parsed_config = V2RayParser._parse_wireguard(uri)
+            elif uri.startswith("wg://") or uri.startswith("warp://"): parsed_config = V2RayParser._parse_wireguard(uri)
 
             if parsed_config:
                 parsed_config.source_type = source_type
@@ -496,12 +495,23 @@ class V2RayParser:
     def _parse_wireguard(uri: str) -> Optional[WireGuardConfig]:
         try:
             parsed_url = urlparse(uri)
-            if not parsed_url.hostname or not parsed_url.port or not parsed_url.username:
-                raise ParsingError("Missing essential parts in WireGuard URI.")
+            if not parsed_url.hostname or not parsed_url.port:
+                raise ParsingError("Missing host or port in WireGuard/Warp URI.")
             
             params = parse_qs(parsed_url.query)
+            
+            private_key = None
+            uuid_val = f"warp-{parsed_url.hostname}-{parsed_url.port}" # Default for warp
+            
+            if parsed_url.scheme == 'wg':
+                if not parsed_url.username:
+                    raise ParsingError("Missing private key in wg:// URI.")
+                private_key = parsed_url.username
+                uuid_val = private_key
+
             return WireGuardConfig(
-                private_key=parsed_url.username,
+                uuid=uuid_val,
+                private_key=private_key,
                 host=parsed_url.hostname,
                 port=int(parsed_url.port),
                 remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{parsed_url.port}",
@@ -510,7 +520,7 @@ class V2RayParser:
                 ip=params.get('ip', [None])[0]
             )
         except Exception as e:
-            raise ParsingError(f"Could not parse WireGuard link: {uri[:60]}") from e
+            raise ParsingError(f"Could not parse WireGuard/Warp link: {uri[:60]}") from e
 
 class RawConfigCollector:
     PATTERNS = {
@@ -522,7 +532,7 @@ class RawConfigCollector:
         "hysteria2": r"((?:hy2|hysteria2)://[^\s<>#]+)",
         "tuic": r"(tuic://[^\s<>#]+)",
         "shadowsocksr": r"(ssr://[^\s<>#]+)",
-        "wireguard": r"(wg://[^\s<>#]+)",
+        "wireguard": r"((?:wg|warp)://[^\s<>#]+)",
     }
 
     @classmethod
@@ -988,7 +998,7 @@ class V2RayCollectorApp:
         self.start_time = datetime.now()
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v7.0.2[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v7.0.3[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -1072,7 +1082,6 @@ class V2RayCollectorApp:
                     sanitized_name = self._sanitize_filename(str(item_name))
                     if not sanitized_name: continue
                     
-                    # Special handling for wireguard to save as warp.txt
                     if item_name == 'wireguard':
                         path = self.config.DIRS[cat_name] / "warp.txt"
                     else:
@@ -1086,7 +1095,11 @@ class V2RayCollectorApp:
                 path = self.config.DIRS["splitted"] / f"mixed_{i+1}.txt"
                 save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
         
+        allowed_protocols_for_mix = ['vmess', 'vless', 'trojan', 'shadowsocks']
         for protocol, configs in categories["protocols"].items():
+            if protocol not in allowed_protocols_for_mix:
+                continue
+
             if not configs: continue
             random.shuffle(configs)
             chunk_size_proto = math.ceil(len(configs) / 5)
@@ -1115,7 +1128,6 @@ class V2RayCollectorApp:
         duration = datetime.now() - start_time
         duration_str = str(duration).split('.')[0]
 
-        # Run Details Table
         run_details_table = Table(title="⚙️ جزئیات اجرا ⚙️", title_style="bold yellow")
         run_details_table.add_column("مورد", style="cyan", justify="right")
         run_details_table.add_column("مقدار", style="bold green", justify="left")
@@ -1124,7 +1136,6 @@ class V2RayCollectorApp:
         run_details_table.add_row("مدت زمان اجرا", duration_str)
         console.print(run_details_table)
 
-        # Source Summary Table
         source_table = Table(title="📊 خلاصه منابع 📊", title_style="bold magenta")
         source_table.add_column("منبع", style="cyan", justify="right")
         source_table.add_column("کانفیگ خام یافت شده", style="bold green", justify="left")
@@ -1135,7 +1146,6 @@ class V2RayCollectorApp:
         source_table.add_row("[b]مجموع خام[/b]", f"[b]{processor.total_raw_count}[/b]")
         console.print(source_table)
 
-        # Main Summary Table
         now_str = datetime.now(get_iran_timezone()).strftime('%Y-%m-%d %H:%M')
         summary_table = Table(title=f"📈 گزارش نهایی جمع‌آوری ({now_str}) 📈", title_style="bold magenta", show_header=False)
         summary_table.add_column("Key", style="cyan")
@@ -1143,7 +1153,6 @@ class V2RayCollectorApp:
         summary_table.add_row("کانفیگ‌های یکتا و معتبر", str(len(all_configs)))
         console.print(summary_table)
 
-        # Other tables...
         proto_table = Table(title="📈 کانفیگ‌ها بر اساس پروتکل", title_style="bold blue")
         proto_table.add_column("پروتکل", style="cyan")
         proto_table.add_column("تعداد", style="bold green")
@@ -1168,6 +1177,10 @@ class V2RayCollectorApp:
         console.print(country_table)
         console.print(asn_table)
         
+        # Suggested Commit Message
+        commit_message = f"feat: Update configs - {len(all_configs)} total"
+        console.print(Panel(f"[bold cyan]{commit_message}[/bold cyan]", title="💡 پیشنهاد پیام کامیت (Commit Message)", border_style="yellow"))
+
 async def _download_db_if_needed(url: str, file_path: Path):
     if not file_path.exists():
         console.log(f"[yellow]{file_path.name} not found, downloading...[/yellow]")
