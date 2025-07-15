@@ -1,16 +1,16 @@
-trojan://dfr0fojq-ssq7-9sfa-dh61-drp4i3g214c6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 13:31 ]
-trojan://if7sk08p-2qae-6x6b-wz8i-e4yiord7dhh7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7qy7gb2n-gkhu-1tmn-49gj-t8shztape95f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://iycjus24-p6vw-0xnw-6zdm-ap1cuptoe0yb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 13:59 ]
+trojan://6rx65lde-51u9-xyl4-tsm5-h2sfo1c1dkmv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0isc6zcg-lfs4-dh3s-q6dn-559l2yfe96ys@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVXBDbG91ZCBMdGQgXHUyNTA3IDk1LjExMS4yMTcuNTQiLCJhZGQiOiJ2MmF1MS41OTQ4ODgueHl6IiwicG9ydCI6MzQ1NjEsImlkIjoiZmQ1OWM5MmMtYWY3Mi0zY2E1LTkxNmUtODY4YjFhZGM1NzIxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvdjJyYXkifQ
-trojan://3767107462583558144@194.62.96.160:443?sni=subtle-seahorse.treefrog761.one&peer=subtle-seahorse.treefrog761.one&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - UpCloud Ltd ┇ 194.62.96.160
-vless://5776d672-3107-47c8-9690-a8ef7642773f@94.237.81.247:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=HRQDhdpRIWdrdZi5CoMlO2hfLeuSc8ftVWCvwwwsDW0&sid=e869#FI 🇫🇮 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 94.237.81.247
 vless://3a12d0e4-09e9-4c58-9689-7a10570137e7@5.22.215.251:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=WtghSR9akmczVquD7Z9M7gpIy0-zZgPuXYLiVfdJUjM&sid=e4d8a275#FI 🇫🇮 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 5.22.215.251
-vless://9fc6891e-b06b-4eb1-a6ec-5e180f7b1524@94.237.87.217:3096?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.87.217
+vless://4cc04a11-08c8-4aa5-8ee4-1173bfdf9df5@5.22.217.136:80?type=tcp&security=none&path=/#ES 🇪🇸 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 5.22.217.136
 vless://48735946-f706-4873-b9b6-d9f0255475cc@85.9.206.79:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=QYWJdS4JDdSmQKeMkJfPshFuz0bC3jhm9yW3uJfQFmw&sid=b4#DE 🇩🇪 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 85.9.206.79
+vless://9fc6891e-b06b-4eb1-a6ec-5e180f7b1524@94.237.87.217:3096?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.87.217
 trojan://3828095943467868160@194.62.99.56:443?sni=main-bee.dolphin109.quest&peer=main-bee.dolphin109.quest&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - UpCloud Ltd ┇ 194.62.99.56
+vless://acddb53a-0031-41d1-bc9b-d2a5ba5ad67a@5.22.212.180:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&sid=e869#FI 🇫🇮 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 5.22.212.180
+trojan://3767107462583558144@194.62.96.160:443?sni=subtle-seahorse.treefrog761.one&peer=subtle-seahorse.treefrog761.one&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - UpCloud Ltd ┇ 194.62.96.160
 vless://12d6eb6c-7fe7-4d13-9587-3bb9fda1bd28@213.163.200.215:443?type=ws&security=tls&path=/&sni=pasindu.vpnhub.news&fp=chrome&flow=none#FI 🇫🇮 ┇ VLESS-WS-TLS - UpCloud Ltd ┇ 213.163.200.215
-vless://4b6123d9-ced4-431b-9480-102e0729887e@bermuda.jahanmataleb.ir:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&sid=e869#FI 🇫🇮 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 5.22.212.180
-vless://4cc04a11-08c8-4aa5-8ee4-1173bfdf9df5@5.22.217.136:80?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 5.22.217.136
 vless://74ea5905-0f26-4261-986c-0717ed34815d@dl.magnataur.uk:12344?type=grpc&security=tls#FI 🇫🇮 ┇ VLESS-GRPC-TLS - UpCloud Ltd ┇ 94.237.80.207
-trojan://tl4bnago-o23b-m54l-6s9n-0mzwcpdr7gux@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y0nxbw5l-jbvq-b3xy-glys-e8a9dp72wha8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://5776d672-3107-47c8-9690-a8ef7642773f@94.237.81.247:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=HRQDhdpRIWdrdZi5CoMlO2hfLeuSc8ftVWCvwwwsDW0&sid=e869#FI 🇫🇮 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 94.237.81.247
+trojan://xgfpyrhp-0idv-mcgx-y4lh-ad2g5uicxasn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hebfo8uo-and8-5w7n-amup-qvw1q17czole@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
