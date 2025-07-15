@@ -1,12 +1,11 @@
-trojan://vpx55ha6-x1or-73io-rn6g-nxxmu43jtgkg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 19:24 ]
-trojan://d3lgdcxe-wvvb-e90q-qeq0-rx8hpygn1p1m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://00u4wkm4-90ok-ijsp-kj5e-chhyg62ru7w5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://kfkpq7fi-gorv-x8nj-yg1s-bdhrjbru3isd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 20:03 ]
+trojan://2ep925wy-yuca-lxwb-h53y-lqoq1za8j4b3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4b1p8tti-oymn-uezv-v2wa-3ytw063zg395@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@131.145.33.92:443#131.145.33.92:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#45.87.175.167:8080
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.197.77:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3 V2RAYNGFARS--V2RAYNGFARS--V2RAYNGFARS--V2RAYNGFARS--V2RAYNGFARS--V2RAYNGFARS/?ed&sni=Telegram-channel-WangCai2#25.129.197.77:8880
 vless://9c1665e9-28dc-4a0c-bb26-f228e69b424d@5.75.197.129:13836?type=tcp&security=none#5.75.197.129:13836
 vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#104.18.26.90:443
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?type=ws&security=tls&path=/azadnet-7py.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet-7py.pages.dev&fp=randomized#198.62.62.4:443
@@ -22,8 +21,9 @@ vless://7e91c270-c067-4c9c-9231-9208471487ce@www.speedtest.net:8880?type=httpupg
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@162.159.244.47:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#162.159.244.47:8880
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?type=ws&security=tls&path=/8WuhXm4QjK0L68Uf?ed=2560&sni=gGHDFa.pAgeS.Dev&fp=randomized#172.66.47.61:8443
 vless://bf09ef80-aae7-42b7-ab37-a29cd310a9a4@104.18.14.19:2086?type=ws&security=none#104.18.14.19:2086
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://06f5a7cb-3842-49d0-a498-d4165c0eb956@test-lets-wildcard.spotifycdn.org:443?type=xhttp&security=reality&path=/&sni=www.tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=7f2798f9#test-lets-wildcard.spotifycdn.org:443
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&sid=e701a013553059ba#real-all3-2.sdcards.ir:8501
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?type=tcp&security=reality&sni=refersion.com&fp=random&flow=xtls-rprx-vision&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#micro.slumbo.com:443
-trojan://lcfhqx5h-guz4-581q-9667-vkz10t8n7k47@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nmex6rm2-s0vb-u82v-k7k1-ctk7dm7eropw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://mas25tcw-9nf9-adan-wcqa-osa6ahr2qtzq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yg5v29mh-evzj-qry9-a7yx-z7cizn0a6ul4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

@@ -1,13 +1,13 @@
-trojan://ic6tqk2t-driu-l9jz-khbb-ug6s9325um5g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 19:24 ]
-trojan://414wgnco-aeh6-jvbg-x1f8-vrg827xqt3it@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://r40qgu1v-rx2x-o3hs-xuyk-hrsa34e42258@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - KAMATERA ┇ 185.47.172.105
-vless://354712c4-dab3-452c-89fd-0a2edd6999f9@113.30.151.155:2060?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - KAMATERA ┇ 113.30.151.155
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RUUzeERpWXVES1BPWWZZZG45dDlOUFBXUVNlaWlkQVc0bHhFT2F2ampvMFdZN2w@113.30.151.53:31348#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - KAMATERA ┇ 113.30.151.53
+trojan://kgxn8ic3-jggr-utqz-x278-cal8jv5exxkz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 20:03 ]
+trojan://2bz6riv0-fjto-g8t3-9bgc-mhwuhqtcntrc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0dnqq6kb-ps7f-rs5m-d1q8-4fzt14r172o1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://fad2c7b4-9fd2-4c7c-a58b-4b75e561c34e@3.ariyanln.com:1020?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=-RyTywuH2pogbOrdVF2tbjPoXIZYLHquY6ROCMN9UC0&sid=ad057e6200dca0dd#IT 🇮🇹 ┇ VLESS-TCP-RLT - KAMATERA ┇ 113.30.150.175
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLQU1BVEVSQSBcdTI1MDcgMTAzLjEwMS4yMDMuMTczIiwiYWRkIjoibmV3My5odXZpY2xvdWQuY29tIiwicG9ydCI6NDQzLCJpZCI6ImExMDQ3NmI5LTFjMDctNGRlMy05ZDg0LWM1MWQyNGJlNTk5ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9hMTA0NzZiOS0xYzA3LTRkZTMtOWQ4NC1jNTFkMjRiZTU5OWYiLCJ0bHMiOiJ0bHMifQ
 vless://28148cc8-53ab-4a30-9264-34046701c44f@103.241.66.93:40449?type=grpc&security=reality&sni=cdn.discordapp.com&fp=firefox&pbk=ExwFp27TufWSgoDiVL-xTUfjzRqWM-kMPyb-IBTpwi8&sid=b203#IT 🇮🇹 ┇ VLESS-GRPC-RLT - KAMATERA ┇ 103.241.66.93
-vless://fad2c7b4-9fd2-4c7c-a58b-4b75e561c34e@3.ariyanln.com:1020?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=-RyTywuH2pogbOrdVF2tbjPoXIZYLHquY6ROCMN9UC0&sid=ad057e6200dca0dd#IT 🇮🇹 ┇ VLESS-TCP-RLT - KAMATERA ┇ 113.30.150.175
+vless://354712c4-dab3-452c-89fd-0a2edd6999f9@113.30.151.155:2060?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - KAMATERA ┇ 113.30.151.155
+vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - KAMATERA ┇ 185.47.172.105
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RUUzeERpWXVES1BPWWZZZG45dDlOUFBXUVNlaWlkQVc0bHhFT2F2ampvMFdZN2w@113.30.151.53:31348#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - KAMATERA ┇ 113.30.151.53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NklOWnFNV0d0MG84UnY0@195.88.25.214:1026#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - KAMATERA ┇ 195.88.25.214
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtBTUFURVJBIFx1MjUwNyAxODUuMTM5LjIyOC4xMjIiLCJhZGQiOiJhc3dlZG9ua2UuYmx1ZXRvb3RobW91c2UuaXIiLCJwb3J0Ijo4MDgxLCJpZCI6ImIzMWJlZGNjLWEzOTctNGFjNy1hM2ZiLWFlY2QxNmUwOGE4NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-trojan://uv6kj8ag-6z49-os8f-ujxk-ahrh79u1m8iw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qtct3osq-mk5y-lhqo-o89t-ly571ab0o02x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://4lv3qutn-cmop-9b0z-9e75-nt0kc2sd62dt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jmnvm6mk-fj0u-3jwi-odqx-zd8ikf1367w6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
