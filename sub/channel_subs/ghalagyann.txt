@@ -1,8 +1,6 @@
-trojan://vv835tsm-lnlg-5y3w-vmy6-ob61zs6wwliy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 20:57 ]
-trojan://2dgykcne-ghae-cjzx-7v4j-3g3yj52n0ecj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3ujuax0j-k3n4-qutb-qk8k-d4juvlos3wei@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://01c83d31-8215-4f85-b94b-8c64a92a040a@151.101.3.8:80?type=xhttp&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#151.101.3.8:80
-vless://01c83d31-8215-4f85-b94b-8c64a92a040a@151.101.3.8:80?type=xhttp&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#151.101.3.8:80
+trojan://ymy9ku5m-xgy3-946h-mego-loikiyirn3x9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 21:24 ]
+trojan://31ahvmn8-fvqm-zdg9-cvjy-tlko2ieynx3b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xck22lrz-km5o-igk9-uqe6-6r71w05227fh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://af299355-1e40-4722-8723-bc05e11c0f9d@151.101.3.8:80?type=xhttp&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=2560#151.101.3.8:80
 vless://01c83d31-8215-4f85-b94b-8c64a92a040a@151.101.3.8:80?type=xhttp&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#151.101.3.8:80
 vless://ac28579d-1c73-489c-8e85-5cfa8e622763@www.speedtest.net:2096?type=ws&security=tls&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&sni=arm1.dollardoon.com&fp=chrome#www.speedtest.net:2096
@@ -17,9 +15,10 @@ vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?type=tcp&securit
 vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?type=tcp&security=none#62.60.179.74:44792
 vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?type=tcp&security=none#62.60.179.74:44792
 vless://269d2d4b-360b-421e-980e-9f9c0c63916c@62.60.179.74:44792?type=tcp&security=none#62.60.179.74:44792
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&security=none#138.199.175.204:8880
 vless://f5940000-f45f-4f83-822b-9c2deaed74b6@194.182.79.64:14072?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=rBFBT_1w_zGmAu58xZ11pvWfOrf1wmW-LUVKkqwFrTc&sid=29c9b711b2a9fb#194.182.79.64:14072
 vless://c8da575a-b3ab-4949-985c-d151335b5301@194.182.79.182:29706?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=9EHYRTmUgCJodNs5L4wTxoxniVtvsXFonfQ1H72LqRQ&sid=ef8dfc4f801d89#194.182.79.182:29706
 vless://4ac9748e-ab31-499e-9221-3e75c314b503@194.182.79.72:32827?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=Q-zmZ8W_ZN8ua7qt2xGR9EHG56TfC4LL39V7pNcM0gM&sid=e69d8702eba67ed7#194.182.79.72:32827
 vless://a879196c-d849-4416-9b87-464733270cc5@194.182.79.117:35306?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=ttf6dx8tDfrlRTwPzXzHcFgB0DfViVZmUOxxbNqiMFY&sid=bd02b342e15f61#194.182.79.117:35306
-trojan://6oqz02l1-p350-o8kl-je34-pnjspqy33am1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cm0ea08a-15yd-dca0-owpa-9cut93ayis4x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://y1qh746p-dl19-1ebi-btve-gjg8vp0n8shg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p8tp7j10-oazr-rc57-vgjr-nyv18nanv0p5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
