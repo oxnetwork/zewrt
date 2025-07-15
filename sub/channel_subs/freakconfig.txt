@@ -1,16 +1,28 @@
-trojan://wk6qwlls-eli7-arnw-16qv-gdzgavr3zk4g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 11:24 ]
-trojan://aexldq7w-4vzs-q7dc-gdch-u69509o1n9ja@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bjzmhxl1-8fu1-jdxn-9zcx-btiv41u10vty@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://d9i67u2q-jb8k-gf0m-qtwr-gv9eifwn3bwi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 12:04 ]
+trojan://wb989coh-eibs-acwv-glxl-mr1ccow5jqdf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uoo7dpif-5jjd-sndp-j0n9-iv90mp5mgs48@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#switcher-nick-croquet.freesocks.work:443
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#152.53.2.128:34045
 trojan://telegram-id-directvpn@18.199.233.194:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#18.199.233.194:22223
 trojan://telegram-id-privatevpns@18.199.233.194:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#18.199.233.194:22222
 trojan://telegram-id-privatevpns@63.177.166.9:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.177.166.9:22222
 trojan://telegram-id-directvpn@63.177.166.9:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.177.166.9:22223
-trojan://0RiSuJPsug%23v@104.21.43.168:443?sni=2.link-kon.ir&peer=2.link-kon.ir&security=tls#104.21.43.168:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1QEZyZWFrQ29uZmlnIiwiYWRkIjoiMTkzLjE1MS4xNTEuOTMiLCJwb3J0Ijo1MjI2MiwiaWQiOiJhZjVhMGQwYy1jODk4LTRhNTEtYmE2YS00NzE3OWQ0ODNlNDEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZjI5XHVmZTBmIEBGcmVha0NvbmZpZyIsImFkZCI6IjEzOC4xOTkuMTQ2LjE4MSIsInBvcnQiOjEzNDExLCJpZCI6ImVlM2YzN2IxLWU4MDUtNGJkYy05ZDQ2LTgwZGYxODE4OTlkZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWUxXHVmZTBmIEBGcmVha0NvbmZpZyIsImFkZCI6IjEzOC4xOTkuMTQ2LjE4MSIsInBvcnQiOjEzNDExLCJpZCI6ImVlM2YzN2IxLWU4MDUtNGJkYy05ZDQ2LTgwZGYxODE4OTlkZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?type=tcp&security=none#84.47.233.110:59761
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?type=tcp&security=none#91.99.171.12:443
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?type=tcp&security=none#91.99.159.125:443
+vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.18.26.90:8880?type=httpupgrade&security=none&path=/#104.18.26.90:8880
+vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.246.29:443?type=ws&security=tls&path=/Telegram@V2ray_Alpha/?ed=2560&sni=lv.2138937.xyz#190.93.246.29:443
+vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?type=tcp&security=none#193.151.137.17:4411
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?type=ws&security=none&path=Telegram@V2ray_Alpha/?ed=2560#45.131.208.130:80
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?type=ws&security=tls&path=/Telegram@V2ray_Alpha/?ed=2560&sni=yx.yushan.dpdns.org&fp=random#172.67.71.187:443
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?type=tcp&security=none#91.99.14.202:443
+vless://35e905b6-01d4-4697-8e1a-fce4cac9df75@fastly.vipfast7.site:80?type=ws&security=none&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048#fastly.vipfast7.site:80
+vless://66214617-4e4d-4dc0-baa1-bed80c7b7792@ir.rapido.biseda2.eu:443?type=xhttp&security=tls&path=/?ed=2048&sni=ir.rapido.biseda2.eu&fp=chrome#ir.rapido.biseda2.eu:443
+vless://8a723553-2445-bb1d-38a9-bb2866ba4ed3@s6.itgetway.ir:31981?type=tcp&security=none&sni=1#s6.itgetway.ir:31981
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?type=tcp&security=none#91.99.122.102:443
+vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@193.151.147.139:1991?type=tcp&security=none#193.151.147.139:1991
 vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:2020?type=tcp&security=none#91.107.154.77:2020
 vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@rose1.camellia2.shop:1991?type=tcp&security=none#rose1.camellia2.shop:1991
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?type=tcp&security=none#91.99.192.155:443
@@ -71,15 +83,8 @@ vless://356ae387-2c37-4b84-b03a-f3fce9b54d36@142.132.227.65:443?type=tcp&securit
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?type=ws&security=tls&path=/bDUGlAj9BFG7zebG?ed=2560&sni=2.link-kon.ir&fp=randomized#104.21.43.168:443
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?type=tcp&security=none#142.132.227.65:8080
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?type=ws&security=none&path=/?ed=2048#141.101.121.55:8080
-vless://telegram-id-Arfilter@185.148.104.157:80?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80#185.148.104.157:80
-vless://d0974e59-c02f-40b2-955b-6dcec407113e@ro.speedg.top:45023?type=tcp&security=none#ro.speedg.top:45023
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?type=xhttp&security=tls&path=/tas&sni=auto.tas-bazi.com&fp=firefox#www.speedtest.net:443
-vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?type=tcp&security=none#65.109.201.108:443
-vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:8080?type=tcp&security=none#zzyd6dhd5.pet0er23mh21qq.com:8080
-vless://17a7a43e-fc4d-4bce-94df-124e54026a72@panel1.zapserver.top:53217?type=tcp&security=none#panel1.zapserver.top:53217
-vless://9f9aaa95-3380-4d63-a3df-fa07e8aef582@151.101.3.8:80?type=xhttp&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=2560#151.101.3.8:80
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?type=tcp&security=reality&sni=refersion.com&fp=random&flow=xtls-rprx-vision&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#micro.slumbo.com:443
 vless://46677716-490d-4a51-8a68-c44090505da3@real-all2.sdcards.ir:8509?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=LD--N4X5Fo6UKi8c6XIUGfFCuRWKmvLHk_bwacZVDD4&sid=67ceba05200e42df#real-all2.sdcards.ir:8509
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&sid=e701a013553059ba#real-all3-2.sdcards.ir:8501
-trojan://bk8taibx-yi1a-bn6t-ma7h-uwgug1nx4re1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://smn00bn8-rswo-erxa-f9n4-blyqocfgfy6n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+trojan://avah31kb-ifys-mxtj-6rvj-av3w74xg8sv6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y7lgb7x3-66hb-4zft-1y4d-ujjesxuj44ds@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.2
