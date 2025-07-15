@@ -1,6 +1,6 @@
-trojan://3xg9xhbf-6lx2-nghh-2jqn-y264ifrh573k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 02:57 ]
-trojan://6a2n3jew-deg8-06io-viv2-a47imda4hcah@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://25ldp4t1-d330-6anw-g9bm-spu8mifchik4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://uip43lnm-xmb7-xizi-t32z-cnfwbfkdvt78@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 03:21 ]
+trojan://8r4njsdh-my9m-sf6o-yro4-o7x74ga5ix8p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mu5a8oe7-cjep-ov8j-2xnm-e9slwpntpav7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag@45.140.146.223:8388#45.140.146.223:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSjd3eVJnWDg2V3lXdDZIUWlud25E@51.158.252.130:443#51.158.252.130:443
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p220.panda001.net:28290#p220.panda001.net:28290
@@ -8,7 +8,6 @@ trojan://Aimer@199.34.228.71:8443?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambe
 trojan://Aimer@lynn.ns.cloudflare.com:443?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#lynn.ns.cloudflare.com:443
 trojan://Aimer@54.241.79.250:80?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#54.241.79.250:80
 trojan://Aimer@188.164.159.241:2096?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#188.164.159.241:2096
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.45.64:80?type=tcp&security=none&path=/#5.223.45.64:80
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?type=grpc&security=none#45.82.251.92:8880
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80?type=ws&security=none&path=/#141.193.213.21:80
 vless://97c4550f-8ecc-42fa-ae66-3b550c986cd2@aliakb3435.pages.dev:443?type=ws&security=tls&path=/PLe847RCOx5eWYOx?ed=2560&sni=aLiAkB3435.paGES.dEV&fp=randomized#aliakb3435.pages.dev:443
@@ -19,7 +18,8 @@ vless://44926da6-c5e7-4ac8-982e-90322322f9d5@162.159.9.106:8880?type=httpupgrade
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#185.243.51.67:21760
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.249.166.4:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#34.249.166.4:22222
 vless://ad5e7710-15f4-4cb8-c3bd-302bb5540263@151.101.67.8:80?type=xhttp&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#151.101.67.8:80
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?type=ws&security=none&path=/#188.119.112.3:2052
 vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@www.myket.ir.us.uk.studentcp.ir:18432?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=TjzINswJoda1Y73Mks7EqA2VSZAbsYTdMuqlZFVtKBo&sid=3e2eba934db12b17#www.myket.ir.us.uk.studentcp.ir:18432
 vless://c07012cb-ed4c-4cf9-bfd7-11a67f6c8230@188.245.55.148:999?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=mC2_7hqeQtC5lHPS2JVy2h5ayLQQrAdp6TmU-9J0Ihg&sid=dcae68c2#188.245.55.148:999
-trojan://s6tsemkq-j8tr-1rgp-hbb1-yxt5d9gvh9u7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ggk8j905-wbaa-m41f-rb62-o2lp19qwzv6a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://k0hv0thp-mvz5-akih-of5b-i02hnv12yk3r@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://osnf7mav-ovww-6wj9-gdio-deeewlklpik4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
