@@ -1,6 +1,7 @@
-trojan://jngo4qje-hqib-go6k-uby0-yhu6lkpnpkoi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 07:53 ]
-trojan://o4nftf0x-4un1-89rb-n5ff-cz22p8g9vmat@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4x689hvw-ai23-upy7-enls-lzsr9fu0wmxq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://90tdx7xw-bs1z-q18v-33ev-x6963bv67st6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 08:37 ]
+trojan://aia884dl-c54f-l7qk-eqer-e5qchcb4qjat@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://p3kr40sw-u8tc-6gef-pijm-j9mq65n5w3hg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0RiSuJPsug%23v@104.21.43.168:443?sni=2.link-kon.ir&peer=2.link-kon.ir&security=tls#104.21.43.168:443
 trojan://0RiSuJPsug%23v@104.21.43.168:443?sni=2.link-kon.ir&peer=2.link-kon.ir&security=tls#104.21.43.168:443
 trojan://0RiSuJPsug%23v@104.21.43.168:443?sni=2.link-kon.ir&peer=2.link-kon.ir&security=tls#104.21.43.168:443
 trojan://0RiSuJPsug%23v@104.21.43.168:443?sni=2.link-kon.ir&peer=2.link-kon.ir&security=tls#104.21.43.168:443
@@ -109,6 +110,19 @@ vless://ff5e3f7e-5383-44a3-a48f-f5bb10d491b4@104.17.147.22:8080?type=ws&security
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?type=ws&security=tls&path=/&sni=iran.akcovufun.ir#172.67.69.216:2053
 vless://b8fad738-ce93-4ef1-a632-b8059ec582de@172.67.23.247:8080?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#172.67.23.247:8080
 vless://telegram-id-Arfilter@185.148.104.157:80?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80#185.148.104.157:80
+vless://ea8b3d67-ffed-4fa0-9e74-1afe92c5e801@151.101.3.8:80?type=xhttp&security=none&path=/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG?ed=1024#151.101.3.8:80
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/?ed&sni=PaGes.deV#www.speedtest.net:443
+vless://78802591-aa5f-47ea-8184-9e30368d9b50@185.146.173.38:2052?type=ws&security=none#185.146.173.38:2052
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.80.111.165:2053?type=ws&security=tls&path=/Telegram@V2ray_Alpha/?ed=2560&sni=019309B7.XyZ0.PaGeS.dEV&fp=randomized#45.80.111.165:2053
+vless://d1a98cea-5826-4001-92a6-d2667aaf8b2f@germany.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2048#germany.fast.hosting-ip.com:80
+vless://ed579b5e-96df-413c-8133-8a907b931866@configline.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#configline.fast.hosting-ip.com:80
+vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?type=ws&security=none&path=/?ed=2560#104.24.248.204:80
+vless://telegram-id-Arfilter@www.speedtest.net:80?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80#www.speedtest.net:80
+vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?type=ws&security=tls&path=/?ed=2560&sni=rayan-olala.parvaneh.dpdns.org#104.19.173.68:443
+vless://ff5e3f7e-5383-44a3-a48f-f5bb10d491b4@104.17.147.22:8080?type=ws&security=none&path=/#104.17.147.22:8080
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?type=ws&security=tls&path=/&sni=iran.akcovufun.ir#172.67.69.216:2053
+vless://b8fad738-ce93-4ef1-a632-b8059ec582de@172.67.23.247:8080?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#172.67.23.247:8080
+vless://telegram-id-Arfilter@185.148.104.157:80?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80#185.148.104.157:80
 vless://8f10f456-fbb0-492a-a71b-9b88cde3e5aa@91.107.251.56:22?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&sid=d757f949ab85#91.107.251.56:22
-trojan://4crijjbq-vk1e-ghx1-df5d-p59mht5wtsaa@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xqv0wjp1-mj53-50b8-86kx-tf63i30jxtx8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+trojan://odqm2bw1-kgt4-et28-s89d-w0qaax1poltd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9z4y19u0-2e69-bnep-7xo0-23ru63xj967l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
