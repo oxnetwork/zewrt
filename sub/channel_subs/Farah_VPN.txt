@@ -1,6 +1,6 @@
-trojan://vc6p30ka-izhn-9ouh-ops4-glm9dz1xf0az@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 13:59 ]
-trojan://d6xzmjip-etr5-bmx4-283s-3oebpkdwsawa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6iqfaus0-5fqg-q340-or8p-6hjsbachkibi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://r4de8svf-e9kz-1ulu-az30-excecxk5w0ql@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 14:27 ]
+trojan://yruatybu-pwzo-h9y7-t76l-j7rb9fhia6c7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fzed63x4-zrf4-unkh-8av2-zzcpa6diw3a8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.80:443#212.102.53.80:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#45.158.171.146:8080
 trojan://telegram-id-directvpn@51.44.136.49:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#51.44.136.49:22222
@@ -15,10 +15,10 @@ vless://44d99ec0-91e8-41b0-8f87-500452da4c2e@161.97.160.162:443?type=tcp&securit
 vless://8d938a3f-9243-48c8-b015-44a98c2f6e73@185.146.173.194:2082?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#185.146.173.194:2082
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?type=ws&security=none&path=/?ed=2048#141.101.121.55:8080
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?type=ws&security=tls&path=/telegram@v2ray_configs_pools/?ed=2560&sni=ConFIgmr.PaGeS.dEV&fp=randomized#172.66.44.118:443
-vless://a83c693a-29da-4472-9da9-b0f4d04e42e5@bmi.raheaiande.ir:1001?type=tcp&security=reality&sni=ea.com&fp=edge&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&sid=c7bc4d#bmi.raheaiande.ir:1001
 vless://5aa5a43f-a972-41a3-934d-8d8c2a20a494@91.107.177.96:2083?type=grpc&security=reality&sni=refersion.com&fp=randomized&pbk=TuZN_1XtdIQrXoKk5MFJR62hyz7FkIilrMEguBWtvmE&sid=4ea00ce2#91.107.177.96:2083
 vless://71ee66e6-57b6-4d06-a89f-322fa65c718e@51.75.155.84:80?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=gqU-OZJ8VtvpUsHyfS3qYe30gskO36uetcjBLZOd8g0&sid=808863e2d27b6c#51.75.155.84:80
 vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@putin.studentcp.ir:64833?type=xhttp&security=reality&path=/&sni=refersion.com&fp=chrome&pbk=_C4ZAMamW-0gamGRg3GBo9hvkUHjiuGc5whj3elUm1I&sid=332ca8e0c89f04c4#putin.studentcp.ir:64833
 vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@w.w.w.mohsen.com.tu.studentcp.ir:48615?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=eAC0TMJFU_PNLyoF6ZTWrmI456p9uU4gLriAzzFfZ30&sid=393c37936cfa3927#w.w.w.mohsen.com.tu.studentcp.ir:48615
-trojan://un8q1wa3-xoyp-q5gf-kove-86myyzj0u606@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://92kdo723-41qx-2smd-m7cx-rg9fxoxa6yb3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@www.telewebion.com.uk.studentcp.ir:22049?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=5sAAbRXQgEeQYjH1U652zr7c6azVN3a9KVVCWrzJ7mc&sid=da1a52f306950def#www.telewebion.com.uk.studentcp.ir:22049
+trojan://f5alazzh-qpwk-sjy3-yils-jutzquyz6btb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5xhe7lna-v6tx-ud75-pdyk-t0qekov410m5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
