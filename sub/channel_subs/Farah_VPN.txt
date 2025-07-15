@@ -1,9 +1,10 @@
-trojan://y7h18766-sl09-q461-uo8i-3onqjq7746hp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 10:35 ]
-trojan://1k2x9rpz-twmg-988c-qlnq-fr5la1ne5txd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hexa2x35-ts4y-5zr8-vbkf-2uv60svr8xom@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3sqf5h80-z0t0-4qxy-jvk1-zxw25mr0nbpb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 11:00 ]
+trojan://v2ns9b43-xzry-rvwv-rphb-msuolefvd2hw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jtcwrdyt-eg4h-nsr1-o4r5-mrwy46evn84m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.255.210.49:989#134.255.210.49:989
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.80:443#212.102.53.80:443
 trojan://telegram-id-directvpn@51.44.136.49:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#51.44.136.49:22222
+trojan://Aimer@66.81.247.230:2096?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#66.81.247.230:2096
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjY0LjIyNS4xMDkuMjA2IiwicG9ydCI6MjA4MiwiaWQiOiI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjM4LjE3NC4xOTAuODAiLCJwb3J0IjozODAwNywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xMDIyMDYyODIwMDUiLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjE5Mi43NC4yMzkuMjEzIiwicG9ydCI6MzEwMDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMTczNzcxNDQyNzEwNCIsInRscyI6InRscyJ9
@@ -15,10 +16,9 @@ vless://44d99ec0-91e8-41b0-8f87-500452da4c2e@161.97.160.162:443?type=tcp&securit
 vless://8d938a3f-9243-48c8-b015-44a98c2f6e73@185.146.173.194:2082?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#185.146.173.194:2082
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?type=ws&security=none&path=/?ed=2048#141.101.121.55:8080
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?type=ws&security=tls&path=/telegram@v2ray_configs_pools/?ed=2560&sni=ConFIgmr.PaGeS.dEV&fp=randomized#172.66.44.118:443
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.17.63.73:443?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#3.17.63.73:443
 vless://312a2e67-0fab-4546-8d3f-adbe543bc87a@2.56.126.16:58301?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=zS7thuYwb8TZIX_MQGS1ycQuoz48wseBCrXNskFy4RI&sid=72cb9fb91d#2.56.126.16:58301
 vless://a83c693a-29da-4472-9da9-b0f4d04e42e5@bmi.raheaiande.ir:1001?type=tcp&security=reality&sni=ea.com&fp=edge&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&sid=c7bc4d#bmi.raheaiande.ir:1001
 vless://5aa5a43f-a972-41a3-934d-8d8c2a20a494@91.107.177.96:2083?type=grpc&security=reality&sni=refersion.com&fp=randomized&pbk=TuZN_1XtdIQrXoKk5MFJR62hyz7FkIilrMEguBWtvmE&sid=4ea00ce2#91.107.177.96:2083
 vless://71ee66e6-57b6-4d06-a89f-322fa65c718e@51.75.155.84:80?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=gqU-OZJ8VtvpUsHyfS3qYe30gskO36uetcjBLZOd8g0&sid=808863e2d27b6c#51.75.155.84:80
-trojan://qjwjyc1g-ho3u-x2z7-wa4j-nidy2ic59ad0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ng8cdw0h-ph4j-vsr4-stu2-r6winhq7kqb6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
+trojan://8qk10zzx-tfgs-vzj7-oqi9-v20bgc49bis5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kf755xx9-8ine-ks0p-tfp8-ee12pqlq21s4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.1
