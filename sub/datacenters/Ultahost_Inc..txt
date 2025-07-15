@@ -1,16 +1,16 @@
-trojan://42kbzomm-6qnd-yit7-vby2-0ly53x7su6c4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 16:18 ]
-trojan://jqulxcdr-fbxl-cxly-y1xr-nlwacxv3zutl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qz7nhrdv-2wlz-clrw-5yi1-7xh1rhd32lzl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVWx0YWhvc3QsIEluYy4gXHUyNTA3IDIxNi4xODUuNTcuMjI5IiwiYWRkIjoiMjE2LjE4NS41Ny4yMjkiLCJwb3J0IjoxNTMsImlkIjoiMjAwZmU1NjQtYmE0MS0zYzRjLWE0Y2UtZTk0YzA4ZTliMjI1IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIn0
-vless://93dacda3-c49c-58ec-bfae-fcc1b5702ca5@38.247.64.127:443?type=ws&security=tls&path=/vless&sni=38.247.64.127&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Ultahost, Inc. ┇ 38.247.64.127
-vless://274da517-44ea-5863-bcb1-dc02b8982cf9@38.89.142.153:443?type=ws&security=tls&path=/vless&sni=38.89.142.153&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Ultahost, Inc. ┇ 38.89.142.153
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@tr.saigonfly.com:17064?insecure=0#TR 🇹🇷 ┇ HYSTERIA2-TCP-NTLS - Ultahost, Inc. ┇ 188.132.183.190
+trojan://evv7xxuo-7egy-y58l-ki7c-hk9ysuow9elp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 17:15 ]
+trojan://8fmwi62b-9206-4rve-z2pw-ynvkc5f36nj3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2nbtnehi-03mo-ifix-7zg9-4ovbhfqzlien@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d6cbf3e4-b7ca-a4b2-0b04-eacbdc28bc5a@188.132.184.148:8443?type=tcp&security=reality&sni=greenpepper.ir&fp=firefox&flow=xtls-rprx-vision&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede#TR 🇹🇷 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 188.132.184.148
-trojan://0f73d067-8fac-4bf4-a08e-ca2434ef5086@192.142.4.64:42405?sni=cdn.alibaba.com&peer=cdn.alibaba.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Ultahost, Inc. ┇ 192.142.4.64
-vless://39028f63-4adc-4a2c-9a57-9f583cd284e9@nl01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#NL 🇳🇱 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 185.82.73.189
-vless://ced55580-51a0-42c0-981e-707c282f48c0@192.142.18.117:1615?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#ZA 🇿🇦 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 192.142.18.117
+trojan://85c41c44-e235-4e0c-9c46-987b7233c837@192.142.4.64:40384?sni=400567.xyz&peer=400567.xyz&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Ultahost, Inc. ┇ 192.142.4.64
 hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@in1.xiaoliyu.us:2052?sni=in1.xiaoliyu.us&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - Ultahost, Inc. ┇ 216.185.57.58
+vless://ced55580-51a0-42c0-981e-707c282f48c0@192.142.18.117:1615?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#ZA 🇿🇦 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 192.142.18.117
+vless://39028f63-4adc-4a2c-9a57-9f583cd284e9@nl01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#NL 🇳🇱 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 185.82.73.189
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@tr.saigonfly.com:17064?insecure=0#TR 🇹🇷 ┇ HYSTERIA2-TCP-NTLS - Ultahost, Inc. ┇ 188.132.183.190
+vless://93dacda3-c49c-58ec-bfae-fcc1b5702ca5@38.247.64.127:443?type=ws&security=tls&path=/vless&sni=38.247.64.127&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Ultahost, Inc. ┇ 38.247.64.127
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVWx0YWhvc3QsIEluYy4gXHUyNTA3IDIxNi4xODUuNTcuMjI5IiwiYWRkIjoiMjE2LjE4NS41Ny4yMjkiLCJwb3J0IjoxNTMsImlkIjoiMjAwZmU1NjQtYmE0MS0zYzRjLWE0Y2UtZTk0YzA4ZTliMjI1IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmI0NzU4NjJmYjUyZGY1@188.132.129.144:11201#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Ultahost, Inc. ┇ 188.132.129.144
+vless://274da517-44ea-5863-bcb1-dc02b8982cf9@38.89.142.153:443?type=ws&security=tls&path=/vless&sni=38.89.142.153&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Ultahost, Inc. ┇ 38.89.142.153
 vless://0d26383d-21f7-4159-986a-a7ecac87e072@nld.kitten-tube.com:443?type=tcp&security=reality&sni=google.com&fp=firefox&flow=xtls-rprx-vision&pbk=uxOwFKgVP_ZvMf0sfTkPuI2YFdSvQ3Xwq21VyQ7paVM&sid=7903D9CA#ZA 🇿🇦 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 192.142.18.253
-trojan://9kfihgri-4w02-5gh7-rg48-76whwqtorepx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zex94l97-lz46-8ybl-d7ia-9ulje6sylxp7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://hync9gns-rqz5-qimy-o5u8-st4jb2crbyx7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://phqp8nrj-cre4-v167-79ia-iwns6glf3mhb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

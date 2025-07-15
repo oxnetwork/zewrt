@@ -1,14 +1,13 @@
-trojan://impy0h9s-sel0-z4ey-q0b7-t46fjz47tpy5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 16:18 ]
-trojan://dcgtwvae-nald-51rm-n97f-qw7kr32xvbta@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://n6276h13-56yv-lb38-kk46-m3j8hzcoetjv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://92jx5rhg-8sqe-ktx2-ck0i-njtsfhl8bsuy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-15 | 17:15 ]
+trojan://v4b2l7sc-74mx-w9ur-ozvs-ls0lu62aszba@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6w8awut0-fp0b-egvo-stbp-ags5moezxvwg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.80:443#212.102.53.80:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#45.158.171.146:8080
 trojan://Aimer@66.81.247.230:2096?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#66.81.247.230:2096
 trojan://Aimer@188.164.159.25:2053?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#188.164.159.25:2053
 trojan://Aimer@161.129.41.140:6352?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#161.129.41.140:6352
 trojan://Aimer@199.34.228.71:8443?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#199.34.228.71:8443
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjY0LjIyNS4xMDkuMjA2IiwicG9ydCI6MjA4MiwiaWQiOiI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjM4LjE3NC4xOTAuODAiLCJwb3J0IjozODAwNywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xMDIyMDYyODIwMDUiLCJ0bHMiOiJ0bHMifQ
+trojan://Aimer@lynn.ns.cloudflare.com:443?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#lynn.ns.cloudflare.com:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjE5Mi43NC4yMzkuMjEzIiwicG9ydCI6MzEwMDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMTczNzcxNDQyNzEwNCIsInRscyI6InRscyJ9
 vless://8d938a3f-9243-48c8-b015-44a98c2f6e73@185.146.173.194:2082?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#185.146.173.194:2082
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?type=ws&security=none&path=/?ed=2048#141.101.121.55:8080
@@ -20,5 +19,6 @@ vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@putin.studentcp.ir:64833?type=xhttp
 vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@w.w.w.mohsen.com.tu.studentcp.ir:48615?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=eAC0TMJFU_PNLyoF6ZTWrmI456p9uU4gLriAzzFfZ30&sid=393c37936cfa3927#w.w.w.mohsen.com.tu.studentcp.ir:48615
 vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@www.telewebion.com.uk.studentcp.ir:22049?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=5sAAbRXQgEeQYjH1U652zr7c6azVN3a9KVVCWrzJ7mc&sid=da1a52f306950def#www.telewebion.com.uk.studentcp.ir:22049
 vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@www.myket.ir.us.uk.studentcp.ir:18432?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=TjzINswJoda1Y73Mks7EqA2VSZAbsYTdMuqlZFVtKBo&sid=3e2eba934db12b17#www.myket.ir.us.uk.studentcp.ir:18432
-trojan://680zp7gr-zg7o-je4i-w2lu-lpp13q7eli22@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tveid8tc-dsug-ciuw-ef0n-bljngcvfzq8m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://c07012cb-ed4c-4cf9-bfd7-11a67f6c8230@188.245.55.148:999?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=mC2_7hqeQtC5lHPS2JVy2h5ayLQQrAdp6TmU-9J0Ihg&sid=dcae68c2#188.245.55.148:999
+trojan://1ufws5d1-u6b6-x76l-9jvm-ot7v7wqqbd3j@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8464s9x4-3bue-yaxn-xa0j-5ww962iplvq1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
