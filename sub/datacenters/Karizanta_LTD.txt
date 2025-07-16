@@ -1,16 +1,16 @@
-trojan://8o9vhlyl-zkys-eox8-sqi1-zg3t9tbnbv5e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 09:07 ]
-trojan://bzvqir5w-r9xw-vuut-lfoc-7fain2esc9zm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rgr1izap-q1zc-mxku-ritn-h90pc4q79qta@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://61b3ec5f-65ca-a021-f814-face3815540a@194.61.3.144:3950?type=ws&security=tls&path=?ed=2084&sni=nde1-d.mobstore.store&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 194.61.3.144
-vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@5.56.133.135:443?type=ws&security=tls&path=/&sni=nv155.momdping.com#NL 🇳🇱 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 5.56.133.135
-vless://af94594c-b048-4050-adcb-cf061c3155bd@5.56.133.42:443?type=tcp&security=none&path=/&sni=neshan.org#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 5.56.133.42
+trojan://14tt0vpo-79uy-enr5-eskx-wd1z3zk1lupy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 09:31 ]
+trojan://fcjkdqoo-0p1k-gkxp-izrx-4b2059x0q4i9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g7jj6g6a-i6bu-n427-6g1h-qdv2z6w1ybkx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0ef91a88-b5c7-4195-9132-3a7b5eb2ee21@217.18.90.81:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.81
-vless://c393a438-4503-43b9-9a8b-977d75f010bd@217.18.90.84:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.84
-vless://9e876ddd-97f0-472f-b825-e450800ba28a@good.srvice.shop:5050?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Karizanta LTD ┇ 217.18.90.209
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthcml6YW50YSBMVEQgXHUyNTA3IDIxNy4xOC45MC4xMTkiLCJhZGQiOiJubmwxLXR1Lm1vYnN0b3JlLnN0b3JlIiwicG9ydCI6MjA4MiwiaWQiOiI5MWYwYzBjMy01YTRiLTcyY2MtZDczZS1hY2M4NTExZTVmNzEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://61b3ec5f-65ca-a021-f814-face3815540a@194.61.3.92:3950?type=ws&security=tls&path=?ed=2084&sni=nde1-d.mobstore.store&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 194.61.3.92
-vless://cf8b42e6-d9dd-4599-9cb7-a6d27e1ea03b@5.56.133.62:2095?type=tcp&security=tls&sni=xen1.web.net-pardaze-iranian.ir&fp=firefox#NL 🇳🇱 ┇ VLESS-TCP-TLS - Karizanta LTD ┇ 5.56.133.62
+vless://61b3ec5f-65ca-a021-f814-face3815540a@194.61.3.144:3950?type=ws&security=tls&path=?ed=2084&sni=nde1-d.mobstore.store&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 194.61.3.144
 vless://61b3ec5f-65ca-a021-f814-face3815540a@194.61.3.123:3950?type=ws&security=tls&path=?ed=2084&sni=nuk1-d.mobstore.store&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 194.61.3.123
+vless://cf8b42e6-d9dd-4599-9cb7-a6d27e1ea03b@5.56.133.62:2095?type=tcp&security=tls&sni=xen1.web.net-pardaze-iranian.ir&fp=firefox#NL 🇳🇱 ┇ VLESS-TCP-TLS - Karizanta LTD ┇ 5.56.133.62
 vless://764f360b-3fdf-96b8-e197-f974380d1eb0@194.61.3.26:3950?type=ws&security=tls&path=?ed=2084&sni=nde2-d.mobstore.store&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 194.61.3.26
-trojan://70mmsss4-xaj0-21oa-71o9-mvqm68c3r5ox@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://65mnvu23-y7na-r0zw-qida-qedgiljjtf3g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://af94594c-b048-4050-adcb-cf061c3155bd@5.56.133.42:443?type=tcp&security=none&path=/&sni=neshan.org#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 5.56.133.42
+vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@5.56.133.135:443?type=ws&security=tls&path=/&sni=nv155.momdping.com#NL 🇳🇱 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 5.56.133.135
+vless://c393a438-4503-43b9-9a8b-977d75f010bd@217.18.90.84:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.84
+vless://2466eb01-4400-4281-9c1a-1cb96f9a5083@good.srvice.shop:2020?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.209
+vless://61b3ec5f-65ca-a021-f814-face3815540a@194.61.3.92:3950?type=ws&security=tls&path=?ed=2084&sni=nde1-d.mobstore.store&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 194.61.3.92
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthcml6YW50YSBMVEQgXHUyNTA3IDIxNy4xOC45MC4xMTkiLCJhZGQiOiJubmwxLXR1Lm1vYnN0b3JlLnN0b3JlIiwicG9ydCI6MjA4MiwiaWQiOiI5MWYwYzBjMy01YTRiLTcyY2MtZDczZS1hY2M4NTExZTVmNzEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+trojan://zoa4ditq-4nwf-nw4y-jj07-u2o4eblcudjj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://knuxk8g2-yvkd-wozu-t3qr-j2vx593atnn3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
