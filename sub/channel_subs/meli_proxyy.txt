@@ -1,6 +1,6 @@
-trojan://w61ar1pb-gqn0-be3h-oypn-dcee7fltrdo6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 13:03 ]
-trojan://wk5ojhqp-vivw-ygws-k2dw-9g009094whmc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5srp4z2u-yuk5-zspp-a321-4aqe88qcen12@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://e3qn8upv-7oj1-xc75-lii2-rrhx79ed7nx9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 13:28 ]
+trojan://vt4rt3a4-sksn-aih8-y1hr-di2j8iexsiui@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://56zcg30x-84hz-xnpv-5y1w-l1w03e4ajfjk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#173.244.56.6:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
@@ -34,7 +34,6 @@ trojan://0RiSuJPsug%23v@104.21.43.168:443?sni=2.link-kon.ir&peer=2.link-kon.ir&s
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?sni=x5-france-scaleway-v2.devefun.org&peer=x5-france-scaleway-v2.devefun.org&security=tls#x5-france-scaleway-v2.devefun.org:1935
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/@Prime_Verse?ed=2560&sni=PaGes.deV#www.speedtest.net:443
 vless://7193b0d2-8a38-466b-845f-8c44f25acb4c@ipb-alphaomega-company.1alphaomega.org:80?type=httpupgrade&security=none&path=/wss9000?ed=2560#ipb-alphaomega-company.1alphaomega.org:80
 vless://7193b0d2-8a38-466b-845f-8c44f25acb4c@ip-alphaomega-company.1alphaomega.org:443?type=httpupgrade&security=tls&path=/wss9000?ed=2560&sni=USA-ComPany-AlphaOmega-Team.AlphaOmegaComPany-PoWerFull.Ir.&fp=randomized#ip-alphaomega-company.1alphaomega.org:443
 vless://7193b0d2-8a38-466b-845f-8c44f25acb4c@ipb-alphaomega-company.1alphaomega.org:80?type=httpupgrade&security=none&path=/wss9000?ed=2560#ipb-alphaomega-company.1alphaomega.org:80
@@ -127,6 +126,13 @@ vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?type=ws&security=
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?type=tcp&security=none#95.217.242.125:990
 vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?type=tcp&security=none#91.99.229.232:50222
 vless://3056458b-913a-4193-b428-cdf22675b3b5@www.speedtest.net:2096?type=ws&security=tls&path=/ydgmopws#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=638879176706434658.amsterdam-prx-dnraaal.info#www.speedtest.net:2096
+vless://c5179990-6e22-484e-9f00-47fbc0491b88@104.21.72.109:443?type=ws&security=tls&path=/Channel---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY?ed=2560&sni=PamcHalL.coM&fp=randomized#104.21.72.109:443
+vless://c5179990-6e22-484e-9f00-47fbc0491b88@172.67.181.173:80?type=ws&security=none&path=/ELiV2-RAY---ELiV2-RAY--ELiV2-RAY---ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560&sni=PamcHalL.coM&fp=randomized#172.67.181.173:80
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2?ed=2560#104.16.85.3:8880
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.16.69.162:8880
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/?ed=2560&sni=vless8-ekh.pages.dev&fp=random#103.160.204.50:443
+vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.18.58.254:80?type=ws&security=none&path=?ed=2560&sni=barayeiranmahsang.bahareh.dpdns.org&fp=random#104.18.58.254:80
 vless://8f3fa4d8-9164-4320-af14-4bea3dbd1c21@bmi.raheaiande.ir:1001?type=tcp&security=reality&sni=ea.com&fp=edge&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&sid=c7bc4d#bmi.raheaiande.ir:1001
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.191.204:443?type=xhttp&security=reality#65.109.191.204:443
 vless://fdc0229d-2037-48c4-94d3-496e67cce5d8@85.234.65.120:443?type=tcp&security=reality&sni=github.com&pbk=307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA&sid=f90c#85.234.65.120:443
@@ -174,5 +180,5 @@ hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#46.17
 hysteria2://dongtaiwang.com@108.181.5.130:4710?sni=apple.com&insecure=1#108.181.5.130:4710
 hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#46.17.41.217:30033
 hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1#108.181.5.130:4710
-trojan://yc9xydt9-x578-2awn-ns1a-etqoloxkyfv9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://axv2p1a7-nb8r-2ccc-1138-3wt01akuojmf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://jr5w66pn-hmrn-68e1-p85g-iu5pu3fzy62i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xjcq9h78-3olk-t3rw-7rmf-613nufbexued@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
