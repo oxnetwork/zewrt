@@ -1,14 +1,15 @@
-trojan://uip43lnm-xmb7-xizi-t32z-cnfwbfkdvt78@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 03:21 ]
-trojan://8r4njsdh-my9m-sf6o-yro4-o7x74ga5ix8p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mu5a8oe7-cjep-ov8j-2xnm-e9slwpntpav7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ztydxi8w-6dsy-61d2-uxea-jyn4y3g2nvxj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 05:05 ]
+trojan://zuab04jq-k2hr-op57-hrvd-z0mzhpwsn0vc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://e598fyry-0dzy-cwr4-asip-z161un006koc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag@45.140.146.223:8388#45.140.146.223:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOSjd3eVJnWDg2V3lXdDZIUWlud25E@51.158.252.130:443#51.158.252.130:443
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p220.panda001.net:28290#p220.panda001.net:28290
-trojan://Aimer@199.34.228.71:8443?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#199.34.228.71:8443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVW5Wb05pcGlraUJFTlJLUFBTdVh2@89.208.113.187:39803#89.208.113.187:39803
 trojan://Aimer@lynn.ns.cloudflare.com:443?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#lynn.ns.cloudflare.com:443
 trojan://Aimer@54.241.79.250:80?sni=ngep.ambercc.filegear-sg.me&peer=ngep.ambercc.filegear-sg.me&security=tls#54.241.79.250:80
 trojan://Aimer@188.164.159.241:2096?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#188.164.159.241:2096
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?type=grpc&security=none#45.82.251.92:8880
+trojan://Aimer@54.176.205.20:80?sni=acepo.ambercc.filegear-sg.me&peer=acepo.ambercc.filegear-sg.me&security=tls#54.176.205.20:80
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjUxLjE1OC4xNDYuNjciLCJwb3J0IjoyMDg2LCJpZCI6IjA4NmZkMDY3LTE2ZTUtNDQzMi1mYmM5LTE2ODlkYjllZDM2ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIn0
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80?type=ws&security=none&path=/#141.193.213.21:80
 vless://97c4550f-8ecc-42fa-ae66-3b550c986cd2@aliakb3435.pages.dev:443?type=ws&security=tls&path=/PLe847RCOx5eWYOx?ed=2560&sni=aLiAkB3435.paGES.dEV&fp=randomized#aliakb3435.pages.dev:443
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=KtT44fPtXh.DaStAtSaRd.OrG#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
@@ -19,7 +20,6 @@ vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.249.166.4:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#34.249.166.4:22222
 vless://ad5e7710-15f4-4cb8-c3bd-302bb5540263@151.101.67.8:80?type=xhttp&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#151.101.67.8:80
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?type=ws&security=none&path=/#188.119.112.3:2052
-vless://3e2b1d35-7f3f-24e4-21c2-306bcbabc290@www.myket.ir.us.uk.studentcp.ir:18432?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=TjzINswJoda1Y73Mks7EqA2VSZAbsYTdMuqlZFVtKBo&sid=3e2eba934db12b17#www.myket.ir.us.uk.studentcp.ir:18432
 vless://c07012cb-ed4c-4cf9-bfd7-11a67f6c8230@188.245.55.148:999?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=mC2_7hqeQtC5lHPS2JVy2h5ayLQQrAdp6TmU-9J0Ihg&sid=dcae68c2#188.245.55.148:999
-trojan://k0hv0thp-mvz5-akih-of5b-i02hnv12yk3r@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://osnf7mav-ovww-6wj9-gdio-deeewlklpik4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://sblnwk74-zmel-83i2-ak01-tjvwf0ysj93l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nvhcnlil-bx3l-06pl-t42m-z1kvitqhf1r5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
