@@ -1,6 +1,6 @@
-trojan://ii7xgzds-s01z-gq9l-cnwv-03742nsyelz9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 14:00 ]
-trojan://ochvt0kp-nsqg-maze-1qyy-shigq88cx1a5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2120g3y8-foa0-ocfn-b9j7-6mhvc1sh3kmv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://rhaa18ni-ndke-v0wj-70mv-sg6p0yb9sw56@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 14:28 ]
+trojan://i9u549h4-b5zg-s7lx-rewl-5pgvnk92xbw8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ign2usbu-k3u8-ah12-gy6i-ik0mh7e1xvvx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn%40bored_vpn@62.60.176.240:36557?security=none#62.60.176.240:36557
 trojan://gDFMs8QUem@62.60.176.240:36557?security=none#62.60.176.240:36557
 trojan://T9xcEjdUWx@62.60.176.240:36557?security=none#62.60.176.240:36557
@@ -26,6 +26,8 @@ vless://05%656ff19-7c2f-42c%65-9%6566-f45b%65c9%658b0f@104.21.72.109:80?type=ws&
 vless://d6bd8cb%61-5d1%65-4%656d-8481-d%61353b65bf16@104.18.26.90:2052?type=httpupgrade&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#104.18.26.90:2052
 vless://1728c%617%65-9267-4c44-%61dfc-23939%61%65f%61964@151.101.67.8:80?type=xhttp&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#151.101.67.8:80
 vless://d6bd8cb%61-5d1%65-4%656d-8481-d%61353b65bf16@104.26.6.89:2052?type=httpupgrade&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#104.26.6.89:2052
+vless://c5179990-6%6522-484%65-9f00-47fbc0491b88@www.speedtest.net:443?type=ws&security=tls&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560&sni=PamcHalL.coM&fp=randomized#www.speedtest.net:443
+vless://c5179990-6%6522-484%65-9f00-47fbc0491b88@104.21.72.109:80?type=ws&security=none&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560&sni=PamcHalL.coM&fp=randomized#104.21.72.109:80
 vless://b8ea183a-0aa8-48e5-9e68-04c7cf9e5e3b@152.42.136.175:433?type=tcp&security=reality&sni=eur-lex.europa.eu&fp=safari&flow=xtls-rprx-vision&pbk=njS5Tdx6sQV0zCwFACf1uikWDSud9HqjS03WvH3_YAg&sid=82df26bf775f55#152.42.136.175:433
 vless://2dc62e43-90f5-4d72-815b-c64b40d19088@194.182.79.72:32826?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=viVxJfUpCBYia6ZwmuHkuS19C1ARC3OCaaRG9VvOIhg&sid=e8f24f79#194.182.79.72:32826
 vless://4a97cff9-6a61-403f-a4fb-e54853f132a4@194.182.79.117:35305?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=S8LYaLxf-eMRhIuDxpKuHKs6XBSk1mstDowwxjVYEQI&sid=99a2319d8ed309#194.182.79.117:35305
@@ -33,5 +35,5 @@ vless://c8da575a-b3ab-4949-985c-d151335b5301@194.182.79.182:29706?type=grpc&secu
 vless://f5940000-f45f-4f83-822b-9c2deaed74b6@194.182.79.64:14072?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=rBFBT_1w_zGmAu58xZ11pvWfOrf1wmW-LUVKkqwFrTc&sid=29c9b711b2a9fb#194.182.79.64:14072
 vless://a879196c-d849-4416-9b87-464733270cc5@194.182.79.117:35306?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=ttf6dx8tDfrlRTwPzXzHcFgB0DfViVZmUOxxbNqiMFY&sid=bd02b342e15f61#194.182.79.117:35306
 vless://4%61c9748%65-%61b31-499%65-9221-3%6575c314b503@194.182.79.72:32827?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=Q-zmZ8W_ZN8ua7qt2xGR9EHG56TfC4LL39V7pNcM0gM&sid=e69d8702eba67ed7#194.182.79.72:32827
-trojan://gnrj8gys-jyoe-8fgk-z48x-2xfzc4a1b6nr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://735i570j-gl14-c9j5-iky1-aseqgpcjnqq3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://irbza5qa-sirk-9hs0-stt5-ivbwv0pzggj9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yz7ayf5w-5xa2-y304-cokg-uum3int0d2c4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
