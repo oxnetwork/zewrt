@@ -1,15 +1,15 @@
-trojan://7uzsvfta-s5az-ynf1-r6ze-4ln0df3195xe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 09:31 ]
-trojan://o3gztfgk-ssvg-t609-fu5t-pe87yz4u64m3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rzdynsub-upud-vv7d-o0qx-aubld8f1b5o0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVGczWXpKaA@45.84.1.33:8388#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 45.84.1.33
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFVGTyBIb3N0aW5nIExMQyBcdTI1MDcgNDUuMTIuMTE0LjE1IiwiYWRkIjoiNDUuMTIuMTE0LjE1IiwicG9ydCI6MjA3NzksImlkIjoiOWRjNWJmZjgtYmNiYi00NzAzLWIwZmUtNGY5MWJhNTE3NDAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
-vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?type=ws&security=tls&path=/websocket&sni=ru05.abvpn.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - UFO Hosting LLC ┇ 2.56.178.47
-trojan://4841c9c0-ad42-11ed-bff1-1239d0255272@ru1.socifiles.com:443?security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - UFO Hosting LLC ┇ 91.207.183.82
+trojan://b427zlke-fpnc-k4h2-jjrt-gdwsze9cyc5m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 10:07 ]
+trojan://0nina5rb-jio9-77y0-g5vo-6gzaiqqvpk6f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nzmy8z7w-98q6-ksgx-t3vd-4ebke80c4ffm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWDFxOHN2MTd3QTVMR0RISUhENkpv@91.207.183.63:15720#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 91.207.183.63
-ss://YWVzLTI1Ni1nY206M0JHZExUM21YVw@45.144.30.144:18873#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 45.144.30.144
-vless://ca07fad3-a529-4a49-8ac7-da78c4ea1d01@45.153.231.248:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - UFO Hosting LLC ┇ 45.153.231.248
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaUhvM2hCR0Y4aDFjTmc4eXF0Y080@45.153.231.33:46980#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 45.153.231.33
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVUZPIEhvc3RpbmcgTExDIFx1MjUwNyAxMDMuMTEzLjY4LjIzMyIsImFkZCI6IjEwMy4xMTMuNjguMjMzIiwicG9ydCI6ODg4MCwiaWQiOiJmZGRiMzc4MS03ZTE1LTQ3MzEtYTkzMy05NGRiMTEwYjRiYmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MifQ
+vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?type=ws&security=tls&path=/websocket&sni=ru05.abvpn.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - UFO Hosting LLC ┇ 2.56.178.47
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaUhvM2hCR0Y4aDFjTmc4eXF0Y080@45.153.231.33:46980#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 45.153.231.33
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVUZPIEhvc3RpbmcgTExDIFx1MjUwNyA0NS4xMjguNTMuMTY5IiwiYWRkIjoiNDUuMTI4LjUzLjE2OSIsInBvcnQiOjE3ODAwLCJpZCI6IjMwMjk3YWIyLWNlZWYtNDhhZS04MzhmLTljYTRiZjYyNWRhOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
-trojan://udkomdd6-x2su-rgey-3ueq-6kc6adsbim3w@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4x4oqioz-tqdv-fxp0-0s91-1uqlb0rdsnes@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://4841c9c0-ad42-11ed-bff1-1239d0255272@ru1.socifiles.com:443?security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - UFO Hosting LLC ┇ 91.207.183.82
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFVGTyBIb3N0aW5nIExMQyBcdTI1MDcgNDUuMTIuMTE0LjE1IiwiYWRkIjoiNDUuMTIuMTE0LjE1IiwicG9ydCI6MjA3NzksImlkIjoiOWRjNWJmZjgtYmNiYi00NzAzLWIwZmUtNGY5MWJhNTE3NDAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVGczWXpKaA@45.84.1.33:8388#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 45.84.1.33
+vless://ca07fad3-a529-4a49-8ac7-da78c4ea1d01@45.153.231.248:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - UFO Hosting LLC ┇ 45.153.231.248
+ss://YWVzLTI1Ni1nY206M0JHZExUM21YVw@45.144.30.144:18873#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - UFO Hosting LLC ┇ 45.144.30.144
+trojan://9fajubqo-m2z1-ordu-cru1-jx2m6v2hwanf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://r9ue1se8-gxu6-ehww-emmc-lkbenkwltdfp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
