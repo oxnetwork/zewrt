@@ -1,6 +1,6 @@
-trojan://tvup03tq-itjq-umjn-l2gd-7h1x9xv38upe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 14:56 ]
-trojan://69ka952p-sr4b-emvg-un9h-p37ivs2cfw5n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dfwxlkk0-lmb5-j8wz-3hk8-ff2t3ghqnm4r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qk9ay8yk-0nlz-r48j-d94b-8m9o2agjd6ln@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 15:20 ]
+trojan://pxcvje6d-rpql-5pea-5sgt-e678dvowuoyk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://houmsatg-x9oo-v6jy-6iaz-1bp4j88xoccy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@peweza2.digipedia.shop:443#peweza2.digipedia.shop:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFN3JyYTdWd2xTeDg3U0xFc3FkMEd1@62.210.88.22:443#62.210.88.22:443
@@ -20,9 +20,7 @@ trojan://0RiSuJPsug%23v@104.21.43.168:443?sni=2.link-kon.ir&peer=2.link-kon.ir&s
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?sni=x5-france-scaleway-v2.devefun.org&peer=x5-france-scaleway-v2.devefun.org&security=tls#x5-france-scaleway-v2.devefun.org:1935
-vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
-vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@www.speedtest.net:80?type=ws&security=none&path=/olem/ws?ed=1024#www.speedtest.net:80
-vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?type=ws&security=tls&path=/8WuhXm4QjK0L68Uf?ed=2560&sni=gGHDFa.pAgeS.Dev&fp=randomized#172.66.47.61:8443
 vless://06f14984-f7b0-43af-9694-e54f18f9daa5@193.3.182.246:2070?type=tcp&security=none#193.3.182.246:2070
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
@@ -148,6 +146,8 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?type=g
 vless://607634f0-dff4-4f9f-8bc1-26f0cafe09e2@91.99.238.30:443?type=tcp&security=none#91.99.238.30:443
 vless://f3fec39b-8695-48d7-96d7-0c31d04f3fe8@91.99.134.253:443?type=tcp&security=none#91.99.134.253:443
 vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?type=ws&security=tls&path=/aom9TKCuG9Ci6Xf1/MTg1LjE4OC4xNDcuNzk=?ed=2560&sni=SIMowebSITespeedTESt.ir&fp=randomized#www.speedtest.net:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?type=ws&security=none&path=/?ed=2048#141.101.121.108:8080
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://8f3fa4d8-9164-4320-af14-4bea3dbd1c21@bmi.raheaiande.ir:1001?type=tcp&security=reality&sni=ea.com&fp=edge&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&sid=c7bc4d#bmi.raheaiande.ir:1001
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.191.204:443?type=xhttp&security=reality#65.109.191.204:443
 vless://fdc0229d-2037-48c4-94d3-496e67cce5d8@85.234.65.120:443?type=tcp&security=reality&sni=github.com&pbk=307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA&sid=f90c#85.234.65.120:443
@@ -186,6 +186,7 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@82.23.138.5:34045?type=tcp&security
 vless://3225893e-09d0-4822-a19a-04fb39066d22@103.71.23.210:443?type=tcp&security=reality&sni=ya.ru&flow=xtls-rprx-vision&pbk=Lb1Gi0VcVuytLf_gb846u7iKkHVywpG8IC9wdZslwUA&sid=102707ab31571a93#103.71.23.210:443
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.229.153.101:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#13.229.153.101:443
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-15.cristiano.name.ng:443
+vless://fdc0229d-2037-48c4-94d3-496e67cce5d8@85.234.65.120:443?type=tcp&security=reality&sni=github.com&fp=chrome&pbk=307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA&sid=f90c#85.234.65.120:443
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#51.159.111.32:31180
 hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#45.129.2.108:50850
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#51.159.111.32:31180
@@ -197,5 +198,5 @@ hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#46.17
 hysteria2://dongtaiwang.com@108.181.5.130:4710?sni=apple.com&insecure=1#108.181.5.130:4710
 hysteria2://dongtaiwang.com@46.17.41.217:30033?sni=www.bing.com&insecure=1#46.17.41.217:30033
 hysteria2://dongtaiwang.com@108.181.5.130:4710?insecure=1#108.181.5.130:4710
-trojan://kdf3lt6y-ip4w-u5q5-5rpw-n82nfpen5soi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://w6spjebq-x5mx-n3rg-9tkp-uhj9fynhtsaz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://byl6wkq7-pm1q-wrm7-8oo5-2rjie42xo2ix@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bftvik3m-0r9m-b0qf-jlmm-4hvxxkw06eox@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
