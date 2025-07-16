@@ -1,10 +1,11 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-16 10:50:57
+Timestamp: 2025-07-16 11:14:23
 Total Channels: 92
 Successful Scrapes: 71
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
+v2ray_configs_pool: 242 configs
 GalaxyMVPN: 196 configs
 dailyv2ry: 183 configs
 meli_proxyy: 180 configs
@@ -20,8 +21,8 @@ vpnod: 59 configs
 meliconfing: 46 configs
 ConfigPixelArt: 35 configs
 Greenvpn2: 34 configs
+bored_vpn: 32 configs
 v2rayfast_7: 30 configs
-bored_vpn: 29 configs
 ghalagyann: 26 configs
 itenvpn: 25 configs
 freenet_melli: 25 configs
@@ -33,13 +34,12 @@ Farah_VPN: 20 configs
 spikevpn: 20 configs
 summertimeus: 20 configs
 lexernet: 19 configs
-v2ray_configs_pool: 19 configs
 vistav2ray: 19 configs
-DailyV2Config: 19 configs
 arv2ray: 17 configs
 WarV2Ray: 17 configs
 cybersoldiersst: 16 configs
 v2ra_config: 16 configs
+DailyV2Config: 16 configs
 capoit: 15 configs
 nufilter: 15 configs
 shadowproxy66: 15 configs
