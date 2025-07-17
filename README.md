@@ -1,2 +1,2 @@
-# در حال حاضر این پروژه از سمت گیتهاب محدود شده در حال بررسی و رفع هستیم 
-# We are currently reviewing this project from the restricted GitHub side.
+# این پروژه در حال حاضر از گیت‌هاب محدود شده است. ما در حال بررسی و رفع مشکل هستیم.
+# This project is currently restricted from GitHub. We are investigating and fixing the problem.
