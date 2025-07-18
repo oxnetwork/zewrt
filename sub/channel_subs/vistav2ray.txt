@@ -1,12 +1,6 @@
-trojan://vcl1ibe6-mce5-pgzu-andj-hjqbmvthlj4q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-18 | 23:17 ]
-trojan://d9nu44y0-jg7n-7kxc-ki96-7vtae8ouqf38@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rodlj80e-db8k-iwxo-3bcz-ukb4giw85460@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#185.243.51.67:21760
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/@ff_kikor?ed=2560&sni=PaGes.deV#www.speedtest.net:443
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/@ff_kikor?ed=2560&sni=PaGes.deV#www.speedtest.net:443
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?type=ws&security=none&path=/#62.60.192.209:80
+trojan://xa92puhj-lv9l-9sfa-s0b9-so2c4ava8ru8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-18 | 23:54 ]
+trojan://dqw0tb7y-z2pd-5ku4-9rsj-klu2jf50p28o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fh8atn8q-y7jk-pdaf-77jn-uowla4o9paku@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#185.243.51.67:21760
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/@Prime_Verse?ed=2560&sni=PaGes.deV#www.speedtest.net:443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
@@ -16,8 +10,14 @@ vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?type=ws&security
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/?ed=2560&sni=vless8-ekh.pages.dev&fp=random#103.160.204.50:443
 vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@gleeful-error.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#gleeful-error.seotoolsforyou.co.uk:80
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#sweet-combination.seotoolsforyou.co.uk:80
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
+vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?type=ws&security=tls&path=/&sni=mylearn-8zx.pages.dev&fp=chrome#190.93.244.103:443
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
+vless://Parsashonam-286@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
 vless://3c631fef-c28c-4dfe-aacc-9e67ace7d5b3@213.183.41.63:443?type=grpc&security=reality&sni=skyroom.online&fp=chrome&pbk=9tNnOU3bIHtyZfWaPv1J1ns78jDfzCdh6dRLjhQGlX8&sid=1f#213.183.41.63:443
 vless://477f5c5d-57e6-4811-ba26-e67f071cae8b@r2.srk-mihan.xyz:443?type=grpc&security=reality&sni=alexa.com&fp=firefox&pbk=PwGy2n398PGn4h9GEBrCCk7T06jgYhbE03WVo8gbHW8&sid=78c9419570a7565d#r2.srk-mihan.xyz:443
 vless://3c631fef-c28c-4dfe-aacc-9e67ace7d5b3@213.183.41.63:443?type=grpc&security=reality&sni=skyroom.online&fp=chrome&pbk=9tNnOU3bIHtyZfWaPv1J1ns78jDfzCdh6dRLjhQGlX8&sid=1f#213.183.41.63:443
-trojan://w4xq65wh-yl6d-8vf8-e2y9-upvxh7z3ohz7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e2g1k7xb-zjgw-ngfj-8xh3-wyj8pqnthp9s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?type=grpc&security=reality&sni=cloudflare.com&fp=chrome&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&sid=1e#server2.fergalvpnmod.com:25126
+vless://turboo-server@turboo-server.sadafspace.com:48723?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=1WQPNVCS8laWlmbHO-WnqXCqvlPcKQkb_hK_5eBmrH0&sid=b3#turboo-server.sadafspace.com:48723
+trojan://ngongyfa-y696-n29i-2ade-9ugymszg807i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://eribkogr-fbs8-ahr2-ltxj-ccnjc7dz9jlc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
