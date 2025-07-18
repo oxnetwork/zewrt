@@ -1,9 +1,10 @@
-trojan://saarrs6q-yvl5-vdsk-kl05-l5jjpsoe1wkd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-19 | 01:53 ]
-trojan://e337ugm2-yzly-sxza-vs8l-5a2fs77hqurx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://q1jnjzjr-gvea-vyjn-7t8p-lklvfnpjmapa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ba5b1z5b-n7k9-0pvt-7dgs-j88gr8h40dfv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-19 | 02:25 ]
+trojan://0rpmrgy0-3x1t-makt-3i7l-212nyc67evw5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://drmbdz4w-tyjz-dork-497a-nmrvx3z3gv9v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443#85.210.36.164:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@91.84.104.133:2222#91.84.104.133:2222
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#45.87.175.58:8080
+trojan://0RiSuJPsug%23v@104.21.32.1:443?sni=gEtASa.Ir&peer=gEtASa.Ir&security=tls#104.21.32.1:443
 trojan://telegram-id-privatevpns@52.47.136.181:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#52.47.136.181:22222
 vless://db69e5a8-e8ad-4512-ba0b-ce76d64c8280@151.101.195.8:80?type=xhttp&security=none&path=/Telegram@Merlin_ViP#151.101.195.8:80
 vless://7b93b058-f902-48a1-90a0-918ab81fb9fc@94.232.168.16:30501?type=tcp&security=none#94.232.168.16:30501
@@ -36,7 +37,6 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn.pages.dev#104.16.122.80:443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?type=ws&security=none&path=/34COh9NCiin5SJMk?ed=2560#172.67.207.54:8880
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?type=ws&security=tls&path=/assets&sni=NGINX.NSCl.IR#104.16.243.59:443
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
 vless://db69e5a8-e8ad-4512-ba0b-ce76d64c8280@91.99.7.227:44666?type=xhttp&security=reality&path=/Telegram@Merlin_ViP&sni=www.yahoo.com&fp=chrome&pbk=IoFzzRce9vslGGZsfrwzoIbgv_OglekC2xAhwiMhewg&sid=2fb7c7018a233465#91.99.7.227:44666
 vless://8b39daa8-01e0-4054-8271-0630cd517f10@194.182.79.64:14073?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=k8x94p4pxXmLjNWkgLRsdi_raiVGIX0EPGyP70CyBVs&sid=f11c49ff#194.182.79.64:14073
 vless://a879196c-d849-4416-9b87-464733270cc5@194.182.79.117:35307?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=q9S56XnvF1SLqCwmld0MJ4TnpAu4PI2GKcl71fK4kAA&sid=df322bfe#194.182.79.117:35307
@@ -44,5 +44,5 @@ vless://6fc3195e-e1ad-4e1b-8552-ac88e2780364@194.182.79.70:31516?type=grpc&secur
 vless://91bb8f60-bc99-4e71-985f-a6a679396e40@89.221.203.100:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8#89.221.203.100:443
 vless://133fe9ce-3f1f-41a1-a8ca-f74029adbab3@45.13.226.145:443?type=tcp&security=reality&sni=appsnetwork.ir&fp=chrome&pbk=RDRoXr6-GY3rNUvFHEMZJMl-Fm7oYaPz9QQ68638R3Q&sid=ca46c7533eae#45.13.226.145:443
 vless://59daa2be-20cf-4f61-b409-27050bcc3bbb@91.107.180.100:443?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&sid=f3#91.107.180.100:443
-trojan://2zlpdh36-jqve-xvf0-agha-ot66eo48o5q7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5hggrez5-q5je-y2o0-xxs0-a6h0j6x3420a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://rabrouhr-hmrp-4pl3-ga1o-k9xp6b7nslnz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ekmhiacn-52v0-vvmi-bdto-qm6o0755c3lv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
