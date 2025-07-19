@@ -1,13 +1,8 @@
-trojan://70txl5ri-182g-qpm5-bmlc-jglci0px3mww@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-19 | 06:28 ]
-trojan://f63341jy-206o-uvhm-jrg0-6sjanq7n2hzv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8n1p7in3-sdey-zdpd-ert9-2maf05jy8h9r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xlll1cwm-vs1m-o47p-3a6k-yaflfo1xt01x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-19 | 07:30 ]
+trojan://wp9jf1h9-hx30-db40-52bt-zdno0e1k3dqt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xy7e3c4n-zwdj-ljlx-9aye-xd30evdvh3w9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://0RiSuJPsug%23v@104.21.43.168:443?sni=2.link-kon.ir&peer=2.link-kon.ir&security=tls#104.21.43.168:443
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
-vmess://eyJ2IjoiMiIsInBzIjoiQEFaQVJCQVlKQUIxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwiYWRkIjoiOTEuOTkuMTU4LjE0OCIsInBvcnQiOjUyMjYyLCJpZCI6ImFmNWEwZDBjLWM4OTgtNGE1MS1iYTZhLTQ3MTc5ZDQ4M2U0MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?type=ws&security=none&path=/Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN?ed=2590#104.18.26.90:80
-vless://186afaf8-214f-4437-add3-0aadaaa53a81@liteb.myfootage.top:443?type=tcp&security=none#liteb.myfootage.top:443
-vless://bc4f01ad-cf02-4d50-8f19-fd1f4dc953de@91.99.123.99:443?type=tcp&security=none#91.99.123.99:443
-vless://3e032a0f-b397-408e-8cc9-f428634612d9@91.99.123.99:26892?type=tcp&security=none#91.99.123.99:26892
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.18.26.90:443?type=ws&security=tls&path=/?ed=2560&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#104.18.26.90:443
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?type=ws&security=tls&path=/&sni=sub.divib.dynv6.net&fp=chrome#162.159.129.11:2053
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?type=ws&security=tls&path=/assets&sni=NGINX.NSCl.IR#172.67.92.147:443
@@ -33,11 +28,19 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.19.174.68:443?type=ws&security=
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.18.12.149:443?type=ws&security=tls&path=/@Rayan_Config&sni=rayan-09.leila.dpdns.org&fp=chrome#104.18.12.149:443
 vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:80
 vless://c2dfeec4-35c8-4722-9945-58b97d069941@216.24.57.207:8443?type=ws&security=tls&path=/&sni=wolf.vip-amir.shop#216.24.57.207:8443
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?type=tcp&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb#185.236.232.237:1001
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2?ed=2560#104.16.85.3:8880
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.16.69.162:8880
+vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#fierce-data.seotoolsforyou.co.uk:80
+vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#informed-location.seotoolsforyou.co.uk:80
+vless://5139af95-a453-46c6-831a-a532b6b51305@deep-radio.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#deep-radio.seotoolsforyou.co.uk:80
+vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#grounded-brother.seotoolsforyou.co.uk:80
+vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#informed-location.seotoolsforyou.co.uk:80
+vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#dedicated-development.seotoolsforyou.co.uk:80
+vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#bewildered-poem.seotoolsforyou.co.uk:80
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@46.62.149.136:9999?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#46.62.149.136:9999
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@46.62.149.136:9999?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#46.62.149.136:9999
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@46.62.150.45:9999?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#46.62.150.45:9999
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@46.62.154.78:9999?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#46.62.154.78:9999
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@91.99.96.120:9999?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#91.99.96.120:9999
-trojan://qnizhzip-mkos-51sz-xm0f-bi7480fiwpkq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://659gvzx4-q965-2d20-ubdp-t1viqjn3parr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://keiqopuj-thal-bood-mlyn-x5ykfpqgjc6v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://77eh4u7n-t2ys-2wcy-m9ow-944jwjm262bj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
