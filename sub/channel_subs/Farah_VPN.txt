@@ -1,7 +1,6 @@
-trojan://y34s303z-0pin-m5ji-orzk-d1zevfiwkjmg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-19 | 03:21 ]
-trojan://crvrm79w-fvfg-unny-q2h9-cp4occqiq5e3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://oxqv8o4g-f6l0-xplj-mf6c-s8h7eftx1o1m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE@p199.panda003.net:58368#p199.panda003.net:58368
+trojan://6gswiqdr-elc9-zioq-ct0d-hralz460e73w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-19 | 04:37 ]
+trojan://yxqnn19h-5yno-q0f3-dnzn-9u6fsqd015qf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://j9ijmjel-aoe2-f1vj-k9ev-8wuoqqmx4ejl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206NkxFMkY3RTJXUVdHSkVZRw@qh62onjn.slashdevslashnetslashtun.net:15003#qh62onjn.slashdevslashnetslashtun.net:15003
 trojan://SSorg@188.164.159.175:8443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#188.164.159.175:8443
 trojan://QwwHvrnN@223.113.54.145:36442?security=tls#223.113.54.145:36442
@@ -10,7 +9,6 @@ trojan://QwwHvrnN@36.151.192.239:42395?security=tls#36.151.192.239:42395
 trojan://telegram-id-directvpn@3.220.236.149:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.220.236.149:22222
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjE0MS4xOTUuMTEyLjE2NyIsInBvcnQiOjI3NjgxLCJpZCI6IjFjYzU5YTNhLTk2MjUtNDBmNy1iMGU2LWUyMzMyODZhZTgyZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjM4LjMzLjQ0LjI3IiwicG9ydCI6MzgwMDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMTczNjQxNTY3NTAzNCIsInRscyI6InRscyJ9
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
 vless://2d7c7aa5-364a-4dbb-937a-f8e4f5f73007@94.131.111.195:443?type=ws&security=tls&path=/vless&sni=de4.connecton.surf#94.131.111.195:443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#104.16.85.3:8880
 vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.15.19:80?type=ws&security=none&path=/?ed=2560#104.18.15.19:80
@@ -18,8 +16,10 @@ vless://785eaf35-ecb1-4d5f-8e0e-0a8363fae8af@104.26.15.16:2087?type=httpupgrade&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.81.175.156:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#99.81.175.156:22222
 vless://535d6c44-8787-4d9e-a077-793eba11a724@header.masumehkachal.org:443?type=ws&security=tls&path=/&sni=header.masumehkachal.org&fp=random#header.masumehkachal.org:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.193.190:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#13.38.193.190:22222
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?type=grpc&security=none&sni=pqh30v8.waipdirect.shop#pqh30v8.waipdirect.shop:8880
+vless://ceeb20b5-88b3-49e1-99f5-24e3ef634205@t1.pandu.lat:600?type=tcp&security=none#t1.pandu.lat:600
 vless://10bf842c-ff96-4460-b18c-55d4c3740fc9@91.98.21.58:18606?type=grpc=ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann&security=reality&sni=www.cdn77.com&fp=chrome&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew#91.98.21.58:18606
 vless://72059c29-a302-4bbd-a67a-ed0119fb754e@77.110.103.21:50810?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=zhaket.com&fp=chrome&pbk=MCx8u0S8L-ugMhcNC-u2WteqvI_oaM9_0-5jP6atIx4&sid=19dc3c81#77.110.103.21:50810
 vless://bf989dce-7af7-423b-a499-71da71cdcef1@de6rt.samsungmarketshop.ir:2083?type=xhttp&security=reality&path=/apps/Android/?ed=80&sni=refersion.com&fp=firefox&pbk=53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk&sid=aeba#de6rt.samsungmarketshop.ir:2083
-trojan://3gf9lxu5-pma5-zh4r-zujo-3o8e0h2e57jh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ywverfq2-3m21-sbxp-jst7-6l3wfk5iy4we@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://ac0qxkp5-evza-v89a-ind5-duu17lsiykwp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zz8e1x1x-jo5r-4sct-r3n0-p4pfuyo19qmm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
