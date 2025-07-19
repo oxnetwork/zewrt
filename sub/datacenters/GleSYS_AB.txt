@@ -1,20 +1,21 @@
-trojan://6oh7ygkz-7xxh-abpi-7jwo-ge2qfigpw52i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-19 | 13:22 ]
-trojan://ly49odgy-irq6-3umr-r233-y903ji0grg7c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4duegnvq-4gwd-ux4c-pqx3-f93wsc4x2f0g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://ehydGPDjwkFpV-uwO7di4A@185.36.145.42:443?security=none#SE 🇸🇪 ┇ TROJAN-TCP-NTLS - GleSYS AB ┇ 185.36.145.42
+trojan://m0pykaba-8h0t-nmuj-7itu-uh8pyeob28d1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-19 | 13:54 ]
+trojan://mfoq8sj9-b9nu-yv7x-rler-6prnzskcwr4g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kjsqlyxh-lyto-dfdc-k7gh-dqopqzn7wumt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.90.6
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@185.21.88.43:8443?type=tcp&security=tls&sni=hel2.fromblancwithlove.com#FI 🇫🇮 ┇ VLESS-TCP-TLS - GleSYS AB ┇ 185.21.88.43
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREF2U0taUHVJdzNQTmlsdzBIT3Z0@46.246.28.140:8443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.28.140
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MFh3ZzBTYkhTTDhDdUNraUx1R2hP@188.126.93.105:15128#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 188.126.93.105
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV2hmTndVU1pKWlpYbkt3TWJkRjFu@46.246.99.123:8443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.99.123
+vless://c602395d-6fe4-42e9-9bce-91d8e1f559c0@se.tunnelfree.org:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#SE 🇸🇪 ┇ VLESS-TCP-RLT - GleSYS AB ┇ 188.126.76.249
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdsZVNZUyBBQiBcdTI1MDcgMTg1LjE1Ny4yMjIuMTA1IiwiYWRkIjoiMTg1LjE1Ny4yMjIuMTA1IiwicG9ydCI6NDQzLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTNuY3hGMkdQdVBpQjFsNWdpdGNP@188.126.67.227:63418#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 188.126.67.227
-ss://YWVzLTI1Ni1nY206NGhUbHdVY3JuQU1IblMxUA@46.246.98.130:8388#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.98.130
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.90.6
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.246.93.24:989#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.93.24
+trojan://ehydGPDjwkFpV-uwO7di4A@185.36.145.42:443?security=none#SE 🇸🇪 ┇ TROJAN-TCP-NTLS - GleSYS AB ┇ 185.36.145.42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MFh3ZzBTYkhTTDhDdUNraUx1R2hP@188.126.67.90:15128#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 188.126.67.90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV2hmTndVU1pKWlpYbkt3TWJkRjFu@46.246.99.123:8443#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.99.123
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.98.155
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdz09@37.252.9.76:989#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 37.252.9.76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueFMxYTdKTmxJY2JzTjhRNEVLTDV0@46.246.109.216:36632#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.109.216
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@185.21.88.43:8443?type=tcp&security=tls&sni=hel2.fromblancwithlove.com#FI 🇫🇮 ┇ VLESS-TCP-TLS - GleSYS AB ┇ 185.21.88.43
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.246.93.24:989#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.93.24
+ss://YWVzLTI1Ni1nY206NGhUbHdVY3JuQU1IblMxUA@46.246.98.130:8388#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 46.246.98.130
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MFh3ZzBTYkhTTDhDdUNraUx1R2hP@188.126.93.105:15128#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 188.126.93.105
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVlUyN0xxdUFNT2VYbVllU3RJODk3@188.126.83.62:32448#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - GleSYS AB ┇ 188.126.83.62
-trojan://qyqbq0qq-1sve-fpo5-7kp7-pj4d8p6l1ga9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xwcpspi4-b84s-p5tw-i7yj-ruf7f7cl5fgx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://hhyb2u1m-yai2-tska-b7bb-0bv2oq5z3bws@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ft7gzrzu-ajdl-vzp4-6pfs-rdy2g0e69efm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
