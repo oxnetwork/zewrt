@@ -1,7 +1,9 @@
-trojan://nm7gmhg5-0rtc-nyte-rr9l-k0j0rlz83k9x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-19 | 15:18 ]
-trojan://ko4rod2u-eqbc-hxsh-s6a8-yiyygjs6fcey@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cs2x6ows-1qfd-6152-edf8-53p6ljeqd0bz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?type=tcp&security=tls&sni=opensuse.org&fp=chrome&flow=xtls-rprx-vision-udp443#CH 🇨🇭 ┇ VLESS-TCP-TLS - Nine Internet Solutions AG ┇ 178.209.51.115
+trojan://k5qyq6th-hq2x-4qkc-sdgs-wnf1w6vp4n4j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 00:25 ]
+trojan://h367uubi-feh0-o4ga-buc5-9t22whhcoi3g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uf54y5i4-vyup-ll4h-xv8x-zqzz8r3vz8lb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpId2NLQzZQT2hmV3BlbFgxRXBQdkdq@178.209.40.88:8443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Nine Internet Solutions AG ┇ 178.209.40.88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodzQwNHhSa3JkMXlSNUVDZGc3RkFY@178.209.40.92:8443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Nine Internet Solutions AG ┇ 178.209.40.92
-trojan://mtl1b43c-diu7-2h2p-i57q-nj6ghrw8nuia@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://abswd3ip-gpqq-lgm6-inah-nr8s4uhr74b4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZmpZZENLMkpNNk11NG01UGtxUzFX@178.209.52.181:8443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Nine Internet Solutions AG ┇ 178.209.52.181
+vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?type=tcp&security=tls&sni=opensuse.org&fp=chrome&flow=xtls-rprx-vision-udp443#CH 🇨🇭 ┇ VLESS-TCP-TLS - Nine Internet Solutions AG ┇ 178.209.51.115
+trojan://cnv5lpuh-1qkd-2t7z-ccbm-wspl5bfzgz12@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://k64fil14-rydc-emx7-btfc-97tv20ttgqw3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
