@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-23 02:42:49
+Timestamp: 2025-07-23 03:11:08
 Total Channels: 92
 Successful Scrapes: 70
 Failed Scrapes: 0
@@ -55,11 +55,10 @@ SafeNet_Server: 9 configs
 vpnpacket: 8 configs
 anty_filter: 7 configs
 fnet00: 7 configs
+sinavm: 7 configs
 v2ray_rolly: 7 configs
 Subify_ir: 7 configs
 proxystore11: 6 configs
-sinavm: 6 configs
-v2ray_configs_pool: 6 configs
 v2rayyngvpn: 6 configs
 confingv2raayng: 5 configs
 mdvpnsec: 5 configs
@@ -68,6 +67,7 @@ PRIMESOBI: 5 configs
 isvvpn: 4 configs
 jokerrvpn: 4 configs
 v2ngfast: 4 configs
+v2ray_configs_pool: 4 configs
 am20094: 2 configs
 befreewithus: 2 configs
 colsvpn: 2 configs
