@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-23 21:15:13
+Timestamp: 2025-07-23 21:47:20
 Total Channels: 92
 Successful Scrapes: 66
 Failed Scrapes: 0
@@ -10,11 +10,11 @@ vpnod: 77 configs
 azarbayjab1: 69 configs
 ZibaNabz: 66 configs
 v2rayng_1378: 63 configs
-shadowproxy66: 62 configs
-ShadowProxy66: 62 configs
 Tweety_Proxy: 57 configs
 expressvpn_420: 51 configs
 bored_vpn: 48 configs
+shadowproxy66: 47 configs
+ShadowProxy66: 47 configs
 itenvpn: 34 configs
 Greenvpn2: 34 configs
 v2ra_config: 34 configs
@@ -23,8 +23,8 @@ freev2rng: 30 configs
 evay_vpn: 28 configs
 meliconfing: 28 configs
 skivpn: 26 configs
-freenet_melli: 25 configs
 vmessorg: 24 configs
+freenet_melli: 23 configs
 ghalagyann: 21 configs
 capoit: 20 configs
 ConfigsHubPlus: 20 configs
@@ -37,6 +37,7 @@ vistav2ray: 17 configs
 WarV2Ray: 17 configs
 cybersoldiersst: 16 configs
 nufilter: 15 configs
+v2ray_configs_pool: 15 configs
 masterserver1: 14 configs
 summertimeus: 14 configs
 tehranargo: 14 configs
@@ -47,10 +48,9 @@ ConfigX2ray: 13 configs
 PASARGAD_V2rayNG: 12 configs
 mcv2rayng: 11 configs
 SafeNet_Server: 11 configs
-v2ray_configs_pool: 10 configs
+DailyV2Config: 9 configs
 v2ray_rolly: 8 configs
 vpnpacket: 8 configs
-DailyV2Config: 8 configs
 fnet00: 7 configs
 Subify_ir: 7 configs
 confingv2raayng: 6 configs
