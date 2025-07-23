@@ -1,22 +1,25 @@
-trojan://d6bt36q0-5vog-be6i-wgnt-7u4fbyuc2k1k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 00:25 ]
-trojan://mudf799f-8vfv-pkvb-u92n-lvirktkt9dmn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o5drykrm-vspb-o96c-pvwe-u0ej1h0axnx8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dkpMT1NFTTN5Z2x2R0ZDaDU3cTBH@h110vpnch.outlinekeys.net:4248#h110vpnch.outlinekeys.net:4248
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#193.29.139.202:8080
-vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNl10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiJ3d3cubWV0ZXIubmV0IiwicG9ydCI6MjA4MywiaWQiOiJjMjA4ZTBhZS02ZjZkLTQ3NDUtOTlkYS00NGE0NDc0NGM1MzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL2xpbmt3c3J0P2VkPTI1NjAiLCJ0bHMiOiJ0bHMifQ
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?type=ws&security=none&path=/uLF6HXZ7986oF7Yg?ed=2560#104.16.222.98:8880
+trojan://h83gc2o2-o60y-56do-3cm9-vwc4zrunkpqr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 00:53 ]
+trojan://vdtgge8d-qy9p-z8m2-5f6s-1zr8pgoj3yv9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vh5fmefu-s0y4-9ke3-jre5-l83ii4kee49n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI1MS42OC4xOTEuMjMzIiwicG9ydCI6ODAsImlkIjoiZjBlZGEwNzItOWFlOC00OTRjLWE0OTUtMjE1ZmE1NzI5NDY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii92bWVzcy8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOF10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI0NS44LjE0Ni4xMjkiLCJwb3J0Ijo4MCwiaWQiOiIwNzA0MDE2Zi01NDM1LTQ2NTUtYmU2YS03NzFhNWFiYTUyYzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGZjMV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiIxNzIuMTExLjE0Ni42NCIsInBvcnQiOjgwLCJpZCI6IjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvdm1lc3MvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGZjMV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI2MS4yNDUuMTEuNjAiLCJwb3J0Ijo4MCwiaWQiOiI2OTI0MTgyZi05MGVjLTRiMTEtYjA1Ni1mYzUwMTk1ZTMzNTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzLyJ9
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
+vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?type=xhttp&security=none&path=/xhttp#63.250.61.157:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#198.62.62.175:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?type=ws&security=none&path=/uLF6HXZ7986oF7Yg?ed=2560#104.16.222.98:8880
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?type=xhttp&security=none&path=/xhttp#91.99.181.47:8443
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.92:8880?type=ws&security=none&path=/7YVyoVNnbaVzgl6D?ed=2560#104.16.69.92:8880
+vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&security=none&path=/xhttp#91.99.85.185:8443
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?type=ws&security=none&path=/reklaz1FsDrIv7mW?ed=2560#104.25.220.177:8880
+vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?type=ws&security=none&path=/#famous-danger.oneeat.co:80
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.16.69.162:8880
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&security=none&path=/xhttp#91.99.218.14:8443
-vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVP---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVP---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVP---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVP/ed=2560&sni=vless8-ekh.pages.dev&fp=random#103.160.204.50:443
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
-vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
-vless://859bbb48-98ca-4afd-ad28-987c7cd28119@51.75.155.93:8080?type=tcp&security=none&path=/#51.75.155.93:8080
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.156.77:8880?type=ws&security=none&path=/7YVyoVNnbaVzgl6D?ed=2560#104.16.156.77:8880
-vless://6f5a77f9-2841-4b33-b24b-661223107a5d@51.75.155.93:8181?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=8vxZwqJ5Vyo2NFtRgsIwRQkft0OqsNyPuyzK0UAltjk&sid=2afc#51.75.155.93:8181
-trojan://0npz4hn1-lr5u-1r5b-7isx-3ii13n19zij8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gad3f60l-wazm-ot70-4vaj-r594nupqwrgd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram?ed=2560#172.67.65.158:8880
+vless://706681dc-888f-4e57-8da1-9ee6a2a32333@ardavpn.ardaserver.site:34731?type=tcp&security=none#ardavpn.ardaserver.site:34731
+vless://Telegram--SRCVPN@91.107.188.21:3080?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&sid=eb91f5c0#91.107.188.21:3080
+vless://Telegram--SRCVPN@91.107.188.21:3090?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&sid=eb91f5c0#91.107.188.21:3090
+vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443?type=tcp&security=reality&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf#5.75.198.47:443
+trojan://fb1t0qgh-n26i-6q5q-l7pa-2tccb86ra8cg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0m9hapmf-5wzu-64zd-qlab-xfx8hel2tunv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
