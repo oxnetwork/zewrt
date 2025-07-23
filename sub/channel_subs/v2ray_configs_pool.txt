@@ -1,6 +1,6 @@
-trojan://g2sx2grj-293q-fezu-n4ol-lyhc3ait7hbs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 09:03 ]
-trojan://vzb2bhhw-ioa0-7xr9-mudp-2h9yqvwrc18a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i3qwrq2m-0su3-s4nh-xndw-n4c89ub3sb69@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://e7ki4hso-gej2-r18u-wdxn-uiwe0lhcpar3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 09:32 ]
+trojan://cxxwmjuj-9cuh-uah8-clh9-o11t7g2jedyg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n17b5ul3-85qj-6q7q-23rx-y0dptuy9w389@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#45.87.175.183:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#77.105.166.12:8594
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#185.193.102.7:57456
@@ -15,22 +15,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freegua
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freeguard.org&peer=rc6.freeguard.org&security=tls#198.23.229.250:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZDdjXHVkODNjXHVkZDc0XHVkODNjXHVkZDc3XHVkODNjXHVkZDczXHVkODNjXHVkZDc4IiwiYWRkIjoiOTEuMTA3LjI0My4xNTAiLCJwb3J0IjozMjAxNywiaWQiOiJjMGNjZGViOS03ODRjLTRkNjctYjkwNC0yMGRjYWFjOTkwMmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZDdjXHVkODNjXHVkZDc0XHVkODNjXHVkZDc3XHVkODNjXHVkZDczXHVkODNjXHVkZDc4IiwiYWRkIjoiMTUuMjM1LjQxLjIwMCIsInBvcnQiOjgwLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiJ9
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?type=ws&security=tls&path=/&sni=carlotta.shoorekeeper.cloudns.org#160.153.0.32:443
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?type=ws&security=tls&path=/&sni=carlotta.shoorekeeper.cloudns.org#160.153.0.32:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/?ed=2560&sni=vless8-ekh.pages.dev&fp=random#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/?ed=2560&sni=vless8-ekh.pages.dev&fp=random#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/?ed=2560&sni=vless8-ekh.pages.dev#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/?ed=2560&sni=vless8-ekh.pages.dev&fp=random#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?type=ws&security=tls&path=/&sni=vless8-ekh.pages.dev&fp=chrome#103.160.204.50:443
@@ -66,5 +50,5 @@ vless://98371613-b71d-4185-9e8a-eb7ba73373b4@edt-f5k.pages.dev:443?type=ws&secur
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=G9j2KeHn0E.gItI5.oRg#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=lease-15.access.name.ng#www.speedtest.net:8443
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?type=tcp&security=reality&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf#vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443
-trojan://v6diu6di-3mhj-sfnf-bm82-s67dq3ga21c9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1dkwpgyb-ipwn-efud-mvel-aqydfohkzi5n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://tv6ynm5f-6lx5-qi3g-bqvn-rmwv19n5ya96@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l6fetmz3-xrlf-09kr-no0h-qc20bno4z8cy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
