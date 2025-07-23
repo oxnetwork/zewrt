@@ -1,10 +1,7 @@
-trojan://vn6fes0k-0ncr-47pb-kw6j-e08iufxvd75d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 19:26 ]
-trojan://mx01qs81-pj4t-mji6-afht-ud9muou24c07@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wb7du06e-6ize-32y2-9c7s-sd367phoqvby@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#83.147.216.70:64519
+trojan://15jgp829-mfcd-b4vy-lojn-eq4maaosqubf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 19:57 ]
+trojan://gynv88z3-eyzv-h2e4-zuqs-1fsaa16nailu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://d7af4u5s-r8vp-p5ll-ccfa-3lw4aofmnus8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#92.112.126.90:443
-vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGljb25maW5nIiwiYWRkIjoiOTEuMTA3LjI0My4xNTAiLCJwb3J0IjozMjAxNywiaWQiOiJjMGNjZGViOS03ODRjLTRkNjctYjkwNC0yMGRjYWFjOTkwMmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://27a9efac-6ede-4bb9-9db3-1b06e1a00b81@91.98.22.208:34740?type=tcp&security=none#91.98.22.208:34740
 vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080?type=httpupgrade&security=none&path=/khkdjhsd?ed=2048#104.24.0.137:8080
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&security=none#95.164.45.94:8880
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?type=ws&security=tls&path=/&sni=smart.v2plusify.org&fp=chrome#198.41.193.13:2087
@@ -24,11 +21,9 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&securit
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security=none&path=/Barayeiranmahsang/----@-?ed=2560&sni=barayeiran-mahsang.gerald81.dpdns.org&fp=random#91.206.71.162:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg&sid=16b619c73e22#194.182.79.43:25245
-vless://518edad1-5001-4692-ea61-fb03dc665825@91.98.21.58:18606?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew#91.98.21.58:18606
 vless://8059ab08-19ac-4924-881c-4d01a8865370@frdhiss.sadyellow.ir:443?type=xhttp&security=reality&path=/6MxDj6Rlc50MAFf2Ls&sni=babanooel.com&fp=chrome&pbk=_mPQpNgqDJeDUmXPeWTcVigbcH33KejxLoErq_ps6Uk&sid=d00ab92f90fb44#frdhiss.sadyellow.ir:443
 vless://67e07456-cb44-4406-8617-70ab725d9ff7@srv4.flightbean24.com:8880?type=xhttp&security=reality&path=/&sni=static.cdn.asset.filimo.com&fp=chrome&pbk=qry2IbVVIgt3wWNLDFHimOsXX3mu53Za9QtVK8VNbFw&sid=a3#srv4.flightbean24.com:8880
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?type=tcp&security=reality&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf#vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443
 vless://881538db-042e-4353-a96f-87e41a25297c@89.34.230.201:7771?type=grpc&security=reality&sni=p30day.ir&fp=chrome&pbk=WBG2UWAtb1blZNvmp2akQQF0Kszt9yiOvkge_FPy_wI&sid=ecb72f5a82#89.34.230.201:7771
-trojan://ficuqt4c-xg9x-y5nu-ehhv-ks9zay3cnq1e@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3syi574d-sez9-xjyg-0sba-i8l7jj47sj78@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://7t09s9ol-mfsk-onan-ymat-x3ultprtin89@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pzplb0ie-0hch-fwz5-fl81-sy6abdkx2qd1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
