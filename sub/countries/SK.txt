@@ -1,15 +1,15 @@
-trojan://lspum3ky-kd3r-frjb-kpae-dqws9ph3a7sz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 14:29 ]
-trojan://eb6t01xx-02v4-euri-6hgs-gqgzhjucthaj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://issuif2o-0v1k-3w5y-pl6u-oc14at2xxswm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://layswbl3-pf0a-70gg-33ot-0y6fjoscvh3v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 14:53 ]
+trojan://o5bmxkb4-2htw-o35o-r08l-rabeq3kb6dja@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8j6ns67c-5rg8-zqce-ra2h-664v4mux62u5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiU0sgXHVkODNjXHVkZGY4XHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgNS4yNTIuMjMuMTMzIiwiYWRkIjoiNS4yNTIuMjMuMTMzIiwicG9ydCI6ODAsImlkIjoiMjg5MmY4YzAtYzRiYy00OWFkLWIzMWYtMjE0NmI2N2Q0ZjZjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MifQ
 vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@8.47.69.4:2052?type=ws&security=none#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.4
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.123.123.133
+vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:8880?type=grpc&security=none#SK 🇸🇰 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 5.252.23.173
 vless://I_Love__SSHMax_86349d6@0:0:0:0:0:ffff:05fc:17ad:443?type=grpc&security=tls&sni=zula.ir#SK 🇸🇰 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:05fc:17ad
 vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@8.47.69.5:2052?type=ws&security=none&path=/@XS_VPNROBOT#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.5
-vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:8880?type=tcp&security=none#SK 🇸🇰 ┇ VLESS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 5.252.23.173
-vmess://eyJ2IjoiMiIsInBzIjoiU0sgXHVkODNjXHVkZGY4XHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgNS4yNTIuMjMuMTMzIiwiYWRkIjoiNS4yNTIuMjMuMTMzIiwicG9ydCI6ODAsImlkIjoiMjg5MmY4YzAtYzRiYy00OWFkLWIzMWYtMjE0NmI2N2Q0ZjZjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MifQ
-ss://YWVzLTI1Ni1nY206cjZoRHJrUDRFdDZFRU5UUzhReTdUY21n@185.76.8.218:44539#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 185.76.8.218
-vless://e51aa02e-6358-4ade-963e-1c3ef2ed0d50@45.89.54.240:443?type=tcp&security=reality#SK 🇸🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.89.54.240
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS ┇ 188.123.123.133
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.40.194
+vless://e51aa02e-6358-4ade-963e-1c3ef2ed0d50@45.89.54.240:443?type=tcp&security=reality#SK 🇸🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.89.54.240
+ss://YWVzLTI1Ni1nY206cjZoRHJrUDRFdDZFRU5UUzhReTdUY21n@185.76.8.218:44539#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 185.76.8.218
 vmess://eyJ2IjoiMiIsInBzIjoiU0sgXHVkODNjXHVkZGY4XHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gZVNlcnZlciBcdTI1MDcgMTg1LjQ4LjI1MS4yIiwiYWRkIjoiaGt2LTEub3BlbnYycmF5LmNvbSIsInBvcnQiOjgwLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsImFpZCI6MTYsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtZG96ZGk4NyJ9
-trojan://rhu7yuzr-fmlz-699a-hyo4-ftr7f6x6kqwb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://at8vrxzj-73pl-51a7-sl5s-fh5jyfytdqtm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://km3tr8fe-0lzq-fmyg-fp4s-dj569yzqt1kq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7al5vma7-ffk7-dybl-0w5n-awopoltlg73p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
