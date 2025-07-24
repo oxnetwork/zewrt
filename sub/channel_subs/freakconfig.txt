@@ -1,6 +1,6 @@
-trojan://dcf4jwni-9wu2-vkfb-acv5-byzd2kw87r0k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 11:58 ]
-trojan://cgosyd2a-bnoc-zdlq-291k-19rx4r8ot63p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://oxabbttj-a2nu-atr8-cvqv-ok5g4oj98jop@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://e6rixwau-c5ph-jos4-ribo-its2pqiepi9q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 12:31 ]
+trojan://xbjbf0cr-5xev-wj0m-pgyr-0ivy4e1fyd55@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r3hhb7fo-om8i-9i2c-cbdg-5y88wisp9h8j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#fin.outlinebot1.ru:5904
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#45.87.175.183:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#45.87.175.167:8080
@@ -23,6 +23,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#193.29.139.202:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQ21OdGp1eWN6Z2NLajJzM1AzZUJn@185.140.12.217:1080#185.140.12.217:1080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#185.193.102.7:57456
 trojan://telegram-id-privatevpns@63.178.209.45:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.178.209.45:22222
 trojan://telegram-id-directvpn@63.178.209.45:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#63.178.209.45:22223
 trojan://ZU%290ryc%24VSrG@104.17.148.22:443?sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV&peer=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV&security=tls#104.17.148.22:443
@@ -53,6 +54,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWUxXHVmZTBmIEBGcmVha0NvbmZpZyIsImFkZCI6
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWUxXHVmZTBmIEBGcmVha0NvbmZpZyIsImFkZCI6IjE4NS4xNDEuMTA3Ljg1IiwicG9ydCI6ODQ0MywiaWQiOiI1MzExMTQ0NC1jYzQ1LTQyM2EtOTI4Ny05MmY2ZDY1MGU5MmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWUxXHVmZTBmIEBGcmVha0NvbmZpZyIsImFkZCI6ImFzd2Vkb25rZS5ibHVldG9vdGhtb3VzZS5pciIsInBvcnQiOjgwODEsImlkIjoiODFjMWVmZGYtZDU2Mi00OGFiLWJmNDUtOGVkNzg2ZDI3NDY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWUxXHVmZTBmIEBGcmVha0NvbmZpZyIsImFkZCI6IjE3Mi42Ny4xMzEuMjciLCJwb3J0IjoyMDUzLCJpZCI6IjM1MGUyYjAxLWQ0MTAtNDRhNi05MGJhLTY0ODNmMTA2Mjk3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyYWsyZDQuODkwNjAwMDQueHl6In0
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWUxXHVmZTBmIEBGcmVha0NvbmZpZyIsImFkZCI6Ind3dy5tZXRlci5uZXQiLCJwb3J0IjoyMDgzLCJpZCI6ImMyMDhlMGFlLTZmNmQtNDc0NS05OWRhLTQ0YTQ0NzQ0YzUzMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvbGlua3dzcnQ/ZWQ9MjU2MCIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWUxXHVmZTBmIEBGcmVha0NvbmZpZyIsImFkZCI6Ind3dy5tZXRlci5uZXQiLCJwb3J0IjoyMDgzLCJpZCI6ImMyMDhlMGFlLTZmNmQtNDc0NS05OWRhLTQ0YTQ0NzQ0YzUzMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvbGlua3dzcnQ/ZWQ9MjU2MCIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWUxXHVmZTBmIEBGcmVha0NvbmZpZyIsImFkZCI6Ind3dy5tZXRlci5uZXQiLCJwb3J0IjoyMDgzLCJpZCI6ImMyMDhlMGFlLTZmNmQtNDc0NS05OWRhLTQ0YTQ0NzQ0YzUzMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvbGlua3dzcnQ/ZWQ9MjU2MCIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZWUxXHVmZTBmIEBGcmVha0NvbmZpZyIsImFkZCI6Ind3dy5tZXRlci5uZXQiLCJwb3J0IjoyMDgzLCJpZCI6ImMyMDhlMGFlLTZmNmQtNDc0NS05OWRhLTQ0YTQ0NzQ0YzUzMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvbGlua3dzcnQ/ZWQ9MjU2MCIsInRscyI6InRscyJ9
 vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?type=grpc&security=none#185.231.205.139:8880
@@ -153,6 +157,8 @@ vless://537fd084-1078-4fc6-bec6-dad70fc96297@178.162.244.178:443?type=tcp&securi
 vless://ff1a7e82-4789-4259-b183-a219f145aa81@91.107.158.165:57727?type=tcp&security=none#91.107.158.165:57727
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s2.1dnt.k-l.cloud:80?type=xhttp&security=none&path=/123#s2.1dnt.k-l.cloud:80
 vless://ca34ab0c-eb9e-48e0-9077-24c39e6effb7@configline.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#configline.fast.hosting-ip.com:80
+vless://49d6d5dd-bc9b-4ff9-ade9-3b9c25ca5f25@www.speedtest.net:2096?type=ws&security=tls&path=/citxcbws#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=638879176706498046.amsterdam-prx-dnraaal.info#www.speedtest.net:2096
+vless://49d6d5dd-bc9b-4ff9-ade9-3b9c25ca5f25@www.speedtest.net:2096?type=ws&security=tls&path=/citxcbws#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=638879176706498046.amsterdam-prx-dnraaal.info#www.speedtest.net:2096
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#103.175.79.10:443
 vless://turboo-server@turbooserver.sadafspace.com:55990?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=TbZDTzAIogOy-LWQjdqXElxPlUd6xdcwd9xxCqhbj04&sid=eebcfab3#turbooserver.sadafspace.com:55990
 vless://a45e0c2d-388e-4e66-8720-291da22cd7eb@54.167.27.87:15434?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&flow=xtls-rprx-vision&pbk=K47eUyJ8fZSVg8DtY50GPcpa8VmSwnH5N3e6SKth0VM#54.167.27.87:15434
@@ -168,6 +174,10 @@ vless://9a3ea5fb-1975-4726-8c1e-a7f64915953b@209.38.244.147:32789?type=grpc&secu
 vless://d44cb076-22d4-45ce-8643-57559529b792@77.110.107.195:18207?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=44l4QJ3IgqePj0rrHHiFBcCa1cwubF6JwE5grbtY33A&sid=10#77.110.107.195:18207
 vless://51a08234-9b5e-4e8d-804d-bd0a824bb809@185.100.159.28:16922?type=grpc&security=reality&sni=cloudflare.com&fp=chrome&pbk=xkCxFXlnv8uM2BeOF6MqOU6N-mY4J8ounFhwmRUO-xY&sid=ccdce4#185.100.159.28:16922
 vless://e21789d4-820c-42c9-9729-26fd904e754a@77.110.107.195:28898?type=xhttp&security=reality&path=/&sni=yahoo.com&fp=random&pbk=mVptIpBcUtMqN2tfYE8eNwBrhqNdb0lWJoeRvYen8TY&sid=2cb4454d18#77.110.107.195:28898
+vless://04bd2301-8fea-462f-b74b-e244c514135d@a.ru.maviks.ru:443?type=tcp&security=reality&sni=maviks.ru&fp=chrome&flow=xtls-rprx-vision&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#a.ru.maviks.ru:443
+vless://d0f6fad0-54b8-4470-b21f-8b1a0b08577a@195.26.226.173:443?type=tcp&security=reality&sni=google.com&fp=firefox&flow=xtls-rprx-vision&pbk=Lb1Gi0VcVuytLf_gb846u7iKkHVywpG8IC9wdZslwUA&sid=102707ab31571a93#195.26.226.173:443
+vless://3e74ce19-6d73-4194-f542-f17072850e7e@91.98.21.58:18606?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew#91.98.21.58:18606
+vless://c8fae2e1-bffc-4e20-94f2-8bee7ba14ccd@meli_proxyy.vip-plan.org:54474?type=xhttp&security=reality&path=/&sni=yahoo.com&fp=random&pbk=mVptIpBcUtMqN2tfYE8eNwBrhqNdb0lWJoeRvYen8TY&sid=2cb4454d18#meli_proxyy.vip-plan.org:54474
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&insecure=0&obfs=salamander#206.71.158.40:35000
-trojan://ote9prg4-yzdt-cks1-jc1j-hd8kcynffdzm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zpx0bnu2-wh1e-7vcz-rwvb-mdvu3swkfgpe@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://kb8lwlae-lelj-bcbe-i9fe-uzvvkuq4xrfl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://eu9jjkuo-cp0t-irm3-6t2q-pq8ezqaq73gz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
