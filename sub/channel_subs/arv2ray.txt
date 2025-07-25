@@ -1,6 +1,6 @@
-trojan://h8re9k99-rvex-gikg-spww-ea0cwyz96ybi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 15:19 ]
-trojan://4z2tt8l9-g4g7-gdse-p2t9-jdk9oqhk4p7a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o3a0g8zh-xbt7-l27b-7c2p-ulxygmgocyso@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://e898dsya-6t1x-q8ue-7szd-sink6xaftabu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 16:02 ]
+trojan://4kihxb0v-fobl-u2tm-8un1-yx905nmow98e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r5oayd2x-eo0p-7b82-h3o8-ptetdxaiorry@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://telegram-id-ArV2ray@www.speedtest.net:80?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter#www.speedtest.net:80
 vless://telegram-id-ArV2ray@www.speedtest.net:80?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter#www.speedtest.net:80
 vless://telegram-id-ArV2ray2@www.speedtest.net:8880?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter#www.speedtest.net:8880
@@ -14,10 +14,10 @@ vless://telegram-id-ArV2ray@172.66.40.99:443?type=ws&security=tls&path=/telegram
 vless://telegram-id-ArV2ray@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=eDg.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=eDg.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=eDg.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
-vless://telegram-id-ArV2ray@84.32.102.152:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#84.32.102.152:443
+vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=eDg.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://telegram-id-ArV2ray2@84.32.102.152:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#84.32.102.152:443
 vless://telegram-id-ArV2ray2@84.32.101.93:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#84.32.101.93:443
 vless://telegram-id-ArV2ray3@84.32.101.93:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#84.32.101.93:443
 vless://telegram-id-ArV2ray3@84.32.101.93:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#84.32.101.93:443
-trojan://0fuwel36-xxac-oaet-6k5x-48esbuueyvty@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://15582p7j-ktws-prsc-0u45-hioqix901i50@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://lotzkrzd-elub-t859-xqn3-cspaxt09uner@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nc74eo4t-ixq4-317o-wyy5-zx18pws0bq8k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
