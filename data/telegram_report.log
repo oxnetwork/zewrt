@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-25 21:14:57
+Timestamp: 2025-07-25 21:47:39
 Total Channels: 92
 Successful Scrapes: 65
 Failed Scrapes: 0
@@ -7,8 +7,8 @@ Failed Scrapes: 0
 --- Channels with Found Configs ---
 freakconfig: 192 configs
 v2rayng_1378: 110 configs
+freev2rng: 81 configs
 vpnod: 80 configs
-freev2rng: 78 configs
 ZibaNabz: 77 configs
 shadowproxy66: 66 configs
 ShadowProxy66: 66 configs
@@ -18,13 +18,12 @@ expressvpn_420: 53 configs
 bored_vpn: 46 configs
 meliconfing: 39 configs
 vmessorg: 35 configs
-antimeli: 33 configs
 itenvpn: 33 configs
 freenet_melli: 29 configs
 v2ra_config: 27 configs
-ConfigX2ray: 27 configs
 configx2ray: 26 configs
 Greenvpn2: 26 configs
+ConfigX2ray: 26 configs
 evay_vpn: 25 configs
 capoit: 23 configs
 ghalagyann: 23 configs
@@ -35,19 +34,20 @@ v2rayfast_7: 20 configs
 lexernet: 19 configs
 arv2ray: 18 configs
 vistav2ray: 18 configs
-DailyV2Config: 18 configs
 WarV2Ray: 17 configs
 cybersoldiersst: 16 configs
 masterserver1: 16 configs
+v2raymelliii: 15 configs
 vpnkanfik: 15 configs
 tehranargo: 14 configs
-v2raymelliii: 14 configs
 sinavm: 13 configs
 summertimeus: 13 configs
+DailyV2Config: 13 configs
 PASARGAD_V2rayNG: 12 configs
 mcv2rayng: 11 configs
 nufilter: 11 configs
 SafeNet_Server: 10 configs
+antimeli: 9 configs
 jokerrvpn: 9 configs
 confingv2raayng: 8 configs
 DALTON_PING: 8 configs
