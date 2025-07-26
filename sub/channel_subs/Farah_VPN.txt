@@ -1,6 +1,6 @@
-trojan://88t1m19e-xbwl-v3it-rwxz-wz5siwznzdah@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 12:26 ]
-trojan://djqgco3r-1g21-vs2g-uel7-kmaof8y384iv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vpu4kdyf-qqa5-g3om-yx71-or9wyjei7ut5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://r5a24zgk-69ky-1hb2-6309-bnchq7rp9u9q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 12:52 ]
+trojan://pg2x6l42-fvlo-frff-bgph-1id6sk37ri2r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kxxt6e5a-ae14-0lsa-8e5t-43yd64pr34qj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZGU@de-1.stunnel.cc:8444#de-1.stunnel.cc:8444
 trojan://NISHIKUITAN111@198.41.205.240:443?security=tls#198.41.205.240:443
 trojan://NISHIKUITAN111@204.93.210.216:443?security=tls#204.93.210.216:443
@@ -11,7 +11,6 @@ trojan://blue2024@104.17.250.47:443?sni=hb.lii2010.us.kg&peer=hb.lii2010.us.kg&s
 trojan://bpb-trojan@104.36.195.61:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#104.36.195.61:443
 trojan://NISHIKUITAN111@172.67.233.168:443?security=tls#172.67.233.168:443
 trojan://tunnel-astro@pl-1.stunnel.cc:8441?sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&peer=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&security=tls#pl-1.stunnel.cc:8441
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#104.16.69.162:8880
 vless://7a966da0-ae63-4254-b9fe-ca1a5185d9e6@151.101.0.155:80?type=ws&security=none&path=/SPdnet?ed=2048#151.101.0.155:80
 vless://134c1950-3e5d-4dd1-9c3d-790ce358e374@174.138.101.107:45500?type=tcp&security=none#174.138.101.107:45500
 vless://442cf841-17b6-4d09-9b5f-7fad9a35776d@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
@@ -21,5 +20,6 @@ vless://d40c5cce-a633-4a11-b1db-3ce6fdfd44d6@174.138.101.107:45500?type=tcp&secu
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.47.138:443?type=ws&security=tls&path=/--JoiN--@FREEV2RNG--Bia--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG--@FREEV2RNG?ed=2560&sni=ConFIgmr.PaGeS.dEV&fp=randomized#172.66.47.138:443
 vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?type=xhttp&security=none&path=/#172.236.103.104:443
 vless://d4dad102-eb19-4bca-a536-a5d278fe3e0e@91.107.130.221:50453?type=tcp&security=none#91.107.130.221:50453
-trojan://uvf49wm2-f104-dm7f-zhik-zjeff9gwbppc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dtrlugnd-eftr-a2xz-ngrt-fohsdba5vx6q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
+trojan://s1vcarlp-6h05-fv4a-ij9o-e1kcw60rpp1h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q80bpq5o-cv0x-asnr-4p10-ae9kobuwovjl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
