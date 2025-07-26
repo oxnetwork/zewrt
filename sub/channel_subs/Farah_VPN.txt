@@ -1,9 +1,8 @@
-trojan://e2jayole-f2bs-qyzo-9jtk-iwv4weqlk9d4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 14:24 ]
-trojan://dtltc2oi-6ffp-ooex-c3bs-d6k87oanqc1r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8jxoj2qx-6msq-v9yc-ktmr-kx2kb2ntf6vj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://33hk15ue-kzof-10ir-7biq-r2wmixpzcszo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 14:50 ]
+trojan://37y0tqbk-rz5i-fyzo-tsdj-knegen0wjw1x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://sppyd19w-elbt-quag-9wvh-zb8pxkl06clm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZGU@de-1.stunnel.cc:8444#de-1.stunnel.cc:8444
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWw@fr-2.stunnel.cc:8444#fr-2.stunnel.cc:8444
-trojan://NISHIKUITAN111@204.93.210.216:443?security=tls#204.93.210.216:443
 trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@usla.mjt000.com:443?sni=usla.mjt000.com&peer=usla.mjt000.com&security=tls#usla.mjt000.com:443
 trojan://NISHIKUITAN111@104.20.204.132:443?security=tls#104.20.204.132:443
 trojan://NISHIKUITAN111@172.67.254.32:443?security=tls#172.67.254.32:443
@@ -21,5 +20,6 @@ vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?type=xhttp&secu
 vless://d4dad102-eb19-4bca-a536-a5d278fe3e0e@91.107.130.221:50453?type=tcp&security=none#91.107.130.221:50453
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#fierce-data.seotoolsforyou.co.uk:80
-trojan://2xswj7ad-3mjw-8so6-yxew-tas1oxqjstjf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xp2dp01i-m20q-0r4c-s9qs-9uskfe9z3gry@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?type=ws&security=tls&path=/assets&sni=NGINX.NSCl.IR#104.16.243.59:443
+trojan://ntuc30ay-2rix-3hbc-fio4-nn100hja73ic@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hwy85srm-9gk5-jbuw-6mr6-qo1gtat6a5ci@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
