@@ -1,12 +1,10 @@
-trojan://h341bvyu-5qom-5spd-8q4e-qdq4ao3j5cpk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 20:50 ]
-trojan://u3n4ray0-6zp1-7chr-w7ys-xtapkcncch0f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mr5j7ztt-ymmk-715t-swp7-veiiwjjt1akh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bpb9jr6l-y6zt-px0i-da2q-6bxfv8keg99i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 21:23 ]
+trojan://7bco1tje-3eo4-gydi-szpg-9tfxvhru33vf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9hswymwc-zgdo-v1fr-5b57-bthvbv7kzyxj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#193.29.139.202:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#193.29.139.202:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#193.29.139.202:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
 vless://47bc8a56-89bb-43fd-bcba-4ef013ca1786@151.101.3.8:80?type=xhttp&security=none#151.101.3.8:80
 vless://47bc8a56-89bb-43fd-bcba-4ef013ca1786@speedtest.net:80?type=xhttp&security=none#speedtest.net:80
 vless://47bc8a56-89bb-43fd-bcba-4ef013ca1786@151.101.3.8:80?type=xhttp&security=none#151.101.3.8:80
@@ -17,5 +15,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&secur
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443?type=tcp&security=reality&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf#5.75.198.47:443
 vless://b4a5c9ba-0cd1-462a-ab34-6683cf8f25fa@cert.gamberonvps.ir:28076?type=tcp&security=reality&path=/&sni=www.zula.ir&fp=chrome&pbk=aFAL9AlapF2P4VEIiGOf4O_E-Z1wryr1AnACoBgpgCg&sid=ac5d#cert.gamberonvps.ir:28076
-trojan://9ijm37sm-mf84-pqja-mvp6-mttwbhgrdruu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4023cugs-6xcx-6w4t-lub5-nq6oik6jb3hj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://45beb77a-9413-4e97-b148-cb219cf4a9b5@cert.gamberonvps.ir:28076?type=tcp&security=reality&path=/&sni=www.zula.ir&fp=chrome&pbk=aFAL9AlapF2P4VEIiGOf4O_E-Z1wryr1AnACoBgpgCg&sid=5e8fd8#cert.gamberonvps.ir:28076
+trojan://nd2d2oyd-0tax-pw9c-j53x-093hx83hwd7d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1r1iauwh-fdmn-tgux-joth-l5232ou6wmbv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
