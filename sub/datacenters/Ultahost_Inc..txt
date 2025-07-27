@@ -1,15 +1,15 @@
-trojan://n6y7dg7r-8b91-su3c-4nmw-wmfku6obls2d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 21:56 ]
-trojan://nas9yims-t7od-eio4-dn1w-1x5pjq1ljva5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://54hi0u75-zv82-fgad-2dpu-n1k1npwhw7o1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://85c41c44-e235-4e0c-9c46-987b7233c837@192.142.4.64:40384?sni=400567.xyz&peer=400567.xyz&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Ultahost, Inc. ┇ 192.142.4.64
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmI0NzU4NjJmYjUyZGY1@188.132.129.144:11201#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Ultahost, Inc. ┇ 188.132.129.144
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@tr.saigonfly.com:17064?insecure=0#TR 🇹🇷 ┇ HYSTERIA2-TCP-NTLS - Ultahost, Inc. ┇ 188.132.183.190
+trojan://y8coq8lw-iy8s-3fqc-obpp-qqiv6myhmd2c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 22:30 ]
+trojan://nt0ghkqe-z1yu-77su-qfze-ma31vn0ulie1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ga7l3zfq-kb4b-w6d7-1jdd-bxdhk9gyvndk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://93dacda3-c49c-58ec-bfae-fcc1b5702ca5@38.247.64.127:443?type=ws&security=tls&path=/vless&sni=38.247.64.127&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Ultahost, Inc. ┇ 38.247.64.127
-vless://ced55580-51a0-42c0-981e-707c282f48c0@192.142.18.117:1615?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#ZA 🇿🇦 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 192.142.18.117
+vless://39028f63-4adc-4a2c-9a57-9f583cd284e9@nl01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#NL 🇳🇱 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 185.82.73.118
 vless://274da517-44ea-5863-bcb1-dc02b8982cf9@38.89.142.153:443?type=ws&security=tls&path=/vless&sni=38.89.142.153&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Ultahost, Inc. ┇ 38.89.142.153
+vless://ced55580-51a0-42c0-981e-707c282f48c0@192.142.18.117:1615?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8#ZA 🇿🇦 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 192.142.18.117
+vless://d6cbf3e4-b7ca-a4b2-0b04-eacbdc28bc5a@188.132.184.148:8443?type=tcp&security=reality&sni=greenpepper.ir&fp=firefox&flow=xtls-rprx-vision&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede#TR 🇹🇷 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 188.132.184.148
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmI0NzU4NjJmYjUyZGY1@188.132.129.144:11201#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Ultahost, Inc. ┇ 188.132.129.144
+trojan://85c41c44-e235-4e0c-9c46-987b7233c837@192.142.4.64:40384?sni=400567.xyz&peer=400567.xyz&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Ultahost, Inc. ┇ 192.142.4.64
 hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@in1.xiaoliyu.us:2052?sni=in1.xiaoliyu.us&insecure=1#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - Ultahost, Inc. ┇ 216.185.57.58
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVWx0YWhvc3QsIEluYy4gXHUyNTA3IDIxNi4xODUuNTcuMjI5IiwiYWRkIjoiMjE2LjE4NS41Ny4yMjkiLCJwb3J0IjoxNTMsImlkIjoiMjAwZmU1NjQtYmE0MS0zYzRjLWE0Y2UtZTk0YzA4ZTliMjI1IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIn0
-vless://39028f63-4adc-4a2c-9a57-9f583cd284e9@nl01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#NL 🇳🇱 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 185.82.73.189
-vless://d6cbf3e4-b7ca-a4b2-0b04-eacbdc28bc5a@188.132.184.148:8443?type=tcp&security=reality&sni=greenpepper.ir&fp=firefox&flow=xtls-rprx-vision&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede#TR 🇹🇷 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 188.132.184.148
-trojan://93j0901w-7pjj-3i4w-spkw-w61zh1fyo6md@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7oa9m9n2-o6zk-wk9g-r62i-lwow0dsjg4d4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@tr.saigonfly.com:17064?insecure=0#TR 🇹🇷 ┇ HYSTERIA2-TCP-NTLS - Ultahost, Inc. ┇ 188.132.183.190
+trojan://84mezk6r-2wq2-lc20-2y8h-wwlkamasn66q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6bwngz1y-8yk1-2oly-tpbe-dst0nbpy1tvi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
