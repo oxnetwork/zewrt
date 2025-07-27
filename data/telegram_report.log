@@ -1,30 +1,28 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-27 23:06:16
+Timestamp: 2025-07-27 23:43:37
 Total Channels: 92
-Successful Scrapes: 64
+Successful Scrapes: 63
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freakconfig: 184 configs
-meli_proxyy: 159 configs
+meli_proxyy: 161 configs
 v2rayng_1378: 132 configs
 freev2rng: 88 configs
 vpnod: 77 configs
 Tweety_Proxy: 74 configs
-ZibaNabz: 64 configs
+ZibaNabz: 63 configs
 expressvpn_420: 53 configs
 vmessorg: 49 configs
 bored_vpn: 48 configs
-configx2ray: 46 configs
-ConfigX2ray: 46 configs
-meliconfing: 37 configs
+configx2ray: 44 configs
+ConfigX2ray: 44 configs
 freenet_melli: 37 configs
 itenvpn: 36 configs
+meliconfing: 36 configs
 evay_vpn: 33 configs
 skivpn: 33 configs
 v2ra_config: 32 configs
-shadowproxy66: 30 configs
-ShadowProxy66: 30 configs
 capoit: 29 configs
 Greenvpn2: 26 configs
 vistav2ray: 22 configs
@@ -51,7 +49,9 @@ sinavm: 11 configs
 SafeNet_Server: 11 configs
 DALTON_PING: 10 configs
 dalton_ping: 10 configs
-proxystore11: 9 configs
+proxystore11: 10 configs
+shadowproxy66: 10 configs
+ShadowProxy66: 10 configs
 vpnandroid2: 9 configs
 confingv2raayng: 8 configs
 mdvpnsec: 7 configs
@@ -68,6 +68,5 @@ befreewithus: 2 configs
 colsvpn: 2 configs
 ineronix: 2 configs
 BeFreeWithUs: 2 configs
-WedBaZtel: 1 configs
 
 --- Failed Channels ---
