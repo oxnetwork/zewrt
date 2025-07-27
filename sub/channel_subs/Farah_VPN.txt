@@ -1,6 +1,6 @@
-trojan://4hw4vkww-mz6q-sm14-g46p-n4nu79hqkn7v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 07:02 ]
-trojan://vfp1rwn0-7fp7-z6dm-37x4-10q9kl51a7ru@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0ni64xuh-o36k-kvi5-z2qr-49ibe77y37si@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://18orzb5y-p9am-6357-0ddq-nhqujc8lfn7g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 08:08 ]
+trojan://eyx4k8by-z6yv-0ob5-b9xu-cnv0sr3asskx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1hfj52i6-9kwu-wjg6-8u3g-gq693i2o2pjy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#103.186.155.22:38388
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.20:38388#103.186.154.20:38388
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.33:38388#103.186.154.33:38388
@@ -12,14 +12,14 @@ trojan://NISHIKUITAN111@69.48.218.10:443?security=tls#69.48.218.10:443
 trojan://NISHIKUITAN111@104.24.11.154:443?security=tls#104.24.11.154:443
 trojan://NISHIKUITAN111@104.20.8.252:443?security=tls#104.20.8.252:443
 trojan://NISHIKUITAN111@216.116.134.236:443?security=tls#216.116.134.236:443
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjUxLjY4LjE5MS4yMzMiLCJwb3J0Ijo4MCwiaWQiOiJmMGVkYTA3Mi05YWU4LTQ5NGMtYTQ5NS0yMTVmYTU3Mjk0NjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjQ1LjguMTQ2LjEyOSIsInBvcnQiOjgwLCJpZCI6IjA3MDQwMTZmLTU0MzUtNDY1NS1iZTZhLTc3MWE1YWJhNTJjMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvdm1lc3MvIn0
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?type=ws&security=tls&path=/assets&sni=NGINX.NSCl.IR#104.16.243.59:443
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjUuMTAuMjQ1Ljc4IiwicG9ydCI6MjA4MiwiaWQiOiI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSJ9
 vless://134c1950-3e5d-4dd1-9c3d-790ce358e374@174.138.101.107:45500?type=tcp&security=none#174.138.101.107:45500
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.34:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#91.193.58.34:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?type=ws&security=none&path=/reklaz1FsDrIv7mW?ed=2560#104.25.220.177:8880
 vless://d40c5cce-a633-4a11-b1db-3ce6fdfd44d6@174.138.101.107:45500?type=tcp&security=none#174.138.101.107:45500
 vless://977e8086-fd41-4362-a51a-8b0c95dfa0df@174.138.101.107:45500?type=tcp&security=none#174.138.101.107:45500
+vless://442cf841-17b6-4d09-9b5f-7fad9a35776d@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://81294d12-9b29-438d-8af2-2bfcba7bd450@91.99.115.113:2012?type=tcp&security=reality&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY#91.99.115.113:2012
-trojan://gh6vfykm-vdav-sp4w-bga9-blen8d9ep8m3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3n42yjeg-p309-ocin-jhuc-29pe2hlxezsv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://ha96lgpg-burw-hg5g-dqii-yewsoqalnoea@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wnpn70lf-tovj-1tii-5iz3-mw01kpud5oui@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
