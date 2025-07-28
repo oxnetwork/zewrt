@@ -1,13 +1,13 @@
-trojan://pjginf2k-msb1-9dsq-g2go-09j7iaje5dul@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 00:25 ]
-trojan://xma655kn-93a2-qg5k-nu6g-ppmb8m7qjqb0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6kmkcaro-az8e-3iuc-kgu5-z0gyhhc7rfgu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-tuic://f2ac5977-a4bd-4d09-9ae8-48d0e7c48013:6b71d5ca8ef2efd8@185.113.223.104:9823?sni=www.google.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#TR 🇹🇷 ┇ TUIC-TCP-NTLS - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 185.113.223.104
+trojan://kdx3zps9-2x49-1vhh-e5jp-dg5vpw1mtfgr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 00:52 ]
+trojan://7w5tgq30-eg07-jct2-fzf4-zhbdefydwzmw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ry7xg7bl-akna-f4fu-q7v5-rw3zn92hbw9s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBTdW51Y3VuIEJpbGdpIElsZXRpc2ltIFRla25vbG9qaWxlcmkgVmUgVGljYXJldCBMaW1pdGVkIFNpcmtldGkgXHUyNTA3IDE4NS4xMTMuMjIzLjE3OSIsImFkZCI6IjE4NS4xMTMuMjIzLjE3OSIsInBvcnQiOjM4NzYsImlkIjoiNTc1YmIwYWUtOTRlYi0wYzY4LWFhMzgtMjQxNDRmMjhkNzhlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4ifQ
-vless://cffb4fa6-9b24-4ecf-9e89-87ea3535395a@185.221.64.12:666?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 185.221.64.12
 vless://e0eddd4c-7a08-41e9-82dc-53228a9348cf@188.132.232.4:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 188.132.232.4
-vless://0af0090b-4223-4e21-84a6-46b192ff2a60@212.64.199.79:443?type=grpc&security=reality&sni=trendyol.com&fp=chrome&pbk=6JqJJ-wIZpy62AitE3hxzdv1DiosZ3UCPwaJQhuq4Qg&sid=de#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 212.64.199.79
-vless://c32819a3-bb1c-4e15-be00-ffcb657f8323@dl1-tr-cdn.easy-upload.org:2010?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 212.64.201.207
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBTdW51Y3VuIEJpbGdpIElsZXRpc2ltIFRla25vbG9qaWxlcmkgVmUgVGljYXJldCBMaW1pdGVkIFNpcmtldGkgXHUyNTA3IDIxMi42NC4yMDEuMTIiLCJhZGQiOiIyMTIuNjQuMjAxLjEyIiwicG9ydCI6Mzg3NiwiaWQiOiJiNzFlNTE4Zi1lM2I4LTY2MjMtZDE3Mi0xODM5MTI5ZjE0NzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFN1bnVjdW4gQmlsZ2kgSWxldGlzaW0gVGVrbm9sb2ppbGVyaSBWZSBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgNTAuMTE0LjI0My42MSIsImFkZCI6IjUwLjExNC4yNDMuNjEiLCJwb3J0Ijo0MzgzNCwiaWQiOiJiMjQ2ZTM0ZC1iYmQxLTQwMTYtOGY3NC1lYTQ2MWMzN2U0MTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://uyhm4573-k7pj-1dz5-ysam-00h9iqmj41pq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wbbo8r0m-2vm3-zzjk-l25h-qjlx6znamifk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://c32819a3-bb1c-4e15-be00-ffcb657f8323@dl1-tr-cdn.easy-upload.org:2010?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 212.64.201.207
+tuic://f2ac5977-a4bd-4d09-9ae8-48d0e7c48013:6b71d5ca8ef2efd8@185.113.223.104:9823?sni=www.google.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#TR 🇹🇷 ┇ TUIC-TCP-NTLS - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 185.113.223.104
+vless://0af0090b-4223-4e21-84a6-46b192ff2a60@212.64.199.79:443?type=grpc&security=reality&sni=trendyol.com&fp=chrome&pbk=6JqJJ-wIZpy62AitE3hxzdv1DiosZ3UCPwaJQhuq4Qg&sid=de#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 212.64.199.79
+vless://cffb4fa6-9b24-4ecf-9e89-87ea3535395a@185.221.64.12:666?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Limited Sirketi ┇ 185.221.64.12
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBTdW51Y3VuIEJpbGdpIElsZXRpc2ltIFRla25vbG9qaWxlcmkgVmUgVGljYXJldCBMaW1pdGVkIFNpcmtldGkgXHUyNTA3IDIxMi42NC4yMDEuMTIiLCJhZGQiOiIyMTIuNjQuMjAxLjEyIiwicG9ydCI6Mzg3NiwiaWQiOiJiNzFlNTE4Zi1lM2I4LTY2MjMtZDE3Mi0xODM5MTI5ZjE0NzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biJ9
+trojan://p2rv4uxi-9klu-5ym1-blse-c47qm6w6mn0z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7zhp85sl-ygkj-qbuq-u8tu-mgoblfup7182@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
