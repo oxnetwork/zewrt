@@ -1,6 +1,6 @@
-trojan://hi66zfjo-pg70-hgf8-airm-g1tdlwyu3mxx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 23:18 ]
-trojan://3b848cx7-c6fh-qha4-ycl8-xpwc7hgxaqvu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://l9ognkk5-ib91-i7w0-drz4-2ts79c4szo4i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qrvfd8ye-is81-nrd2-l78z-0u4cjhm9qidi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 23:54 ]
+trojan://bvefw864-j7fn-8d3w-j7tp-ob5jvhq33dv7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://t8jxa4m6-ctnb-gxn9-5sm1-klohy1up1swd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?type=xhttp&security=none&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&sni=global.ssl.fastly.net&fp=chrome#151.101.242.172:80
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
 vless://2b6f8f8c-4e7f-40f6-95b0-b57e88e8137a@www.speedtest.net:2095?type=httpupgrade&security=none&path=/@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02#www.speedtest.net:2095
@@ -17,8 +17,6 @@ vless://348699c1-e32f-4bc1-a63f-e795984fcf88@162.159.20.126:80?type=httpupgrade&
 vless://3bfdeb7b-9ace-49a3-b2d3-e13e119c722a@hi.somo44.sbs:8880?type=ws&security=none&path=/bhvcgvvc#hi.somo44.sbs:8880
 vless://5b6880aa-6d7d-4953-a399-f2f116d67706@172.67.211.227:2082?type=httpupgrade&security=none&path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048#172.67.211.227:2082
 vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
-vless://96095804-6e2b-4ed4-8bd5-49c28cb73679@194.182.79.64:14074?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=B-hICgbbnIsubfTgqZknMtYp-iY1VndOynbv_iXcEng&sid=61#194.182.79.64:14074
-vless://ab1cab11-7084-4dad-a1f8-f0bd9862783e@2001:15e8:110:6eb6::1:29706?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=DkZL7KswNuC90GiKfz8N950bX0aOT0fWQqUGYkumgXw&sid=149517c9#2001:15e8:110:6eb6::1:29706
 vless://83dc5c38-92fb-4d92-adb2-038575a12d49@194.182.79.250:52612?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs&sid=78a48e1e#194.182.79.250:52612
 vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg&sid=16b619c73e22#194.182.79.43:25245
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-4.cristiano.name.ng:443
@@ -32,5 +30,5 @@ vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?type=tcp&secur
 vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#v05.vxlimir.com:1370
 vless://d5f63b9e-780a-472a-9d1b-e2088087a037@194.182.79.252:37814?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=rk5UKshtrRPf3achXqaxQgA-7EryZABGx6fSXv35D14&sid=10a5#194.182.79.252:37814
 vless://e40a9ae6-872f-4452-a19b-a63fbd759d54@194.182.79.235:28257?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=1mkQipIydK3Je5xGCdYUhuEmnsqMvdEGyheJxtBKwlY&sid=c9497c0ea7a8ce1e#194.182.79.235:28257
-trojan://yq8jtri3-9qip-5wbl-huzj-8rn9gi2gnwmb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2fzw6dfk-57re-dwb0-751v-mvuajf9q4gua@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://gayybmy3-0480-bkh5-vd0u-nrr3n8yxblol@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9srs9tl1-seal-nue5-tpwc-i6qpgcoo6ukc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
