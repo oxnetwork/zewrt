@@ -1,16 +1,16 @@
-trojan://uhkr1p63-vith-veav-uf4h-lqxmxohrpx1k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 08:10 ]
-trojan://00qwgawa-m2hp-dki0-resn-7nynufcgrz9x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bvtex4pa-50k3-4a6i-xuav-fh9zuag0mg2s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://i4p0ilkb-9r9z-43h0-1g6t-lx348lyuunoi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 08:42 ]
+trojan://06g7w9gg-xufn-1uo4-6bzc-86nm2frb24sx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8l1t19ge-7edg-061r-kao3-2bc11e18jy80@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://test123@185.213.24.170:2096?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - HOSTHATCH ┇ 185.213.24.170
-trojan://Aimer@188.93.140.11:443?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - HOSTHATCH ┇ 188.93.140.11
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@212.52.0.61:1846?type=ws&security=none&sni=edccu.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-NTLS - HOSTHATCH ┇ 212.52.0.61
+ss://YWVzLTI1Ni1nY206MTQ0ODcxOGItNmJkNi00MmFlLWI2YjEtNTg1ZjM2ZGIzYTE3@216.250.97.138:7000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HOSTHATCH ┇ 216.250.97.138
 vless://003ea07e-c699-4dd1-b144-84656e967122@2406:ef80:1:fe16:0000:0000:8d34:32f0:30537?type=tcp&security=reality&sni=www.iij.ad.jp&fp=chrome&flow=xtls-rprx-vision&pbk=Devi5rbmdpKbT0Iqsi63Psh97YrAKzvvEA6RFHQVI1M#US 🇺🇸 ┇ VLESS-TCP-RLT - HOSTHATCH ┇ 2406:ef80:1:fe16:0000:0000:8d34:32f0
+vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@151.241.5.124:7000?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - HOSTHATCH ┇ 151.241.5.124
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhPU1RIQVRDSCBcdTI1MDcgMTg4LjIwOS4xNDEuOTEiLCJhZGQiOiIxODguMjA5LjE0MS45MSIsInBvcnQiOjkwMCwiaWQiOiI5NzMxYmIwNy1iY2RmLTQxYWQtOTQzMS05YTNjYjE1NzVhMzIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@216.250.97.118:443#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HOSTHATCH ┇ 216.250.97.118
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhPU1RIQVRDSCBcdTI1MDcgMTg4LjI0NC4xMTcuMzEiLCJhZGQiOiIxODguMjQ0LjExNy4zMSIsInBvcnQiOjI4MzIwLCJpZCI6IjIzNmZhNmUzLTY4M2ItNGMzZi1hMDdjLTU2MDYxZWUzOTNjMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-ss://YWVzLTI1Ni1nY206MTQ0ODcxOGItNmJkNi00MmFlLWI2YjEtNTg1ZjM2ZGIzYTE3@216.250.97.138:7000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - HOSTHATCH ┇ 216.250.97.138
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@212.52.0.61:1846?type=ws&security=none&sni=edccu.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-NTLS - HOSTHATCH ┇ 212.52.0.61
 hysteria2://16eb6b9509341345@45.91.92.191:16402?insecure=1&obfs=salamander#CH 🇨🇭 ┇ HYSTERIA2-TCP-NTLS - HOSTHATCH ┇ 45.91.92.191
 vless://042de66b-158d-42af-ad99-263c69999548@212.52.0.171:9443?type=ws&security=tls&path=/?ed=2560&sni=etc.mesa.ip-ddns.com&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - HOSTHATCH ┇ 212.52.0.171
-vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@151.241.5.124:7000?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - HOSTHATCH ┇ 151.241.5.124
-trojan://1j94kanz-5gj3-kyo5-0fus-m4ow18bwug8x@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://btdkv3nx-rx5q-jto4-qp55-k8nf2cy58i1l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://Aimer@188.93.140.11:443?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - HOSTHATCH ┇ 188.93.140.11
+trojan://wue3vt94-4kz6-eqmf-iv23-0d3ag66kn450@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nzbf0v3p-qsb3-0a7a-09ae-w1agpd5dgtae@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
