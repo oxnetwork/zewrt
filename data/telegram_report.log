@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-28 22:44:02
+Timestamp: 2025-07-28 23:08:35
 Total Channels: 92
 Successful Scrapes: 65
 Failed Scrapes: 0
@@ -26,11 +26,13 @@ v2ra_config: 34 configs
 skivpn: 33 configs
 capoit: 31 configs
 Greenvpn2: 26 configs
+shadowproxy66: 25 configs
+ShadowProxy66: 25 configs
+v2rayfast_7: 24 configs
 ghalagyann: 22 configs
 vistav2ray: 22 configs
 ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
-v2rayfast_7: 20 configs
 lexernet: 19 configs
 spikevpn: 18 configs
 arv2ray: 17 configs
@@ -41,17 +43,15 @@ cybersoldiersst: 16 configs
 masterserver1: 16 configs
 jokerrvpn: 14 configs
 summertimeus: 13 configs
-DailyV2Config: 13 configs
 PASARGAD_V2rayNG: 12 configs
 mcv2rayng: 11 configs
 proxystore11: 11 configs
+DailyV2Config: 11 configs
 DALTON_PING: 10 configs
 dalton_ping: 10 configs
 nufilter: 10 configs
-shadowproxy66: 10 configs
 vpnkanfik: 10 configs
 SafeNet_Server: 10 configs
-ShadowProxy66: 10 configs
 confingv2raayng: 9 configs
 mdvpnsec: 9 configs
 vpnandroid2: 9 configs
@@ -64,11 +64,11 @@ sinavm: 5 configs
 v2ngfast: 5 configs
 v2ray_god: 5 configs
 PRIMESOBI: 5 configs
-am20094: 2 configs
 befreewithus: 2 configs
 colsvpn: 2 configs
 ineronix: 2 configs
 BeFreeWithUs: 2 configs
+am20094: 1 configs
 WedBaZtel: 1 configs
 
 --- Failed Channels ---

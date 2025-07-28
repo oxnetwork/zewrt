@@ -1,6 +1,21 @@
-trojan://lzcf9usg-d2bq-eb9v-b8f6-0sniklhypbhr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 22:53 ]
-trojan://ukmexj28-1h7r-ct2c-xclm-tz8hmld5fdo7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wa17mosr-nz7a-vdhc-mr16-wei5vasbxrlt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://009m09bg-paaz-qvn9-nxb4-b2k7rqwxnw14@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 23:18 ]
+trojan://xlwj17l6-iy1t-xrya-kay4-brspr329nobz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8xysso73-w7g6-dchb-o6wl-79e6jkj9x3uo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.17.148.22:8443?sni=inVinciBLe.fafa20.sHop&peer=inVinciBLe.fafa20.sHop&security=tls#104.17.148.22:8443
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@185.148.104.141:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#185.148.104.141:8880
+vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?type=ws&security=tls&path=/KvNugxSUpljMOjgF/NzguNDcuMTU3LjY=?ed=2560&sni=InviNCIble.FAfA20.shOP&fp=randomized#160.153.0.153:8443
+vless://b28eb861-1748-4200-ba72-278669edc33b@27.50.48.21:443?type=ws&security=tls&path=/Telegram@ShadowProxy66/?ed=2560&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#27.50.48.21:443
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?type=xhttp&security=none&path=/xhttp#91.99.181.47:8443
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@45.131.209.36:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM#45.131.209.36:8880
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?type=ws&security=tls&path=/@Rayan_Configfp=chrome&sni=rAyAn-12.LeIlA.DpDnS.OrG#188.42.89.145:443
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@159.246.55.6:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#159.246.55.6:8880
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.228.91:80
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.18.12.149:443?type=ws&security=tls&path=/@ShadowProxy66&sni=rayan-09.leila.dpdns.org&fp=chrome#104.18.12.149:443
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?type=ws&security=none&path=/reklaz1FsDrIv7mW?ed=2560#104.25.220.177:8880
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&security=none&path=/http#Telegram@ShadowProxy66/?ed=2560#162.19.228.119:80
+vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&sid=200f99e321#5.181.21.152:24170
 hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#108.181.5.130:63015
 hysteria2://nfsn666@45.207.222.138:8888?sni=hk.nfsn666.gq&insecure=1#45.207.222.138:8888
 hysteria2://262100bd-a0c7-4412-a62d-a07d01f11a6a@153.121.42.218:443?sni=www.microsoft.com&insecure=1#153.121.42.218:443
@@ -11,5 +26,5 @@ hysteria2://8284b6a6-01dc-488c-a860-ee4a70306b52@2a0b:4e07:8:1::93b:34502?sni=ww
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@107.167.18.102:8443?sni=0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net&insecure=0#107.167.18.102:8443
 hysteria2://04d1fa77-25ee-4f14-9325-2a3d1a2e929e@156.229.160.130:443?insecure=1#156.229.160.130:443
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#51.159.111.32:31180
-trojan://r5ce5gj2-v2tq-3fua-9s0w-51fqvus391ik@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3k7c4tyw-ifp8-dwf6-3s13-ahvcuuxxtwh2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://zg5brye4-03ee-6y2a-nkk0-i560kouou3wc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4c8ncrrl-5d7s-lz7k-7fb6-jejr4ayfd2eb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
