@@ -1,6 +1,6 @@
-trojan://hqoovahp-01yl-wu6p-rlij-v4skyve9tb71@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-30 | 00:53 ]
-trojan://l4t5cbah-qsrh-vxdi-iub1-cg5nlczcs7kj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://op2ze8f9-qzmo-9p0f-sbas-rhgtvo39zz94@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5qsi13z7-vvsq-av9j-uu12-y7m7bsolms1i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-30 | 01:21 ]
+trojan://smmlw73l-32ec-xonk-vgom-yp7vgzl9yrl5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2wmws9g8-zugu-6zyj-0e0n-577l9d0jkhvq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#admin.c1.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
@@ -9,7 +9,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVy
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjEwNC4xOC4xMTQuMTAxIiwicG9ydCI6MjA4NiwiaWQiOiJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjE5MC45My4yNDUuMTAzIiwicG9ydCI6MjA4MiwiaWQiOiI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjQ1LjY3LjIzMC43OSIsInBvcnQiOjExMDUyLCJpZCI6IjMxNDE4NWY3LTkzMWQtNDY1Ni05MjJkLTA4NTdlN2FmZDIyNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://fd9eb6e9-bc83-4ff3-afb5-f923600e65f6@catherinede.hpcdn.info:80?type=httpupgrade&security=none&path=/37263/hMMad#catherinede.hpcdn.info:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.61.49:443?type=ws&security=tls&path=/?ed=2560&sni=a.xn--i-sx6a60i.us.kg#104.21.61.49:443
 vless://38200bc2-e4c0-4aa9-aeaf-e85112b285ac@162.159.20.126:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#162.159.20.126:80
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?type=tcp&security=none#162.19.250.162:24209
@@ -21,5 +20,6 @@ vless://turboo-server@telegram.turboo-server.com.co:2095?type=tcp&security=none#
 vless://77836325-68d3-4b82-a195-524993ccf56b@151.101.194.228:80?type=ws&security=none#151.101.194.228:80
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
 vless://f882417e-fe9d-4ed5-ac1d-9eccbaf890c0@172.67.211.227:2082?type=httpupgrade&security=none&path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048#172.67.211.227:2082
-trojan://xwintvjp-6jsg-t8ck-4d7z-q7z2qb5okroj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3bu6p9gk-268s-2u9d-7cee-x0s8pc4y9bb9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+trojan://qaj0q837-vbrb-3rh6-tnd8-90e24j0ixl3k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gmunctcd-hzgc-van0-fim6-3e0650eyb278@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
