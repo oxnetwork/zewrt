@@ -1,13 +1,10 @@
-trojan://uh03q1nz-i5c7-rdyn-83u2-bc26gzy7bq7h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-30 | 22:33 ]
-trojan://qkqavq39-oi0n-8o6k-3oi0-5davs6q9ibud@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://snor9p49-6emz-89j6-orgf-6tevqz1doq1q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://r8q0sz5e-ic4c-rru7-byg8-41ium850a4bd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-30 | 22:53 ]
+trojan://8ntisawl-jg4l-knwy-u7xa-79fwn8p0lkco@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ws7wvcp4-lurj-pmaw-09tw-dpyt3iegez1w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#45.87.175.22:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#45.87.175.22:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#45.87.175.22:8080
-vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
-vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?type=ws&security=tls&path=/&sni=vl.hongkong6.qzz.io&fp=random#www.visa.com.sg:2087
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&security=none#95.164.45.94:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&security=none#185.231.205.234:8880
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?type=ws&security=tls&path=/&sni=smart.v2plusify.org&fp=chrome#198.41.193.13:2087
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#magical-fish.seotoolsforyou.co.uk:80
@@ -50,9 +47,13 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?type=ws
 vless://46910fa8-9e1c-2b7e-50bd-5b81e0ebe9b3@157.245.72.229:88?type=tcp&security=none#157.245.72.229:88
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?type=tcp&security=none#78.46.251.109:2020
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?type=ws&security=none&path=/#handsome-device.oneeat.co:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#185.33.24.229:28495
 vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#it.panelmarzban.com:3037
 vless://ba029da2-7826-48ad-a48d-6a3329078440@new.mygoldiran.com:33621?type=grpc&security=reality&sni=pubg-sell.ir&fp=chrome&pbk=83jeAqc0ET6NdZdgmNZYVTUz5Gwvz5k9EuJty2Wntms&sid=c641#new.mygoldiran.com:33621
 vless://48cd341c-6bb8-4e18-a59d-e2813bf02993@45.91.237.48:443?type=tcp&security=reality&sni=moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=35qsDXTLann5WRm9qOP6S6XMerioabdkAlX8sWsM-kM&sid=e14b4583c7162e6e#45.91.237.48:443
-trojan://rzxhvk9d-994a-wqhp-y8ps-rx4snkkesb7h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y69h8cv4-8jhe-tbjm-gyzs-2kzta0jirwc1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://offjg8oy-t8gq-yfmq-4tp2-4ibvrtvgm6lt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9qho8pte-43zf-dsp1-d6f3-p59yansutavy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
