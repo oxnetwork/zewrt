@@ -1,11 +1,11 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-30 12:50:30
+Timestamp: 2025-07-30 13:19:39
 Total Channels: 92
-Successful Scrapes: 62
+Successful Scrapes: 61
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-freakconfig: 192 configs
+freakconfig: 179 configs
 meli_proxyy: 140 configs
 sockss_http: 134 configs
 v2rayng_1378: 127 configs
@@ -14,8 +14,6 @@ vpnod: 77 configs
 Tweety_Proxy: 75 configs
 ZibaNabz: 65 configs
 bored_vpn: 54 configs
-shadowproxy66: 49 configs
-ShadowProxy66: 49 configs
 expressvpn_420: 47 configs
 freenet_melli: 45 configs
 vmessorg: 43 configs
@@ -23,6 +21,8 @@ itenvpn: 39 configs
 v2ra_config: 37 configs
 evay_vpn: 34 configs
 meliconfing: 34 configs
+shadowproxy66: 33 configs
+ShadowProxy66: 33 configs
 capoit: 31 configs
 configx2ray: 29 configs
 ConfigX2ray: 29 configs
@@ -49,10 +49,10 @@ v2raymelliii: 11 configs
 WedBaZtel: 11 configs
 vpnkanfik: 11 configs
 SafeNet_Server: 11 configs
+mdvpnsec: 10 configs
 nufilter: 10 configs
 DALTON_PING: 9 configs
 dalton_ping: 9 configs
-mdvpnsec: 9 configs
 vpnandroid2: 9 configs
 isvvpn: 8 configs
 confingv2raayng: 7 configs
@@ -63,7 +63,6 @@ fnet00: 6 configs
 v2ngfast: 5 configs
 v2ray_god: 5 configs
 PRIMESOBI: 5 configs
-sinavm: 3 configs
 colsvpn: 2 configs
 ineronix: 2 configs
 am20094: 1 configs
