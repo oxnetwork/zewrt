@@ -1,6 +1,6 @@
-trojan://nhswh8as-62fd-gf4r-xn9c-92vrcb4648bb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-30 | 21:58 ]
-trojan://p3zyzhgx-eryo-6m1t-exlg-r8twzlixpekk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://x5klbwmu-lman-u8y7-w2g5-imhvxi0bbjmm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://db92fwpq-10kg-0kf1-4wc0-ggteor1xgoob@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-30 | 22:33 ]
+trojan://vgoelrx1-vdv7-hs73-krv2-d5zzfjthk39l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8q4b7pca-v253-s4rk-12qc-3kuk8gnpcb4k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
@@ -63,5 +63,7 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&securit
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
-trojan://cpoxxi7f-wqid-lbuk-b53r-uoedu4q3dd3l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0d7ea01o-mg3a-ix6u-n3q9-s715iperh6wi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&security=none#138.199.175.204:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&security=none#138.199.175.204:8880
+trojan://3xuuxzrf-tqor-5amp-b530-pj86kdwv8x2k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8hsslpi5-iid5-19j9-jioo-j97lc8km2p3x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
