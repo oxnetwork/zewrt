@@ -1,18 +1,18 @@
-trojan://rfa51a8l-fbwp-e4s0-8vaa-7t0t78ga1k5v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-31 | 01:53 ]
-trojan://pnqxbpjx-b7pn-72a4-grnn-lazyxgrtd1l2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://m16n5enr-6w1o-nr9h-phrs-hsr3bkpxihz9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://aa7bd686-5bda-41a1-8f17-3541a73b813f@109.94.165.25:8883?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Damash Software Computer Services LTD ┇ 109.94.165.25
-vless://bd06dcd4-02ab-4b6c-803a-ec441075b346@212.16.71.161:2097?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Damash Software Computer Services LTD ┇ 212.16.71.161
-vless://b64bdfb1-f322-4830-a1c1-f1395cc0f981@212.16.71.25:9460?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Damash Software Computer Services LTD ┇ 212.16.71.25
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhbWFzaCBTb2Z0d2FyZSBDb21wdXRlciBTZXJ2aWNlcyBMVEQgXHUyNTA3IDEwOS45NC4xNjUuODUiLCJhZGQiOiJlNC5kaWRpc2VydmljZXMuc2l0ZSIsInBvcnQiOjg4OTIsImlkIjoiZTY4ODI5OWQtNmU2Zi00YzNkLTkzZjMtYWRjZTczYTliMTlkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://eee3b929-36e5-4310-b58d-fe3adf220a8e@212.16.71.52:443?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=chSuyh4OP5_VINPk7vWZnJ3X2f9DjGcR0mu8gIm_aF8&sid=bbe53393d02629b8#IR 🇮🇷 ┇ VLESS-TCP-RLT - Damash Software Computer Services LTD ┇ 212.16.71.52
-vless://da8d9428-7e89-4699-adaf-3d7bd20fefd1@109.94.165.106:10000?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Damash Software Computer Services LTD ┇ 109.94.165.106
-vless://01be6498-eb5c-42c3-a84c-71879900f037@212.16.71.254:80?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Damash Software Computer Services LTD ┇ 212.16.71.254
-vless://c5e011a7-6de9-4eec-96bc-e38d424785ba@212.16.71.109:8443?type=tcp&security=reality&sni=api.gamingserverstream.ir&fp=firefox&flow=xtls-rprx-vision&pbk=0cq2Hb48xoxO-DvY40HycXGqZd3XmB90_g1pSShCpjs&sid=711bc39b#IR 🇮🇷 ┇ VLESS-TCP-RLT - Damash Software Computer Services LTD ┇ 212.16.71.109
-vless://df5f5dda-9de0-4aa0-badf-76f1bd9e874c@109.94.165.161:11000?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Damash Software Computer Services LTD ┇ 109.94.165.161
+trojan://v5zyk682-v540-l4ie-6whu-atymbvbmyk4i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-31 | 02:25 ]
+trojan://l4erpusb-pi7e-vb22-atxg-biuu9gswr0kb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bzkg5w1s-uw6s-x5e3-ob76-xav8uo31t2p9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://541134bb-8e88-4785-84a0-14ca47a12b9f@109.94.165.104:10000?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Damash Software Computer Services LTD ┇ 109.94.165.104
-vless://6bfe29b6-6b37-4186-a9c1-377503f5ea0d@m2.momazlumi.website:41577?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Damash Software Computer Services LTD ┇ 212.16.71.16
+vless://bd06dcd4-02ab-4b6c-803a-ec441075b346@212.16.71.161:2097?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Damash Software Computer Services LTD ┇ 212.16.71.161
+vless://c5e011a7-6de9-4eec-96bc-e38d424785ba@212.16.71.109:8443?type=tcp&security=reality&sni=api.gamingserverstream.ir&fp=firefox&flow=xtls-rprx-vision&pbk=0cq2Hb48xoxO-DvY40HycXGqZd3XmB90_g1pSShCpjs&sid=711bc39b#IR 🇮🇷 ┇ VLESS-TCP-RLT - Damash Software Computer Services LTD ┇ 212.16.71.109
+vless://eee3b929-36e5-4310-b58d-fe3adf220a8e@212.16.71.52:443?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=chSuyh4OP5_VINPk7vWZnJ3X2f9DjGcR0mu8gIm_aF8&sid=bbe53393d02629b8#IR 🇮🇷 ┇ VLESS-TCP-RLT - Damash Software Computer Services LTD ┇ 212.16.71.52
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhbWFzaCBTb2Z0d2FyZSBDb21wdXRlciBTZXJ2aWNlcyBMVEQgXHUyNTA3IDEwOS45NC4xNjUuMTQiLCJhZGQiOiJmMi5kaWRpc2VydmljZXMuc2l0ZSIsInBvcnQiOjg4OTIsImlkIjoiYTJjZDNmZDgtMjdjOS00MzdjLWI2YzItYjc2YzhkZmI5YTEwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://01be6498-eb5c-42c3-a84c-71879900f037@212.16.71.254:80?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Damash Software Computer Services LTD ┇ 212.16.71.254
 vless://b0464bda-4f77-47f3-9e2a-d78bc038d6ff@109.94.165.171:18033?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Damash Software Computer Services LTD ┇ 109.94.165.171
-trojan://vqsvpyuc-7uju-jlsm-34mu-0hl1zy3tp9k6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8zkj2a6s-7ski-h79s-nhof-khxk2l50b3q9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhbWFzaCBTb2Z0d2FyZSBDb21wdXRlciBTZXJ2aWNlcyBMVEQgXHUyNTA3IDEwOS45NC4xNjUuODUiLCJhZGQiOiJlNC5kaWRpc2VydmljZXMuc2l0ZSIsInBvcnQiOjg4OTIsImlkIjoiZTY4ODI5OWQtNmU2Zi00YzNkLTkzZjMtYWRjZTczYTliMTlkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://da8d9428-7e89-4699-adaf-3d7bd20fefd1@109.94.165.106:10000?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Damash Software Computer Services LTD ┇ 109.94.165.106
+vless://6bfe29b6-6b37-4186-a9c1-377503f5ea0d@m2.momazlumi.website:41577?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Damash Software Computer Services LTD ┇ 212.16.71.16
+vless://aa7bd686-5bda-41a1-8f17-3541a73b813f@109.94.165.25:8883?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Damash Software Computer Services LTD ┇ 109.94.165.25
+vless://b64bdfb1-f322-4830-a1c1-f1395cc0f981@212.16.71.25:9460?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Damash Software Computer Services LTD ┇ 212.16.71.25
+vless://df5f5dda-9de0-4aa0-badf-76f1bd9e874c@109.94.165.161:11000?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Damash Software Computer Services LTD ┇ 109.94.165.161
+trojan://lzflik6o-fyt6-97io-uv3q-xm7xpj8j1ktw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://k52e423j-3jqv-1k95-6u9s-xod6cug9rkpu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
