@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 11:48:09
+Timestamp: 2025-07-31 12:21:30
 Total Channels: 92
 Successful Scrapes: 61
 Failed Scrapes: 0
@@ -63,8 +63,8 @@ v2ngfast: 6 configs
 v2ray_god: 5 configs
 v2ray_rolly: 5 configs
 PRIMESOBI: 5 configs
-v2ray_configs_pool: 3 configs
 colsvpn: 2 configs
 ineronix: 2 configs
+v2ray_configs_pool: 1 configs
 
 --- Failed Channels ---
