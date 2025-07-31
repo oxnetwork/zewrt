@@ -1,6 +1,6 @@
-trojan://2ph4vgkg-g32d-2qcq-mb6k-etvsc26h16qi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-31 | 13:54 ]
-trojan://861wfhqn-8ydz-dt7j-rbhk-di9tsn7iaclj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://iq0z65r6-06zt-033n-8lc7-x3dvpqp0cxit@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://dkf8zi9r-zhd6-5lev-ifxb-mywiisiemwg8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-31 | 14:28 ]
+trojan://i26gwjf1-qtxf-0xlb-x6w2-q7qhgis4wpy4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://44mm2o9o-te5f-zhup-wu7z-qcpsilovdtf3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://492e8973-6f9a-429e-e60a-f7b844cf8786@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
 vless://0e00aafb-b813-42f8-bea5-dabae7a2d18b@104.16.85.3:8880?type=httpupgrade&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.16.85.3:8880
 vless://de4f383e-d572-42f3-9d96-31d3c7bbe65b@104.16.85.3:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.16.85.3:80
@@ -40,11 +40,13 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?typ
 vless://47d2ef41-bb32-4923-cfee-adb10df57f3c@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
 vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
 vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@opening-hours.nz:80?type=ws&security=none&path=/#opening-hours.nz:80
-vless://bbe59f7a-e4c1-4a1d-cbbf-67d44c7d7733@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
-vless://bbe59f7a-e4c1-4a1d-cbbf-67d44c7d7733@opening-hours.nz:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#opening-hours.nz:80
+vless://52428b83-b414-4321-8aea-1bd51d68b884@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
+vless://52428b83-b414-4321-8aea-1bd51d68b884@opening-hours.nz:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#opening-hours.nz:80
+vless://52428b83-b414-4321-8aea-1bd51d68b884@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
+vless://52428b83-b414-4321-8aea-1bd51d68b884@opening-hours.nz:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#opening-hours.nz:80
 vless://ce3acfb7-a0e8-4f96-b9ff-75c2657997fa@freedam.wirecard.store:2053?type=grpc&security=reality&sni=freedom.wirecard.store&fp=firefox&pbk=hRwCV7x14uQ7jdsLqsxvklkR4Mtf7kRsZhboIKRbsR4&sid=c531427f9b41#freedam.wirecard.store:2053
 vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?type=xhttp&security=reality&path=/&sni=www.black-moai.com&fp=firefox&pbk=qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU&sid=a862ded52ae3ea#80.240.23.101:47567
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
-trojan://cc886js5-9h4w-hkxp-sim9-efv8pe9a53n8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ykcv6ld1-ywmw-dkut-xgy8-nhhcvh42l3g5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://0wohc2dp-4dzv-412q-xbqw-gdsp813n2nyc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://omc7i4sg-8slm-p77v-l6wf-0gkkk6yh65u7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

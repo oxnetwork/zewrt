@@ -1,11 +1,10 @@
-trojan://9fxutwk5-txlx-zx1u-fzzw-sxvmdt76amx8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-31 | 13:54 ]
-trojan://sxyqcqtu-15xh-u7n3-1kcm-kxm50rojv70m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vcz8zrha-i7tg-cs3c-saoc-xod742kdjgua@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://gnlpojom-d2r9-86ms-6bvd-6pxxfqh2y4i6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-31 | 14:28 ]
+trojan://7tsosbrw-64h1-vott-9lgh-eaw8ae5ni02h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://66xy3paz-3xdw-vy14-qneh-a7wlvh62pn9m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@139.64.165.144:5004#139.64.165.144:5004
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#109.201.152.181:443
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@192.3.81.194:16899#192.3.81.194:16899
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8882#38.75.136.21:8882
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
 vless://f129d8db-8a48-4c4a-9e32-1a07b608fa80@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://0fb5737c-129d-4dda-b309-637f5c3b6cc5@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
@@ -21,5 +20,6 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security
 vless://88633e30-ac96-4be0-98f4-c9f6b9d7fe96@172.66.40.99:80?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#172.66.40.99:80
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
 vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403?type=tcp&security=none#15.204.199.122:57403
-trojan://mqh2su5n-sa8o-oscq-7erg-jlpbcma4nyne@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n271m010-7qgn-av6a-fccz-8xpj5jemgmz9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=tls&path=/@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.21.67.12:443
+trojan://lawlv0d4-o5jv-tvkn-fyms-37cb26mpod7n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nmydgsp9-xcbu-ci5h-5g1f-kygg69d4ao8p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
