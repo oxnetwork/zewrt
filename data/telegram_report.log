@@ -1,12 +1,13 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 03:30:55
+Timestamp: 2025-07-31 04:28:54
 Total Channels: 92
-Successful Scrapes: 50
-Failed Scrapes: 18
+Successful Scrapes: 60
+Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 GalaxyMVPN: 197 configs
 freakconfig: 179 configs
+meli_proxyy: 178 configs
 v2rayng_1378: 154 configs
 sockss_http: 134 configs
 Tweety_Proxy: 82 configs
@@ -36,7 +37,12 @@ lexernet: 19 configs
 tehranargo: 18 configs
 vistav2ray: 18 configs
 WarV2Ray: 17 configs
+cybersoldiersst: 16 configs
 masterserver1: 16 configs
+ghalagyann: 14 configs
+skivpn: 14 configs
+summertimeus: 14 configs
+proxystore11: 13 configs
 PASARGAD_V2rayNG: 12 configs
 v2raymelliii: 12 configs
 mcv2rayng: 11 configs
@@ -45,6 +51,7 @@ nufilter: 10 configs
 vpnkanfik: 10 configs
 DALTON_PING: 9 configs
 dalton_ping: 9 configs
+mdvpnsec: 9 configs
 DailyV2Config: 9 configs
 isvvpn: 8 configs
 confingv2raayng: 7 configs
@@ -52,26 +59,11 @@ vpnpacket: 7 configs
 Subify_ir: 7 configs
 fnet00: 6 configs
 sinavm: 6 configs
+v2ngfast: 5 configs
 v2ray_god: 5 configs
+v2ray_rolly: 5 configs
 PRIMESOBI: 5 configs
 colsvpn: 2 configs
+ineronix: 2 configs
 
 --- Failed Channels ---
-ChatNakon_Confings
-ProxyMars_GP
-befreewithus
-blueshekan
-cybersoldiersst
-dailyv2ry
-ghalagyann
-godot404
-iMTProto
-ineronix
-mdvpnsec
-meli_proxyy
-proxystore11
-proxyy_1404
-skivpn
-summertimeus
-v2ngfast
-v2ray_rolly
