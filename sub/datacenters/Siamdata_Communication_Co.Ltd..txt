@@ -1,17 +1,17 @@
-trojan://0sr8239p-v0zr-f3je-gywr-9t431vqxazcp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-31 | 22:54 ]
-trojan://og03otl0-x5v2-2wh5-ya8t-k7zw4cvohptj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aglk4hr0-wvjt-dn6b-0io9-xezi327s6uz7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://53784f81-7b1a-468e-8792-756a2d4e744e@141.98.18.14:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#TH 🇹🇭 ┇ TROJAN-TCP-TLS - Siamdata Communication Co.,Ltd. ┇ 141.98.18.14
+trojan://boge3nz9-ievk-i6m1-sykk-76ctygfgvt2g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-31 | 23:18 ]
+trojan://xoyynsh3-wixa-u6bq-rct9-nr3ml71ak48v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://sgf48hok-gzfj-lt72-wxya-mv4hofpegf5w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZQXNzZXJAMjAyNw@45.91.135.23:443#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.91.135.23
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ@th-01.cloxynode.com:35515#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.150.54
-trojan://a4408756-1d34-4df0-a6c9-e63226e0ab93@203.159.92.232:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#TH 🇹🇭 ┇ TROJAN-TCP-TLS - Siamdata Communication Co.,Ltd. ┇ 203.159.92.232
-vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@45.144.167.46:19816?type=ws&security=tls&path=/lzjjjj666&sni=rs-hk.lzjnb.shop&fp=chrome#TH 🇹🇭 ┇ VLESS-WS-TLS - Siamdata Communication Co.,Ltd. ┇ 45.144.167.46
-vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2lhbWRhdGEgQ29tbXVuaWNhdGlvbiBDby4sTHRkLiBcdTI1MDcgNDMuMjI5LjEzNS42NSIsImFkZCI6IjQzLjIyOS4xMzUuNjUiLCJwb3J0Ijo4MCwiaWQiOiI0NzYwMmFhYS1lZTE3LTQ1OGEtYjE0OS0yM2Q1MzQyMTM5MDQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzIn0
 vless://c1h8i2ke-30h8-9204-hi14-l1i1g2940i62@45.91.134.12:8443?type=ws&security=none&path=/vless/#TH 🇹🇭 ┇ VLESS-WS-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.91.134.12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@th.fastsoonlink.com:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.149.210
-vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2lhbWRhdGEgQ29tbXVuaWNhdGlvbiBDby4sTHRkLiBcdTI1MDcgMTQxLjk4LjE5Ljc3IiwiYWRkIjoiMTQxLjk4LjE5Ljc3IiwicG9ydCI6MTAwMDAsImlkIjoiYjgyNDhlMTYtNGY4MS0xMWVkLTg3ZTYtMDAxNjNlZDE3OGE0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@103.117.148.22:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.148.22
 vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@43.229.149.251:8443?type=ws&security=tls&path=/&sni=vxh.wxgqlfx.cn&fp=chrome#TH 🇹🇭 ┇ VLESS-WS-TLS - Siamdata Communication Co.,Ltd. ┇ 43.229.149.251
+vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2lhbWRhdGEgQ29tbXVuaWNhdGlvbiBDby4sTHRkLiBcdTI1MDcgMTQxLjk4LjE5Ljc3IiwiYWRkIjoiMTQxLjk4LjE5Ljc3IiwicG9ydCI6MTAwMDAsImlkIjoiYjgyNDhlMTYtNGY4MS0xMWVkLTg3ZTYtMDAxNjNlZDE3OGE0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@45.144.167.46:19816?type=ws&security=tls&path=/lzjjjj666&sni=rs-hk.lzjnb.shop&fp=chrome#TH 🇹🇭 ┇ VLESS-WS-TLS - Siamdata Communication Co.,Ltd. ┇ 45.144.167.46
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ@th-01.cloxynode.com:35515#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.150.54
 vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2lhbWRhdGEgQ29tbXVuaWNhdGlvbiBDby4sTHRkLiBcdTI1MDcgMTAzLjk5LjExLjEzNyIsImFkZCI6IjEwMy45OS4xMS4xMzciLCJwb3J0Ijo1MzA1MiwiaWQiOiJlY2M0YTBhNy00MGJjLTQxNTktZTcwYi0wNTc0ODNiZWUyNDQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-trojan://w6tm3is8-0ysi-z2k1-cxar-djlu3hroub0p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ddsn9256-wy9f-3ll9-5g6j-buj1prohi0uq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://a4408756-1d34-4df0-a6c9-e63226e0ab93@203.159.92.232:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#TH 🇹🇭 ┇ TROJAN-TCP-TLS - Siamdata Communication Co.,Ltd. ┇ 203.159.92.232
+vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2lhbWRhdGEgQ29tbXVuaWNhdGlvbiBDby4sTHRkLiBcdTI1MDcgNDMuMjI5LjEzNS42NSIsImFkZCI6IjQzLjIyOS4xMzUuNjUiLCJwb3J0Ijo4MCwiaWQiOiI0NzYwMmFhYS1lZTE3LTQ1OGEtYjE0OS0yM2Q1MzQyMTM5MDQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@103.117.148.22:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.148.22
+trojan://53784f81-7b1a-468e-8792-756a2d4e744e@141.98.18.14:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#TH 🇹🇭 ┇ TROJAN-TCP-TLS - Siamdata Communication Co.,Ltd. ┇ 141.98.18.14
+trojan://tlyfnqx3-e3ou-5vql-0hpw-rgo9bkvwfcnf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uckaormf-fw9z-9tgm-whd3-eiq0zryabn2h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
