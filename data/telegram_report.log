@@ -1,15 +1,15 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-31 21:48:26
+Timestamp: 2025-07-31 22:24:08
 Total Channels: 92
-Successful Scrapes: 59
+Successful Scrapes: 60
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 GalaxyMVPN: 200 configs
 freakconfig: 181 configs
 meli_proxyy: 180 configs
-v2rayng_1378: 154 configs
 sockss_http: 134 configs
+v2rayng_1378: 128 configs
 Tweety_Proxy: 82 configs
 vpnod: 77 configs
 ZibaNabz: 70 configs
@@ -53,6 +53,7 @@ dalton_ping: 10 configs
 vpnkanfik: 10 configs
 isvvpn: 9 configs
 confingv2raayng: 8 configs
+v2ray_configs_pool: 8 configs
 mdvpnsec: 7 configs
 vpnpacket: 7 configs
 fnet00: 6 configs
