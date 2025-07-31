@@ -1,26 +1,26 @@
-trojan://9g909mzk-a8ae-qg2t-hjxg-mzp5cqzpyroe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-31 | 13:27 ]
-trojan://9ohvr901-j1hi-hkxt-8ku1-mdz6v78zdxsr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xrdoovir-wz7k-hezp-nicg-yptf014wy3oz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://eq34yhmg-4zag-gxr5-0lw4-x9rgjtb06q38@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-31 | 13:54 ]
+trojan://ye689lzo-h6fw-rsdh-6cd6-bfwvuph73gaf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ktgjvpha-xavc-0d5p-jcnf-lgp7oq9pyf0s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.102.136.39:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.102.136.39
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.114.72.31:2053?type=ws&security=tls&path=/Telegram@V2ray_Alpha&sni=0926.qiang2000.link&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.114.72.31
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.103.109.139:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.103.109.139
+vless://05ccf3cd-d205-4e7a-b8af-373bb37ee7a2@103.71.21.243:49110?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - First Server Limited ┇ 103.71.21.243
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmlyc3QgU2VydmVyIExpbWl0ZWQgXHUyNTA3IDE5NC4zNi4xNzguMTY1IiwiYWRkIjoic2c4LnZwbmphbnRpdC5jb20iLCJwb3J0IjoxMDAwMCwiaWQiOiJkNTQ5MTg1YS01OWRmLTExZWQtODhjYi0wMDE2M2UwOGQ1YjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@194.36.179.17:2053?type=ws&security=tls&path=Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-TLS - First Server Limited ┇ 194.36.179.17
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.103.253.35:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylks.us.kg#DE 🇩🇪 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.103.253.35
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.128.106.14:51820?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.128.106.14
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.252.144.185:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.252.144.185
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZpcnN0IFNlcnZlciBMaW1pdGVkIFx1MjUwNyAxOTQuMzYuMTc4LjE4NSIsImFkZCI6IjE5NC4zNi4xNzguMTg1IiwicG9ydCI6NTM2NjEsImlkIjoiOTA1OWMyYjMtNTRiNi00ZTE4LWM3ODktODYwNDg2NjE1MDdiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@80.76.34.13:443?type=ws&security=tls&path=/?ed=2560&sni=ly.ylka.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - First Server Limited ┇ 80.76.34.13
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@87.239.250.229:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - First Server Limited ┇ 87.239.250.229
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@45.95.203.214:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - First Server Limited ┇ 45.95.203.214
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.114.73.166:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.114.73.166
+trojan://SSorg@185.114.72.148:443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - First Server Limited ┇ 185.114.72.148
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.94.165.93:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.94.165.93
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.232.170.240:443?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed&sni=0926.qiang2000.link#BG 🇧🇬 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.232.170.240
 vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@87.239.250.252:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - First Server Limited ┇ 87.239.250.252
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTElubVVCcnhNZ0VuODVZNnZWamVI@185.172.129.91:56220#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - First Server Limited ┇ 185.172.129.91
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmlyc3QgU2VydmVyIExpbWl0ZWQgXHUyNTA3IDE5NC4zNi4xNzguMTY1IiwiYWRkIjoic2c4LnZwbmphbnRpdC5jb20iLCJwb3J0IjoxMDAwMCwiaWQiOiJkNTQ5MTg1YS01OWRmLTExZWQtODhjYi0wMDE2M2UwOGQ1YjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92cG5qYW50aXQifQ
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.128.106.14:51820?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.128.106.14
-vless://b261048a-7b07-44fd-a205-332aa346a90f@103.71.21.243:49110?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - First Server Limited ┇ 103.71.21.243
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZpcnN0IFNlcnZlciBMaW1pdGVkIFx1MjUwNyAxOTQuMzYuMTc4LjE4NSIsImFkZCI6IjE5NC4zNi4xNzguMTg1IiwicG9ydCI6NTM2NjEsImlkIjoiOTA1OWMyYjMtNTRiNi00ZTE4LWM3ODktODYwNDg2NjE1MDdiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-trojan://SSorg@185.114.72.148:443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - First Server Limited ┇ 185.114.72.148
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.114.73.166:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.114.73.166
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@45.95.203.214:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - First Server Limited ┇ 45.95.203.214
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.94.165.93:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.94.165.93
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@194.36.179.17:2053?type=ws&security=tls&path=Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-TLS - First Server Limited ┇ 194.36.179.17
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.103.109.139:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.103.109.139
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@87.239.250.229:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - First Server Limited ┇ 87.239.250.229
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.103.253.35:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylks.us.kg#DE 🇩🇪 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.103.253.35
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@80.76.34.13:443?type=ws&security=tls&path=/?ed=2560&sni=ly.ylka.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - First Server Limited ┇ 80.76.34.13
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.114.72.31:2053?type=ws&security=tls&path=/Telegram@V2ray_Alpha&sni=0926.qiang2000.link&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.114.72.31
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@185.252.144.185:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#FI 🇫🇮 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.252.144.185
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@87.239.250.142:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - First Server Limited ┇ 87.239.250.142
 vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@193.124.190.40:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - First Server Limited ┇ 193.124.190.40
-trojan://2hrpkpfp-6axo-upx0-0zfa-wfkwx0ht7ken@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qpqxtxgw-la8p-2d2n-i3ea-tftdmkdf9hnf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTElubVVCcnhNZ0VuODVZNnZWamVI@185.172.129.91:56220#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - First Server Limited ┇ 185.172.129.91
+trojan://sbuv4dwv-s00b-fup6-w5rf-7qy6sx1she4h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ikksineu-5vrx-hpas-xp8a-6j06m1ambbc0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
