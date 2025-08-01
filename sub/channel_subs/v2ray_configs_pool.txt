@@ -1,13 +1,25 @@
-trojan://bsxwwg66-r7fe-oxf3-t5bt-57r3u04gkiyv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-01 | 13:28 ]
-trojan://n9thv33g-xsl9-f98n-3gks-c3rx5jb8uq6k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dlmul0tz-dmso-cqiu-dobm-3gugj1gc9tvo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://123456@104.25.165.81:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&security=tls#104.25.165.81:8443
+trojan://71l04m7n-qood-cuc9-1gia-ke8bdg2ac55h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-01 | 13:56 ]
+trojan://5hwaa5h2-azms-92f5-rvym-uchg8nt46xpz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s1psaaeh-34m9-zk93-amaq-t2lpavk7m6ig@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#45.158.171.146:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#45.87.175.65:8080
+trojan://bpb-trojan@89.116.250.94:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#89.116.250.94:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---proxy_mtm---proxy_mtm---proxy_mtm?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/Telegram---mtmvpn---MTMVPN?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?type=ws&security=tls&path=/telegram---MTMVPN---MTMVPN&sni=verina.ccantarella.dns-dynamic.net&fp=chrome#172.67.164.1:443
+vless://a972ae73-e222-4f1d-9361-3c3c3380358a@mtun.mtechnet.ir:18080?type=tcp&security=none#mtun.mtechnet.ir:18080
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?type=grpc&security=none#45.89.111.250:8880
+vless://f2b3219c-215f-4b7e-96d8-25b751d79988@211.221.20.167:50000?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2 /&sni=edgetunnel.xiaomayi.nyc.mn#211.221.20.167:50000
+vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?type=xhttp&security=none&path=/ds#91.99.219.10:443
+vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?type=ws&security=tls&path=/dy26vBaDi5RTblzP?ed=2560&sni=net-aCcOUNt02.Pages.DEv&fp=randomized#172.66.44.253:8443
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
+vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@ir3.mxspeed8-3.ir:1885?type=tcp&security=none#ir3.mxspeed8-3.ir:1885
+vless://9c942b13-72da-45e4-bdbe-0598679209c5@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
 vless://d06efcca-2f6a-4698-ae17-c3f3d9491dc5@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
-vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?type=ws&security=tls&path=/vpnowl-vpnowl-vpnowl-vpnowl&sni=verina.ccantarella.dns-dynamic.net&fp=chrome#172.67.164.1:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&security=none#95.164.45.94:8880
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:8443?type=ws&security=tls&path=/-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng-----TeleGram--Freev2rng?ed=2052&sni=my.ski1plag.ir&fp=random#add.ski1plag.ir:8443
-vless://18718278-7994-4392-7042-783bd67a4b54@162.159.41.92:443?type=t.me/entryNET&security=tls&sni=cglx.ewqmeta.com&fp=random#162.159.41.92:443
-vless://dcdbb1fb-%61b20-447b-%61%610%61-7d149%61dd2%6153@91.99.97.62:51479?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg#91.99.97.62:51479
-vless://Telegram--SRCVPN-@91.107.129.66:3090?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3090
-trojan://25uqzn0w-kw33-upng-iz7s-uw77nyue08ux@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sqsfklrf-8ypd-h53s-iaof-wnxch4nn2f3k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://59923b2e-c0f5-4260-b1fa-7da1d1f1c2ed@kafshu.ir:8080?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#kafshu.ir:8080
+vless://bd7f1fb1-%651b3-4cf2-%612bf-68987868c%65d4@194.182.79.252:37815?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=5TxYjwIYLfeYsmV9L5eu6ECcu0EvcUm4s9yMcstmNGM&sid=e0d4f6ed#194.182.79.252:37815
+vless://c2d3226b-6618-496d-bc0f-7b93f492169%61@194.182.79.65:43238?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=XT1LHVlN21T2ml8nULA18Y4REuyaBNF9FM9PPcx89xs&sid=e165dc66#194.182.79.65:43238
+vless://c2d3226b-6618-496d-bc0f-7b93f492169a@194.182.79.65:43238?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=XT1LHVlN21T2ml8nULA18Y4REuyaBNF9FM9PPcx89xs&sid=e165dc66#194.182.79.65:43238
+vless://bd7f1fb1-e1b3-4cf2-a2bf-68987868ced4@194.182.79.252:37815?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=5TxYjwIYLfeYsmV9L5eu6ECcu0EvcUm4s9yMcstmNGM&sid=e0d4f6ed#194.182.79.252:37815
+trojan://llvmbyxh-un0i-vv9s-l3n9-6k2dlc2yyawv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://djh7s3r3-uwxj-e44b-0la9-4k3ru55z6mij@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
