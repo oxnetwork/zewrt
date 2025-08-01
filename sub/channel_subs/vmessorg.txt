@@ -1,7 +1,6 @@
-trojan://v2mrddqc-do5o-tucn-q67g-zrscwiztpqc3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-01 | 15:20 ]
-trojan://gkglcy8h-68si-aw3h-pvzz-o2v92cmbs1e9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yfpf97sh-ucu0-g8z2-b0nb-8iyc2b6pbch6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://492e8973-6f9a-429e-e60a-f7b844cf8786@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
+trojan://pvf8vffi-myya-r1iv-2ajd-jnc9zfase2fk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-01 | 16:03 ]
+trojan://bqsknkbi-earz-bm8y-xr3t-56mqn9d8dxi3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s1n2enls-ca30-526i-hgva-dxmxpjunzgxu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0e00aafb-b813-42f8-bea5-dabae7a2d18b@104.16.85.3:8880?type=httpupgrade&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.16.85.3:8880
 vless://de4f383e-d572-42f3-9d96-31d3c7bbe65b@104.16.85.3:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.16.85.3:80
 vless://0e00aafb-b813-42f8-bea5-dabae7a2d18b@104.16.85.3:8880?type=httpupgrade&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.16.85.3:8880
@@ -42,11 +41,13 @@ vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@104.21.112.1:80?type=ws&security=no
 vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@opening-hours.nz:80?type=ws&security=none&path=/#opening-hours.nz:80
 vless://52428b83-b414-4321-8aea-1bd51d68b884@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
 vless://52428b83-b414-4321-8aea-1bd51d68b884@opening-hours.nz:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#opening-hours.nz:80
-vless://52428b83-b414-4321-8aea-1bd51d68b884@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
-vless://52428b83-b414-4321-8aea-1bd51d68b884@opening-hours.nz:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#opening-hours.nz:80
+vless://662dcab4-bb92-4783-f8db-5b94d36efebb@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
+vless://662dcab4-bb92-4783-f8db-5b94d36efebb@opening-hours.nz:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#opening-hours.nz:80
+vless://662dcab4-bb92-4783-f8db-5b94d36efebb@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
+vless://662dcab4-bb92-4783-f8db-5b94d36efebb@opening-hours.nz:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#opening-hours.nz:80
 vless://ce3acfb7-a0e8-4f96-b9ff-75c2657997fa@freedam.wirecard.store:2053?type=grpc&security=reality&sni=freedom.wirecard.store&fp=firefox&pbk=hRwCV7x14uQ7jdsLqsxvklkR4Mtf7kRsZhboIKRbsR4&sid=c531427f9b41#freedam.wirecard.store:2053
 vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?type=xhttp&security=reality&path=/&sni=www.black-moai.com&fp=firefox&pbk=qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU&sid=a862ded52ae3ea#80.240.23.101:47567
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
-trojan://cua9ywiw-gjaf-9xgk-x6sh-x6gjqxxnvx56@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c2h353pj-v2x0-6e8e-7jrj-7n6b7q54hyjz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://dkwndqig-jv54-m5z3-ty6h-9pq3ybf1xvo5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://f8dtbbxn-46sn-nmyu-izo5-pkesr7x52m4h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
