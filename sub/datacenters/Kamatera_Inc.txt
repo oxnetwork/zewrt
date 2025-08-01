@@ -1,16 +1,16 @@
-trojan://kxp1qtvc-6f48-8ebs-bwe1-r126j999ibxu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-01 | 10:37 ]
-trojan://464axuun-vqak-pam5-xjk1-yi4pxgrmz8qi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jvg8grlo-zk95-wio5-k2bm-fxt6aiw6llwt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://282bed58-1451-419f-a5b3-ed6f65ab8850@63.250.59.26:2030?type=tcp&security=reality&sni=www.datadoghq.com&fp=chrome&flow=xtls-rprx-vision&pbk=dmTTVeliJTAj35kMyQPCfA0_LS8aULh234eKzIFzxX8&sid=b756e372b9623b22#DE 🇩🇪 ┇ VLESS-TCP-RLT - Kamatera Inc ┇ 63.250.59.26
-vless://cd5d1232-3291-4e82-987a-59b31715972e@ng2.pmxnew.ir:2083?type=ws&security=tls&path=/&sni=ng2.pmxnew.ir#IL 🇮🇱 ┇ VLESS-WS-TLS - Kamatera Inc ┇ 193.168.173.181
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gS2FtYXRlcmEgSW5jIFx1MjUwNyAxOTQuMTQ2LjM5LjEzMCIsImFkZCI6IjE5NC4xNDYuMzkuMTMwIiwicG9ydCI6MzEyNTUsImlkIjoiYjhhYWE2ZTEtZjBiMy1iOWVjLTNkZmMtYmIyMjZjMTY3YjMzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMjkwMDE2MjEzMDM1IiwidGxzIjoidGxzIn0
-vless://5543ae5c-c24f-405a-9266-597cbc43c818@103.241.65.11:8445?type=ws&security=none&sni=miku.mikuru.ip-ddns.com#GB 🇬🇧 ┇ VLESS-WS-NTLS - Kamatera Inc ┇ 103.241.65.11
-vless://27c11f2c-85f4-44ef-ac28-670e987f5788@194.36.88.78:443?type=tcp&security=tls&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Kamatera Inc ┇ 194.36.88.78
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthbWF0ZXJhIEluYyBcdTI1MDcgNS4xODAuMTgwLjE4NCIsImFkZCI6IjUuMTgwLjE4MC4xODQiLCJwb3J0IjoyNjczMywiaWQiOiJhZTI3ZTdjMC0wY2Y3LTRlMjgtZDQyMS0wNDgzZmExYTIyZTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZDd5ZXI0bk9YdUlxTVZWM1g5RTFO@185.139.230.55:5170#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera Inc ┇ 185.139.230.55
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthbWF0ZXJhIEluYyBcdTI1MDcgMTg1LjE2Ny45OS4yNTEiLCJhZGQiOiIxODUuMTY3Ljk5LjI1MSIsInBvcnQiOjEwMDg2LCJpZCI6IjkxMzIyNzc1LTg4YTAtNDJhZi1iNzNjLWM4MjFkZWU5NTY5NyIsImFpZCI6MCwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeFR5NkNheEtMdEw4RVlWV3lJZmNJ@moz-dozd.monster:5170#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera Inc ┇ 45.147.248.172
-vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FtYXRlcmEgSW5jIFx1MjUwNyAxODUuMjM3Ljk5LjEwNSIsImFkZCI6IjE4NS4yMzcuOTkuMTA1IiwicG9ydCI6MTUzLCJpZCI6IjZhMjliOWEwLTQ2YjEtMzQ2OS04YzdhLWExYWRjOGYyZjA3ZiIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSJ9
+trojan://70wzb56y-tuke-zvds-1qa5-02y2wul3ees8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-01 | 11:00 ]
+trojan://5xdy26bo-jnvf-se2d-3cb3-p1sf4hkxde3s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://09yzifxr-8c81-5s3f-yn6s-byuvc6q2wc41@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://bc11baa2-da7c-11ef-957d-7538374f230f@194.37.81.211:2083?type=grpc&security=tls&sni=fastdownload.mahanhezar.ir&fp=edge#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Kamatera Inc ┇ 194.37.81.211
-trojan://osh1cat8-ba2u-ryqe-31bc-4gc897jr61xu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://f07247il-yg3r-2azh-tizm-qb17ug4m1epz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthbWF0ZXJhIEluYyBcdTI1MDcgNS4xODAuMTgwLjE4NCIsImFkZCI6IjUuMTgwLjE4MC4xODQiLCJwb3J0IjoyNjczMywiaWQiOiJhZTI3ZTdjMC0wY2Y3LTRlMjgtZDQyMS0wNDgzZmExYTIyZTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://282bed58-1451-419f-a5b3-ed6f65ab8850@63.250.59.26:2030?type=tcp&security=reality&sni=www.datadoghq.com&fp=chrome&flow=xtls-rprx-vision&pbk=dmTTVeliJTAj35kMyQPCfA0_LS8aULh234eKzIFzxX8&sid=b756e372b9623b22#DE 🇩🇪 ┇ VLESS-TCP-RLT - Kamatera Inc ┇ 63.250.59.26
+vless://27c11f2c-85f4-44ef-ac28-670e987f5788@194.36.88.78:443?type=tcp&security=tls&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Kamatera Inc ┇ 194.36.88.78
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthbWF0ZXJhIEluYyBcdTI1MDcgMTg1LjE2Ny45OS4yNTEiLCJhZGQiOiIxODUuMTY3Ljk5LjI1MSIsInBvcnQiOjEwMDg2LCJpZCI6IjNkZWUyNzBiLTJjODgtNGQwMy05MzZhLWFkMzU3OTc3N2ZmZiIsImFpZCI6MCwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeFR5NkNheEtMdEw4RVlWV3lJZmNJ@moz-dozd.monster:5170#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera Inc ┇ 45.147.248.172
+vless://5543ae5c-c24f-405a-9266-597cbc43c818@103.241.65.11:8445?type=ws&security=none&sni=miku.mikuru.ip-ddns.com#GB 🇬🇧 ┇ VLESS-WS-NTLS - Kamatera Inc ┇ 103.241.65.11
+vless://cd5d1232-3291-4e82-987a-59b31715972e@ng2.pmxnew.ir:2083?type=ws&security=tls&path=/&sni=ng2.pmxnew.ir#IL 🇮🇱 ┇ VLESS-WS-TLS - Kamatera Inc ┇ 193.168.173.181
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQUpjaWw1NUo0RFk0dTBaY1NsQnhh@185.139.230.55:5170#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Kamatera Inc ┇ 185.139.230.55
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gS2FtYXRlcmEgSW5jIFx1MjUwNyAxOTQuMTQ2LjM5LjEzMCIsImFkZCI6IjE5NC4xNDYuMzkuMTMwIiwicG9ydCI6MzEyNTUsImlkIjoiYjhhYWE2ZTEtZjBiMy1iOWVjLTNkZmMtYmIyMjZjMTY3YjMzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMjkwMDE2MjEzMDM1IiwidGxzIjoidGxzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2FtYXRlcmEgSW5jIFx1MjUwNyAxODUuMjM3Ljk5LjEwNSIsImFkZCI6IjE4NS4yMzcuOTkuMTA1IiwicG9ydCI6MTUzLCJpZCI6IjZhMjliOWEwLTQ2YjEtMzQ2OS04YzdhLWExYWRjOGYyZjA3ZiIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSJ9
+trojan://djwujq5x-eexx-06f1-kja9-989h1ga5ttiw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2ax48roq-c010-xvrx-mek6-auneqf2lez4k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
