@@ -1,21 +1,22 @@
-trojan://wvsmi8pt-6ipu-x9ym-bq91-3psnes8qdyjw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-02 | 10:30 ]
-trojan://thop02ec-1kkl-hctd-zw6g-kfu5i4vaibuw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ex8vipqz-pha8-toan-sanm-iaknj8oda17v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&security=none#45.82.251.78:8880
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://8f628f57-c027-45b3-9e33-8623c4d3663d@162.159.20.126:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#162.159.20.126:80
-vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.178:443?type=xhttp&security=none&path=/ad#38.54.116.178:443
-vless://198d69fe-0837-4c88-a352-a5b93fecde5c@31.41.35.88:9090?type=tcp&security=none#31.41.35.88:9090
-vless://62104958-7b8a-47aa-b762-97a200cf51f9@172.67.211.227:2082?type=httpupgrade&security=none&path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048#172.67.211.227:2082
+trojan://y506bhmf-x99u-9bq1-tdg6-2s215w0myh00@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-02 | 10:52 ]
+trojan://f98b135v-8ia3-3tz3-5euw-wmw3iuhq54m0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7p3pukg6-beoj-u21s-2k55-kij08wp85is4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bpb-trojan@92.60.74.143:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#92.60.74.143:443
+trojan://NISHIKUITAN111@104.19.7.98:443?security=tls#104.19.7.98:443
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjguMTNtcyIsImFkZCI6IjE3Mi42Ny4xMzEuMjciLCJwb3J0IjoyMDUzLCJpZCI6IjM1MGUyYjAxLWQ0MTAtNDRhNi05MGJhLTY0ODNmMTA2Mjk3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoicmFrMmQ0Ljg5MDYwMDA0Lnh5eiIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoicmFrMmQ0Ljg5MDYwMDA0Lnh5eiJ9
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?type=ws&security=tls&path=/BIA_CHANEL@JKVPN&sni=verina.ccantarella.dns-dynamic.net&fp=chrome#172.67.164.1:443
-vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?type=ws&security=none&path=/vless/#51.68.189.39:80
-vless://b58f421c-cde7-4ee1-bad0-bdaea20efa25@31.41.35.88:9090?type=tcp&security=none&path=/#31.41.35.88:9090
-vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?type=ws&security=none&path=/?ed=2560#104.24.87.230:80
-vless://198d69fe-0837-4c88-a352-a5b93fecde5c@31.41.35.88:9090?type=tcp&security=none&path=/#31.41.35.88:9090
-vless://5402dc3b-206e-4ae8-a58d-4fd27a59e142@57.128.198.226:80?type=ws&security=none&path=/vless/#57.128.198.226:80
-vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#charming-process.seotoolsforyou.co.uk:80
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
-trojan://313gxcf0-yhi6-stmh-czx4-0t0tigo6la3y@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a6p9uouk-lzw5-2err-dm85-ce9lvbkm4cyc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?type=ws&security=tls&path=/BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy&sni=verina.ccantarella.dns-dynamic.net&fp=chrome#172.67.164.1:443
+vless://d06efcca-2f6a-4698-ae17-c3f3d9491dc5@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=tls&path=/@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.21.67.12:443
+vless://d2a5f483-4abe-4449-bfb4-e2b857f1fc62@cafearz.com:8080?type=ws&security=none&path=/melo#cafearz.com:8080
+vless://d2a5f483-4abe-4449-bfb4-e2b857f1fc62@speedtest.org:8080?type=ws&security=none&path=/melo#speedtest.org:8080
+vless://d2a5f483-4abe-4449-bfb4-e2b857f1fc62@tgju.org:8080?type=ws&security=none&path=/melo#tgju.org:8080
+vless://d2a5f483-4abe-4449-bfb4-e2b857f1fc62@mn.co:8080?type=ws&security=none&path=/melo#mn.co:8080
+vless://d2a5f483-4abe-4449-bfb4-e2b857f1fc62@my.iranserver.com:8080?type=ws&security=none&path=/melo#my.iranserver.com:8080
+vless://d2a5f483-4abe-4449-bfb4-e2b857f1fc62@49.12.119.56:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#49.12.119.56:2083
+vless://d2a5f483-4abe-4449-bfb4-e2b857f1fc62@91.107.168.101:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#91.107.168.101:2083
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-20.cristiano.name.ng:443
+trojan://b9mbb0n8-4ghh-szd3-dn7q-a7dhz5ha4c9v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2hdt2hg7-xe6g-xpns-r38f-dx78bn796jvq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
