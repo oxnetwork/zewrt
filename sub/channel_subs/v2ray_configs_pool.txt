@@ -1,8 +1,22 @@
-trojan://mxfh2y8c-3dha-pxei-lz5p-4y7ee4f8uj4u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-03 | 08:45 ]
-trojan://438jlqvj-t060-b93o-wlk7-r3kf7y5f4o93@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://t6epcqrl-7l90-3dth-5p2f-z3n02j2itj1q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDY3A1T3R6eDBRUzNPS3hwVWVwR2JL@45.144.54.33:34803#45.144.54.33:34803
-vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?type=ws&security=none&path=/vless/#194.76.18.30:80
+trojan://07mwn28a-w01h-ska9-1xs0-v748kcljocl0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-03 | 09:29 ]
+trojan://795jt22g-zawe-vzou-8w62-8c03nwqow4ov@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6sszdqd1-4zt6-cc6a-b1pb-z7jgmmrl488s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
+trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#104.21.72.109:443
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjguMDVtcyIsImFkZCI6IjEwNC4xOC4xNDkuNzYiLCJwb3J0Ijo0NDMsImlkIjoiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ1cy5ra3AubWUuZXUub3JnIiwicGF0aCI6Ii9hYSIsInRscyI6InRscyIsInNuaSI6InVzLmtrcC5tZS5ldS5vcmcifQ
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path==zani.yaemiko.ggff.net#TELEGRAM-YamYamProxy_YamYamProxy?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&security=none#45.159.248.125:8880
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#160.153.0.32:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
+vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.232.185.91:443?type=xhttp&security=none&path=/#172.232.185.91:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?type=grpc&security=none#185.231.205.188:8880
+vless://3891b3ce-bb3a-45bf-bd8e-90e2487d121e@wouldyoumarriemepleasefuckthesystem3.siasia.ir:2053?type=ws&security=tls&path=/apiii&sni=hheydudethisworldisshet.siasia.ir&fp=randomized#wouldyoumarriemepleasefuckthesystem3.siasia.ir:2053
+vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?type=ws&security=tls&path=/tjkqcpws&sni=638879176706477448.amsterdam-prx-dnraaal.info#www.speedtest.net:2096
+vless://fe7fa45f-4c54-4d93-bf00-609648d8b786@172.66.40.99:8080?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#172.66.40.99:8080
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&security=none&path=/xhttp#91.99.183.30:8443
+vless://41956a47-8432-4a3f-b70d-a54fc7efd6b8@104.18.15.19:8080?type=ws&security=none&path=/?ed=2560#104.18.15.19:8080
+vless://98635c25-7ce5-416e-9a45-3fcadc878f93@62739db65dd1d340.jjavaher.ir:11001?type=tcp&security=none#62739db65dd1d340.jjavaher.ir:11001
 vless://3351e832-c87f-434e-928a-edbae1483ba0@91.99.212.10:10485?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=cmLzdXwo-6_Cnc_q2L5xPAyoJjfVDDIAJOZYtx5eQCY&sid=0d0e8aa9fd14#91.99.212.10:10485
-trojan://36fzegbe-rovm-2is9-995n-j8okfqzv31xj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://j6sjobo2-ji4m-k2nw-uo39-mov0nikd3uxs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.208.107:2083
+trojan://9eky9b1g-qhms-nhn4-quwa-6cy5dle2bceb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2f8o5sjl-jbnz-y8q1-jf6o-u29mr148w3id@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
