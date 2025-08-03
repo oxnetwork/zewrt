@@ -1,6 +1,6 @@
-trojan://094i8xth-wx2g-dq6i-wu3v-ki1ai4a1lm8h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-03 | 12:26 ]
-trojan://rqjjt9ky-8wad-17yw-k6cy-wny4mjkpczz8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jo4bp8vu-xf7s-s82g-8yxa-6zkv4uynanq5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l7ji17sz-997n-d7rk-kcj0-avg6vi8i7owa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-03 | 12:52 ]
+trojan://ytxbeoph-nmgt-5s59-c5vt-o62h1tsub8cm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8m599wds-32rz-thwn-vqcu-amznvxg1oggo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1bWdaSnpQdjdockxYNEtNZFBJZUFX@150.241.102.95:21771#150.241.102.95:21771
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.121.43.6:8008#38.121.43.6:8008
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5000#149.202.82.172:5000
@@ -11,7 +11,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freegua
 trojan://auto@104.17.148.22:2087?sni=abbas.ab841vpn.workers.dev&peer=abbas.ab841vpn.workers.dev&security=tls#104.17.148.22:2087
 trojan://bpb-trojan@162.159.152.59:443?sni=cf.090227.xyz&peer=cf.090227.xyz&security=tls#162.159.152.59:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjEwNC4yNi4xNS4xNiIsInBvcnQiOjIwODcsImlkIjoiYWQwYThjNDktMDc4NS00NmQ5LWJiMTQtMmMzYWIwM2E1ZGJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Ik9mRkVyLm1pUkFjTGVzdG9yWS5Ub1AuIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJPZkZFci5taVJBY0xlc3RvclkuVG9QLiJ9
-vless://5bb406d5-413d-4e4c-990f-fe6358820303@2.59.117.134:8443?type=ws&security=tls&path=/45f4d22d.Mareza.pages.dev?ed=80&sni=115794818s.servers801.ir#2.59.117.134:8443
 vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?type=tcp&security=none#cb6.connectbaash.info:4406
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path==zani.yaemiko.ggff.net/telegram--MTMVPN--telegram--MTMVPN--telegram--MTMVPN?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
@@ -20,6 +19,7 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=t
 vless://6d38dcef-1681-4e3e-ba7c-f9bf366d90db@all97-vip.f-sub.com.privatepack.ir:1517?type=tcp&security=none&path=/#all97-vip.f-sub.com.privatepack.ir:1517
 vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?type=ws&security=tls&path=/tjkqcpws&sni=638879176706477448.amsterdam-prx-dnraaal.info#www.speedtest.net:2096
 vless://fe7fa45f-4c54-4d93-bf00-609648d8b786@172.66.40.99:8080?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#172.66.40.99:8080
+vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?type=ws&security=none&path=/vless/#57.129.132.223:80
 vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.208.107:2083
-trojan://oor42my5-6fce-jnws-ku2r-omq1bsaeaj3k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8jvdl3h6-81kl-pm3f-9rzx-oip8xubzpbyy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://zooz0oqo-yn7z-3pvp-ksvh-k73ieabsyvla@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rsuz7a95-8mae-rb06-z3va-t7wbaernxy4d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
