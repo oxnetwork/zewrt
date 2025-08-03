@@ -1,6 +1,6 @@
-trojan://o1s38htt-2ym6-tsmn-t86s-j2hn31v0pcuz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-03 | 21:57 ]
-trojan://vm0h7en1-ytjc-i3nt-c08r-q9n8jwbgiwh8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7vk6n35p-jofb-z1va-irg7-63iclgh39hgs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://v11fb7ca-59v1-4rqn-i5jh-n8lg0sh1grw7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-03 | 22:30 ]
+trojan://bvisteqw-fh97-ae14-m8ah-bgxgtg0wm2kk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ado2du8f-3yt0-qwtd-hgye-6g0fndd99ipg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.121.43.6:8008#38.121.43.6:8008
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5000#149.202.82.172:5000
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500#38.114.114.69:5500
@@ -9,8 +9,8 @@ trojan://NISHIKUITAN111@141.11.203.203:443?sni=za.ylks.xyz&peer=za.ylks.xyz&secu
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freeguard.org&peer=rc6.freeguard.org&security=tls#198.23.229.250:443
 trojan://auto@104.17.148.22:2087?sni=abbas.ab841vpn.workers.dev&peer=abbas.ab841vpn.workers.dev&security=tls#104.17.148.22:2087
 trojan://bpb-trojan@162.159.152.59:443?sni=cf.090227.xyz&peer=cf.090227.xyz&security=tls#162.159.152.59:443
+trojan://NISHIKUITAN111@92.53.190.87:443?security=tls#92.53.190.87:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjEwNC4yNi4xNS4xNiIsInBvcnQiOjIwODcsImlkIjoiYWQwYThjNDktMDc4NS00NmQ5LWJiMTQtMmMzYWIwM2E1ZGJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Ik9mRkVyLm1pUkFjTGVzdG9yWS5Ub1AuIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJPZkZFci5taVJBY0xlc3RvclkuVG9QLiJ9
-vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?type=tcp&security=none#cb6.connectbaash.info:4406
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path==zani.yaemiko.ggff.net/telegram--MTMVPN--telegram--MTMVPN--telegram--MTMVPN?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@151.101.192.155:80?type=ws&security=none&path=/VLESS?ed=80#151.101.192.155:80
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=tls&path=/proxyip&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.21.67.12:443
@@ -21,5 +21,5 @@ vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?type=ws&security=
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&security=none&path=/xhttp#91.99.183.30:8443
 vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.208.107:2083
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-4.cristiano.name.ng:443
-trojan://lxz4o7b5-9sav-vbjq-n2iu-d2ngp4tr2i65@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dd8ykhzi-qjwk-fvrj-us1s-jvm4wu4jv7m2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://jjclw5em-0xus-za28-s0y4-18mb8i1a2n1l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://f2ntdes5-chma-odoo-9o2r-erkfkc762o37@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
