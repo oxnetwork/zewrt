@@ -1,9 +1,6 @@
-trojan://9llgysnd-zt16-8tz1-0yk5-sb4devf74c2w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-05 | 00:53 ]
-trojan://37xcivwv-rw50-nyoq-7hgz-ayrwwuigxts5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://w2ui44sq-vr5r-gkpn-7553-lf4gzfeusyqg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtcGw@pl-1.stunnel.cc:8444#pl-1.stunnel.cc:8444
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZnI@fr-1.stunnel.cc:8444#fr-1.stunnel.cc:8444
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtc2c@sg-2.stunnel.cc:8444#sg-2.stunnel.cc:8444
+trojan://tivy6ykh-zzke-8w6y-dbgu-rwgypaqgt7m9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-05 | 01:24 ]
+trojan://6uo5tjlw-twob-zg4j-nymp-dtj9l5bm35b2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o9jnzsma-4nqy-94yq-3oh6-ijuj2j2t9n33@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#45.87.175.22:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
@@ -24,10 +21,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzS3BMN2VRMzJhRlE1TjBDZVZ3VW1r@78.129.140.11:443#78.129.140.11:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowS2tVa0NjNlNjbEFYd2xLUHA2eHdq@62.210.88.22:443#62.210.88.22:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmRSdlhSR2ZIa0FjU1FQT0ozcFky@62.210.88.22:443#62.210.88.22:443
-trojan://tunnel-astrovpn_official_de@de-1.stunnel.cc:8441?sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&peer=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&security=tls#de-1.stunnel.cc:8441
-trojan://tunnel-astrovpn_official-pl@pl-1.stunnel.cc:8441?sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&peer=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&security=tls#pl-1.stunnel.cc:8441
-trojan://tunnel-astrovpn_official-fr@fr-1.stunnel.cc:8441?sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&peer=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&security=tls#fr-1.stunnel.cc:8441
-trojan://tunnel-astrovpn_official-us@us-3.stunnel.cc:8441?sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&peer=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&security=tls#us-3.stunnel.cc:8441
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?sni=aio.zipzap.biz.id&peer=aio.zipzap.biz.id&security=tls#aio.zipzap.biz.id:443
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.143.107:2096?type=ws&security=tls&path=/proxyip=robin.yaemiko.ggff.net/?JKVPN_BIA_CHANEL@JKVPN&sni=verina.ccantarella.dns-dynamic.net&fp=randomized#172.67.143.107:2096
@@ -159,6 +152,11 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=tls&path=/?TELEGRAM-JKVPN_JKVPN_JKVPN?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.21.67.12:443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?JKVPN_TELEGRAM_JKVPN_JKVPN&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#www.ums.id:443
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.21.27.178:2096?type=ws&security=tls&path=/proxyip=robin.yaemiko.ggff.net/?JKVPN_BIA_CHANEL@JKVPN&sni=verina.ccantarella.dns-dynamic.net&fp=randomized#104.21.27.178:2096
+vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
+vless://Parsashonam-295@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?type=xhttp&security=none&path=/frf#server271816966957306554.tas-bazi.com:443
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?type=xhttp&security=none&path=/sc#server581122609014369419.tas-bazi.com:443
 vless://99462fc1-30e0-4180-8a5d-3fb8fffe6a90@91.99.236.193:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=firefox&pbk=fXy2aOmxGGfjSa31-Wi7rJj1kS9q5N-kT0P86312Wgo&sid=32e5#91.99.236.193:8880
 vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@loadbalance.systemgamingirani.ir:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&sid=b7859e878ab2fb#loadbalance.systemgamingirani.ir:443
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@212.95.41.20:900?type=xhttp&security=reality&path=/&sni=sourceforge.net&fp=chrome&pbk=I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI&sid=2cc45a0088671249#212.95.41.20:900
@@ -181,5 +179,5 @@ vless://260f4e3a-e436-47a0-86c8-4c2b60aa17f8@book.srv2.quest:28796?type=grpc&sec
 vless://97d53a59-918e-45fc-bc5d-ba487f090cc1@80.240.23.101:443?type=xhttp&security=reality&path=/Dota2?ed=2048&sni=hundleymechanical.com&fp=randomized&pbk=HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o&sid=008c74#80.240.23.101:443
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#yapc-1.adamhayward.co.uk:36600
 hysteria2://07a95561-a7c6-40fb-b964-45c83a2833bf@185.184.70.120:51234?insecure=1#185.184.70.120:51234
-trojan://jkuo02jn-gpk6-3ej9-mps9-uqunlepdvx2c@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tlji2t3p-y06q-07m6-8oll-gcmf7hmfmzv8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://jkuon7ii-q8t9-td1p-orvn-6r6y1dqyuth1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e6yp6jn2-7c3a-744b-bpek-9emkpuciy6en@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
