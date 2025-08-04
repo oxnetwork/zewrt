@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-04 22:25:02
+Timestamp: 2025-08-04 22:45:11
 Total Channels: 92
 Successful Scrapes: 62
 Failed Scrapes: 0
@@ -52,8 +52,8 @@ vpnkanfik: 10 configs
 SafeNet_Server: 10 configs
 DALTON_PING: 9 configs
 dalton_ping: 9 configs
+v2ngfast: 9 configs
 isvvpn: 8 configs
-v2ngfast: 8 configs
 confingv2raayng: 7 configs
 vpnpacket: 7 configs
 fnet00: 6 configs
