@@ -1,21 +1,22 @@
-trojan://s74kg86m-8rgh-apsn-ixdw-5fs32c3gvj3n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-04 | 13:03 ]
-trojan://yzxzlw4s-3tcn-wu9q-fqz8-5dmt1s8n59jq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://67ex2gyv-jii3-r9bn-fear-tghntl9xx4au@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://bm9uZTphYmJjYWFjLWNhYmEtY2FhYi1iY2RhLWNjY2JhY2FiYWJhYg@127.0.0.1:1080#127.0.0.1:1080
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
-trojan://NISHIKUITAN111@104.23.132.150:443?security=tls#104.23.132.150:443
-trojan://NISHIKUITAN111@162.159.16.224:443?security=tls#162.159.16.224:443
-vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmM110Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsInBvcnQiOjEwNTM0LCJpZCI6ImIwMWM3ZWY5LTMzZWMtNDFmNi1iZmJmLTc3ZGRjNGQyMTY0OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638816432353648698.prague-shledrc-acbs.info:8880?type=grpc&security=none#638816432353648698.prague-shledrc-acbs.info:8880
-vless://6c11247b-6078-461a-93d5-22e4df284e6d@198.62.62.229:443?type=ws&security=tls&path=/wsv/6c11247b-6078-461a-93d5-22e4df284e6d&sni=mirror.fullmargintraders.com&fp=chrome#198.62.62.229:443
-vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@172.67.154.6:2053?type=ws&security=tls&path=/&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.gijih70892.workers.dev&fp=chrome#172.67.154.6:2053
-vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?type=ws&security=tls&path=/&sni=hexaprop.dirih76753.workers.dev#172.67.128.212:443
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?type=xhttp&security=none&path=/xhttp#91.99.239.156:8443
-vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?type=tcp&security=none#91.107.154.247:1913
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.81.166.176:2222?type=tcp&security=none#35.81.166.176:2222
-vless://eff43056-c514-4cf3-ba74-5f2402638098@marzban56.boshrachoice.ir:31133?type=tcp&security=none#marzban56.boshrachoice.ir:31133
+trojan://ju2u1p2i-s3up-t7fk-b9oc-1a1kwot4c0b4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-04 | 13:35 ]
+trojan://6xwqnbdi-cupc-bz5f-aq5e-y7nk18qm8hr1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ufafo3ll-94vg-orva-281g-wfsbr9qc1lio@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?type=ws&security=tls&path=/BIA_CHANEL@JKVPN&sni=verina.ccantarella.dns-dynamic.net&fp=chrome#172.67.164.1:443
+vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#85.90.207.183:54500
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?type=ws&security=tls&path=/&sni=carlotta.shoorekeeper.cloudns.org#160.153.0.32:443
+vless://083ed1d8-fd32-4d34-a521-de755e2596fd@ordibehesht.zagrosbot.xyz:8080?type=tcp&security=none#ordibehesht.zagrosbot.xyz:8080
+vless://4e1f0fc6-a7f8-4642-bd35-6a3aa0bb2fc8@w3.org:443?type=ws&security=tls&path=/Iyq035lnud9R8ruNNrqGxZZ2&sni=hdfynpv2c1.farvaharforever.com&fp=chrome#w3.org:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?type=ws&security=tls&path=/&sni=carlotta.shoorekeeper.cloudns.org#160.153.0.32:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#www.ums.id:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#www.ums.id:443
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?type=ws&security=tls&path=/&sni=verina.ccantarella.dns-dynamic.net&fp=chrome#172.67.164.4:443
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?type=ws&security=tls&path=/&sni=verina.ccantarella.dns-dynamic.net&fp=chrome#172.67.164.1:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
+vless://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54300?type=ws&security=none&path=/#85.90.207.183:54300
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server79787566814164569.tas-bazi.com:443?type=xhttp&security=none&path=/frf#server79787566814164569.tas-bazi.com:443
+vless://701d572d-d026-4568-834b-6734a84e1d6f@homee.oops.wtf:8866?type=tcp&security=none#homee.oops.wtf:8866
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&security=none#54.38.214.56:37171
+vless://0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318@est01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#est01-vlr01.tcp-reset-club.net:443
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@212.95.41.20:900?type=xhttp&security=reality&path=/&sni=sourceforge.net&fp=chrome&pbk=I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI&sid=2cc45a0088671249#212.95.41.20:900
-vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@loadbalance.systemgamingirani.ir:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&sid=b7859e878ab2fb#loadbalance.systemgamingirani.ir:443
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@al.accesspoints.cloakify.app:28495?type=tcp&security=reality&sni=dl.google.com&fp=random&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#al.accesspoints.cloakify.app:28495
-trojan://eqedn9fx-s3ng-z9nq-lr46-81l5flooulg9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mtjsask2-45xv-zk6m-9np0-zl50v0wyphpl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://ktrbuad1-44pi-0jkp-zoom-qresvqxs1cjp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nk9ntj0m-ib4o-nezh-i2e4-6s6ltzzstvx7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
