@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-04 10:52:51
+Timestamp: 2025-08-04 11:18:52
 Total Channels: 92
 Successful Scrapes: 62
 Failed Scrapes: 0
@@ -25,7 +25,7 @@ ShadowProxy66: 38 configs
 expressvpn_420: 36 configs
 freenet_melli: 35 configs
 v2ra_config: 34 configs
-vistav2ray: 32 configs
+vistav2ray: 31 configs
 Greenvpn2: 26 configs
 capoit: 24 configs
 spikevpn: 24 configs
@@ -42,7 +42,6 @@ cybersoldiersst: 16 configs
 PASARGAD_V2rayNG: 16 configs
 ghalagyann: 15 configs
 nufilter: 15 configs
-DailyV2Config: 15 configs
 summertimeus: 14 configs
 proxystore11: 12 configs
 sinavm: 12 configs
@@ -50,6 +49,7 @@ mcv2rayng: 11 configs
 tehranargo: 11 configs
 v2raymelliii: 11 configs
 SafeNet_Server: 11 configs
+DailyV2Config: 10 configs
 isvvpn: 9 configs
 vpnkanfik: 9 configs
 v2ngfast: 8 configs
