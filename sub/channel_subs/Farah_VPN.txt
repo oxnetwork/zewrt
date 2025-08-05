@@ -1,10 +1,9 @@
-trojan://dexvvn99-9yk5-1wvu-ib1p-tbwyduxjog5h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-05 | 10:00 ]
-trojan://2lrvgf5w-10l4-skrb-ixnd-zyful4hyj93l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dc4eh5ad-s3eb-gprv-7ny2-kad5dliktpjm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://w7spln2p-nh64-6xmp-lbe6-2h4691zuj78w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-05 | 10:36 ]
+trojan://qcn0mqun-fc1f-2xnh-7n1a-oh9h9tguscty@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ij70li80-onfl-2ttr-vcny-nzykz0shuuza@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@211.22.161.134:2377#211.22.161.134:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@211.22.161.134:2377#211.22.161.134:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjE2Mi4xNTkuNDUuMTk1IiwicG9ydCI6MjA4NiwiaWQiOiJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5In0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjE2Mi4xNTkuNDUuMTk1IiwicG9ydCI6MjA4NiwiaWQiOiJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5In0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjEwNC4yNi4wLjUzIiwicG9ydCI6ODg4MCwiaWQiOiI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5In0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjE5OC40MS4yMDkuNzAiLCJwb3J0Ijo4MCwiaWQiOiJlNjU0MzMxOS0wNTc0LTQyYWMtYjc3OC0xYzQzMjVkNjI2ZjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
@@ -18,8 +17,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&secu
 vless://9b6619f7-269d-4ac7-bd9a-3a3e42aface3@holanx.blacklike.ir:9008?type=ws&security=none&path=/?ed=2048#holanx.blacklike.ir:9008
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?type=tcp&security=none#51.222.86.157:54051
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.56.86:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.36.56.86:22224
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.171.248:80?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#172.233.171.248:80
 vless://97d53a59-918e-45fc-bc5d-ba487f090cc1@80.240.23.101:443?type=xhttp&security=reality&path=/Dota2?ed=2048&sni=hundleymechanical.com&fp=randomized&pbk=HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o&sid=008c74#80.240.23.101:443
 vless://97d53a59-918e-45fc-bc5d-ba487f090cc1@80.240.23.101:443?type=xhttp&security=reality&path=/Dota2?ed=2048&sni=hundleymechanical.com&fp=randomized&pbk=HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o&sid=008c74#80.240.23.101:443
-trojan://i11iizqo-sxjc-mqm3-1uti-wdnlb4qqczud@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://617p3sxj-bolv-z3sv-zwdy-99601vk7w2ya@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://kgfsj18t-anxf-fd6u-tct4-wlk98fieyqkv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9miya9tb-yhii-uopz-cul1-sak2g3ksa7mh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
