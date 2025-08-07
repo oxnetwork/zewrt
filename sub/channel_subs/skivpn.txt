@@ -1,8 +1,10 @@
-trojan://nc5fj0ol-7154-9bd8-coev-9n9zt0k94ptj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-07 | 16:53 ]
-trojan://2qw887qz-az3p-5qro-viw2-smcwt8lfu678@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9w9mmg3r-3ynj-fd76-meai-9a2wv2o008k7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tzjrabce-xt3z-kenc-gpmf-gpun9u6gvlqp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-07 | 17:35 ]
+trojan://emuwyrz8-305q-16qx-lugf-ecj94q33ut48@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://getlvisp-kigw-3duz-5nse-q8uq9bh8b3jq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODM1XHVkZGRkXHVkODM1XHVkZGZjXHVkODM1XHVkZGY2XHVkODM1XHVkZGZiIFx1MjdhMCBcdWQ4MzVcdWRjMTNcdWQ4MzVcdWRjMWVcdWQ4MzVcdWRjMjU6XHVkODNjXHVkZmMyQFNraVZwblx1ZDgzY1x1ZGZjMlx1MDBiOSIsImFkZCI6IjE4OC4yMTIuOTYuMjM1IiwicG9ydCI6MjA1MjEsImlkIjoiOWZlMjhkMTItOGNmMS00NzhkLWI0ZDQtZTM4YzUyMTIzNTRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODM1XHVkZGRkXHVkODM1XHVkZGZjXHVkODM1XHVkZGY2XHVkODM1XHVkZGZiIFx1MjdhMCBcdWQ4MzVcdWRjMTNcdWQ4MzVcdWRjMWVcdWQ4MzVcdWRjMjU6XHVkODNjXHVkZmMyQFNraVZwblx1ZDgzY1x1ZGZjMlx1MDBiMiIsImFkZCI6IjE3Mi42Ny4xMzYuMTY5IiwicG9ydCI6NDQzLCJpZCI6IjQ1ZjhkYjVmLWMzMmItNDE4Yi04ZjgzLWQ0ODc3ZGVjOTU5YSIsImFpZCI6MCwic2N5IjoiemVybyIsIm5ldCI6InhodHRwIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoic2F1cm9uMi5tZWxrb3JlLmlyIiwicGF0aCI6Ii9TYXVyb24vIiwidGxzIjoidGxzIiwic25pIjoic2F1cm9uMi5tZWxrb3JlLmlyIn0
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server134372561849834943.tas-bazi.com:443?type=xhttp&security=none&path=/frf#server134372561849834943.tas-bazi.com:443
 vless://bd400784-662a-4c1a-8f06-5fbc7c4f2657@102.177.176.213:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#102.177.176.213:80
 vless://18fd1328-3f06-4040-a370-f2891c2d8b8b@173.245.59.132:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#173.245.59.132:8080
@@ -12,5 +14,5 @@ vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?type=ws&securi
 vless://bd400784-662a-4c1a-8f06-5fbc7c4f2657@102.177.176.213:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#102.177.176.213:80
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server320258253370151493.tas-bazi.com:443?type=xhttp&security=none&path=/sc#server320258253370151493.tas-bazi.com:443
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-13.cristiano.name.ng:443
-trojan://5ky6bcw4-24ed-cjgj-i823-kqh44b580c7a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h5blls0e-wqwt-97gn-t34l-c1r82sh2rtlq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://pi1p2nwg-um51-qps7-yd30-z9zilj8a05fr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ize7yhqz-oyhq-wz0o-9s9d-oxhyy4g5ugxz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
