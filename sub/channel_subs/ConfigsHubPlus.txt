@@ -1,25 +1,25 @@
-trojan://971aw1sa-o7w6-el66-3vqm-etp5g3j1ejim@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-07 | 09:59 ]
-trojan://jjllmj1l-g253-vurk-vurk-o01klbexknal@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rf38c3m4-86o5-v2uh-5bkg-w2poqumz2szx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://NISHIKUITAN111@89.116.180.246:443?security=tls#89.116.180.246:443
-trojan://NISHIKUITAN111@104.25.99.96:443?security=tls#104.25.99.96:443
-trojan://NISHIKUITAN111@172.67.234.222:443?security=tls#172.67.234.222:443
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?type=xhttp&security=none&path=/xhttp#91.99.239.156:8443
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?type=xhttp&security=none&path=/ds#91.99.233.77:443
-vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&security=none#54.38.214.56:37171
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
+trojan://4zi8vmd0-8oyi-g3es-0dyy-nm5sigkh0cu1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-07 | 10:36 ]
+trojan://8xug93cc-s0xf-u5ca-nn0h-7zg63efvf9xf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://v1eqqkfw-revb-bdou-byio-9kwwak1ia51x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
+trojan://blue2024@108.162.195.155:443?sni=tb.promote.icu&peer=tb.promote.icu&security=tls#108.162.195.155:443
+vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwicGF0aCI6Ii9saW5rdndzIiwidGxzIjoidGxzIiwic25pIjoia2FwZWxsZW5nLmNvbSJ9
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?type=ws&security=tls&path=/&sni=E4aRpUi7Xe.GiTi4.OrG&fp=chrome#104.19.144.33:2096
-vless://91d233a2-08a8-4006-ac8b-597fb41ea2bb@panke1.dadasoratmolayi.com:443?type=tcp&security=none#panke1.dadasoratmolayi.com:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
-vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.21.27.178:2096?type=ws&security=tls&path=/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&sni=verina.ccantarella.dns-dynamic.net&fp=randomized#104.21.27.178:2096
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?type=xhttp&security=none&path=/xhttp#91.99.239.156:8443
-vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?type=tcp&security=none#91.99.188.109:443
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&path==Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?type=grpc&security=none#45.82.251.93:8880
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&security=none#54.38.214.56:37171
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.21.27.178:2096?type=ws&security=tls&path=/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&sni=verina.ccantarella.dns-dynamic.net&fp=randomized#104.21.27.178:2096
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&path==Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?type=xhttp&security=none&path=/ds#91.99.233.77:443
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?type=ws&security=none&path=/vless/#51.195.119.204:80
-vless://11cb3fc7-f30d-4b42-9ebc-d015f3753403@152.53.142.189:20558?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&sid=03e60665#152.53.142.189:20558
-trojan://os3aa1ce-woxn-imib-crlm-jbs5terrh9xy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v3q1afvm-wgkw-l2t7-h7e8-exe9v1jz1i4w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
+vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?type=tcp&security=none#91.99.188.109:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.26:443?type=ws&security=tls&path=/#212.95.34.26:443
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/?ed=2560&sni=hetzner-4.access.name.ng&fp=random#www.speedtest.net:8443
+vless://chanel%3Av2rayvpn_official@172.66.132.196:8443?type=ws&security=tls&path=/Telegram@v2rayvpn_official=?ed=2560&sni=fc.acmilan.lol&fp=firefox#172.66.132.196:8443
+vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.96.11:2087?type=ws&security=tls&path=/5z5wdmesbon0p3kk?ed=2560&sni=xLZ767v2Ray.PAgEs.dev&fp=chrome#188.114.96.11:2087
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?type=tcp&security=none#91.99.221.206:443
+vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d#136.243.79.227:443
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-17.cristiano.name.ng:443
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-4.cristiano.name.ng:443
+trojan://plo5ehiv-ni59-gt37-qy9z-dunuij7t8w1t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pgptoawk-edwv-03l4-knjs-0mv2ywpb5xd7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
