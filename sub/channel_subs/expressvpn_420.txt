@@ -1,8 +1,6 @@
-trojan://4dgitfyi-mm74-vo4x-7mvz-zzicqv84c945@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-07 | 19:55 ]
-trojan://ny9z4gto-piax-ogum-tcoz-70nt003rkkor@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c74helyb-76yv-f439-mpc3-33nkiiyy0jup@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c358c324-68eb-41f9-a2a4-3f95fd0d2a61@104.21.43.168:8080?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.21.43.168:8080
-vless://c358c324-68eb-41f9-a2a4-3f95fd0d2a61@172.66.40.99:8080?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#172.66.40.99:8080
+trojan://2jpto1ue-ips7-88lh-dm26-r5gbszsbti4v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-07 | 20:29 ]
+trojan://wkth6n2w-dbuk-xxqa-paww-eoe63kofku11@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pcdhzfli-2ix3-wxpx-2amq-pd2cmq8wt2b5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?type=grpc&security=tls&sni=servers.xvon.in#servers.xvon.in:5000
 vless://73fe0ac0-6dc7-45c9-aa0c-d2d21adf9b2b@servrbot-alishabani.sbs:13867?type=tcp&security=none#servrbot-alishabani.sbs:13867
@@ -33,9 +31,8 @@ vless://b71aa6d3-470e-44cf-9635-c7a6d9f0f740@kafshu.ir:8080?type=ws&security=non
 vless://b71aa6d3-470e-44cf-9635-c7a6d9f0f740@172.66.40.99:8080?type=ws&security=none&path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420?ed=2080#172.66.40.99:8080
 vless://b71aa6d3-470e-44cf-9635-c7a6d9f0f740@www.speedtest.net:8080?type=ws&security=none&path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420?ed=2080#www.speedtest.net:8080
 vless://4801c19d-37aa-4704-921e-9ee9bab80f1d@speedtest.net:80?type=xhttp&security=none&path=/#speedtest.net:80
-vless://b962948d-6d78-4810-a8df-1b062a23cafe@62.212.70.94:2026?type=tcp&security=reality&sni=zhaket.com&fp=chrome&pbk=U3dj7hcbexG-SmeG88Mdzr7-4aHk-r_IShG2EXTvXFI&sid=e9#62.212.70.94:2026
 vless://9a3ea5fb-1975-4726-8c1e-a7f64915953b@209.38.244.147:32789?type=grpc&security=reality&sni=www.stackoverflow.com&fp=chrome&pbk=33SVAlQv9slq7MriLy25Th1TFz3G156aLk9uc2iSXGk&sid=1e1ef98ffaf09d#209.38.244.147:32789
 vless://4acccaf0-4a69-4239-ab4f-5ba223642cde@62.212.70.94:18606?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=u-S2jvucOqUM8kEf6xYJKdVV_7k7kWgftaI8JcVnJDw&sid=e9#62.212.70.94:18606
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@hajimamad.timeclassic.ir:900?type=xhttp&security=reality&path=/&sni=sourceforge.net&fp=chrome&pbk=I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI&sid=2cc45a0088671249#hajimamad.timeclassic.ir:900
-trojan://5et4cy73-27eg-0q30-yrwq-opwq209z7n5l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h5mrs8yf-nsl2-t6gc-r5oy-vd2dvfrpdw9b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://jv2zv4dy-ygyf-meoy-8ys1-rvjdmq2jg07o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m1awezi6-gfw5-ridq-j1bp-51re6gghm6cl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
