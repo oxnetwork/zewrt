@@ -1,6 +1,6 @@
-trojan://k3gdvmqy-9mbr-h9rx-3oc4-l14f4m5z25gn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-07 | 19:24 ]
-trojan://yyghbcjn-lgh8-qfo3-g2a6-jkdd3tibykzq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wwhm9g5h-6297-yloi-vgut-6b8x6sncq6tr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xkr562n5-zrvx-6ze0-wxr3-6rq2n55xev3m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-07 | 19:55 ]
+trojan://cviki50z-qyx0-ju6c-l5ue-i8h98sq9n9tw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://p6qi45v3-wmv5-mstx-1qd6-o26mmp4aqjzj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://85a0d5ad-76a0-4502-be4c-fd04e8c88c87@88.209.249.84:38282?type=tcp&security=none#88.209.249.84:38282
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f10.sarasimano.com:2096?type=ws&security=tls&path=/#f10.sarasimano.com:2096
 vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.192.5:10504?type=ws&security=none#65.109.192.5:10504
@@ -16,5 +16,9 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@s3.sarasimano.com:2096?type=ws&secu
 vless://afa7ac72-cae2-47a2-992d-e93f36fe065d@e11.maindns.site:32611?type=tcp&security=none#e11.maindns.site:32611
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?type=grpc&security=none#185.231.205.5:8880
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.ndeso.web.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AT38?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&sni=freevpn.ndeso.web.id#freevpn.ndeso.web.id:443
-trojan://2jhalvab-uucb-g7jn-8ekn-sd2hky16yu4u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wpmu0qsm-go7w-2fkv-1wmx-g6mrc3laaqdn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052?type=ws&security=none&path=/#178.162.245.219:2052
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?type=grpc&security=none#94.131.9.172:8880
+vless://afa7ac72-cae2-47a2-992d-e93f36fe065d@e11.maindns.site:32611?type=tcp&security=none#e11.maindns.site:32611
+vless://4ebc4a4c-f0f8-4ecc-8aee-89f626bf4a32@c11.maindns.site:50896?type=tcp&security=none#c11.maindns.site:50896
+trojan://si5gerao-m7vt-j9sy-0yns-nyvm8vjn6xfx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ux7vvqdc-p4z4-h2gf-tmcw-52r64yuhw3z2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
