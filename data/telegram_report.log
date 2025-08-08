@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-08 13:44:14
+Timestamp: 2025-08-08 14:17:53
 Total Channels: 92
 Successful Scrapes: 61
 Failed Scrapes: 0
@@ -7,7 +7,7 @@ Failed Scrapes: 0
 --- Channels with Found Configs ---
 GalaxyMVPN: 200 configs
 freakconfig: 192 configs
-meli_proxyy: 155 configs
+meli_proxyy: 150 configs
 sockss_http: 134 configs
 v2rayng_1378: 131 configs
 shadowproxy66: 129 configs
@@ -18,7 +18,6 @@ vistav2ray: 49 configs
 bored_vpn: 46 configs
 evay_vpn: 46 configs
 itenvpn: 44 configs
-vpnod: 41 configs
 ZibaNabz: 40 configs
 vmessorg: 38 configs
 v2ra_config: 37 configs
@@ -27,27 +26,28 @@ configx2ray: 33 configs
 freenet_melli: 33 configs
 ConfigX2ray: 33 configs
 Greenvpn2: 26 configs
+vpnod: 26 configs
 capoit: 25 configs
 Farah_VPN: 24 configs
 meliconfing: 24 configs
 spikevpn: 24 configs
 v2rayfast_7: 22 configs
 nufilter: 21 configs
-DailyV2Config: 20 configs
 arv2ray: 19 configs
-v2ray_configs_pool: 19 configs
 masterserver1: 18 configs
+v2ray_configs_pool: 18 configs
 vpnandroid2: 17 configs
 WarV2Ray: 17 configs
 cybersoldiersst: 16 configs
 skivpn: 16 configs
 summertimeus: 14 configs
+DailyV2Config: 14 configs
 PASARGAD_V2rayNG: 13 configs
 vpnkanfik: 13 configs
 ghalagyann: 12 configs
-proxystore11: 12 configs
 lexernet: 11 configs
 mcv2rayng: 11 configs
+proxystore11: 11 configs
 v2raymelliii: 10 configs
 SafeNet_Server: 10 configs
 tehranargo: 9 configs
