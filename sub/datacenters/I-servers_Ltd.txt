@@ -1,17 +1,17 @@
-trojan://3xuk2272-8hp2-ehgt-c42t-ywc4l7jazxje@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-08 | 09:30 ]
-trojan://ui5g64n4-gkbr-l3w5-vb01-41krtzq4hjmn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://up2jq75g-e6lh-vs66-fqgr-hzj701hhs0aa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.133.247.114:443?type=ws&security=tls&path=/blue&sni=jp033.ylks01.eu.org#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 45.133.247.114
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.67.200.82:443?type=ws&security=tls&path=/blue&sni=lp.kpcloud.eu.org#FI 🇫🇮 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 194.67.200.82
+trojan://m92on5wr-z2ee-6l9y-ulm8-0op5egn4ok7b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-08 | 09:59 ]
+trojan://xowt7mks-qmhx-pwle-slfb-2ulkxguqrbcl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://78tzmdpw-0w16-p9ys-p1og-vr2waecxbmf6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSS1zZXJ2ZXJzIEx0ZCBcdTI1MDcgNDUuMTMzLjI0Ny4yNDkiLCJhZGQiOiI0NS4xMzMuMjQ3LjI0OSIsInBvcnQiOjIwODYsImlkIjoiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvSm52OFZpWk9VVmdpampPaDBwNXVHakhuWElpWSJ9
 vless://860a363e-2537-4186-b60a-bfe5b6b14ca3@45.133.247.232:2053?type=grpc&security=tls&sni=online.alphav.top#RU 🇷🇺 ┇ VLESS-GRPC-TLS - I-servers Ltd ┇ 45.133.247.232
-vless://860a363e-2537-4186-b60a-bfe5b6b14ca3@45.133.247.237:2053?type=grpc&security=tls&sni=online.alphav.top#RU 🇷🇺 ┇ VLESS-GRPC-TLS - I-servers Ltd ┇ 45.133.247.237
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.188.181.214:80?type=ws&security=none&path=Telegram🇮🇷 @ShadowProxy66 /?ed=2560#FI 🇫🇮 ┇ VLESS-WS-NTLS - I-servers Ltd ┇ 185.188.181.214
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSS1zZXJ2ZXJzIEx0ZCBcdTI1MDcgNDUuMTMzLjI0Ny4yMTciLCJhZGQiOiI0NS4xMzMuMjQ3LjIxNyIsInBvcnQiOjIwODIsImlkIjoiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvSm52OFZpWk9VVmdpampPaDBwNXVHakhuWElpWSJ9
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.196:2083?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 45.133.247.196
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.188.181.214:80?type=ws&security=none&path=Telegram🇮🇷 @ShadowProxy66 /?ed=2560#FI 🇫🇮 ┇ VLESS-WS-NTLS - I-servers Ltd ┇ 185.188.181.214
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.14:443?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 45.133.247.14
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.125.217.104:8443?type=ws&security=tls&path=/TG@ShadowProxy66?ed=2560&sni=jj.wxgqlfx.cn&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 185.125.217.104
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.151:443?type=ws&security=tls&path=/?ed=2048security=tls&sni=juzibaipiao.5112233.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 45.133.247.151
+vless://860a363e-2537-4186-b60a-bfe5b6b14ca3@45.133.247.237:2053?type=grpc&security=tls&sni=online.alphav.top#RU 🇷🇺 ┇ VLESS-GRPC-TLS - I-servers Ltd ┇ 45.133.247.237
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@185.87.48.78:8443?type=ws&security=tls&path=/TG@ShadowProxy66?ed=2560&sni=jj.wxgqlfx.cn&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 185.87.48.78
-trojan://1hpjp3aa-9tuf-ivdt-7eig-qunvpmbbyaut@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xyqm83zv-51y1-psfk-3o20-nme43cfphsyy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.14:443?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 45.133.247.14
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.133.247.114:443?type=ws&security=tls&path=/blue&sni=jp033.ylks01.eu.org#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 45.133.247.114
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.67.200.82:443?type=ws&security=tls&path=/blue&sni=lp.kpcloud.eu.org#FI 🇫🇮 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 194.67.200.82
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.151:443?type=ws&security=tls&path=/?ed=2048security=tls&sni=juzibaipiao.5112233.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - I-servers Ltd ┇ 45.133.247.151
+trojan://jvdh5rrx-mpgu-j9co-gmvb-03uvnsnjrm5s@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://41mmpj2i-jqqq-n5bi-s0bx-etbb8fbp0e2r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
