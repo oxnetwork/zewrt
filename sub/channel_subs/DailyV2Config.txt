@@ -1,21 +1,19 @@
-trojan://q7jshgpa-9xi2-gqcj-ijbv-j0g1jxcrc8rv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-08 | 23:53 ]
-trojan://0vqgpc5v-5qjc-8r9m-dgg0-xhy1nc2vp8jj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1rsnd95x-pfcq-jxr7-1ui2-o0wv41ut20sz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.81:443#212.102.53.81:443
+trojan://ppz0gqbv-zzza-czra-3fts-6bz9fopq09ch@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-09 | 00:21 ]
+trojan://p3f3d0nm-2ihu-id6x-af70-etl528hcsdqa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://umo0kmta-3vq1-q9d6-toqd-w8wdu84thspr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#142.4.216.225:80
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIHwgVk1lc3MgfCAxNzYuOTguKioqLioqKiIsImFkZCI6IjE3Ni45OC4xODEuMzciLCJwb3J0Ijo1ODAxMywiaWQiOiJiMTI3N2YxMS03MWIwLTRhNDQtOWY1Mi0wN2M2YzMyNjY5MzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgVk1lc3MgfCAxNzIuNjcuKioqLioqKiIsImFkZCI6IjE3Mi42Ny4xNzAuMTMiLCJwb3J0Ijo0NDMsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ2x3ZWlkZi5zYnMiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6Imdsd2VpZGYuc2JzIn0
-vless://37ed12f6-95b4-5b3f-b9a5-00cdef1d7333@38.76.247.230:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#38.76.247.230:443
-vless://42872a28-fdb0-49de-8ea4-a093b0042cec@188.166.150.199:443?type=ws&security=tls&path=/ws&sni=zula.ir&fp=chrome#188.166.150.199:443
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?type=tcp&security=tls&sni=loCal.rogsoftwaregroup.com&fp=chrome#65.108.231.185:443
-vless://87a41ca6-8ef6-5979-8850-adbf0c363f6c@104.17.148.22:2052?type=ws&security=none&path=/vless#@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL#104.17.148.22:2052
-vless://e952fc48-1f3d-47b4-b7bf-1149e0b4dbe6@172.66.47.146:8880?type=httpupgrade&security=none&path=/Daily_Configs?ed=80#172.66.47.146:8880
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/Tel-@V2ray_Alpha/?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.191.195:80
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?type=ws&security=none&path=/7YVyoVNnbaVzgl6D?ed=2560#104.16.69.64:8880
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?type=ws&security=none&path=telegram@filter_breaker/?ed=2560#104.17.148.22:8880
+vless://e917db16-e9b4-4aa7-8a77-617f5e82f1f8@172.67.110.101:8080?type=ws&security=none&path=/?ed=256/?ed=25600#172.67.110.101:8080
+vless://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#172.66.40.99:443
+vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=cPb.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?type=ws&security=tls&path=/?ed=2560&sni=brmahasang.ahaysiahzangi.dpdns.org&fp=random#104.26.7.89:8443
-vless://af4d4c00-34ad-4498-ab48-30b4739bd4d3@95.217.178.173:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#95.217.178.173:8443
-trojan://oh004saj-zw63-ohf7-c30d-xb0p922q9egu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mgzb679w-oco9-ym0w-6ac4-qua309dmhgba@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://6a2bda17-7dd4-450c-83fb-5ae5db27e04d@51.195.119.75:80?type=ws&security=none&path=/vless/#51.195.119.75:80
+vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403?type=tcp&security=none#15.204.199.122:57403
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?type=tcp&security=none#45.88.183.164:49355
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?type=ws&security=none&path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy?ed=2560#104.16.228.91:80
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?type=ws&security=none&path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy?ed=2560#104.16.69.64:8880
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
+vless://c04fc2cd-e7e3-4e9a-f6f8-50f9e7db6499@165.227.133.20:8443?type=tcp&security=reality&sni=elu382mve.atlas.fastsub.site&fp=chrome&pbk=eMVH3QApqpvCtA1jMEGBEM3RSojWf9e0uyab_E8roiw#165.227.133.20:8443
+trojan://70d0derq-oa5p-9mto-5qqi-aatsmrtts6i4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vnakvg74-z0a2-6ejh-0d68-dq6sfyx2x29t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

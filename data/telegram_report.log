@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-08 23:44:06
+Timestamp: 2025-08-09 00:12:54
 Total Channels: 92
 Successful Scrapes: 61
 Failed Scrapes: 0
@@ -7,7 +7,7 @@ Failed Scrapes: 0
 --- Channels with Found Configs ---
 GalaxyMVPN: 200 configs
 freakconfig: 182 configs
-meli_proxyy: 171 configs
+meli_proxyy: 175 configs
 shadowproxy66: 136 configs
 ShadowProxy66: 136 configs
 sockss_http: 134 configs
@@ -19,29 +19,29 @@ itenvpn: 44 configs
 bored_vpn: 42 configs
 vistav2ray: 42 configs
 ZibaNabz: 41 configs
+configx2ray: 39 configs
+ConfigX2ray: 39 configs
 freenet_melli: 38 configs
 expressvpn_420: 37 configs
 v2ra_config: 32 configs
-configx2ray: 30 configs
-ConfigX2ray: 30 configs
 Greenvpn2: 26 configs
 vpnod: 26 configs
 capoit: 24 configs
 Farah_VPN: 24 configs
 spikevpn: 24 configs
-meliconfing: 23 configs
+meliconfing: 22 configs
 arv2ray: 20 configs
+v2ray_configs_pool: 20 configs
 nufilter: 19 configs
 masterserver1: 18 configs
+DailyV2Config: 18 configs
 v2rayfast_7: 17 configs
 vmessorg: 17 configs
 vpnandroid2: 17 configs
 WarV2Ray: 17 configs
-DailyV2Config: 17 configs
 cybersoldiersst: 16 configs
 skivpn: 16 configs
 summertimeus: 14 configs
-v2ray_configs_pool: 13 configs
 vpnkanfik: 13 configs
 ghalagyann: 11 configs
 mcv2rayng: 11 configs
@@ -55,6 +55,7 @@ DALTON_PING: 8 configs
 dalton_ping: 8 configs
 tehranargo: 8 configs
 sinavm: 7 configs
+confingv2raayng: 6 configs
 fnet00: 6 configs
 isvvpn: 6 configs
 PASARGAD_V2rayNG: 6 configs
@@ -62,7 +63,6 @@ v2ray_rolly: 6 configs
 mdvpnsec: 5 configs
 v2ray_god: 5 configs
 PRIMESOBI: 5 configs
-confingv2raayng: 4 configs
 Subify_ir: 3 configs
 colsvpn: 2 configs
 ineronix: 2 configs
