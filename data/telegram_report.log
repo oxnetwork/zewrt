@@ -1,8 +1,8 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-09 14:41:56
+Timestamp: 2025-08-09 15:05:54
 Total Channels: 92
 Successful Scrapes: 58
-Failed Scrapes: 2
+Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 GalaxyMVPN: 200 configs
@@ -65,5 +65,3 @@ ineronix: 2 configs
 sinavm: 2 configs
 
 --- Failed Channels ---
-anty_filter
-azarbayjab1
