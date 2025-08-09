@@ -1,10 +1,11 @@
-trojan://ppb3d55p-28nt-xhft-tofc-9wp5x6r1i60m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-10 | 00:50 ]
-trojan://zva25oay-aqh3-nl3y-8ah8-juuyqnzfrjw4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mfgwtsvp-g9x8-dryc-ahm4-l9xyw60piivz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.205.207
-vless://aaf7709c-4f6a-45d4-8c79-e9917dfca010@irancloud.okamii.ir:2095?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.121.47.4
+trojan://xgan3f0r-zh6u-skuf-szb5-1ku40nbvbkjw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-10 | 01:18 ]
+trojan://mbfpiqbk-ef0g-xdb1-f2wj-2zstdobjx9ah@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://d785qgnq-41e2-aj0s-pr1r-9x3n40u2tgqn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://db90f3d7-bd8f-4e2d-ae0b-f9510ff3f7b9@87.120.92.135:8080?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.120.92.135
-vless://0450a34a-8ef2-4a7c-aff6-cca9508c3ddf@4.ariyanln.com:5051?type=tcp&security=none&path=/brand/miscellaneous/#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.121.47.26
+vless://aaf7709c-4f6a-45d4-8c79-e9917dfca010@irancloud.okamii.ir:2095?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.121.47.4
+vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#BG 🇧🇬 ┇ VLESS-GRPC-RLT - Host Telecom Ltd ┇ 87.120.205.207
 vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002?type=xhttp&security=reality&path=/Api/AS&sni=cdn.jsdelivr.net&fp=firefox&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik#BG 🇧🇬 ┇ VLESS-XHTTP-RLT - Host Telecom Ltd ┇ 87.120.205.76
-trojan://sx2dtq78-vuoo-zz9f-g3zm-lvdl2q0z1ibo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n3edacg7-wnwj-a07y-r8ud-7i3oxl4djpwx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://0450a34a-8ef2-4a7c-aff6-cca9508c3ddf@4.ariyanln.com:5051?type=tcp&security=none&path=/brand/miscellaneous/#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.121.47.26
+vless://18449203-c21f-431a-911f-4affde2a321e@de.x8net.world:443?type=tcp&security=reality&sni=www.focus.de&fp=chrome&flow=xtls-rprx-vision&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.205.68
+trojan://trkx0dda-cmna-qfvd-fyzx-nmjmowwj5nkt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xdc97o81-f9jc-43df-wvoq-imkif27zfct3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
