@@ -1,20 +1,10 @@
-trojan://srq4ca0y-3kiv-0wnr-s4a0-rxbeluclfmn5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-10 | 23:14 ]
-trojan://pcwbrfen-83u7-4hbw-xulh-negejgwa1o86@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6wkkg29l-jn3l-wwlc-73oc-huml534h1eae@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IHwgVk1lc3MgfCA0Ni4yOS4qKiouKioqIiwiYWRkIjoiNDYuMjkuMzQuMjA1IiwicG9ydCI6NTk5NTYsImlkIjoiY2EwYzk5MzctNThhNi00NGVhLTkxMTEtYTZhYmFjMjY3ZDBmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?type=ws&security=none&path=/?ed=2560#104.16.104.151:80
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.66.132.196:443?type=ws&security=tls&path=/Telegram@V2ray_Alpha/?ed=2560&sni=yx.yushan.dpdns.org#172.66.132.196:443
-vless://37ec1122-1f20-1498-24b1-a99f8d915f94@45.88.8.147:80?type=ws&security=none&path=/IVApi/NL/0#45.88.8.147:80
-vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?type=ws&security=tls&path=/?ShadowProxy66&sni=albedoalbedochan.violetchaan.ip-ddns.com&fp=random#104.26.6.18:443
+trojan://00acwqgd-rrhp-skoh-obus-ulvb4ecnkk3h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-10 | 23:52 ]
+trojan://m8j81wxm-doyv-6fbz-jv3s-gylobd9q9iwp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rw8z707h-obe9-g0sn-klb8-zlyb1etkoq8r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
 vless://telegram-id-Arfilter@104.21.43.168:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=cPo.SpEeDtEsT2029.CoM&fp=firefox#104.21.43.168:443
-vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?type=ws&security=tls&path=/&sni=PmQ1cCsP9x.GhEiChI.oRg&fp=chrome#104.19.144.33:8443
-vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?type=tcp&security=none#54.37.205.0:59332
-vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#grumpy-building.seotoolsforyou.co.uk:80
-vless://e01387f6-e92e-464e-aa26-6b21611adc86@104.21.0.0:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.0.0:80
-vless://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#172.66.40.99:443
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop&fp=chrome#102.177.189.251:443
-vless://f26911d1-7b73-22e1-f2fc-2a60fca4af4f@45.88.8.147:80?type=ws&security=none&path=/IVApi/NL/3#45.88.8.147:80
-vless://d0a86835-954b-4c2d-9f35-584ce0e052be@45.12.143.147:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31#45.12.143.147:443
-trojan://c6pmwp0r-yxyu-9hzx-7c6i-3zsbsuarum3j@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sfcf2zne-xfxe-09dp-xjq3-0t0jaqunmng5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?type=ws&security=none&path=/#enthusiastic-century.oneeat.co:80
+vless://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/dahstrws&sni=638901790535253494.brussels-prx-dnraaal.info#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
+vless://9bc48566-76f9-44d7-8ad0-af41336b4004@87.120.165.214:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=7tgf5o3AfrE-TWqB3CpBuuZyt7S9tJq6TZ26gPWNyzY&sid=3549df188940fe#87.120.165.214:443
+trojan://ybfdk784-ybnv-7cjz-b1na-wn0mtg75z55k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5t5dv9ku-kc6a-9g2s-wevv-z44d9vw87jny@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
