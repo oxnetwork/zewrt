@@ -1,20 +1,20 @@
-trojan://1vslxdlo-49mh-spm8-vtch-ynfan69a0ugj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-10 | 23:52 ]
-trojan://h7svb6a8-ex9d-vn1s-ovr5-tqjipgpn5vvq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9xk37bnb-hp1o-y2ey-cree-vei19dvx1y9k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ywed9qn0-bpyf-g4ep-xnss-wr1xvrpt3mhc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-11 | 00:20 ]
+trojan://4duk1doo-0qqt-7j0i-i9z5-8xw7tnss7uuh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gmnljjry-k9wb-rnwp-y03t-i7pz9odb46cj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.218
-hysteria2://dongtaiwang.com@167.160.90.252:63530?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - DEDICATED ┇ 167.160.90.252
+tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - DEDICATED ┇ 64.110.25.10
 hysteria2://dongtaiwang.com@64.110.25.11:33337?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - DEDICATED ┇ 64.110.25.11
-hysteria2://dongtaiwang.com@173.234.25.53:33337?sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - DEDICATED ┇ 173.234.25.53
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.91.118:10077#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 167.160.91.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.130
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ1bDI5cG81Y25yNFZOVGFTNHNo@104.192.227.162:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.227.162
-ss://YWVzLTI1Ni1jZmI6ZjhmM2FDemNQS2JzRjhwMw@167.160.90.218:989#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 167.160.90.218
+hysteria2://dongtaiwang.com@167.160.90.252:63530?insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - DEDICATED ┇ 167.160.90.252
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.225.138:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.225.138
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.82
 hysteria2://i2XRv7zj1uWE@167.160.90.251:10981?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - DEDICATED ┇ 167.160.90.251
 trojan://fO8PTu0jkPqqbkc7NCNbZg@66.23.207.66:443?security=none#US 🇺🇸 ┇ TROJAN-TCP-NTLS - DEDICATED ┇ 66.23.207.66
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.82
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gREVESUNBVEVEIFx1MjUwNyAxNzMuMjM0LjI1LjUwIiwiYWRkIjoiMTczLjIzNC4yNS41MCIsInBvcnQiOjQ0MywiaWQiOiI0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9FQ1RDSjBERiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.225.138:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.225.138
-tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - DEDICATED ┇ 64.110.25.10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.130
+hysteria2://dongtaiwang.com@173.234.25.53:33337?sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - DEDICATED ┇ 173.234.25.53
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@104.192.226.106:989#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.226.106
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.91.118:10077#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 167.160.91.118
-trojan://p18pnjem-b8uh-anfs-sgpc-i6t6wj7lrky7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mor806at-3c3r-jrd9-hzva-bge8boa6992f@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://YWVzLTI1Ni1jZmI6ZjhmM2FDemNQS2JzRjhwMw@167.160.90.218:989#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 167.160.90.218
+trojan://ppniptl6-y2mx-shjj-zf5r-0my32ppd3qtv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ljm22lgj-p6jd-uw12-pf07-om8a108j6zew@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
