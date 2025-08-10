@@ -1,6 +1,6 @@
-trojan://z3jln63y-47m1-2wr8-epes-m404pvs8k8d5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-10 | 09:24 ]
-trojan://gt7ckdeh-sce2-fr14-322p-gf2e08kswkjg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://93wwslgn-5hfn-h5p9-3o3y-ipat33ou1vp2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://b36wmfjs-8cha-uxu6-rkib-z09td9ly2isk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-10 | 09:56 ]
+trojan://wrjoc1ax-e0mf-621g-0pid-1jhe7ojxhoj1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2dyaqv2i-f68q-xr1m-xjbo-yjhbvexvz7a8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a60463c9-1559-45db-9a1d-ca315bb869d7@re.iraniandesinger.com:3333?type=tcp&security=none#re.iraniandesinger.com:3333
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=pqh28v5.hiddendom.shop#all.tellmethetrue.shop:443
 vless://61f0d150-46dc-4b5c-a5ed-8f32e680ef13@all85.p-er.sbs:1517?type=tcp&security=none&path=/#all85.p-er.sbs:1517
@@ -30,5 +30,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.99:443?type=ws&security=
 vless://254380a5-ae6e-4778-9801-90d668e06caa@354684.mutee.com.tr:20582?type=tcp&security=none&path=/#354684.mutee.com.tr:20582
 vless://65b3cbba-e6ac-485a-9481-976a0415eab9@172.67.218.90:80?type=ws&security=none&path=/تعداد#172.67.218.90:80
 vless://6c11247b-6078-461a-93d5-22e4df284e6d@198.62.62.229:443?type=ws&security=tls&path=/wsv/6c11247b-6078-461a-93d5-22e4df284e6d&sni=mirror.fullmargintraders.com&fp=chrome#198.62.62.229:443
-trojan://krw28u0v-q8tp-2z7b-zuj3-16z9l78i5i5i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zdvcrlzl-qrzu-4778-ee2y-7dsser56c423@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?type=tcp&security=none#15.204.236.64:24820
+trojan://smlhizli-210m-tvok-pfkz-yn2a0x3gzp2l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://iqgfm2zu-3697-kt2j-yoq5-l4mw6mxy2k3r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
