@@ -1,15 +1,21 @@
-trojan://x4i6fgba-4e51-pqmz-gken-wdu6cm33g20s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-13 | 02:22 ]
-trojan://7opz7l9w-ykdl-zw37-irt1-4p99emjrebzd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xrmv6vx9-l4wx-vqpa-2nlh-g57p4nm98e92@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://701d572d-d026-4568-834b-6734a84e1d6f@homee.oops.wtf:8866?type=tcp&security=none#homee.oops.wtf:8866
-vless://bdda4f31-3c11-4d3b-9bbe-90ff817154fb@vp1.biseda.net:9090?type=tcp&security=none&path=/#vp1.biseda.net:9090
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:8443?type=ws&security=tls&path=/#45.12.133.132:8443
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?type=xhttp&security=none&path=/ds#91.99.219.10:443
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?type=ws&security=none&path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy?ed=2560#104.16.51.36:80
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?type=grpc&security=none#45.82.251.93:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?type=ws&security=none&path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy?ed=2560#104.16.69.64:8880
+trojan://rtkelrr2-v17s-a80p-i2r7-vww4hqp1afs1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-13 | 02:51 ]
+trojan://jzypsii9-ogiv-xnu9-asfk-gia7v33vygf5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pa4yj64m-bzce-yv6t-v7do-elftx0l1ba3z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYjZ4NXRmTzF3WlV4T2J1Ul9BSVhn@150.241.86.252:1080#150.241.86.252:1080
+trojan://blue2024@104.24.160.227:443?sni=hb.lii2010.us.kg&peer=hb.lii2010.us.kg&security=tls#104.24.160.227:443
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?type=ws&security=none&path=/#62.60.192.209:80
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?type=ws&security=tls&path=/&sni=Vk1YdTaPjV.wAsAbI1.oRg&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
 vless://f0263bd6-570a-4bc0-bbb9-6fad124b18cf@62.133.62.166:2095?type=tcp&security=none#62.133.62.166:2095
-vless://9f69c514-7aba-4cb2-88d2-1be504c97061@89.58.1.98:44807?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=CKRx3TijRUQqqRcEOVF07CfvekiUlPbr0twB3wrpfiQ&sid=6d78523a82d71956#89.58.1.98:44807
-trojan://gn3knuu9-4x9t-csdx-0nj9-lui55cx7x3al@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ui6loaou-m6uv-0jpz-w4c6-k3nkoazwgg8r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@104.19.144.33:8443?type=ws&security=tls&path=/&fp=chrome#104.19.144.33:8443
+vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?type=ws&security=tls&path=/vpghRaDdORhcsIFV/MzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE=?ed=2560&sni=FqJEDazA7b2VofJ9iHeMX319rmO41l7b.paGEs.DeV&fp=randomized#104.21.32.1:443
+vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.80.1:443?type=ws&security=tls&path=/6XiwfHqD0d8sijSE/MzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE=?ed=2560&sni=fqJeDaZA7b2VoFJ9IHEMx319Rmo41l7b.pAGeS.dEv&fp=randomized#104.21.80.1:443
+vless://249de927-f5fc-4b6e-a4c9-f95b973ad1e4@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
+vless://d201839f-645a-4458-b193-115e1e9613c6@23.235.37.70:80?type=xhttp&security=none&path=DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-#23.235.37.70:80
+vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.222.79:443?type=ws&security=tls&path=/abcdews&sni=927b72504cb041b1bef6.bazar-jalebtg.rest&fp=chrome#104.19.222.79:443
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=hE136.maShkesTan.CoM&fp=firefox#172.66.40.99:443
+vless://a4708c04-bfb8-40f9-8a76-8d6566be3c4d@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
+vless://c69af2a6-adbc-49e6-bb54-281b1ea18812@91.107.158.231:80?type=xhttp&security=reality&path=/telegram.migmigping&sni=canva.com&fp=chrome&pbk=onJ1zaTDbXbMMSfmp-wCt2ZwGDOK-VxvPQi3TPwPoTk&sid=5517d782302df4#91.107.158.231:80
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?type=tcp&security=reality&sni=i2pd.website&fp=chrome&flow=xtls-rprx-vision&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-17.cristiano.name.ng:443
+trojan://pj4c5bft-wtli-jf7l-8sug-phuey2bdu0c2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dhlyk7vc-9ncv-ez7j-vkwd-lb67dncssgyi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
