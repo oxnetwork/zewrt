@@ -1,16 +1,16 @@
-trojan://pck2i353-0z4g-5ir9-rpuy-utpzvg9yvspx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-12 | 21:21 ]
-trojan://gnws9gvt-43hy-pf9h-kvx1-zsud19enr7dz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wtg4uec8-8rnu-mmpc-a2qm-ivfx5z7ahgue@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-hysteria2://13185bc123940cfa@5.255.119.232:446?insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.119.232
-vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@5.255.120.214:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - The Infrastructure Group B.V. ┇ 5.255.120.214
+trojan://stmir79l-b7qb-4p66-gu9q-hzkrg0u0g0v7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-12 | 21:57 ]
+trojan://hvhwe3g6-05o7-b5rk-4jxk-7ub9osvy5jpl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z9p0ywyf-jhc8-4co5-tmvj-7zrdvu1d9g5l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.121.189
+hysteria2://13185bc123940cfa@2a04:52c0:124:c2e8::1:446?insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - The Infrastructure Group B.V. ┇ 2a04:52c0:124:c2e8::1
+vless://6e467e70-6ef2-4e8c-a322-4e4f83a10e07@5.255.121.220:443?type=tcp&security=reality&sni=shell.com&fp=chrome&pbk=VQqByg4w97wFLTE0SuB1GdUdaG4UdC4dr8slNYOICUI&sid=3d333204dc0340ae#NL 🇳🇱 ┇ VLESS-TCP-RLT - The Infrastructure Group B.V. ┇ 5.255.121.220
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVGhlIEluZnJhc3RydWN0dXJlIEdyb3VwIEIuVi4gXHUyNTA3IDUuMjU1LjExMi4xNTgiLCJhZGQiOiI1LjI1NS4xMTIuMTU4IiwicG9ydCI6MTkxODIsImlkIjoiOGYxMWJhOGMtYTcyYi00N2RmLWE3ODMtMjQ5MDIwNWZmMTBmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vless://fa64f7e4-5bb2-4490-a752-784d7133c5bd@5.255.115.68:8080?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.115.68
 tuic://1c1282d4-251c-4358-b363-cb3abad773c3:88f79175f29bc260@5.255.99.199:2087?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#NL 🇳🇱 ┇ TUIC-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.99.199
-vless://6e467e70-6ef2-4e8c-a322-4e4f83a10e07@5.255.121.220:443?type=tcp&security=reality&sni=shell.com&fp=chrome&pbk=VQqByg4w97wFLTE0SuB1GdUdaG4UdC4dr8slNYOICUI&sid=3d333204dc0340ae#NL 🇳🇱 ┇ VLESS-TCP-RLT - The Infrastructure Group B.V. ┇ 5.255.121.220
-vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.121.189
-hysteria2://13185bc123940cfa@2a04:52c0:124:c2e8::1:446?insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - The Infrastructure Group B.V. ┇ 2a04:52c0:124:c2e8::1
+vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@5.255.120.214:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - The Infrastructure Group B.V. ┇ 5.255.120.214
+hysteria2://13185bc123940cfa@5.255.119.232:446?insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - The Infrastructure Group B.V. ┇ 5.255.119.232
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRoZSBJbmZyYXN0cnVjdHVyZSBHcm91cCBCLlYuIFx1MjUwNyAxOTIuNzYuMTUwLjg1IiwiYWRkIjoiYTEuYXJtaWFpZGluLnRvcCIsInBvcnQiOjg4ODAsImlkIjoiODE4ZWVhMTAtODA2Mi00YTJjLTg0NTItMjVjZGI4NDYxNWUwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://aaafd33e-bda8-47e9-bc33-116ce13c0b27@5.255.120.217:80?type=xhttp&security=reality&path=/pwp&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&sid=8c#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - The Infrastructure Group B.V. ┇ 5.255.120.217
 vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - The Infrastructure Group B.V. ┇ 5.255.124.97
-trojan://zf7biw2b-24cf-y0c3-sy3e-w6p2f6j87ht6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://f9xrrljc-rkeb-oe5i-gwsy-39rgq9034ysy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://xg63txo4-dg2x-ljts-cb9f-6dgksyyvzud2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://so97a8zk-rquh-cpl6-f6cw-r91qb66rpy2c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
