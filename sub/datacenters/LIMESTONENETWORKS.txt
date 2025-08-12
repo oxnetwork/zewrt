@@ -1,18 +1,23 @@
-trojan://g4thozoz-7zvv-v7xj-9ivi-kbdgdd6sdna5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-12 | 20:52 ]
-trojan://wcr9qxb0-an9q-296k-9wmo-dclp0euhbyrv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://uhh11b2g-ubvg-8cvf-qrmb-j4charzrcxl7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTI5ZGFkMy1jN2ZmLTQ4NzMtYTk1Yy1hYjIxOWE3MmU1ZGU@cm3.naichald.xyz:38878#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LIMESTONENETWORKS ┇ 216.245.197.45
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.21:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 74.63.241.21
+trojan://qcbssgs7-uh2g-tov8-8phl-gp6f2221ukbi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-12 | 21:21 ]
+trojan://vcn3nsn0-s4c6-nxvq-58go-26m9m518tws5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l0jrakin-2qrl-sbag-v322-kogswo3jgb5z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBMSU1FU1RPTkVORVRXT1JLUyBcdTI1MDcgMjE2LjI0NS4xOTcuNDUiLCJhZGQiOiJneTAyLmZseWRvZy5wcm8iLCJwb3J0IjoxMDAxMCwiaWQiOiIxMTk2ODg1OS1kNzg3LTRiNWQtYjI3OS0xN2RlYTg2NDNkNWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6ImZhbHNlIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExJTUVTVE9ORU5FVFdPUktTIFx1MjUwNyA4OS4xMTYuMjQ3Ljg0IiwiYWRkIjoiODkuMTE2LjI0Ny44NCIsInBvcnQiOjEwMTA2LCJpZCI6Ijk5MjEwN2U3LTcyMzgtNDVjYi05YTY3LWNhY2Y0ZDc3MTlmNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 74.63.241.22
+trojan://765040cb-15f4-43da-9e07-4b92c767d222@azhk.alink123.com:11045?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 69.162.95.4
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTElNRVNUT05FTkVUV09SS1MgXHUyNTA3IDIxNi4yNDUuMTk3LjQxIiwiYWRkIjoidmlldG5hbTE0LmF6enBodWMucHJvIiwicG9ydCI6ODAsImlkIjoiOTFiYWUyOTUtYzE2Ny00ZGY4LTliOTgtMjE3YWZhYjc5NzE3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaGFodXV0dW5nIn0
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.6:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 69.162.95.6
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTElNRVNUT05FTkVUV09SS1MgXHUyNTA3IDc0LjYzLjI0MS4yOCIsImFkZCI6InVzY2VyYS5tb29uZnJlZS50b3AiLCJwb3J0Ijo0NDMsImlkIjoiODYxZTljZDAtY2QxZC00ZjhjLWI3ZDktYjQ3NDA5ZGRhMzMzIiwiYWlkIjozLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.26:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 74.63.241.26
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.20:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 74.63.241.20
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.116.193.40:34045?type=tcp&security=reality&path=/&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#US 🇺🇸 ┇ VLESS-TCP-RLT - LIMESTONENETWORKS ┇ 89.116.193.40
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.25:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 74.63.241.25
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.2:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 69.162.95.2
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTElNRVNUT05FTkVUV09SS1MgXHUyNTA3IDY0LjMxLjU1LjIwOCIsImFkZCI6IjY0LjMxLjU1LjIwOCIsInBvcnQiOjgwLCJpZCI6ImEyNTg4MWYzLTk2N2YtMzI2NS1iYzdmLTllNjY4NTdiMDE2YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii91c3YxMjVOOTNueiJ9
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.25:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 74.63.241.25
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.23:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 74.63.241.23
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTElNRVNUT05FTkVUV09SS1MgXHUyNTA3IDc0LjYzLjI0MS4yOCIsImFkZCI6InhpbjEubW9vb29vYmFpLnRvcCIsInBvcnQiOjUxMjIsImlkIjoiZjQ1ODUzNDEtZmU5My0zMzJkLWJkMjYtYjk2OWY2OTYwN2IyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.6:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 69.162.95.6
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.116.193.40:34045?type=tcp&security=reality&path=/&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#US 🇺🇸 ┇ VLESS-TCP-RLT - LIMESTONENETWORKS ┇ 89.116.193.40
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.21:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 74.63.241.21
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.2:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 69.162.95.2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTI5ZGFkMy1jN2ZmLTQ4NzMtYTk1Yy1hYjIxOWE3MmU1ZGU@cm3.naichald.xyz:38878#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - LIMESTONENETWORKS ┇ 216.245.197.46
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTElNRVNUT05FTkVUV09SS1MgXHUyNTA3IDIxNi4yNDUuMTk3LjQyIiwiYWRkIjoiY2RuZnh0cmFuc2kuZmFzdGlxaXlpLnh5eiIsInBvcnQiOjM2MTgyLCJpZCI6IjlkMmQ0Y2JmLWFjNzYtM2U2OC05NmM2LTA2ZGQ5MGZkNGRkZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.5:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIMESTONENETWORKS ┇ 69.162.95.5
-trojan://4ssrqohu-wb9t-8jnv-v1u3-7rcqt36qp5q2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6nwelv1d-30pe-8835-revo-jbk5wkgqgoje@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://9wvquf77-1hh9-gxzj-krk9-ggjysrl77nas@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://s0mqghdi-08b2-vxc6-zez9-nitpzi093ex1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
