@@ -1,6 +1,6 @@
-trojan://e04n9gal-3cys-rd12-jfqr-5bbvan7rdp0w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-13 | 21:56 ]
-trojan://d996n08g-dd7f-wgld-kcbb-icnwxj0e3szb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gqn293rs-431g-zpch-kof4-xqkwe9ez9nkb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://q6i9xgt4-gr66-6jja-2m7z-ks9vykqq6pkw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-13 | 22:29 ]
+trojan://bgkdgm7e-69dz-jams-9fdi-s7abunufrub1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wvcv5vek-zdnn-ihn4-03ay-6csx2dujhvye@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#45.139.24.24:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#46.101.245.131:44354
 trojan://Aimer@27.50.48.189:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#27.50.48.189:2083
@@ -48,6 +48,9 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&secu
 vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?type=tcp&security=none#91.107.136.208:23114
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?type=tcp&security=none#91.107.169.188:25103
 vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?type=tcp&security=none#91.107.136.208:23114
+vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?type=ws&security=none&path=/ShadowProxy66-ShadowProxy66#www.speedtest.net:80
+vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?type=xhttp&security=tls&path=/&sni=uk-09.allhubb.info&fp=randomized#104.17.148.22:8443
+vless://4e125438-1a39-440e-95fc-36b9dec03e5f@104.21.43.168:443?type=ws&security=tls&path=/random&sni=adderall.adaspoloandco.com&fp=firefox#104.21.43.168:443
 vless://fa886719-16fa-4b10-88c5-3c00a6f5a5f1@195.133.8.126:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=oB-VCWWpUePBe_v3vAOLWw054ZbdUN_4X3t_FkkPNFc&sid=220463#195.133.8.126:8081
 vless://4c54aa59-3f7a-4257-bad6-5f2def2d9fb8@157.173.195.208:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=maeBz8hpeApypC47VuYULiB8zupTv1HxlPpRJ5QsOUI&sid=9d41#157.173.195.208:8081
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&sid=d5bfd6c4#51.77.91.192:8081
@@ -98,5 +101,5 @@ hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@54.255.144.66:22509?sni=bing.com&insecure
 hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?sni=www.bing.com&insecure=1#203.174.82.145:43057
 hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=bing.com&insecure=1#47.239.220.214:2428
-trojan://rbx2idsj-nhq0-af34-0qtt-uaivh6orze98@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1pnblml3-tjxq-mwrk-1qlm-4q1ie557m4l8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://yx5poest-kszu-rk3e-nzxq-2nbz5mno7egi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://k425a8fq-aey9-e8kc-9sum-0g3trgmdwica@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
