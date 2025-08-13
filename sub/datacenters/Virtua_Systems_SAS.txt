@@ -1,12 +1,12 @@
-trojan://346j5rgc-j7cl-kfq5-8ziv-gqoo55jdhdnk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-13 | 14:51 ]
-trojan://lyftryjh-3qgx-b6yz-9lpu-ugnxh4owkpux@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6bp5s8bg-pxwc-np2d-tpe3-4tx03b4wrb1c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c960621a-32f2-4dae-8262-22f5716fbcc9@185.10.17.201:42368?type=tcp&security=reality&sni=Icloud.com&fp=chrome&pbk=bXihxwGbc7wUePUY0-dEYEiL-OXxmL9qwuS9lL0x_jQ&sid=779d331ea5#FR 🇫🇷 ┇ VLESS-TCP-RLT - Virtua Systems SAS ┇ 185.10.17.201
-vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?type=tcp&security=reality&sni=digikala.com&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#FR 🇫🇷 ┇ VLESS-TCP-RLT - Virtua Systems SAS ┇ 185.154.155.124
-vless://bd9bbae4-7305-4548-be12-ef1734b3ab1c@185.10.19.62:2082?type=grpc&security=reality&sni=routedns.net&fp=chrome&pbk=dJcD0JDKGI9ZdhyYbNzXW1NfAWypPHP1HCOKBB-MA2o&sid=572df405bc#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.19.62
-vless://50d78176-9dec-4c30-a9c6-99684d39fc2c@185.10.19.51:2083?type=grpc&security=reality&sni=Python.org&fp=chrome&pbk=F1FguUh7QO0Ns1v8Z1-7U-VeSgFp_-vNMj0YeX06ti4&sid=cad55ac5#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.19.51
+trojan://66yren51-0ug0-28v2-l2f3-dfij9p91jo9a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-13 | 15:17 ]
+trojan://mg8bok4t-q4b5-gloj-5o31-wd70yuwc76d1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oaynuipj-sww8-nd4s-rx3t-pypsxmv2b045@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://78f71e2a-f1c2-4576-bfef-f0f82ea65e4b@185.10.16.103:30618?type=xhttp&security=reality&path=/&sni=yahoo.com&fp=chrome&pbk=SO_Jw3ZcONC9tzsEsmxTUnDYfBMuXGgnE8BubslTCEA&sid=45e9f9ee4d#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - Virtua Systems SAS ┇ 185.10.16.103
 vless://a4f85248-7545-486e-b090-9864ba52bcaf@185.10.18.161:2083?type=grpc&security=reality&sni=routedns.net&fp=chrome&pbk=-AaAo9sp3l8URKQd_QdbuKElofL6j7tygZse7YfVRxw&sid=e876e7#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.18.161
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?type=tcp&security=reality&sni=digikala.com&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#FR 🇫🇷 ┇ VLESS-TCP-RLT - Virtua Systems SAS ┇ 185.154.155.124
+vless://c960621a-32f2-4dae-8262-22f5716fbcc9@185.10.17.201:42368?type=tcp&security=reality&sni=Icloud.com&fp=chrome&pbk=bXihxwGbc7wUePUY0-dEYEiL-OXxmL9qwuS9lL0x_jQ&sid=779d331ea5#FR 🇫🇷 ┇ VLESS-TCP-RLT - Virtua Systems SAS ┇ 185.10.17.201
+vless://bd9bbae4-7305-4548-be12-ef1734b3ab1c@185.10.19.62:2082?type=grpc&security=reality&sni=routedns.net&fp=chrome&pbk=dJcD0JDKGI9ZdhyYbNzXW1NfAWypPHP1HCOKBB-MA2o&sid=572df405bc#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.19.62
+vless://50d78176-9dec-4c30-a9c6-99684d39fc2c@185.10.19.51:2083?type=grpc&security=reality&sni=Python.org&fp=chrome&pbk=F1FguUh7QO0Ns1v8Z1-7U-VeSgFp_-vNMj0YeX06ti4&sid=cad55ac5#FR 🇫🇷 ┇ VLESS-GRPC-RLT - Virtua Systems SAS ┇ 185.10.19.51
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFZpcnR1YSBTeXN0ZW1zIFNBUyBcdTI1MDcgMTg1LjIzNC4xMDAuMTIxIiwiYWRkIjoiMTg1LjIzNC4xMDAuMTIxIiwicG9ydCI6ODA4NCwiaWQiOiI4YmJjZDM5OC03MzA2LTRhZmItYjBjYi1hYjE4YTQ1YzYwNjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-trojan://7nld20v8-e38k-uyga-7kqm-gf8geq3ps6ae@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5ontd84d-blfc-rx6g-cw6k-9v3n73ueaocd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://rvy0fpvz-kmve-cnb6-ox38-7zohjgvbluhv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6re4lah4-rt4r-jenk-r5o1-j942dj46v8rl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
