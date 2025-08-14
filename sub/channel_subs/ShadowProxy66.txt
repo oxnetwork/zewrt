@@ -1,11 +1,27 @@
-trojan://xf2xg5ze-5a46-31aa-mva6-85x41mzf7tkm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-14 | 15:17 ]
-trojan://jm1jlao8-jq1t-gf3p-k4x4-qkamw2cwy0pg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0piuqahf-32zc-h27h-encr-z14u804ylepa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://7aydx6v9-3qwu-cbvp-4yqn-l7szoxc97opx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-14 | 16:02 ]
+trojan://abj3f8p8-qa0s-xnv7-ykzm-mb213mg0kuyi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ic13crbj-er4n-q0ng-gdc7-jityr1iz1h0t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5d1l6eFcwaklvUGRiSTZudmNmeXZ3@84.234.31.193:1080#84.234.31.193:1080
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?type=tcp&security=none#91.107.169.188:25103
 vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?type=tcp&security=none#91.107.136.208:23114
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?type=ws&security=none&path=/ShadowProxy66-ShadowProxy66#www.speedtest.net:80
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?type=xhttp&security=tls&path=/&sni=uk-09.allhubb.info&fp=randomized#104.17.148.22:8443
 vless://4e125438-1a39-440e-95fc-36b9dec03e5f@104.21.43.168:443?type=ws&security=tls&path=/random&sni=adderall.adaspoloandco.com&fp=firefox#104.21.43.168:443
+vless://9757c019-e611-422c-9f81-b031a4521651@cloudgetservice.mcloudservice.site:443?type=ws&security=tls&path=/linkws#cloudgetservice.mcloudservice.site:443
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?type=xhttp&security=none&path=/sef#51.81.153.143:443
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.31.27:443?type=xhttp&security=none&path=/sef#15.204.31.27:443
+vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@104.18.26.90:443?type=ws&security=tls&path=/linkws#104.18.26.90:443
+vless://c997eaff-4bab-4fff-92e5-8e14dc248dc4@104.18.26.90:443?type=ws&security=tls&path=/linkws#104.18.26.90:443
+vless://4d52c5bf-dd6d-4335-8c26-5eac773914d7@cloudgetservice.mcloudservice.site:443?type=ws&security=tls&path=/linkws#cloudgetservice.mcloudservice.site:443
+vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@cloudgetservice.mcloudservice.site:443?type=ws&security=tls&path=/linkws#cloudgetservice.mcloudservice.site:443
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss2180.tas-bazi.com:443?type=xhttp&security=none&path=/sc#sss2180.tas-bazi.com:443
+vless://7db68497-fbfd-40a3-ac95-96d2ee28b709@cloudgetservice.mcloudservice.site:443?type=ws&security=tls&path=/linkws#cloudgetservice.mcloudservice.site:443
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.10.251:443?type=xhttp&security=none&path=/sef#40.160.10.251:443
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.58:443?type=xhttp&security=none&path=/sef#15.204.217.58:443
+vless://e66a1e27-be31-4671-82fc-e810b0f7a8cb@104.18.26.90:443?type=ws&security=tls&path=/linkws?ed=2560#104.18.26.90:443
+vless://13830dec-2abb-4efb-9509-d07805fc83ed@85.133.221.5:5151?type=tcp&security=none#85.133.221.5:5151
+vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?type=grpc&security=reality&sni=www.nvidia.com&fp=chrome&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&sid=ac8c7f8b46a42c02#84.234.31.193:2053
+vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&sid=e0b7bafa91e992ca#84.234.31.193:2083
 hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#208.87.243.187:22222
 hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#108.181.5.130:63015
 hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?sni=192-227-152-86.nip.io&insecure=1#192.227.152.86:61001
@@ -20,5 +36,5 @@ hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@54.255.144.66:22509?sni=bing.com&insecure
 hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?sni=www.bing.com&insecure=1#203.174.82.145:43057
 hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=bing.com&insecure=1#47.239.220.214:2428
-trojan://tq7bok66-oowg-ymzq-uw4y-fvs1rp0qri6l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://q3dxhqlb-2rxh-k1wm-fwqd-mjzd4w49bn4k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://yfh6kawk-jrv5-cnpq-hclh-177034qae66z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m8f7mcmr-hfa0-wrw6-js9z-vscgrtsfrvun@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
