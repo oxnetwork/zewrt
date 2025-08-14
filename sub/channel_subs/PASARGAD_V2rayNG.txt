@@ -1,8 +1,7 @@
-trojan://p02rd14z-u13g-0v55-jqcd-dqgskfq8m9xy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-14 | 21:57 ]
-trojan://w8x0yc8l-icrw-1tdm-qis2-e8b00r7szi9w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ei85uzd3-xn7m-8gq3-venn-0n7yicxo7vr8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://y2smww4h-bqnq-nhg3-v70t-lgvztxga2js6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-14 | 22:30 ]
+trojan://bscyezjt-9hpx-mk9e-t2vk-xwuzz24y2314@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xssc0m1i-gxj3-v03j-fbi3-3wl9viyuht7c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://f282b878-8711-45a1-8c69-5564172123c1@vpn.stupidworld.web.id:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#vpn.stupidworld.web.id:443
-vless://c84ddb7c-7703-42a3-a22a-3ff9e5513f9a@195.58.58.88:32391?type=ws&security=none&path=/#195.58.58.88:32391
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?type=grpc&security=none#45.82.251.114:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?type=grpc&security=none#94.131.9.172:8880
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=bitget1.asdasd.click&fp=chrome#190.93.246.246:8443
@@ -26,5 +25,8 @@ vless://f0263bd6-570a-4bc0-bbb9-6fad124b18cf@62.133.62.166:2095?type=tcp&securit
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&security=none&path=/panika#212.192.31.146:443
 vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?type=ws&security=none&path=/#89.44.197.77:15946
-trojan://6dij9c8f-nvbm-c0rz-n961-nn02g4x3xfpw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oryr6hha-swo5-hw97-fqzy-y3v1ounnyw0w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#92.53.188.36:443
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?type=grpc&security=none#pqh23v4.vetmainconf.shop:8880
+vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?type=ws&security=tls&path=/?ed&sni=brmahasang.ahaysiahzangi.dpdns.org#104.26.7.89:8443
+trojan://tb8rm1h0-h8iu-hjys-47c2-ezzgj4fpsd70@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n6vzzbj9-8y34-2j8g-ntmn-cp8bxk554ht8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
