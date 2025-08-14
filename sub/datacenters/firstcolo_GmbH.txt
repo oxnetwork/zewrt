@@ -1,16 +1,16 @@
-trojan://ojg3bxzd-owsu-xgmv-9qn5-yg1knnuhcdur@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-14 | 09:57 ]
-trojan://mmnyd8uv-fdhe-xxac-y0of-xa8lsy9esyxa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h0vhes1r-lnq3-iy5r-xp1j-le9x9brffw9o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1e75bb8q-4zho-ps98-ukin-nr080exm981e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-14 | 10:32 ]
+trojan://92cqsn80-e5cu-v88b-6rqo-2cvq6hm8lil5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ew0o8uir-w0x2-j787-4c8v-9jwdst1u0vm2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIGZpcnN0Y29sbyBHbWJIIFx1MjUwNyA4NC4yMDAuOTEuOTkiLCJhZGQiOiJjcnlwdG8uaXJhbnZwMjA4Ny5pciIsInBvcnQiOjQ0MywiaWQiOiI1OWFlZjMxMi02Njk4LTRlMjItOGQ3Ny01NmQwYzhjN2JhZjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-tuic://328767e5-a8bb-4ce8-8a2d-c40bdedbd2d6:a990298c@31.172.83.92:21384?congestion_control=bbr&udp_relay_mode=quic&alpn=h3#DE 🇩🇪 ┇ TUIC-TCP-NTLS - firstcolo GmbH ┇ 31.172.83.92
-vless://4d705f5a-6db6-4528-85cf-f7e0da6ccb16@84.201.20.248:45868?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=Xf_flAxrxjR_kM0e6StsmGy3h5a-PDoYvYJrfP4KUTQ&sid=7f#DE 🇩🇪 ┇ VLESS-GRPC-RLT - firstcolo GmbH ┇ 84.201.20.248
-vless://e453792b-e4cc-46bd-9f9f-7ee53df9a2da@84.200.193.154:45385?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.200.193.154
 vless://fa1ab865-cd2d-4c59-bfbf-a9958df88e1f@84.201.20.221:80?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.201.20.221
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gZmlyc3Rjb2xvIEdtYkggXHUyNTA3IDc5LjEzMy40MS4xNzUiLCJhZGQiOiI3OS4xMzMuNDEuMTc1IiwicG9ydCI6NDQzLCJpZCI6IjliNmY3ZGE4LTY2MzgtNDE0Yy1mNWMxLTc4ZDI0NWU5YWUzMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@31.172.80.143:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - firstcolo GmbH ┇ 31.172.80.143
+vless://4d705f5a-6db6-4528-85cf-f7e0da6ccb16@84.201.20.248:45868?type=grpc&security=reality&sni=google.com&fp=chrome&pbk=Xf_flAxrxjR_kM0e6StsmGy3h5a-PDoYvYJrfP4KUTQ&sid=7f#DE 🇩🇪 ┇ VLESS-GRPC-RLT - firstcolo GmbH ┇ 84.201.20.248
 trojan://56733cf9f08d43d9@159.100.30.64:9100?sni=fr1.arashmahash.xyz&peer=fr1.arashmahash.xyz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - firstcolo GmbH ┇ 159.100.30.64
 vless://f9bc4b4f-6cc4-41ee-bcfe-1fe6e3376dcd@fergalvpnmod.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.200.205.185
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1WlFoNHBzc1NrNGFLMUpHMVhoQlJn@84.200.91.228:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - firstcolo GmbH ┇ 84.200.91.228
+vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@31.172.80.143:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - firstcolo GmbH ┇ 31.172.80.143
+vless://e453792b-e4cc-46bd-9f9f-7ee53df9a2da@84.200.193.154:45385?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.200.193.154
 vless://1b71208f-4837-4996-bd37-a61b431555fb@79.133.56.170:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM&sid=3650a4286bf867e9#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 79.133.56.170
-trojan://ctcnyhm2-c08q-bqg5-2bz1-6cikzhkrrvjh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://q2bljb0p-5wzj-1xc2-83l7-ogz0a3hp1h67@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1WlFoNHBzc1NrNGFLMUpHMVhoQlJn@84.200.91.228:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - firstcolo GmbH ┇ 84.200.91.228
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gZmlyc3Rjb2xvIEdtYkggXHUyNTA3IDc5LjEzMy40MS4xNzUiLCJhZGQiOiI3OS4xMzMuNDEuMTc1IiwicG9ydCI6NDQzLCJpZCI6IjliNmY3ZGE4LTY2MzgtNDE0Yy1mNWMxLTc4ZDI0NWU5YWUzMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+tuic://328767e5-a8bb-4ce8-8a2d-c40bdedbd2d6:a990298c@31.172.83.92:21384?congestion_control=bbr&udp_relay_mode=quic&alpn=h3#DE 🇩🇪 ┇ TUIC-TCP-NTLS - firstcolo GmbH ┇ 31.172.83.92
+trojan://8us7ucmr-gaxi-uzm4-jzkk-gwjy3v0906ee@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yhhslp1p-bvtk-54gl-xiw1-u1k4a96yto9p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
