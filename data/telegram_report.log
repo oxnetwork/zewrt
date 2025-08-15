@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-15 23:04:37
+Timestamp: 2025-08-15 23:43:40
 Total Channels: 92
 Successful Scrapes: 56
 Failed Scrapes: 0
@@ -12,7 +12,7 @@ Tweety_Proxy: 79 configs
 freev2rng: 70 configs
 freenet_melli: 68 configs
 evay_vpn: 57 configs
-bored_vpn: 54 configs
+bored_vpn: 53 configs
 itenvpn: 44 configs
 shadowproxy66: 42 configs
 ShadowProxy66: 42 configs
@@ -26,6 +26,7 @@ Farah_VPN: 20 configs
 v2rayfast_7: 20 configs
 vmessorg: 20 configs
 v2ra_config: 20 configs
+DailyV2Config: 19 configs
 masterserver1: 18 configs
 spikevpn: 18 configs
 nufilter: 17 configs
@@ -33,10 +34,10 @@ WarV2Ray: 17 configs
 cybersoldiersst: 16 configs
 vistav2ray: 16 configs
 summertimeus: 15 configs
+configx2ray: 13 configs
 PASARGAD_V2rayNG: 13 configs
-configx2ray: 12 configs
+ConfigX2ray: 13 configs
 proxystore11: 12 configs
-ConfigX2ray: 12 configs
 mcv2rayng: 11 configs
 DALTON_PING: 10 configs
 dalton_ping: 10 configs
@@ -45,9 +46,9 @@ tehranargo: 10 configs
 lightning6: 9 configs
 SafeNet_Server: 9 configs
 v2ngfast: 8 configs
-confingv2raayng: 7 configs
 skivpn: 7 configs
 vpnkanfik: 7 configs
+confingv2raayng: 6 configs
 mdvpnsec: 6 configs
 v2ray_rolly: 6 configs
 v2raymelliii: 6 configs
@@ -58,7 +59,6 @@ isvvpn: 4 configs
 lexernet: 4 configs
 sinavm: 3 configs
 Subify_ir: 3 configs
-DailyV2Config: 3 configs
 colsvpn: 2 configs
 WedBaZtel: 1 configs
 
