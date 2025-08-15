@@ -1,12 +1,8 @@
-trojan://8kqtlq2i-w3mw-oquv-uqj7-43dnxzc68bdj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-15 | 08:53 ]
-trojan://12dnzldh-hajq-plg9-457c-23f2gektc8am@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://m3wwi34m-6rfy-jhif-csnk-p9c3yj5ta15j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://7ivpj1lp-6ogb-6utj-095d-y1ephvpzvxn5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-15 | 09:22 ]
+trojan://zx8uhvyp-vthy-nkao-faex-8ribqrffog6b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gh7netrj-95gq-p5o0-pvd7-scoj27guvvud@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiNTEuMjU0LjIxLjE5MyIsInBvcnQiOjIwMDg2LCJpZCI6IjliY2VjYjI2LTkyMGEtNGU2OC1iMjk2LTg4NTI2MzEwYmZmNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiOTIuMTEyLjEyNi4yMiIsInBvcnQiOjg0NDMsImlkIjoiMzkzNzIwMzUtMzMyMC00NTM3LWEwMzEtMzAzMTIwMzEzMDMwIiwiYWlkIjowLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5sLTIuc3R1bm5lbC5jYyIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJubC0yLnN0dW5uZWwuY2MifQ
-vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?type=tcp&security=none#91.107.136.208:23114
-vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?type=tcp&security=none#91.107.169.188:25103
-vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?type=xhttp&security=tls&path=/&sni=uk-09.allhubb.info&fp=randomized#104.17.148.22:8443
-vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?type=ws&security=none&path=/ShadowProxy66-ShadowProxy66#www.speedtest.net:80
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?type=ws&security=tls&path=/qnbufdws#185.234.64.228:443
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?type=ws&security=none&path=/ShadowProxy66-ShadowProxy66#www.speedtest.net:80
@@ -22,5 +18,5 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@194.87.87.30:34045?type=tcp&securit
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&sid=b538b3#greenwolf.fonixapp.org:12901
 vless://19de5ba4-82b2-4a11-898e-ae460d6733fe@real-z3.sdcards1.ir:8585?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&sid=ea0e387f2b260e0d#real-z3.sdcards1.ir:8585
 vless://8dcd0c9f-4393-49e8-aef8-6eee570d1e5b@deu415.unboundaccess.org:443?type=tcp&security=reality&sni=www.screwfix.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#deu415.unboundaccess.org:443
-trojan://f00xdal0-eq8j-tu8u-0yw8-0mqfcosx02ar@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vke26ss9-r52x-xe08-v0dh-r2aanjd42ieg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://kvkg2mvp-kj44-geug-t8e7-9kecd1iq4clt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wcmhy8co-vwxr-6ojn-jgr5-ecal7ah82vya@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
