@@ -1,14 +1,14 @@
-trojan://11vp5v9s-qzf4-wa0y-9u63-q0bs0m05i1os@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-16 | 14:49 ]
-trojan://8o6piua4-a4dt-ghf1-nvcf-4r16bnihvqlx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cq6ur4q2-dc0a-xydr-n6b1-qctdklj2d7hv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://af94594c-b048-4050-adcb-cf061c3155bd@5.56.133.42:443?type=tcp&security=none&path=/&sni=neshan.org#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 5.56.133.42
-vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@5.56.133.135:443?type=ws&security=tls&path=/&sni=nv155.momdping.com#NL 🇳🇱 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 5.56.133.135
-vless://cf8b42e6-d9dd-4599-9cb7-a6d27e1ea03b@5.56.133.62:2095?type=tcp&security=tls&sni=xen1.web.net-pardaze-iranian.ir&fp=firefox#NL 🇳🇱 ┇ VLESS-TCP-TLS - Karizanta LTD ┇ 5.56.133.62
-vless://f97c0600-b5c9-465d-9c14-34cfb8a6e9dc@217.18.90.91:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.91
-vless://c393a438-4503-43b9-9a8b-977d75f010bd@217.18.90.84:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.84
-vless://0ef91a88-b5c7-4195-9132-3a7b5eb2ee21@217.18.90.81:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.81
-vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthcml6YW50YSBMVEQgXHUyNTA3IDE5NC42MS4zLjk0IiwiYWRkIjoibmRlMi10Lm1vYnN0b3JlLnN0b3JlIiwicG9ydCI6MjA1MywiaWQiOiJlM2ZlYmE5Yy02NzA5LTA4YTAtYTI2MC1jNjVhMTdjZjAzMWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+trojan://bwvx6z9i-6yay-8m66-v5hd-oevvxi0tvycx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-16 | 15:14 ]
+trojan://tqxcui3j-si3o-vd2u-2br4-089pajtiftrb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8qdhbnt9-if6n-9uqp-s9oq-iyelvqz5qtok@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthcml6YW50YSBMVEQgXHUyNTA3IDIxNy4xOC45MC4xMTkiLCJhZGQiOiJubmwxLXR1Lm1vYnN0b3JlLnN0b3JlIiwicG9ydCI6MjA4MiwiaWQiOiI5MWYwYzBjMy01YTRiLTcyY2MtZDczZS1hY2M4NTExZTVmNzEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://c393a438-4503-43b9-9a8b-977d75f010bd@217.18.90.84:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.84
+vless://f97c0600-b5c9-465d-9c14-34cfb8a6e9dc@217.18.90.91:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.91
+vless://af94594c-b048-4050-adcb-cf061c3155bd@5.56.133.42:443?type=tcp&security=none&path=/&sni=neshan.org#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 5.56.133.42
+vless://0ef91a88-b5c7-4195-9132-3a7b5eb2ee21@217.18.90.81:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.81
+vless://cf8b42e6-d9dd-4599-9cb7-a6d27e1ea03b@5.56.133.62:2095?type=tcp&security=tls&sni=xen1.web.net-pardaze-iranian.ir&fp=firefox#NL 🇳🇱 ┇ VLESS-TCP-TLS - Karizanta LTD ┇ 5.56.133.62
 vless://2657b843-1595-49b7-9598-d164c44730b1@good.srvice.shop:30275?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.209
-trojan://emn3eh2e-dmpc-t0j7-tsqd-na7qs3dj6hz8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xblaapgq-hz95-nt7e-jh6x-b33e5m2jpqu6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEthcml6YW50YSBMVEQgXHUyNTA3IDE5NC42MS4zLjk0IiwiYWRkIjoibmRlMi10Lm1vYnN0b3JlLnN0b3JlIiwicG9ydCI6MjA1MywiaWQiOiJlM2ZlYmE5Yy02NzA5LTA4YTAtYTI2MC1jNjVhMTdjZjAzMWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@5.56.133.135:443?type=ws&security=tls&path=/&sni=nv155.momdping.com#NL 🇳🇱 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 5.56.133.135
+trojan://jjghlzcn-e4ul-57bc-p234-u8xwitus7n12@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kfz47pno-ykl4-txm8-6zvq-zi9zuj7j293u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
