@@ -1,22 +1,22 @@
-trojan://48fqwl0v-w32i-suly-uubt-142c83fhvbo1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-16 | 19:17 ]
-trojan://ionrelpm-tuvo-70ec-vl15-8sp3jgx794g2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://by91ka3i-5jt5-c5i6-sr6v-ddh8ejdf3wzn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://2dfaf419-a68d-41b0-9b8e-d9c5bb98a8fa@193.3.182.246:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 193.3.182.246
-vless://1247a180-4776-4520-a4ae-870ee271fa6c@77.72.80.95:2053?type=ws&security=tls&path=/&sni=num2.donlo.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 77.72.80.95
-vless://1247a180-4776-4520-a4ae-870ee271fa6c@num2.donlo.ir:2053?type=ws&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 77.72.80.30
-vless://05a8b989-e84e-4780-9f3f-c12ab22ed4e8@vip5.tiba98.fun:145?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 194.5.16.120
+trojan://68zuk1mc-6a8g-4bs3-8iax-xga6y7poc9o7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-16 | 19:52 ]
+trojan://tc12v1ri-qral-j82w-x5dq-qzggur2y0o40@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://smfhlrkg-fnwo-q6wk-46ag-9o0ro2y3u2jh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNhYmEgQWJyIE1pemJhbiBMTEMgXHUyNTA3IDE4NS40OS4yMzEuMTAyIiwiYWRkIjoiMTg1LjQ5LjIzMS4xMDIiLCJwb3J0Ijo1MTE1LCJpZCI6IjQ4YTAwZDc3LWVjZWYtNGVhOS04ZDYwLWM3ZWE4ZWEwZWEwOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://978ad040-8067-49cf-9598-26ef098f9c3d@77.72.80.145:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.145
-vless://b999801f-c751-484c-bb04-51e417e4bb7a@host.iranservers.space:1020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 5.57.37.108
-vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?type=ws&security=tls&path=/&sni=nv137.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 194.5.16.141
-vless://5bb972ce-dacf-4313-9c54-e321a84f83fc@rathole.jolf.ir:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.61
-vless://36a321bf-9620-4938-b489-7efe98d9e310@a1.lavincloud.com:37660?type=tcp&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Saba Abr Mizban LLC ┇ 77.72.80.186
+vless://05a8b989-e84e-4780-9f3f-c12ab22ed4e8@vip5.tiba98.fun:145?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 194.5.16.120
 vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@193.37.37.24:80?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Saba Abr Mizban LLC ┇ 193.37.37.24
-vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=ws&security=tls&path=/&sni=nv73.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 194.5.16.165
+vless://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.143
+vless://978ad040-8067-49cf-9598-26ef098f9c3d@77.72.80.145:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.145
+vless://06f14984-f7b0-43af-9694-e54f18f9daa5@193.3.182.246:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 193.3.182.246
+vless://b999801f-c751-484c-bb04-51e417e4bb7a@host.iranservers.space:1020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 5.57.37.108
 vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@194.5.16.155:443?type=ws&security=tls&sni=nv155.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 194.5.16.155
+vless://1247a180-4776-4520-a4ae-870ee271fa6c@77.72.80.95:2053?type=ws&security=tls&path=/&sni=num2.donlo.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 77.72.80.95
+vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=ws&security=tls&path=/&sni=nv73.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 194.5.16.165
+vless://53a58a9f-204a-4351-b093-16b9ada44071@num.2d2d.ir:2053?type=ws&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 77.72.80.183
 vless://978ad040-8067-49cf-9598-26ef098f9c3d@77.72.80.208:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.208
 vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@77.72.80.81:80?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.81
-vless://53a58a9f-204a-4351-b093-16b9ada44071@num.2d2d.ir:2053?type=ws&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 77.72.80.183
-vless://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.143
-trojan://b34naik9-663o-fq11-2ewm-knhnwr7gh9l8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nnyednqf-noii-lxpd-1mj4-lgqbauf4m6ak@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://36a321bf-9620-4938-b489-7efe98d9e310@a1.lavincloud.com:37660?type=tcp&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Saba Abr Mizban LLC ┇ 77.72.80.186
+vless://1247a180-4776-4520-a4ae-870ee271fa6c@num2.donlo.ir:2053?type=ws&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 77.72.80.30
+vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?type=ws&security=tls&path=/&sni=nv137.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 194.5.16.141
+vless://5bb972ce-dacf-4313-9c54-e321a84f83fc@rathole.jolf.ir:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.61
+trojan://sxamqj7d-mkwc-pji7-k6hr-fyz17sx748kf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dmjspnjw-qo54-06ed-6piw-4nrm5etsqmc8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
