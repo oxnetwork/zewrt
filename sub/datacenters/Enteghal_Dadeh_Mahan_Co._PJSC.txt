@@ -1,15 +1,15 @@
-trojan://68b16gz4-v87x-dm1h-lp6r-yadifriu6vtb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-16 | 17:21 ]
-trojan://rc00xksw-8aa4-cuwz-hqrs-krj4ym53fx9v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7moa0y4h-a3ab-o8do-iacb-by20j3e15cye@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://df649309-e4bd-4285-a211-8220b946f413@45.142.189.71:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.71
-vless://d9f79589-723d-4694-9cc1-ef0e84adef50@45.142.189.78:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.78
-vless://1754ab32-20ed-4c5f-9b83-291ac118fbcd@mcc5.ahoeidaramkhoshgeleh.com:45003?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.124
-vless://04c39dad-b4d5-43c2-a480-bb417fdd0854@start.myspeedhost.xyz:10190?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.12
+trojan://y1qwfcar-o9yr-s1oc-rsck-aapdlc7cg4bj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-08-16 | 17:49 ]
+trojan://5qkezxtv-k9qa-u18n-k1s9-p8272pll6x0o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i33nm5hq-9bnk-j6lw-xvam-51f2vq6uz4c3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://21b7ccd3-23e4-49a3-a5f7-dd510c9b06fc@mcc.kangavar20.info:26842?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.49
-vless://e971e939-c844-4209-8720-e93db30210e3@5.202.75.201:443?type=grpc&security=tls&sni=tara1.striside.com&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.201
+vless://04c39dad-b4d5-43c2-a480-bb417fdd0854@start.myspeedhost.xyz:10190?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.12
+vless://d9f79589-723d-4694-9cc1-ef0e84adef50@45.142.189.78:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.78
+vless://df649309-e4bd-4285-a211-8220b946f413@45.142.189.71:433?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.71
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVudGVnaGFsIERhZGVoIE1haGFuIENvLiBQSlNDIFx1MjUwNyAyMTMuMTc2LjcuMTQ3IiwiYWRkIjoiMjEzLjE3Ni43LjE0NyIsInBvcnQiOjEyMjgyLCJpZCI6IjVkMjk0YmMzLTljZGMtNGZjYS1mNzk5LTk4ZWIwODc3ZjM5NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://d5be095e-4ec4-491a-aeb1-0f25d3cfab03@5.202.75.56:27956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.56
 vless://2a891f1d-8727-46e2-b7b4-a8f56c43fd4b@213.176.2.16:2099?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.2.16
+vless://1754ab32-20ed-4c5f-9b83-291ac118fbcd@mcc5.ahoeidaramkhoshgeleh.com:45003?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.124
 vless://c6972452-df6f-4fe2-b34c-beef2025e462@iran.book.mahanmaster.ir:54678?type=tcp&security=reality&sni=www.google.com&fp=chrome&pbk=lz8tqiWDuIshXHwnI4Pt7gVcTqRxFR-zW389BxZHsSk&sid=300e07ab50accf06#IR 🇮🇷 ┇ VLESS-TCP-RLT - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.190
-trojan://qo2d43td-x3bg-raig-9cf6-0wo5izl7011j@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e9jcsnj9-z5a8-aurw-bkxx-0b36tvg4p7wf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://e971e939-c844-4209-8720-e93db30210e3@5.202.75.201:443?type=grpc&security=tls&sni=tara1.striside.com&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.201
+vless://d5be095e-4ec4-491a-aeb1-0f25d3cfab03@5.202.75.56:27956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.56
+trojan://jndzumlv-9a7p-fyu5-pdno-7856piqo43se@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vpb62wmg-oqtj-tvga-xsy4-ml3wly4634uk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
